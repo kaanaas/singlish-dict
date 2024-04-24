@@ -1,0 +1,33 @@
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="./" class="title">Chimbridge Singlish Dictionary</a></h1>
+        </div>
+        <div class="content">
+            <div class="def-box">
+                <h2 class="subpage-title">Word Request</h2>
+                <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf3RN89KBld7AfKXzWAoPslYNgDG9mj2apalEBICot235RUmQ/formResponse">
+                    <label for="q1">Word suggestion:</label>
+                    <input type="text" jsname="YPqjbf" id="q1" placeholder="type a word here..."/>
+                </form>
+                <hr>
+                <button class="home-button" onclick="location.href='./';">Home</button>
+            </div>
+        </div>
+        <script>
+            const input = document.getElementById("q1");
+
+            input.addEventListener("input", () => {
+                let searchInput = document.getElementById("q1").value;
+                if (/[^a-zA-Z0-9 ']/.test(searchInput)) {
+                    alert("Only alphanumeric characters, spaces, and apostrophes are allowed.");
+                    input.value = searchInput.replace(/[^a-zA-Z0-9 ']/g, '');
+                }
+            })
+        </script>
+    </body>
+
+    <%- include("./partials/footer") %>
+</html>

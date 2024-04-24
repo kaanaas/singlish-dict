@@ -1,0 +1,32 @@
+<!-- etymology -->
+<% if(word.origin.length > 0){ %>
+<div class="details">
+    <h3>etymology</h3>
+    <p>From 
+    <% for(let i = 0, cn = 0, my = 0; i < word.origin.length; i++){ %>
+        <% if(chineseLangs.includes(word.origin[i].toLowerCase())) { %>
+            <%= word.origin[i] %>
+            <a href=<%= "https://en.wiktionary.org/wiki/" + word.chinese[cn].traditional %> class="etym-a"><%= word.chinese[cn].simplified %></a>
+            <% if(word.literal[i].length){ %>
+            <i>(<%= word.literal[i] %>)</i>
+            <% } %>
+            <% cn++; %>
+        <% } else if(word.origin[i].toLowerCase() == "malay") { %>
+            <%= word.origin[i] %>
+            <a href=<%="https://en.wiktionary.org/wiki/" + word.malay[my] %> class="etym-a"><%=word.malay[my] %></a>
+            <% if(word.literal[i].length){ %>
+            <i>(<%= word.literal[i] %>)</i>
+            <% } %>
+            <% my++; %>
+        <% } else { %>
+            <%= word.origin[i] %>
+            <i><%= word.literal[i] %></i>
+        <% } %>
+        <% if(i < word.origin.length-1){ %>
+            &nbsp;+&nbsp;
+        <% } %>
+    <% } %>
+    .
+    </p>
+</div>
+<% } %>

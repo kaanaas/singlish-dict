@@ -1,0 +1,44 @@
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="./" class="title">Chimbridge Singlish Dictionary</a></h1>
+        </div>
+        <div class="content">
+            <div class="def-box">
+                <div class="search-container">
+                    <form class="search-form" action="./" method="get" id="search-form" autocomplete="off">
+                        <div class="search-box">
+                            <input type="text" id="search-input" name="q" placeholder="What thing?">
+                        </div>
+                        <button class="search-button" id="search-button">Search</button>    
+                    </form>
+                    <div class="more-options">
+                        <p class="more-options-p" id="anyhow-whack">Anyhow whack</p>
+                        <a href="https://www.wiktionary.org">Wiktionary</a>
+                        <a href="./word_request">Word Request</a>
+                    </div>
+                </div>
+
+                <div class="result" id="result" style="display: none; visibility: hidden;"></div>
+                <div class="alts-container" id="alts" style="display: none; visibility: hidden;">
+                    <div class="alts-flex" id="alts-flex">
+                        <p class="alts-leader" id="alts-leader">also can:</p>
+                    </div>
+                </div>
+                <div class="result" id="details" style="display: none; visibility: hidden;">
+                    <div class="defs">
+                        <h3 class="defs-leader" id="definitions-leader">definitions:</h3>
+                    </div>
+                </div>
+                <div class="result" id="not-found" style="display: none; visibility: hidden;"></div>
+            </div>
+        </div>
+
+        <%- include("./partials/scripts") %>
+        <%- include("./partials/footer") %>
+
+    </body>
+
+</html>

@@ -1,0 +1,402 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Details</title>
+    
+        <!-- Google fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Prata&display=swap"
+            rel="stylesheet">
+        <link
+            href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Prata&display=swap"
+            rel="stylesheet">
+    
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="/styles_insert.css">
+        <style></style>
+    
+        <script src="https://kit.fontawesome.com/d813c2b1a8.js" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="./" class="title">Details Insert</a></h1>
+        </div>
+        <div class="content">
+            <form action="./" method="get" autocomplete="off" class="detail-form" id="detailForm">
+                <div class="property sameRow">
+                    <button name="random" id="random" type="button" class="add-btn">⟳</button>
+                    <label>Major form:</label>
+                    <input type="text" id="major-form" name="main" required autofocus onfocus="this.select()">
+                </div>
+
+                <div class="property">
+                    <label>Related:</label>
+                    <input type="text" id="related" name="related">
+                </div>
+
+                <div class="property sameRow">
+                    <button name="rmOption" id="rmOption" type="button" class="add-btn">-</button>
+                    <button name="addOption" id="addOption" type="button" class="add-btn">+</button>
+                    <div class="option-container">
+                        <div name="optionDiv" class="option-div">
+                            <div>
+                                <label for="origin">Origin:</label>
+                                <input list="origins" name="origin">
+                                <datalist id="origins">
+                                    <option value="english"></option>
+                                    <option value="hokkien"></option>
+                                    <option value="malay"></option>
+                                    <option value="cantonese"></option>
+                                    <option value="mandarin"></option>
+                                    <option value="tamil"></option>
+                                    <option value="singlish"></option>
+                                    <option value="hainanese"></option>
+                                    <option value="hakka"></option>
+                                    <option value="other chinese"></option>
+                                    <option value="other"></option>
+                                </datalist>
+                            </div>
+                            <div class="origin-details">
+                                <div>
+                                    <label for="script">Native Script:</label>
+                                    <input name="script">
+                                </div>
+                                <div>
+                                    <label for="trad">Traditional:</label>
+                                    <input name="trad">
+                                </div>
+                                <div>
+                                    <label for="roman">Roman:</label>
+                                    <input name="roman">
+                                </div>
+                                <div>
+                                    <label for="scheme">Scheme:</label>
+                                    <input name="scheme">
+                                </div>
+                                <div>
+                                    <label for="lit">Literal:</label>
+                                    <input name="lit">
+                                </div>
+                                <div>
+                                    <label for="etyPath">Ety (Path Langs):</label>
+                                    <input name="etyPath">
+                                </div>
+                                <div>
+                                    <label for="ety">Ety (word):</label>
+                                    <input name="ety">
+                                </div>
+                                <div>
+                                    <label for="etyLit">Ety (meanings):</label>
+                                    <input name="etyLit">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="property">
+                    <label>Phonetics:</label>
+                    <input type="text" id="phone" name="phone">
+                </div>
+
+                <div class="property sameRow" name="POS">
+                    <button name="rmPOS" id="rmPOS" type="button" class="add-btn">-</button>
+                    <button name="addPOS" id="addPOS" type="button" class="add-btn">+</button>
+                    <div class="option-container">
+                        <div name="POSDiv" class="meaning-div">
+                            <div>
+                                <label for="pos">PoS:</label>
+                                <input list="pos" name="pos">
+                                <datalist id="pos">
+                                    <option value="noun"></option>
+                                    <option value="verb"></option>
+                                    <option value="adjective"></option>
+                                    <option value="adverb"></option>
+                                    <option value="interjection"></option>
+                                    <option value="conjunction"></option>
+                                    <option value="particle"></option>
+                                    <option value="pronoun"></option>
+                                    <option value="preposition"></option>
+                                    <option value="determiner"></option>
+                                    <option value="classifier"></option>
+                                </datalist>
+                            </div>
+                            <div class="origin-details" name="meaningDiv" style="margin-bottom:0.75em">
+                                <div>
+                                    <label for="def">Definition:</label>
+                                    <input name="def">
+                                </div>
+                                <div>
+                                    <label for="eg">Example:</label>
+                                    <input name="eg">
+                                </div>
+                                <div>
+                                    <label for="src">Source:</label>
+                                    <input name="src">
+                                </div>
+                                <div>
+                                    <label for="syn">Synonyms:</label>
+                                    <input name="syn">
+                                </div>
+                                <div>
+                                    <label for="ant">Antonyms:</label>
+                                    <input name="ant">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="property">
+                    <label>Usage Notes:</label>
+                    <textarea id="usage" name="usage" rows="4" cols="30"></textarea>
+                </div>
+
+                <div class="property sameRow" name="particle">
+                    <button name="rmParticle" id="rmParticle" type="button" class="add-btn">-</button>
+                    <button name="addParticle" id="addParticle" type="button" class="add-btn">+</button>
+                    <div class="option-container">
+                        <div name="particleDiv" class="particle-div">
+                            <div class="origin-details" name="particleDiv" style="margin-bottom:0.75em">
+                                <div>
+                                    <label for="pt">Particle:</label>
+                                    <input name="pt">
+                                </div>
+                                <div>
+                                    <label for="ptMeaning">Meaning:</label>
+                                    <input name="ptMeaning">
+                                </div>
+                                <div>
+                                    <label for="ptEg">Example:</label>
+                                    <input name="ptEg">
+                                </div>
+                                <div>
+                                    <label for="ptSrc">Source:</label>
+                                    <input name="ptSrc">
+                                </div>
+                                <div>
+                                    <label for="ptEffect">Effect:</label>
+                                    <input name="ptEffect">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="submit-button" id="search-button" for="detailForm">Update Details</button>
+            </form>
+        </div>
+        <form action="./" method="get" autocomplete="off">
+            <button class="sort-button" name="sort" type="submit">Sort</button>
+        </form>
+
+
+        <script>
+            // main
+            const noDefDict = <%- JSON.stringify(noDefDict) %>;
+            const randBtn = document.getElementById("random");
+            random.addEventListener("click", () => {
+                let randWord =  noDefDict[Math.floor(Math.random() *noDefDict.length)]
+                console.log("Picked: ", randWord);
+                const mainInput = document.getElementById("major-form").value = randWord;
+            });
+
+            // origins
+            const addBtn = document.getElementById("addOption");
+            const rmBtn = document.getElementById("rmOption");
+            addBtn.addEventListener("click", () => {
+                const allOptionDiv = document.getElementsByName("optionDiv");
+                const lastOptionDiv = allOptionDiv[allOptionDiv.length - 1];
+
+                lastOptionDiv.insertAdjacentHTML(
+                    "afterend",
+                    `
+                        <div name="optionDiv" class="option-div">
+                            <div>
+                                <label for="origin">Origin:</label>
+                                <input list="origins" name="origin">
+                                <datalist id="origins">
+                                    <option value="english"></option>
+                                    <option value="hokkien"></option>
+                                    <option value="malay"></option>
+                                    <option value="cantonese"></option>
+                                    <option value="mandarin"></option>
+                                    <option value="singlish"></option>
+                                    <option value="tamil"></option>
+                                    <option value="hainanese"></option>
+                                    <option value="hakka"></option>
+                                    <option value="other chinese"></option>
+                                    <option value="other"></option>
+                                </datalist>
+                            </div>
+                            <div class="origin-details">
+                                <div>
+                                    <label for="script">Native Script:</label>
+                                    <input name="script">
+                                </div>
+                                <div>
+                                    <label for="trad">Traditional:</label>
+                                    <input name="trad">
+                                </div>
+                                <div>
+                                    <label for="roman">Roman:</label>
+                                    <input name="roman">
+                                </div>
+                                <div>
+                                    <label for="scheme">Scheme:</label>
+                                    <input name="scheme">
+                                </div>
+                                <div>
+                                    <label for="lit">Literal:</label>
+                                    <input name="lit">
+                                </div>
+                                <div>
+                                    <label for="etyPath">Ety (Path Langs):</label>
+                                    <input name="etyPath">
+                                </div>
+                                <div>
+                                    <label for="ety">Ety (meanings):</label>
+                                    <input name="ety">
+                                </div>
+                                <div>
+                                    <label for="etyLit">Ety (meanings):</label>
+                                    <input name="etyLit">
+                                </div>
+                            </div>
+                        </div>
+                    `
+                )
+            });
+
+            rmBtn.addEventListener("click", () => {
+                const allOptionDiv = document.getElementsByName("optionDiv");
+                const lastOptionDiv = allOptionDiv[allOptionDiv.length - 1];
+
+                if(allOptionDiv.length > 1) lastOptionDiv.remove();
+            });
+
+
+            // POS
+            var poses = 0;
+
+            document.body.addEventListener("click", (e) => {
+                try{
+                    if (e.srcElement.parentElement.attributes.name.value == "POS") {
+                        if(e.srcElement.innerHTML == "+"){
+                            e.srcElement.parentElement.insertAdjacentHTML(
+                                "afterend",
+                                `
+                                    <div class="property sameRow" name="POS">
+                                        <button name="rmPOS" id="rmPOS" type="button" class="add-btn">-</button>
+                                        <button name="addPOS" id="addPOS" type="button" class="add-btn">+</button>
+                                        <div class="option-container">
+                                            <div name="particleDiv" class="meaning-div">
+                                                <div>
+                                                    <label for="particle">PoS:</label>
+                                                    <input list="pos" name="pos">
+                                                    <datalist id="pos">
+                                                        <option value="noun"></option>
+                                                        <option value="verb"></option>
+                                                        <option value="adjective"></option>
+                                                        <option value="adverb"></option>
+                                                        <option value="interjection"></option>
+                                                        <option value="conjunction"></option>
+                                                        <option value="particle"></option>
+                                                        <option value="pronoun"></option>
+                                                        <option value="preposition"></option>
+                                                        <option value="determiner"></option>
+                                                        <option value="classifier"></option>
+                                                    </datalist>
+                                                </div>
+                                                <div class="origin-details" name="meaningDiv" style="margin-bottom:0.75em">
+                                                    <div>
+                                                        <label for="def">Definition:</label>
+                                                        <input name="def">
+                                                    </div>
+                                                    <div>
+                                                        <label for="eg">Example:</label>
+                                                        <input name="eg">
+                                                    </div>
+                                                    <div>
+                                                        <label for="src">Source:</label>
+                                                        <input name="src">
+                                                    </div>
+                                                    <div>
+                                                        <label for="syn">Synonyms:</label>
+                                                        <input name="syn">
+                                                    </div>
+                                                    <div>
+                                                        <label for="ant">Antonyms:</label>
+                                                        <input name="ant">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                `
+                            )
+                        }
+                        else if(e.srcElement.innerHTML == "-"){
+                            const allPOSDiv = document.getElementsByName("POS");
+                            if (allPOSDiv.length > 1){
+                                e.srcElement.parentElement.remove();
+                            }
+                        }
+                    }
+                    else if (e.srcElement.parentElement.attributes.name.value == "particle") {
+                        if (e.srcElement.innerHTML == "+") {
+                            e.srcElement.parentElement.insertAdjacentHTML(
+                                "afterend",
+                                `
+                                    <div class="property sameRow" name="particle">
+                                        <button name="rmParticle" id="rmParticle" type="button" class="add-btn">-</button>
+                                        <button name="addParticle" id="addParticle" type="button" class="add-btn">+</button>
+                                        <div class="option-container">
+                                            <div name="particleDiv" class="particle-div">
+                                                <div class="origin-details" name="particleDiv" style="margin-bottom:0.75em">
+                                                    <div>
+                                                        <label for="pt">Particle:</label>
+                                                        <input name="pt">
+                                                    </div>
+                                                    <div>
+                                                        <label for="ptMeaning">Meaning:</label>
+                                                        <input name="ptMeaning">
+                                                    </div>
+                                                    <div>
+                                                        <label for="ptEg">Example:</label>
+                                                        <input name="ptEg">
+                                                    </div>
+                                                    <div>
+                                                        <label for="ptSrc">Source:</label>
+                                                        <input name="ptSrc">
+                                                    </div>
+                                                    <div>
+                                                        <label for="ptEffect">Effect:</label>
+                                                        <input name="ptEffect">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                `
+                            )
+                        }
+                        else if (e.srcElement.innerHTML == "-") {
+                            const allParticleDiv = document.getElementsByName("particle");
+                            if (allParticleDiv.length > 1) {
+                                e.srcElement.parentElement.remove();
+                            }
+                        }
+                    }
+                } catch {}
+            });
+        </script>
+        <%- include("./partials/footer") %>
+
+    </body>
+
+</html>

@@ -1,0 +1,165 @@
+<script>
+    const form = document.getElementById("search-form");
+    const button = document.getElementById("search-button");
+    const searchBar = document.getElementById("search-input");
+    const whack = document.getElementById("anyhow-whack");
+    const result = document.getElementById("result");
+    const alts = document.getElementById("alts");
+    const altsFlex = document.getElementById("alts-flex");
+    const altsLeader = document.getElementById("alts-leader");
+    const definitionsLeader = document.getElementById("definitions-leader");
+    const detailDiv = document.getElementById("details");
+    
+
+    // functions
+    searchBar.addEventListener("input", () => {
+        let searchInput = document.getElementById("search-input").value;
+        if(/[^a-zA-Z0-9 ']/.test(searchInput)){
+            alert("Only alphanumeric characters, spaces, and apostrophes are allowed.");
+            searchBar.value = searchInput.replace(/[^a-zA-Z0-9 ']/g, '');
+        }
+    })
+
+    // window.addEventListener("load", () => {
+    //     const url = new URL(window.location.href);
+    //     let params = new URLSearchParams(url.search);
+
+    //     let searchInput = params.get('q').toLowerCase();
+    //     let result = document.getElementById("result");
+
+        
+
+    //     fetch("dict/dict.json")
+    //         .then((response) => response.json())
+    //         .then((data) => {
+    //             if(searchInput == null) {
+                    
+    //             }
+    //             else if(data.includes(searchInput)){
+    //                 result.style.display = "block";
+    //                 result.style.visibility = "visible";
+
+    //                 fetch("dict/details.json")
+    //                     .then((response) => response.json())
+    //                     .then((details) => handleDetails(details, searchInput));
+    //             }
+    //             else{
+    //                 let notFound = document.getElementById("not-found");
+    //                 notFound.style.display = "block";
+    //                 notFound.style.visibility = "visible";
+    //                 notFound.innerHTML = `
+    //                     <div class="not-found">
+    //                         <h3>${searchInput}&nbsp;</h3>
+    //                         <p>cannot find.</p>
+    //                     </div>
+    //                 ` 
+    //             }
+                
+    //         });
+    // });
+
+    // function handleDetails(details, searchInput){
+    //     // console.log(details[0]);
+
+    //     // if word origin is from a Chinese language
+    //     if(details[0].chinese != "no"){
+    //         result.innerHTML = `
+    //             <div class="word">
+    //                 <div class="word-box">
+    //                     <h2>${searchInput}</h2>
+    //                     <p>${details[0].phonetics}</p>
+    //                 </div>
+    //                 <div class="ortho-box">
+    //                     <p class="ortho-origin">→&nbsp;&nbsp;Chinese: </p>
+    //                     <h3>${details[0].chinese.simplified}</h3>
+    //                     <p class="ortho-alt">${details[0].chinese.roman}</p>
+    //                 </div>
+    //             </div>
+    //             <hr>
+    //         `;
+    //         // alt spellings
+    //         if (details[0].alt.length > 0) {
+    //             alts.style.display = "block";
+    //             alts.style.visibility = "visible";
+    //             var altsString = details[0].alt[0];
+    //             for(let i = 1; i < details[0].alt.length; i++) {
+    //                 altsString += `, ${details[0].alt[i]}`;
+    //             }
+    //         }
+    //         altsFlex.insertAdjacentHTML("beforeend", `
+    //             <p class="alts-list">${altsString}</p>
+    //         `);
+
+    //         // render details block
+    //         detailDiv.style.display = "block";
+    //         detailDiv.style.visibility = "visible";
+    //         // definitions given
+    //         if(details[0].meanings.length == 0) {
+    //             definitionsLeader.insertAdjacentHTML("afterend", `
+    //                 <p><i>"no definitions recorded yet!"</i></p>
+    //             `);
+    //         }
+    //         else{
+    //             var defsHTML = "";
+    //             for(let i = 0; i < details[0].meanings.length; i++) {
+    //                 defsHTML += `<h3>${details[0].meanings[i].partOfSpeech}</h3>`;
+    //                 for (let j = 0; j < details[0].meanings[i].definitions.length; j++) {
+    //                     // check if examples are given
+    //                     defsHTML += `
+    //                         <p>${j+1}.&nbsp; ${details[0].meanings[i].definitions[j].definition}</p>
+    //                     `;    
+    //                     if(details[0].meanings[i].definitions[j].example != null){
+    //                         defsHTML += `
+    //                             <p class="word-example">${details[0].meanings[i].definitions[j].example}</p>
+    //                         `;
+    //                     }
+    //                     if (details[0].meanings[i].definitions[j].exampleSource != null) {
+    //                         defsHTML += `
+    //                             <p class="word-example-src">— ${details[0].meanings[i].definitions[j].exampleSource}</p>
+    //                         `;
+    //                     }                          
+    //                 }
+    //             }
+    //             definitionsLeader.insertAdjacentHTML("afterend", defsHTML);
+    //         }
+
+    //         detailDiv.insertAdjacentHTML("beforeend", `
+    //             <div class="details">
+    //                 <h3>etymology</h3>
+    //                 <p>From ${details[0].origin} <a href="https://en.wiktionary.org/wiki/${details[0].chinese.traditional}" class="etym-a">${details[0].chinese.simplified}</a>.</p>
+    //             </div>
+    //         `);
+    //     }
+
+        
+    // }
+
+    whack.addEventListener("click", () => {
+        fetch("dict/dict.json")
+            .then((response) => response.json())
+            .then((data) => {
+                var randWord = data[Math.floor(Math.random() * data.length)];
+                // console.log(randWord);
+                window.location.href = `./?q=${randWord}`;
+            });
+    })
+
+    altsLeader.addEventListener("click", () => {
+        if(altsLeader.innerHTML != "also can:"){
+            altsLeader.innerHTML = "also can:"
+        }
+        else{
+            altsLeader.innerHTML = "alternatives:"
+        }
+    })
+
+    definitionsLeader.addEventListener("click", () => {
+        if(definitionsLeader.innerHTML != "means what:"){
+            definitionsLeader.innerHTML = "means what:"
+        }
+        else{
+            definitionsLeader.innerHTML = "definitions:"
+        }
+    })
+        
+</script>

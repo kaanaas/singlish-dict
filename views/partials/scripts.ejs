@@ -1,0 +1,77 @@
+<script>
+    const form = document.getElementById("search-form");
+    const button = document.getElementById("search-button");
+    const searchBar = document.getElementById("search-input");
+    const whack = document.getElementById("anyhow-whack");
+    const result = document.getElementById("result");
+    const alts = document.getElementById("alts");
+    const altsFlex = document.getElementById("alts-flex");
+    const detailDiv = document.getElementById("details");
+    
+
+    // functions
+    searchBar.addEventListener("input", () => {
+        let searchInput = document.getElementById("search-input").value;
+        if(/[^a-zA-Z0-9 ']/.test(searchInput)){
+            alert("Only alphanumeric characters, spaces, and apostrophes are allowed.");
+            searchBar.value = searchInput.replace(/[^a-zA-Z0-9 ']/g, '');
+        }
+    })
+
+    whack.addEventListener("click", () => {
+        fetch("dict/dict.json")
+            .then((response) => response.json())
+            .then((data) => {
+                var keys = Object.keys(data);
+                var randWord = keys[keys.length * Math.random() << 0];
+                // console.log(randWord);
+                window.location.href = `./?q=${randWord}`;
+            });
+    })
+
+    // 4fun header alts
+    const altsLeader = document.getElementById("alts-leader");
+    altsLeader.addEventListener("click", () => {
+        if(altsLeader.innerHTML != "also can:"){
+            altsLeader.innerHTML = "also can:";
+        }
+        else{
+            altsLeader.innerHTML = "alternatives:";
+        }
+    })
+
+    const definitionsLeader = document.getElementById("definitions-leader");
+    definitionsLeader.addEventListener("click", () => {
+        if(definitionsLeader.innerHTML != "means what:"){
+            definitionsLeader.innerHTML = "means what:";
+        }
+        else{
+            definitionsLeader.innerHTML = "definitions:";
+        }
+    })
+
+    if(document.getElementById("synonyms-leader")) {
+        const synLeader = document.getElementById("synonyms-leader");
+        synLeader.addEventListener("click", () => {
+            if(synLeader.innerHTML != "same same:"){
+                synLeader.innerHTML = "same same:";
+            }
+            else{
+                synLeader.innerHTML = "synonyms:";
+            }
+        })
+    }
+    
+    if(document.getElementById("antonyms-leader")){
+        const antLeader = document.getElementById("antonyms-leader");
+        synLeader.addEventListener("click", () => {
+            if(antLeader.innerHTML != "but different:"){
+                antLeader.innerHTML = "but different:";
+            }
+            else{
+                antLeader.innerHTML = "antonyms:";
+            }
+        });
+    }
+        
+</script>
