@@ -38,23 +38,26 @@
                         <% } else { %>
                             <% for(const [pos, posDet] of Object.entries(word.meanings)) { %>
                             <h4><%= pos %></h4>
+                            <ol type="1">
                                 <% for (let j = 0; j < posDet.length; j++) { %>
                                     <!-- check if examples are given -->
-                                    <p class="definition"><%= j+1 %>.&nbsp; <%= posDet[j].definition %></p> 
+                                    <li class="definition"><%- posDet[j].definition %></li> 
                                     <% if(posDet[j].example.length != 0){ %>
-                                        <p class="word-example"><%= posDet[j].example %></p>
+                                        <p class="word-example"><%- posDet[j].example %></p>
                                         <% if (posDet[j].exampleSource.length > 0) { %>
                                             <% if(posDet[j].exampleSource=="@comm" ){ %>
                                             <p class="word-example-src">— Community contribution</p>
                                             <% } else { %>
-                                            <p class="word-example-src">— <%= posDet[j].exampleSource %></p>
+                                            <p class="word-example-src">— <%- posDet[j].exampleSource %></p>
                                             <% } %>
                                         <% } %>  
                                     <% } %>
                                     <!-- syno/antonyms -->
+                                    <% if(posDet[j].synonyms.length > 0 || posDet[j].antonyms.length > 0){ %>
+                                    <div class="nyms-wrapper">
                                     <% if(posDet[j].synonyms.length > 0){ %>
                                         <div class="nyms-flex" id="synonyms-flex">
-                                            <p class="synonyms-leader nyms-leader" id="synonyms-leader">synonyms:</p>
+                                            <p class="synonyms-leader nyms-leader" name="synonyms-leader">synonyms:</p>
                                             <% for(let k = 0; k < posDet[j].synonyms.length; k++){ %>
                                                 <a class="nyms-list" href=<%- `./?q=${posDet[j].synonyms[k].replace(/ /g,"%20")}` %>>
                                                     <%= posDet[j].synonyms[k] %></a>
@@ -63,15 +66,18 @@
                                     <% } %>     
                                     <% if(posDet[j].antonyms.length > 0){ %>
                                         <div class="nyms-flex" id="antonyms-flex">
-                                            <p class="antonyms-leader nyms-leader" id="antonyms-leader">antonyms:</p>
+                                            <p class="antonyms-leader nyms-leader" name="antonyms-leader">antonyms:</p>
                                             <% for(let k = 0; k < posDet[j].antonyms.length; k++){ %>
                                                 <a class="nyms-list" href=<%- `./?q=${posDet[j].antonyms[k].replace(/ /g,"%20")}` %>>
                                                     <%= posDet[j].antonyms[k] %></a>
                                             <% } %>
                                         </div>
+                                    <% } %>
+                                    </div>
                                     <% } %>                       
                                 <% } %>
                             <br>    
+                            </ol>
                             <% } %>
                         <% } %>
                     </div>
@@ -100,17 +106,17 @@
                                     <div class="particle-dets">
                                         <div class="sameRow">
                                             <h4 class="pt-effect">effect: </h4>
-                                            <p><%= word.particles[i].effect %></p>
+                                            <p><%- word.particles[i].effect %></p>
                                         </div>
                                         <div class="sameRow">
                                             <h4 class="pt-effect">meaning: </h4>
-                                            <p><%= word.particles[i].meaning %></p>
+                                            <p><%- word.particles[i].meaning %></p>
                                         </div>
-                                        <p class="word-example text"><%= word.particles[i].example %></p>
+                                        <p class="word-example text"><%- word.particles[i].example %></p>
                                         <% if(word.particles[i].exampleSource=="@comm" ){ %>
                                             <p class="word-example-src">— Community contribution</p>
                                         <% } else { %>
-                                            <p class="word-example-src"><%= word.particles[i].exampleSource %></p>
+                                            <p class="word-example-src"><%- word.particles[i].exampleSource %></p>
                                         <% } %>                                       
                                     </div>
                                 </div>

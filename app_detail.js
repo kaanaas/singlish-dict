@@ -67,14 +67,16 @@ app.get("/", (req, res) => {
                 "related": [],
                 "usage": "",
                 "phonetics": "",
+                "etyNotes": "",
                 "origin": [],
-                "meanings": [],
+                "meanings": {},
                 "particles": []
             };
 
             /* process queries */
             let related = req.query.related.toLowerCase();
             let usage = req.query.usage;
+            let etyNotes = req.query.etyNotes;
             let phone = req.query.phone;
 
             let origin = req.query.origin;
@@ -84,7 +86,10 @@ app.get("/", (req, res) => {
             let scheme = req.query.scheme;
             let lit = req.query.lit;
             let etyPath = req.query.etyPath;
-            let etymology = req.query.ety;
+            let etyScript = req.query.etyScript;
+            let etyTrad = req.query.etyTrad;
+            let etyRoman = req.query.ety;
+            let etyScheme = req.query.etyScheme;
             let etyLit = req.query.etyLit;
 
             let pos = req.query.pos;
@@ -150,8 +155,9 @@ app.get("/", (req, res) => {
                     details[main].related.sort();
                 }
             }
-            // usage
+            // usage + ety notes
             if (usage != "") details[main].usage = usage;
+            if (etyNotes != "") details[main].etyNotes = etyNotes;
             // phonetics
             if (phone != "") details[main].phonetics = phone;
             // origin
@@ -166,7 +172,10 @@ app.get("/", (req, res) => {
                         "romanization": scheme[i],
                         "lit": lit[i],
                         "etyPath": splitQs(etyPath[i]),
-                        "etymology": splitQs(etymology[i]),
+                        "etyScript": splitQs(etyScript[i]),
+                        "etyTrad": splitQs(etyTrad[i]),
+                        "etyRoman": splitQs(etyRoman[i]),
+                        "etyScheme": splitQs(etyScheme[i]),
                         "etyLit": splitQs(etyLit[i])
                     });
                 }

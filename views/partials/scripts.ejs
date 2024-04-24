@@ -50,27 +50,31 @@
         }
     })
 
-    if(document.getElementById("synonyms-leader")) {
-        const synLeader = document.getElementById("synonyms-leader");
-        synLeader.addEventListener("click", () => {
-            if(synLeader.innerHTML != "same same:"){
-                synLeader.innerHTML = "same same:";
-            }
-            else{
-                synLeader.innerHTML = "synonyms:";
-            }
-        })
+    if(document.getElementsByName("synonyms-leader")) {
+        const synLeaders = document.getElementsByName("synonyms-leader");
+        synLeaders.forEach((synLeader) => {
+            synLeader.addEventListener("click", () => {
+                if(synLeader.innerHTML != "same same:"){
+                    synLeader.innerHTML = "same same:";
+                }
+                else{
+                    synLeader.innerHTML = "synonyms:";
+                }
+            });
+        });
     }
     
-    if(document.getElementById("antonyms-leader")){
-        const antLeader = document.getElementById("antonyms-leader");
-        synLeader.addEventListener("click", () => {
-            if(antLeader.innerHTML != "but different:"){
-                antLeader.innerHTML = "but different:";
-            }
-            else{
-                antLeader.innerHTML = "antonyms:";
-            }
+    if(document.getElementsByName("antonyms-leader")){
+        const antLeaders = document.getElementsByName("antonyms-leader");
+        antLeaders.forEach((antLeader) => {
+            antLeader.addEventListener("click", () => {
+                if(antLeader.innerHTML != "but different:"){
+                    antLeader.innerHTML = "but different:";
+                }
+                else{
+                    antLeader.innerHTML = "antonyms:";
+                }
+            });
         });
     }
         

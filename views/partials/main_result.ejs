@@ -24,34 +24,36 @@
                         <h2>+</h2>
                     <% } %>
                     <div class="ortho-box">
-                    <% const langName = word.origin[i].lang.toLowerCase().charAt(0).toUpperCase() + word.origin[i].lang.toLowerCase().slice(1); %>
+                        <% const langName = word.origin[i].lang.toLowerCase().charAt(0).toUpperCase() + word.origin[i].lang.toLowerCase().slice(1); %>
                         <p class="ortho-origin"><%= langName %>:</p>
-                    <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
-                        <!-- Chinese languages -->
-                        <div name="chinese-chars">
-                            <h3 class="chinese-chars" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
-                                <%= word.origin[i].simplified %></h3>
-                            <h3 class="chinese-chars" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
-                                <%= word.origin[i].traditional %></h3>
-                        </div>
-                        <div class="roman-flex">
-                            <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
-                            <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
-                        </div>
-                    <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
-                        <!-- Other alt-script languages -->
-                        <% if(word.origin[i].simplified != ""){ %>
-                        <h3><%= word.origin[i].simplified %></h3>
-                        <div class="roman-flex">
-                            <p class="romanization"><%= word.origin[i].romanization %>:</p>
-                            <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
-                        </div>
+                        <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
+                            <!-- Chinese languages -->
+                            <div name="chinese-chars">
+                                <h3 class="chinese-chars" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
+                                    <%= word.origin[i].simplified %></h3>
+                                <h3 class="chinese-chars" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
+                                    <%= word.origin[i].traditional %></h3>
+                            </div>
+                            <div class="roman-flex">
+                                <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
+                                <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                            </div>
+                        <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
+                            <!-- Other alt-script languages -->
+                            <% if(word.origin[i].simplified != ""){ %>
+                            <h3><%= word.origin[i].simplified %></h3>
+                            <div class="roman-flex">
+                                <% if(word.origin[i].romanization && word.origin[i].romanization != "") { %>
+                                    <p class="romanization"><%= word.origin[i].romanization %>:</p>
+                                <% } %>
+                                <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                            </div>
+                            <% } %>
+                        <% } else if(langName == "Singlish") { %>
+                            <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
+                        <% } else { %>
+                            <h4><%= word.origin[i].roman.toLowerCase() %></h4>
                         <% } %>
-                    <% } else if(langName == "Singlish") { %>
-                        <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
-                    <% } else { %>
-                        <h4><%= word.origin[i].roman.toLowerCase() %></h4>
-                    <% } %>
                     </div>
                 <% } %>
             </div>
@@ -61,76 +63,94 @@
                 <% for(let i = 0; i < word.origin.length; i++) { %>
                     <div class="origin-container">
                         <% if(i != 0) { %>
-                            <p class="ortho-origin" style="font-style: normal;">&nbsp;&nbsp;+ </p>
+                            <p class="ortho-origin" style="font-style: normal;">&emsp;&nbsp;+ </p>
                         <% } else { %>
-                            <p class="ortho-origin" style="font-style: normal;">→</p>
+                            <p class="ortho-origin">from</p>
                         <% } %>
                         <div class="ortho-box">
-                        <div class="ortho-box-ext">
-                        <% const langName = word.origin[i].lang.toLowerCase().charAt(0).toUpperCase() + word.origin[i].lang.toLowerCase().slice(1); %>
-                            <p class="ortho-origin-ext"><%= langName %>:</p>
-                        <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
-                            <!-- Chinese languages -->
-                            <div class="chinese-wrapper-ext">
-                                <div name="chinese-chars">
-                                    <h3 class="chinese-chars-ext" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
-                                        <%= word.origin[i].simplified %></h3>
-                                    <h3 class="chinese-chars-ext" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
-                                        <%= word.origin[i].traditional %></h3>
-                                </div>
-                                <div class="roman-flex-ext">
-                                    <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
-                                    <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
-                                </div>
-                            </div>
+                            <div class="ortho-box-ext">
+                                <% const langName = word.origin[i].lang.toLowerCase().charAt(0).toUpperCase() + word.origin[i].lang.toLowerCase().slice(1); %>
+                                <p class="ortho-origin-ext"><%= langName %></p>
 
-                        <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
-                            <!-- Other alt-script languages -->
-                            <% if(word.origin[i].simplified != ""){ %>
-                            <div class="chinese-wrapper-ext"></div>
-                                <h3><%= word.origin[i].simplified %></h3>
-                                <div class="roman-flex">
-                                    <p class="romanization"><%= word.origin[i].romanization %>:</p>
-                                    <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
-                                </div>
-                            </div>
-                            <% } %>
-                        <% } else if(langName == "Singlish") { %>
-                            <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
-                        <% } else { %>
-                            <h4 style="margin: 0;"><%= word.origin[i].roman.toLowerCase() %></h4>
-                        <% } %>
+                                <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
+                                    <!-- Chinese languages -->
+                                    <div class="chinese-wrapper-ext">
+                                        <div name="chinese-chars">
+                                            <h3 class="chinese-chars-ext" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
+                                                <%= word.origin[i].simplified %></h3>
+                                            <h3 class="chinese-chars-ext" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
+                                                <%= word.origin[i].traditional %></h3>
+                                        </div>
+                                        <div class="roman-flex-ext">
+                                            <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
+                                            <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                                        </div>
+                                    </div>
+                                <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
+                                    <!-- Other alt-script languages -->
+                                    <% if(word.origin[i].simplified != ""){ %>
+                                    <div class="chinese-wrapper-ext">
+                                        <h3><%= word.origin[i].simplified %></h3>
+                                        <div class="roman-flex">
+                                            <% if(word.origin[i].romanization && word.origin[i].romanization != "") { %>
+                                                <p class="romanization"><%= word.origin[i].romanization %>:</p>
+                                            <% } %>
+                                            <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                                        </div>
+                                    </div>
+                                    <% } %>
+                                <% } else if(langName == "Singlish") { %>
+                                    <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
+                                <% } else { %>
+                                    <h4 style="margin: 0;"><%= word.origin[i].roman.toLowerCase() %></h4>
+                                <% } %>
 
-                            <p class="lit"><%= word.origin[i].lit.toLowerCase() %></p>
-                        </div>
+                                <p class="lit"><%= word.origin[i].lit.toLowerCase() %></p>
+                            </div>
                         </div>
 
                         <!-- ety paths -->
                         <% if(word.origin[i].etyPath){ %>
                             <% for(let j = 0; j < word.origin[i].etyPath.length; j++){ %>
-                                <p class="ortho-origin" style="font-style: normal;">⇢</p>
+                                <p class="ortho-origin">⇠ via</p>
                                 <div class="ortho-box">
                                 <div class="ortho-box-ext">
                                     <% const langName = word.origin[i].etyPath[j].toLowerCase().charAt(0).toUpperCase() + word.origin[i].etyPath[j].toLowerCase().slice(1); %>
                                     <p class="ortho-origin-ext"><%= langName %>:</p>
 
-                                    <% if(word.origin[i].etyRom && word.origin[i].etymology[j] != undefined && word.origin[i].etyRom[j] != "") { %>
+                                    <% if(word.origin[i].etyPath[j] && chineseLangs.includes(word.origin[i].etyPath[j].toLowerCase())){ %>
+                                    <!-- Chinese languages -->
+                                    <div class="chinese-wrapper-ext">
+                                        <div name="chinese-chars">
+                                            <h3 class="chinese-chars-ext" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
+                                                <%= word.origin[i].etyScript[j] %></h3>
+                                            <h3 class="chinese-chars-ext" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
+                                                <%= word.origin[i].etyTrad[j] %></h3>
+                                        </div>
+                                        <div class="roman-flex-ext">
+                                            <p class="romanization"><%= word.origin[i].etyScheme[j].toLowerCase() %>:</p>
+                                            <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase() %></p>
+                                        </div>
+                                    </div>
+                                    <% } else if(word.origin[i].etyScript && word.origin[i].etyScript[j] != undefined && word.origin[i].etyScript[j] != "") { %>
                                         <!-- Other alt-script languages -->
-                                        <% if(word.origin[i].etymology[j] != ""){ %>
-                                        <div class="chinese-wrapper-ext"></div>
-                                            <h3><%= word.origin[i].etymology[j] %></h3>
+                                        <% if(word.origin[i].etyScript[j] != ""){ %>
+                                        <div class="chinese-wrapper-ext">
+                                            <h3><%= word.origin[i].etyScript[j] %></h3>
                                             <div class="roman-flex">
-                                                <p class="ortho-roman"><%= word.origin[i].etyRom[j].toLowerCase() %></p>
+                                                <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase() %></p>
                                             </div>
                                         </div>
                                         <% } %>
                                     <% } else if(langName == "Singlish") { %>
-                                        <h4><a href="./?q=<%= word.origin[i].etymology[j].toLowerCase() %>"><%= word.origin[i].etymology[j].toLowerCase() %></a></h4>
+                                        <h4><a href="./?q=<%= word.origin[i].etyRoman[j].toLowerCase() %>"><%= word.origin[i].etyRoman[j].toLowerCase() %></a></h4>
                                     <% } else { %>
-                                        <h4 style="margin: 0;"><%= word.origin[i].etymology[j].toLowerCase() %></h4>
+                                        <h4 style="margin: 0;"><%= word.origin[i].etyRoman[j].toLowerCase() %></h4>
                                     <% } %>
-
-                                    <p class="lit"><%= word.origin[i].etyLit[j].toLowerCase() %></p>
+                                    
+                                    <% if(word.origin[i].etyLit[j]){ %>
+                                        <p class="lit"><%= word.origin[i].etyLit[j].toLowerCase() %></p>
+                                    <% } %>
                                 </div>
                                 </div>
                             <% } %>
@@ -146,6 +166,16 @@
                 </div>
             </div>
         </div>
+
+        <!-- ety notes -->
+        <% if(word.hasOwnProperty("etyNotes")){ %>
+            <% if(word.etyNotes.length> 0){ %>
+                <div class="details ety-notes-div" id="ety-notes" style = "display: none; visibility: hidden">
+                    <h3 class="ety-notes-leader">etymology notes</h3>
+                    <p class="text"><%- word.etyNotes %></p>
+                </div>
+            <% } %>
+        <% } %>
         <% } %>
     </div>
     <hr>
@@ -157,12 +187,14 @@
         const etyTtip = document.getElementById("ety-tooltip");
         const orthoContainer = document.getElementById("ortho-container");
         const extContainer = document.getElementById("ext-container");
+        const etyNotes = document.getElementById("ety-notes");
         etyBtn.blur();
         if(orthoContainer.name == "hide"){
             orthoContainer.style = "display: flex; visibility: visible";
             extContainer.style = "display: none; visibility: hidden";
             orthoContainer.name = "show";
             extContainer.name = "hide";
+            if(etyNotes) etyNotes.style = "display: none; visibility: hidden";
             etyTtip.innerHTML = "Detailed etymology";
             etyBtn.style = "transform: rotate(0)";
         }
@@ -171,6 +203,7 @@
             extContainer.style = "display: flex; visibility: visible";
             orthoContainer.name = "hide";
             extContainer.name = "show";
+            if (etyNotes) etyNotes.style = "display: block; visibility: visible";
             etyTtip.innerHTML = "Collapse details";
             etyBtn.style = "transform: rotate(0.5turn)";
         }

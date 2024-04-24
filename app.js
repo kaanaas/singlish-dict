@@ -62,7 +62,7 @@ app.get("/", (req, res) => {
             showStyle: "display:block;visibility:visible;",
             showAltsStyle: showAltsStyle,
             alts: altsString,
-            chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu"],
+            chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese"],
         });
     }
 
