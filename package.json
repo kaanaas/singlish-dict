@@ -1,6 +1,12 @@
 {
-  "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^4.19.2"
-  }
+    "dependencies": {
+        "ejs": "^3.1.10",
+        "express": "^4.19.2",
+        "netlify-cli": "^17.17.1",
+        "netlify-lambda": "^2.0.16",
+        "serverless-http": "^3.2.0"
+    },
+    "scripts": {
+        "build": "netlify deploy --prod"
+    }
 }
