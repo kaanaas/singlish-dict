@@ -393,3 +393,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.vercel
+vc
+vc.cmd 
+vc.ps1
+vercel.cmd 
+vercel.ps1 
