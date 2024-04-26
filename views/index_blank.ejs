@@ -1,0 +1,45 @@
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="./" class="title">Chimbridge Singlish Dictionary</a></h1>
+        </div>
+        <div class="content">
+            <div class="def-box">
+                <!-- search -->
+                <%- include("./partials/search_container") %>
+            </div>
+        </div>
+
+        <script>
+            const form = document.getElementById("search-form");
+            const button = document.getElementById("search-button");
+            const searchBar = document.getElementById("search-input");
+            const whack = document.getElementById("anyhow-whack");           
+
+            // functions
+            searchBar.addEventListener("input", () => {
+                let searchInput = document.getElementById("search-input").value;
+                if(/[^a-zA-Z0-9 ']/.test(searchInput)){
+                    alert("Only alphanumeric characters, spaces, and apostrophes are allowed.");
+                    searchBar.value = searchInput.replace(/[^a-zA-Z0-9 ']/g, '');
+                }
+            })
+
+            whack.addEventListener("click", () => {
+                fetch("dict/dict.json")
+                    .then((response) => response.json())
+                    .then((data) => {
+                        var keys = Object.keys(data);
+                        var randWord = keys[keys.length * Math.random() << 0];
+                        // console.log(randWord);
+                        window.location.href = `./?q=${randWord}`;
+                    });
+            })
+        </script>
+        <%- include("./partials/footer") %>
+
+    </body>
+
+</html>

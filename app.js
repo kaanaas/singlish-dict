@@ -21,58 +21,64 @@ const dict = require("./public/dict/dict.json");
 app.get("/", (req, res) => {
 
     /* move this to another function export eventaully... */
-    let searchInput = req.query.q.toLowerCase();
-    let majorFormResult = trie.search(searchInput);
-    if (majorFormResult) {
-        // retreive data from details hash object
-        let word = details[majorFormResult];
-        let showAltsStyle = "display:none;visibility:hidden;"
-        let altsString = "";
+    if (req.query.q) {
+        let searchInput = req.query.q.toLowerCase()
+        let majorFormResult = trie.search(searchInput);
+        // console.log(majorFormResult);
+        if (majorFormResult) {
+            // retreive data from details hash object
+            let word = details[majorFormResult];
+            let showAltsStyle = "display:none;visibility:hidden;"
+            let altsString = "";
 
-        if (!word) {
-            // dummy word without details
-            word = {
-                "word": majorFormResult,
-                "alt": dict[majorFormResult],
-                "chinese": [],
-                "literal": "",
-                "phonetics": "",
-                "origin": [],
-                "meanings": []
+            if (!word) {
+                // dummy word without details
+                word = {
+                    "word": majorFormResult,
+                    "alt": dict[majorFormResult],
+                    "chinese": [],
+                    "literal": "",
+                    "phonetics": "",
+                    "origin": [],
+                    "meanings": []
+                }
+                // console.log(word);
             }
-            // console.log(word);
-        }
 
-        // list alternative spellings
-        if (dict[majorFormResult].length) {
-            for (let i = 0; i < dict[majorFormResult].length; i++) {
-                if (dict[majorFormResult][i] != majorFormResult) {
-                    altsString += dict[majorFormResult][i];
-                    if (i < dict[majorFormResult].length - 1) {
-                        altsString += `, `;
+            // list alternative spellings
+            if (dict[majorFormResult] && dict[majorFormResult].length) {
+                for (let i = 0; i < dict[majorFormResult].length; i++) {
+                    if (dict[majorFormResult][i] != majorFormResult) {
+                        altsString += dict[majorFormResult][i];
+                        if (i < dict[majorFormResult].length - 1) {
+                            altsString += `, `;
+                        }
                     }
                 }
+                // console.log(altsString);
+                showAltsStyle = "display:block;visibility:visible;"
             }
-            // console.log(altsString);
-            showAltsStyle = "display:block;visibility:visible;"
+
+            // render page
+            res.render("./index", {
+                redirected: searchInput,
+                word: word,
+                showStyle: "display:block;visibility:visible;",
+                showAltsStyle: showAltsStyle,
+                alts: altsString,
+                chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese"],
+            });
         }
 
-        // render page
-        res.render("./index", {
-            redirected: searchInput,
-            word: word,
-            showStyle: "display:block;visibility:visible;",
-            showAltsStyle: showAltsStyle,
-            alts: altsString,
-            chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese"],
-        });
+        // Search query not found in Trie
+        else {
+            res.render("./not_found", {
+                searchInput: searchInput
+            });
+        }
     }
-
-    // Search query not found in Trie
     else {
-        res.render("./not_found", {
-            searchInput: searchInput
-        });
+        res.render("./index_blank");
     }
 });
 
