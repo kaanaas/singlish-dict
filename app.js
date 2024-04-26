@@ -1,3 +1,4 @@
+const path = require('path');
 const express = require("express");
 require("dotenv").config();
 const port = process.env.PORT || 3000;
@@ -5,9 +6,8 @@ const port = process.env.PORT || 3000;
 const app = express();
 
 app.set("view engine", "ejs");
-app.use(express.static("public"));
-app.set("views", __dirname + "/views");
-
+app.use(express.static(path.join(__dirname, "public")));
+app.set("views", path.join(__dirname, "/views"));
 
 app.listen(port);
 
