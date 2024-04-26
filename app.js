@@ -1,11 +1,13 @@
 const express = require("express");
+require("dotenv").config();
+const PORT = process.env.PORT || 3000;
 
 const app = express();
 
 app.set("view engine", "ejs");
 app.use(express.static("public"));
 
-app.listen(3000);
+app.listen(PORT);
 
 
 /* import generated Trie */
