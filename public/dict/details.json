@@ -315,12 +315,15 @@
                 "etyPath": [
                     "Javanese (possibly)"
                 ],
-                "etymology": [
-                    "bedek-bedekan"
-                ],
                 "etyLit": [
                     "ask riddles"
-                ]
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "bedek-bedekan"
+                ],
+                "etyScheme": false
             }
         ],
         "meanings": {

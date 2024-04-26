@@ -4,6 +4,7 @@ views/detail_insert.ejs
 views/index_old.ejs
 app_detail.js
 app_dict_insert.js
+public/css/styles_insert.css
 
 
 # Logs
