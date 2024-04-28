@@ -1,4 +1,19 @@
 {
+    "4d": [
+        "4d"
+    ],
+    "5-10": [
+        "5-10",
+        "five ten",
+        "five-ten",
+        "5 10",
+        "5 10 15",
+        "5-10-15"
+    ],
+    "5cs": [
+        "5cs",
+        "5c"
+    ],
     "aa": [
         "aa",
         "attract attention"
@@ -10,6 +25,10 @@
     "abit": [
         "abit",
         "a bit"
+    ],
+    "abit the": [
+        "abit the",
+        "a bit the"
     ],
     "abuden": [
         "abuden",
@@ -35,6 +54,12 @@
     "action": [
         "action"
     ],
+    "adik": [
+        "adik",
+        "adek",
+        "dik",
+        "deh"
+    ],
     "aduh": [
         "aduh",
         "adoh",
@@ -46,6 +71,10 @@
         "agak-agak",
         "agak agak",
         "agar"
+    ],
+    "agak tarik": [
+        "agak tarik",
+        "agak tarek"
     ],
     "agar-agar": [
         "agar-agar",
@@ -70,6 +99,9 @@
         "ah beng",
         "ahbeng"
     ],
+    "ah beng ah seng": [
+        "ah beng ah seng"
+    ],
     "ah bo": [
         "ah bo",
         "a bo",
@@ -87,6 +119,12 @@
         "ah hui",
         "ah huey",
         "ah hway"
+    ],
+    "ah kao": [
+        "ah kao",
+        "ah kow",
+        "ah gao",
+        "ah kau"
     ],
     "ah kong": [
         "ah kong",
@@ -119,9 +157,18 @@
         "ama",
         "a ma"
     ],
+    "ah mm": [
+        "ah mm",
+        "a m",
+        "ah m"
+    ],
     "ah neh": [
         "ah neh",
         "ahneh"
+    ],
+    "ah nia": [
+        "ah nia",
+        "ahnia"
     ],
     "ah pek": [
         "ah pek",
@@ -147,13 +194,23 @@
         "a soh",
         "a so"
     ],
+    "ah then": [
+        "ah then"
+    ],
     "ah tiong": [
         "ah tiong",
         "ahtiong",
         "a tiong"
     ],
+    "ah tong ah seng": [
+        "ah tong ah seng"
+    ],
     "ai": [
         "ai"
+    ],
+    "ai pi ai chee ai tua liap ni": [
+        "ai pi ai chee ai tua liap ni",
+        "ai pee ai chee ai tua liap nee"
     ],
     "ai si": [
         "ai si",
@@ -212,6 +269,19 @@
         "haiyoyo",
         "haiyoyoh"
     ],
+    "ak kha ak chiu": [
+        "ak kha ak chiu",
+        "ak ka ak chiu",
+        "ah kah ah chew",
+        "ah ka ah chiu"
+    ],
+    "ak kha chiu ji": [
+        "ak kha chiu ji",
+        "ak kah chiu ji",
+        "ak kah chiew ji",
+        "ak ka chiew ji",
+        "ak kha chiew ji"
+    ],
     "akan datang": [
         "akan datang"
     ],
@@ -234,6 +304,9 @@
     "ali baba bag": [
         "ali baba bag",
         "ali-baba bag"
+    ],
+    "all fart and no shit": [
+        "all fart and no shit"
     ],
     "amacam": [
         "amacam"
@@ -267,6 +340,12 @@
         "ang mor",
         "angmor"
     ],
+    "ang moh kui": [
+        "ang moh kui",
+        "ang mo gui",
+        "ang moh gui",
+        "ang mo kui"
+    ],
     "ang moh pai": [
         "ang moh pai",
         "ang mo pai",
@@ -295,13 +374,17 @@
     "anyhow whack": [
         "anyhow whack"
     ],
+    "anyhowly": [
+        "anyhowly"
+    ],
     "appam": [
         "appam",
         "appom"
     ],
     "ar": [
         "ar",
-        "ah"
+        "ah",
+        "ak"
     ],
     "ar ka chi": [
         "ar ka chi",
@@ -309,7 +392,8 @@
     ],
     "ar ka liau": [
         "ar ka liau",
-        "ar ka liao"
+        "ar ka liao",
+        "ak kah liao"
     ],
     "ar lip bo ar chut": [
         "ar lip bo ar chut",
@@ -354,6 +438,9 @@
     "auntie": [
         "auntie"
     ],
+    "aware": [
+        "aware"
+    ],
     "ayam": [
         "ayam"
     ],
@@ -384,6 +471,12 @@
         "bah chang",
         "bak zang"
     ],
+    "bak chiu": [
+        "bak chiu"
+    ],
+    "bak chiu tak stamp": [
+        "bak chiu tak stamp"
+    ],
     "bak chor mee": [
         "bak chor mee",
         "bah chor mee",
@@ -409,7 +502,8 @@
     ],
     "balik kampung": [
         "balik kampung",
-        "balik kampong"
+        "balik kampong",
+        "balek kampung"
     ],
     "balls drop": [
         "balls drop"
@@ -429,6 +523,14 @@
     ],
     "bang balls": [
         "bang balls"
+    ],
+    "bao toh": [
+        "bao toh",
+        "baotoh",
+        "pau toh",
+        "pautoh",
+        "pao toh",
+        "paotoh"
     ],
     "bapok": [
         "bapok"
@@ -510,6 +612,9 @@
     "bengkok": [
         "bengkok"
     ],
+    "berak": [
+        "berak"
+    ],
     "bgr": [
         "bgr"
     ],
@@ -517,6 +622,12 @@
         "bhai",
         "bayee",
         "bai"
+    ],
+    "big fuck": [
+        "big fuck"
+    ],
+    "bird bird": [
+        "bird bird"
     ],
     "bishop's nose": [
         "bishop's nose"
@@ -537,6 +648,9 @@
     "blanket party": [
         "blanket party"
     ],
+    "block catching": [
+        "block catching"
+    ],
     "blur": [
         "blur",
         "blur-blur",
@@ -555,6 +669,12 @@
     "bo": [
         "bo",
         "boh"
+    ],
+    "bo beh zao": [
+        "bo beh zao",
+        "bo be zao",
+        "boh beh zao",
+        "bo beh chau"
     ],
     "bo bian": [
         "bo bian",
@@ -586,6 +706,10 @@
         "boh chap",
         "bo chhap"
     ],
+    "bo eng": [
+        "bo eng",
+        "boh eng"
+    ],
     "bo hiu": [
         "bo hiu",
         "bo hew"
@@ -596,6 +720,9 @@
     ],
     "bo idea": [
         "bo idea"
+    ],
+    "bo lang ai": [
+        "bo lang ai"
     ],
     "bo lin chu": [
         "bo lin chu",
@@ -624,6 +751,18 @@
         "bo ta bo lanpa",
         "bo ta bo lam pha"
     ],
+    "bo tau bo beh": [
+        "bo tau bo beh",
+        "bo thau bo beh",
+        "bo tao bo beh",
+        "bo tau bo be",
+        "bo tao bo be"
+    ],
+    "bo tua bo suey": [
+        "bo tua bo suey",
+        "bo tuah bo suey",
+        "bo tua bo sway"
+    ],
     "bobo": [
         "bobo",
         "wowo"
@@ -650,14 +789,30 @@
     "boleh": [
         "boleh"
     ],
+    "boliao": [
+        "boliao",
+        "bo liao",
+        "bo liau"
+    ],
     "boomz": [
         "boomz"
+    ],
+    "borrow": [
+        "borrow"
     ],
     "botak": [
         "botak"
     ],
     "bottlecaps": [
         "bottlecaps"
+    ],
+    "brudder": [
+        "brudder"
+    ],
+    "bto": [
+        "bto",
+        "build-to-order",
+        "build to order"
     ],
     "bu": [
         "bu"
@@ -684,16 +839,41 @@
     "buat bodoh": [
         "buat bodoh"
     ],
+    "buay hiao bai": [
+        "buay hiao bai",
+        "buey hiao bai",
+        "buay hiau bai",
+        "buey hiau bai"
+    ],
+    "buay kan": [
+        "buay kan",
+        "buay gan",
+        "buey kan",
+        "buey gan"
+    ],
+    "buay pai": [
+        "buay pai",
+        "buey pai"
+    ],
     "buay song": [
         "buay song",
         "buey song"
     ],
+    "buay steady": [
+        "buay steady",
+        "buey steady"
+    ],
     "buay tahan": [
         "buay tahan",
-        "buey tahan"
+        "buey tahan",
+        "be tahan",
+        "beh tahan"
     ],
     "buaya": [
         "buaya"
+    ],
+    "bubur": [
+        "bubur"
     ],
     "bubur cha cha": [
         "bubur cha cha",
@@ -721,9 +901,150 @@
         "butoh",
         "buto"
     ],
+    "cabut": [
+        "cabut",
+        "chabut"
+    ],
+    "cai png": [
+        "cai png",
+        "chye png",
+        "chai png",
+        "caipng"
+    ],
+    "calefare": [
+        "calefare",
+        "calafare",
+        "callafair"
+    ],
+    "can": [
+        "can"
+    ],
+    "can anot": [
+        "can anot"
+    ],
+    "can die": [
+        "can die"
+    ],
+    "cangkul": [
+        "cangkul",
+        "changkol",
+        "changkul"
+    ],
+    "cannot": [
+        "cannot"
+    ],
+    "capteh": [
+        "capteh",
+        "chapteh",
+        "chaptek",
+        "chatek",
+        "chap te"
+    ],
+    "cari makan": [
+        "cari makan"
+    ],
+    "cari point": [
+        "cari point",
+        "chari point"
+    ],
+    "carrot cake": [
+        "carrot cake"
+    ],
+    "carry": [
+        "carry"
+    ],
+    "carry balls": [
+        "carry balls"
+    ],
+    "cartoon": [
+        "cartoon"
+    ],
+    "catch no ball": [
+        "catch no ball"
+    ],
+    "catching": [
+        "catching"
+    ],
+    "cb leaf": [
+        "cb leaf",
+        "chee bai leaf",
+        "chibai leaf",
+        "jibai leaf",
+        "chee bye leaf",
+        "cheebye leaf",
+        "chi bai leaf"
+    ],
+    "cb plant": [
+        "cb plant",
+        "dillenia suffruticosa",
+        "simpuh air",
+        "simpur air",
+        "simpoh ayer",
+        "simpuh ayer",
+        "chee bye plant",
+        "chi bai plant",
+        "chee bai plant"
+    ],
+    "cempedak": [
+        "cempedak"
+    ],
+    "cert": [
+        "cert"
+    ],
+    "cha thau peng": [
+        "cha thau peng",
+        "cha tow peng",
+        "cha tao peng",
+        "cha tau peng"
+    ],
+    "chabor": [
+        "chabor",
+        "char bor",
+        "zha bo",
+        "zha bor",
+        "cha bor"
+    ],
+    "chai poh": [
+        "chai poh",
+        "chye por",
+        "chye poh",
+        "chai por"
+    ],
+    "chai sim": [
+        "chai sim",
+        "chye sim"
+    ],
+    "chai tow kway": [
+        "chai tow kway",
+        "cai tao kueh",
+        "chye tow kueh",
+        "chye tow kuih",
+        "chai tau kueh",
+        "chye tau kuih",
+        "chai tow kueh",
+        "chai thau kueh"
+    ],
+    "cham sheung": [
+        "cham sheung",
+        "chum siong",
+        "cham siang",
+        "cham seong"
+    ],
+    "chandu": [
+        "chandu",
+        "candu",
+        "chandoo"
+    ],
+    "change parade": [
+        "change parade"
+    ],
+    "change underwear": [
+        "change underwear"
+    ],
     "chao": [
         "chao",
-        "chau"
+        "chau",
+        "chow"
     ],
     "chao chee bai": [
         "ccb",
@@ -740,6 +1061,84 @@
         "chao cheebai",
         "chao ji bai"
     ],
+    "chao kang": [
+        "chao kang",
+        "chau kang",
+        "chaokang"
+    ],
+    "chao keng": [
+        "chao keng",
+        "chau keng"
+    ],
+    "chao kuan": [
+        "chao kuan",
+        "chau kuan"
+    ],
+    "chao mao": [
+        "chao mao"
+    ],
+    "chao mugger": [
+        "chao mugger"
+    ],
+    "chao private": [
+        "chao private"
+    ],
+    "chao recruit": [
+        "chao recruit"
+    ],
+    "chap chye": [
+        "chap chye",
+        "chap chai"
+    ],
+    "chap go mei": [
+        "chap go mei",
+        "chap goh mei",
+        "chap gor mei",
+        "chap goh meh"
+    ],
+    "chap ji ki": [
+        "chap ji ki",
+        "chap ji kee"
+    ],
+    "chap lau chu": [
+        "chap lau chu",
+        "chap lau chhu",
+        "chap lao chu"
+    ],
+    "chapalang": [
+        "chapalang"
+    ],
+    "char kway teow": [
+        "char kway teow",
+        "char kueh teow"
+    ],
+    "char siew": [
+        "char siew",
+        "char siu"
+    ],
+    "char siew pau": [
+        "char siew pau",
+        "char siu pau"
+    ],
+    "char siew rice": [
+        "char siew rice",
+        "char siew fun",
+        "char siew fan"
+    ],
+    "char siew soh": [
+        "char siew soh",
+        "char siu so",
+        "char siew so",
+        "char siew su"
+    ],
+    "chau peng": [
+        "chau peng",
+        "zao peng",
+        "chao peng"
+    ],
+    "cheapo": [
+        "cheapo"
+    ],
     "chee bai": [
         "cb",
         "chee bai",
@@ -751,19 +1150,238 @@
         "cheebai",
         "ji bai"
     ],
+    "chee cheong fun": [
+        "chee cheong fun",
+        "chee cheong fan",
+        "cheong fun",
+        "cheong fan"
+    ],
+    "chee sin": [
+        "chee sin",
+        "chi sin"
+    ],
+    "cheeko": [
+        "chee ko",
+        "chiko",
+        "cheeko"
+    ],
+    "cheeko pek": [
+        "chikopek",
+        "chee ko pek",
+        "chi ko pek",
+        "cheekopek",
+        "cheeko pek"
+    ],
+    "cheena": [
+        "cheena",
+        "china",
+        "cina"
+    ],
+    "chendol": [
+        "chendol",
+        "cendol"
+    ],
+    "cheng tng": [
+        "cheng tng",
+        "cheng teng"
+    ],
+    "chengal": [
+        "chengal",
+        "cengal",
+        "chengai",
+        "penak",
+        "chengai tembaga",
+        "chengai batu",
+        "changi tree",
+        "changi"
+    ],
     "cher": [
         "cher",
         "cer",
-        "che"
+        "che",
+        "tcher",
+        "'cher"
     ],
     "chey": [
         "chey",
         "cheh",
         "che"
     ],
+    "chhek": [
+        "chhek",
+        "chek",
+        "tshek"
+    ],
+    "chhun": [
+        "chhun",
+        "chun",
+        "tshun"
+    ],
+    "chi bo eng": [
+        "chi bo eng",
+        "chi bo yong",
+        "chi bo iong",
+        "qi bo eng"
+    ],
+    "chi fan": [
+        "chi fan",
+        "chifan"
+    ],
+    "chi wu eng": [
+        "chi wu eng",
+        "chi wu yong",
+        "chi wu iong",
+        "qi wu eng",
+        "chi u eng"
+    ],
+    "chiah": [
+        "chiah",
+        "chiak",
+        "jiak",
+        "chia",
+        "jia"
+    ],
+    "chiah bo liau": [
+        "chiah bo liau",
+        "chiah bo liao",
+        "jiak bo liao",
+        "jiak bo liau",
+        "chia bo liau"
+    ],
+    "chiah boe liau": [
+        "chiah boe liau",
+        "chiah buey liau",
+        "jiak buey liao",
+        "jiak buay liao",
+        "chiah buay liau"
+    ],
+    "chiah buey lok": [
+        "chiah buey lok",
+        "chiah boe lok",
+        "jiak buay lok",
+        "jiak buey lok",
+        "chiah buay lok",
+        "chia bue loh"
+    ],
+    "chiah chau": [
+        "chiah chau",
+        "jiak chao",
+        "chia chao",
+        "chiah chao",
+        "jiak chow",
+        "chiah chow"
+    ],
+    "chiah chua": [
+        "chiah chua",
+        "chiah zua",
+        "jiak zua",
+        "jiak chua",
+        "chia chua"
+    ],
+    "chiah hi": [
+        "chiah hi",
+        "chiah her",
+        "chiah hir",
+        "jiak hi",
+        "jiak her",
+        "chia hi"
+    ],
+    "chiah hong": [
+        "chiah hong",
+        "jiak hong",
+        "chia hong"
+    ],
+    "chiah kentang": [
+        "chiah kentang",
+        "jiak kentang",
+        "chiah kantang",
+        "chia kentang",
+        "jiak kantang"
+    ],
+    "chiah kiu": [
+        "chiah kiu",
+        "chia kiu",
+        "chiah giu,",
+        "jiak kiu",
+        "jiak giu",
+        "chia giu"
+    ],
+    "chiah liao bee": [
+        "chiah liao bee",
+        "jiak liao bee",
+        "jiak liao bi",
+        "chia liao bi",
+        "chiah liau bi"
+    ],
+    "chicken backside": [
+        "chicken backside"
+    ],
+    "chicken business": [
+        "chicken business"
+    ],
+    "chicken feed": [
+        "chicken feed",
+        "chicken-feed",
+        "chicken feet",
+        "chicken-feet"
+    ],
     "chicken rendang": [
         "chicken rendang",
         "rendang ayam"
+    ],
+    "chicken rice": [
+        "chicken rice",
+        "hainanese chicken rice",
+        "koe png",
+        "kui png"
+    ],
+    "chicken rice ball": [
+        "chicken rice ball",
+        "chicken rice balls"
+    ],
+    "chiku": [
+        "chiku",
+        "buah chiku",
+        "sapodilla",
+        "sauh menila",
+        "ciku",
+        "sapota zapotilla"
+    ],
+    "chilli": [
+        "chilli",
+        "chili"
+    ],
+    "chilli padi": [
+        "chilli padi",
+        "chili padi"
+    ],
+    "chim": [
+        "chim",
+        "cheem"
+    ],
+    "chim-chim": [
+        "chim-chim",
+        "chim",
+        "chimchim",
+        "chim chim",
+        "qim",
+        "qim-qim"
+    ],
+    "chiminology": [
+        "chiminology",
+        "cheemology",
+        "cheeminology"
+    ],
+    "chimness": [
+        "chimness",
+        "chim-ness",
+        "cheemness",
+        "cheem-ness"
+    ],
+    "chin chow": [
+        "chin chow",
+        "chinchow",
+        "chin chau"
     ],
     "chinchai": [
         "chinchai",
@@ -771,6 +1389,21 @@
         "chin-chai",
         "chin chai",
         "chin chye"
+    ],
+    "chindian": [
+        "chindian"
+    ],
+    "chinese helicopter": [
+        "chinese helicopter"
+    ],
+    "ching ming": [
+        "ching ming",
+        "qing ming",
+        "ching ming festival",
+        "qing ming festival"
+    ],
+    "chingay": [
+        "chingay"
     ],
     "chio": [
         "chio",
@@ -780,26 +1413,329 @@
         "chiobu",
         "chio bu"
     ],
+    "chiong": [
+        "chiong"
+    ],
+    "chiong sua": [
+        "chiong sua",
+        "chiongsua"
+    ],
+    "chitty melaka": [
+        "chitty melaka",
+        "chitty malacca"
+    ],
+    "chiu kana kha, kha kana lam pha": [
+        "chiu kana kha, kha kana lam pha",
+        "chiu kana kah, kah kana lam pa",
+        "chiu kana kah, kah kana lampa",
+        "chiu kana kha, kha kana lan pha",
+        "chiu kana kah, kah kana lan pa",
+        "chiu kana kah, kah kana lanpa"
+    ],
+    "choi": [
+        "choi",
+        "choy"
+    ],
+    "chop": [
+        "chop"
+    ],
+    "chop chop": [
+        "chop chop",
+        "chop-chop"
+    ],
+    "chop chop kali pok": [
+        "chop chop kali pok",
+        "chop-chop kali pok"
+    ],
     "chope": [
-        "chope"
+        "chope",
+        "chup"
+    ],
+    "chopsticks": [
+        "chopsticks"
+    ],
+    "chua": [
+        "chua",
+        "chuan"
+    ],
+    "chuppie": [
+        "chuppie"
+    ],
+    "chut pattern": [
+        "chut pattern",
+        "choot pattern"
+    ],
+    "chwee kueh": [
+        "chwee kueh",
+        "chwee kuih"
+    ],
+    "cik": [
+        "cik",
+        "cek"
+    ],
+    "cincaluk": [
+        "cincaluk",
+        "cincalok",
+        "chinchalok",
+        "chenchalok"
+    ],
+    "climb on top": [
+        "climb on top",
+        "climb on top of"
+    ],
+    "clown": [
+        "clown"
+    ],
+    "cmi": [
+        "cmi",
+        "cannot make it"
+    ],
+    "co ok": [
+        "co ok"
+    ],
+    "cock": [
+        "cock"
+    ],
+    "cock fella": [
+        "cock fella"
+    ],
+    "cock stand": [
+        "cock stand",
+        "cockstand"
+    ],
+    "cock steam": [
+        "cock steam",
+        "cocksteam"
+    ],
+    "cock-up": [
+        "cock-up",
+        "cock up",
+        "cockup",
+        "cocked-up"
+    ],
+    "cockanathan": [
+        "cockanathan",
+        "cockanaathan"
+    ],
+    "coconut": [
+        "coconut"
+    ],
+    "coffee shop": [
+        "coffee shop",
+        "coffeeshop"
+    ],
+    "come i clap for you": [
+        "come i clap for you"
+    ],
+    "commando": [
+        "commando"
+    ],
+    "condemned": [
+        "condemned"
+    ],
+    "confine": [
+        "confine"
+    ],
+    "confinement": [
+        "confinement"
+    ],
+    "confirm": [
+        "confirm",
+        "comfirm"
+    ],
+    "confirm plus chop": [
+        "confirm plus chop",
+        "comfirm plus chop"
+    ],
+    "confirm plus guarantee got chop": [
+        "confirm plus guarantee got chop",
+        "comfirm plus guarantee got chop"
+    ],
+    "cooling": [
+        "cooling"
+    ],
+    "corlick": [
+        "corlick",
+        "kerlick",
+        "kerlik",
+        "corlik"
+    ],
+    "corright": [
+        "corright"
+    ],
+    "cowboy": [
+        "cowboy"
+    ],
+    "crab": [
+        "crab"
+    ],
+    "cucuk": [
+        "cucuk",
+        "chochok",
+        "cocok"
     ],
     "cui": [
         "cui",
         "chui"
     ],
+    "curry puff": [
+        "curry puff",
+        "currypuff"
+    ],
+    "d&d": [
+        "d&d"
+    ],
     "damn": [
         "damn",
         "dam"
     ],
+    "db": [
+        "db"
+    ],
+    "deepavali": [
+        "deepavali"
+    ],
     "dei": [
         "dey",
-        "dei"
+        "dei",
+        "deh"
+    ],
+    "dendeng": [
+        "dendeng"
+    ],
+    "devil curry": [
+        "devil curry",
+        "devil's curry",
+        "curry devil",
+        "kari debal",
+        "curry debal"
+    ],
+    "dhoby": [
+        "dhoby",
+        "dhobi"
+    ],
+    "dhoby ghaut": [
+        "dhoby ghaut"
+    ],
+    "dhoby mark": [
+        "dhoby mark",
+        "dhobi mark"
+    ],
+    "die cock stand": [
+        "die cock stand",
+        "die cockstand"
+    ],
+    "die die": [
+        "die die",
+        "die-die"
+    ],
+    "die die must": [
+        "die die must",
+        "die-die must",
+        "die-die-must"
+    ],
+    "die die must have": [
+        "die die must have",
+        "die-die must have"
+    ],
+    "die die must try": [
+        "die die must try",
+        "die-die must try",
+        "die-die-must-try"
+    ],
+    "ding dong": [
+        "ding dong",
+        "ding-dong"
+    ],
+    "dirty": [
+        "dirty"
+    ],
+    "dodol": [
+        "dodol",
+        "kueh dodol",
+        "kuih dodol"
+    ],
+    "don't play play": [
+        "don't play play",
+        "don't play-play"
+    ],
+    "doneded": [
+        "doneded"
+    ],
+    "dot dot dot": [
+        "dot dot dot",
+        "..."
+    ],
+    "double confirm": [
+        "double confirm",
+        "double-confirm"
+    ],
+    "double-up": [
+        "double-up",
+        "double",
+        "double up"
+    ],
+    "drama": [
+        "drama"
+    ],
+    "drama mama": [
+        "drama mama"
+    ],
+    "drop": [
+        "drop"
+    ],
+    "dry": [
+        "dry"
+    ],
+    "du lan": [
+        "du lan",
+        "dulan",
+        "tu lan",
+        "tulan"
+    ],
+    "duku langsat": [
+        "duku langsat",
+        "duku-langsat",
+        "buah duku-langsat",
+        "buah duku langsat"
     ],
     "dum briyani": [
         "dum briyani"
     ],
+    "dunnid": [
+        "dunnid"
+    ],
     "durian": [
         "durian"
+    ],
+    "eat salt": [
+        "eat salt"
+    ],
+    "eat snake": [
+        "eat snake"
+    ],
+    "ee": [
+        "ee",
+        "eee"
+    ],
+    "ee fu noodles": [
+        "ee fu noodles",
+        "ee fu meen",
+        "yi fu noodles",
+        "ee meen",
+        "ee fu",
+        "ee foo",
+        "eefu"
+    ],
+    "eeyer": [
+        "eeyer",
+        "ee-yer",
+        "ee-er",
+        "eee-er",
+        "ee-yur"
+    ],
+    "egg prata": [
+        "egg prata"
     ],
     "eh": [
         "eh"
@@ -814,6 +1750,11 @@
         "e sai bo",
         "eh sai boh"
     ],
+    "elephant": [
+        "elephant",
+        "elephant's egg",
+        "elephant egg"
+    ],
     "else what": [
         "else what"
     ],
@@ -824,18 +1765,177 @@
         "enthu",
         "entu"
     ],
+    "epok-epok": [
+        "epok-epok",
+        "epok epok"
+    ],
+    "extra": [
+        "extra"
+    ],
+    "eye power": [
+        "eye power"
+    ],
+    "fa cai": [
+        "fa cai",
+        "facai",
+        "fat choy",
+        "fatt choy",
+        "fat choi"
+    ],
+    "face": [
+        "face"
+    ],
+    "falali": [
+        "falali",
+        "ferlali",
+        "felali"
+    ],
+    "fan choy": [
+        "fan choy",
+        "fan choi",
+        "fanchoy"
+    ],
+    "fatty bom bom": [
+        "fatty bom bom",
+        "fatty bombom"
+    ],
+    "fever high": [
+        "fever high"
+    ],
+    "finger splitting game": [
+        "finger splitting game"
+    ],
+    "fishball": [
+        "fishball",
+        "fish ball"
+    ],
+    "fishcake": [
+        "fishcake",
+        "fish cake"
+    ],
+    "five stones": [
+        "five stones",
+        "5 stones"
+    ],
+    "five-foot way": [
+        "five-foot way",
+        "five foot way"
+    ],
+    "fly aeroplane": [
+        "fly aeroplane",
+        "fly me aeroplane"
+    ],
+    "fly kite": [
+        "fly kite",
+        "go fly kite"
+    ],
+    "fly lice": [
+        "fly lice"
+    ],
+    "fork and spoon": [
+        "fork and spoon"
+    ],
+    "friend": [
+        "friend"
+    ],
+    "fu chuk": [
+        "fu chuk"
+    ],
+    "fu yu": [
+        "fu yu"
+    ],
+    "fuck": [
+        "fuck"
+    ],
+    "fuck care": [
+        "fuck care"
+    ],
+    "fuck spider": [
+        "fuck spider",
+        "go fuck spider"
+    ],
     "gabra": [
         "gabra"
+    ],
+    "gabra king": [
+        "gabra king"
     ],
     "gabra like zebra": [
         "gabra like zebra"
     ],
-    "gao": [
+    "gado gado": [
+        "gado gado"
+    ],
+    "gahmen": [
+        "gahmen"
+    ],
+    "kau": [
         "gao",
-        "gau"
+        "kau",
+        "kao"
+    ],
+    "gao dim": [
+        "gao dim",
+        "gau dim"
+    ],
+    "kau kau": [
+        "gao gao",
+        "kau kau",
+        "kao kao"
+    ],
+    "garang": [
+        "garang"
+    ],
+    "gasak": [
+        "gasak"
+    ],
+    "ger": [
+        "ger"
+    ],
+    "gerek": [
+        "gerek"
+    ],
+    "getai": [
+        "getai"
+    ],
+    "gg": [
+        "gg"
     ],
     "ghim moh": [
         "ghim moh"
+    ],
+    "gila": [
+        "gila",
+        "gile",
+        "giler"
+    ],
+    "give face": [
+        "give face"
+    ],
+    "glam": [
+        "glam"
+    ],
+    "goli": [
+        "goli"
+    ],
+    "gone case": [
+        "gone case",
+        "gone-case"
+    ],
+    "gong": [
+        "gong",
+        "gong-gong",
+        "gong gong"
+    ],
+    "goondu": [
+        "goondu"
+    ],
+    "gor chiam tua kuay gu chia leng": [
+        "gor chiam tua kuay gu chia leng",
+        "goh chiam tua kuey gu chia leng"
+    ],
+    "goreng": [
+        "goreng"
     ],
     "gostan": [
         "gostan",
@@ -843,15 +1943,40 @@
         "go stan",
         "go stun"
     ],
+    "grago": [
+        "grago"
+    ],
+    "grandfather's": [
+        "grandfather's",
+        "grandfather"
+    ],
+    "grandfather's army": [
+        "grandfather's army",
+        "grandfather army"
+    ],
+    "grandfather's road": [
+        "grandfather's road",
+        "grandfather road"
+    ],
     "green bean": [
         "green bean",
         "green beans"
+    ],
+    "green bean soup": [
+        "green bean soup"
     ],
     "gu ni": [
         "gu ni",
         "gu nee",
         "goo ni",
         "goo nee"
+    ],
+    "gu niang": [
+        "gu niang",
+        "guniang",
+        "ku niang",
+        "kuniang",
+        "koo niang"
     ],
     "gu yu": [
         "gu yu",
@@ -864,7 +1989,62 @@
     ],
     "guai lan": [
         "guai lan",
-        "guailan"
+        "guailan",
+        "kuai lan",
+        "kwai lan"
+    ],
+    "guarantee got chop": [
+        "guarantee got chop"
+    ],
+    "gula melaka": [
+        "gula melaka"
+    ],
+    "guo tie": [
+        "guo tie",
+        "guotie"
+    ],
+    "ha": [
+        "ha",
+        "huh",
+        "hah"
+    ],
+    "habis": [
+        "habis"
+    ],
+    "hae bee": [
+        "hae bee",
+        "hae bi",
+        "haebi",
+        "haebee",
+        "haybee",
+        "hay bee"
+    ],
+    "hae bee hiam": [
+        "hae bee hiam",
+        "hae bi hiam",
+        "hay bee hiam"
+    ],
+    "hae cho": [
+        "hae cho",
+        "hay cho"
+    ],
+    "hae ko": [
+        "hae ko",
+        "hay ko",
+        "hae-ko"
+    ],
+    "hae mee": [
+        "hae mee",
+        "hay mee"
+    ],
+    "hainanese": [
+        "hainanese"
+    ],
+    "hainanese pork chop": [
+        "hainanese pork chop"
+    ],
+    "hainanese steamboat": [
+        "hainanese steamboat"
     ],
     "haiz": [
         "haiz",
@@ -873,14 +2053,167 @@
         "haish",
         "haizz"
     ],
+    "hakka yong tau foo": [
+        "hakka yong tau foo",
+        "hakka yong tau fu"
+    ],
+    "halal": [
+        "halal"
+    ],
+    "half ball": [
+        "half ball"
+    ],
+    "half past six": [
+        "half past six",
+        "half-past-six"
+    ],
+    "ham chim peng": [
+        "ham chim peng",
+        "hum chim peng",
+        "haam ji peng",
+        "hum ji peng",
+        "ham ji peng"
+    ],
+    "ham shap": [
+        "ham shap",
+        "hum shup",
+        "hum shap"
+    ],
+    "hammer": [
+        "hammer"
+    ],
     "hamsum": [
         "hamsum",
         "handsum",
         "hansum",
         "hamsem"
     ],
+    "handphone": [
+        "handphone"
+    ],
+    "hao lian": [
+        "hao lian",
+        "haolian",
+        "hau lian"
+    ],
+    "har cheong gai": [
+        "har cheong gai",
+        "har cheong kai"
+    ],
+    "har gao": [
+        "har gao",
+        "har gau",
+        "har kao"
+    ],
+    "har lok": [
+        "har lok"
+    ],
+    "haram": [
+        "haram"
+    ],
+    "hari raya": [
+        "hari raya"
+    ],
+    "hari raya haji": [
+        "hari raya haji"
+    ],
+    "hari raya puasa": [
+        "hari raya puasa"
+    ],
+    "hati babi": [
+        "hati babi"
+    ],
+    "havoc": [
+        "havoc"
+    ],
+    "hawker": [
+        "hawker"
+    ],
+    "hawker centre": [
+        "hawker centre",
+        "hawker center"
+    ],
+    "hawker stall": [
+        "hawker stall"
+    ],
+    "hdb": [
+        "hdb"
+    ],
+    "heart attack": [
+        "heart attack"
+    ],
+    "heartlander": [
+        "heartlander"
+    ],
+    "heartware": [
+        "heartware"
+    ],
+    "heaty": [
+        "heaty"
+    ],
+    "heck care": [
+        "heck care"
+    ],
+    "hee peow": [
+        "hee peow",
+        "her peow",
+        "hee piao",
+        "her piao"
+    ],
+    "hell money": [
+        "hell money"
+    ],
     "heng": [
         "heng"
+    ],
+    "henghua": [
+        "henghua",
+        "henghwa",
+        "hinghwa"
+    ],
+    "hentak kaki": [
+        "hentak kaki",
+        "hentak-kaki"
+    ],
+    "hentam": [
+        "hentam",
+        "hantam",
+        "hamtam"
+    ],
+    "hentam bola": [
+        "hentam bola"
+    ],
+    "hex": [
+        "hex"
+    ],
+    "hiau": [
+        "hiau",
+        "hiao",
+        "heow"
+    ],
+    "hilang": [
+        "hilang"
+    ],
+    "ho": [
+        "ho"
+    ],
+    "ho chiah": [
+        "ho chiah",
+        "ho jiak",
+        "ho chia",
+        "ho chiak"
+    ],
+    "ho chiah ho khun": [
+        "ho chiah ho khun",
+        "ho jiak ho khun",
+        "ho jiak ho kun",
+        "ho chiak ho khun",
+        "ho chia ho khun "
+    ],
+    "ho mia": [
+        "ho mia",
+        "hor mia",
+        "hor miah"
     ],
     "ho seh": [
         "hoseh",
@@ -892,6 +2225,23 @@
         "ho seh bo",
         "ho se bo"
     ],
+    "hockchew": [
+        "hockchew",
+        "hokchew",
+        "hockchiew",
+        "hokchiew",
+        "foochow"
+    ],
+    "hokkien": [
+        "hokkien"
+    ],
+    "hokkien mee": [
+        "hokkien mee",
+        "hokkien fried mee"
+    ],
+    "hokkien peng": [
+        "hokkien peng"
+    ],
     "hong gan": [
         "hong gan",
         "honggan",
@@ -901,33 +2251,214 @@
         "hor",
         "horh"
     ],
+    "hor fun": [
+        "hor fun"
+    ],
+    "hor ka sai": [
+        "hor ka sai"
+    ],
+    "horlan": [
+        "horlan",
+        "hor lan"
+    ],
+    "horn": [
+        "horn"
+    ],
+    "horrigible": [
+        "horrigible"
+    ],
+    "huat": [
+        "huat"
+    ],
+    "huat kueh": [
+        "huat kueh",
+        "huat kuih"
+    ],
+    "hum ji": [
+        "hum ji",
+        "humji",
+        "hum chi",
+        "humchi"
+    ],
+    "hungry ghost festival": [
+        "hungry ghost festival"
+    ],
     "i tell you": [
         "i tell you",
         "wa ka li kong",
         "limpeh tell you",
         "limpeh ka li kong"
     ],
+    "ic": [
+        "ic"
+    ],
+    "ice ball": [
+        "ice ball",
+        "iceball"
+    ],
+    "ice jelly": [
+        "ice jelly"
+    ],
+    "ice kacang": [
+        "ice kacang",
+        "ice kachang"
+    ],
+    "ict": [
+        "ict"
+    ],
+    "idiyappam": [
+        "idiyappam",
+        "idiappam"
+    ],
+    "idle king": [
+        "idle king"
+    ],
+    "ikan bilis": [
+        "ikan bilis"
+    ],
+    "ikan kicap": [
+        "ikan kicap"
+    ],
+    "ikan kuning": [
+        "ikan kuning",
+        "kuning"
+    ],
+    "ikan merah": [
+        "ikan merah"
+    ],
+    "ikan todak": [
+        "ikan todak"
+    ],
+    "indian chief": [
+        "indian chief"
+    ],
+    "indian rojak": [
+        "indian rojak"
+    ],
+    "ini macan": [
+        "ini macan"
+    ],
+    "ipoh hor fun": [
+        "ipoh hor fun"
+    ],
+    "iron rice bowl": [
+        "iron rice bowl",
+        "iron ricebowl"
+    ],
+    "isit": [
+        "isit",
+        "is it",
+        "issit",
+        "izit",
+        "izzit"
+    ],
+    "itchy": [
+        "itchy"
+    ],
+    "itchy backside": [
+        "itchy backside"
+    ],
+    "itek sio": [
+        "itek sio"
+    ],
+    "itek tim": [
+        "itek tim"
+    ],
     "jaga": [
         "jaga"
     ],
-    "jiak": [
-        "jiak",
-        "chiah",
-        "chiak"
+    "jalan": [
+        "jalan"
+    ],
+    "jalan-jalan": [
+        "jalan-jalan"
+    ],
+    "jangan main-main": [
+        "jangan main-main",
+        "jangan main main"
+    ],
+    "jangan tension": [
+        "jangan tension"
+    ],
+    "jelak": [
+        "jelak"
+    ],
+    "ji gu pa": [
+        "ji gu pa",
+        "ji ku pa",
+        "chi gu pa",
+        "chi ku pa"
     ],
     "jialat": [
         "jialat",
         "jia lat",
         "chiah lat",
-        "jiak lat"
+        "jiak lat",
+        "chia lat"
+    ],
+    "jibaboom": [
+        "jibaboom",
+        "chibaboom",
+        "chi ba boom",
+        "ji ba boom",
+        "chi-ba-boom",
+        "ji-ba-boom"
+    ],
+    "jibra": [
+        "jibra"
+    ],
+    "jilo": [
+        "jilo",
+        "jiro",
+        "zilo"
     ],
     "jin gang": [
         "jin gang",
         "gin gang",
         "jin-gang"
     ],
+    "jio": [
+        "jio",
+        "chio"
+    ],
+    "jom": [
+        "jom"
+    ],
+    "jube": [
+        "jube",
+        "jut"
+    ],
     "just whack": [
         "just whack"
+    ],
+    "ka ki nang": [
+        "ka ki nang",
+        "kaki nang"
+    ],
+    "ka na sai": [
+        "ka na sai",
+        "kns",
+        "kanasai",
+        "kana sai",
+        "kanna sai",
+        "kannasai",
+        "kena sai"
+    ],
+    "kacang": [
+        "kacang",
+        "kachang"
+    ],
+    "kacang putih": [
+        "kacang putih",
+        "kachang puteh"
+    ],
+    "kacau": [
+        "kacau"
+    ],
+    "kai lan": [
+        "kai lan",
+        "kailan",
+        "kai-lan"
     ],
     "kaki": [
         "kaki",
@@ -938,9 +2469,36 @@
         "ka ki lang",
         "ka ki nang"
     ],
+    "kalang kabut": [
+        "kalang kabut",
+        "kalang kabok",
+        "kelam kabut"
+    ],
+    "kali pok": [
+        "kali pok",
+        "kalipok",
+        "curry pok",
+        "currypok"
+    ],
+    "kampung": [
+        "kampung",
+        "kampong"
+    ],
+    "kampung chicken": [
+        "kampung chicken",
+        "kampong chicken"
+    ],
     "kan": [
         "kan",
         "gan"
+    ],
+    "kan cheong": [
+        "kan cheong",
+        "kancheong"
+    ],
+    "kan cheong spider": [
+        "kan cheong spider",
+        "kancheong spider"
     ],
     "kan ni na": [
         "kan ni na",
@@ -951,10 +2509,99 @@
         "kan lin nia",
         "kan ni nia"
     ],
-    "karang guni": [
+    "kan ni na bu": [
+        "kan ni na bu",
+        "kan lin na bu",
+        "kaninabu",
+        "kan nin na bu",
+        "knnb",
+        "kan lin nia bu",
+        "kan ni nia bu",
+        "kan ni na be",
+        "kaninabe"
+    ],
+    "kan ni na bu chao chee bai": [
+        "knnbccb",
+        "kan ni na bu chao chee bai",
+        "kan ni na bu chao chee bye",
+        "kan ni na bu chao chi bai",
+        "kan ni na bu chao ji bai",
+        "kan lin na bu chao chee bai",
+        "kaninabu chao chibai",
+        "kan nin na bu chao chi bai",
+        "kan lin nia bu chao chi bai",
+        "kan ni nia bu chao chi bai"
+    ],
+    "kang he kia": [
+        "kang he kia",
+        "kang hi kia"
+    ],
+    "kang tao": [
+        "kang tao",
+        "kang tau"
+    ],
+    "kangkong": [
+        "kangkong",
+        "kang kong"
+    ],
+    "kansui": [
+        "kansui",
+        "gan shui",
+        "kan sui",
+        "air abu"
+    ],
+    "kapuk": [
+        "kapuk",
+        "kapok"
+    ],
+    "karipap": [
+        "karipap",
+        "kari pap"
+    ],
+    "karung guni": [
+        "karung guni",
         "karang guni",
-        "karangguni",
-        "garang guni"
+        "karangguni"
+    ],
+    "karung guni man": [
+        "karung guni man",
+        "karang guni man"
+    ],
+    "kati": [
+        "kati",
+        "catty"
+    ],
+    "katik": [
+        "katik",
+        "katek"
+    ],
+    "katik ayam": [
+        "katik ayam",
+        "katek ayam"
+    ],
+    "kau choi": [
+        "kau choi",
+        "ku chai",
+        "ku chye",
+        "kucai",
+        "koo chye"
+    ],
+    "kau kay": [
+        "kau kay",
+        "gau gei",
+        "gao gei"
+    ],
+    "kau kay choi": [
+        "kau kay choi",
+        "kau kay choy",
+        "gau gei choi",
+        "gao gei choy"
+    ],
+    "kau kay zi": [
+        "kau kay zi",
+        "kau kay tzee",
+        "gau gei zi",
+        "gao gei zi"
     ],
     "kau lat": [
         "kau lat",
@@ -975,6 +2622,15 @@
         "kaowei",
         "gaowei",
         "gauwei"
+    ],
+    "kaya": [
+        "kaya"
+    ],
+    "kaya toast": [
+        "kaya toast"
+    ],
+    "kayu": [
+        "kayu"
     ],
     "ke belakang pusing": [
         "ke belakang pusing",
@@ -997,8 +2653,27 @@
         "kee siao",
         "kee xiao",
         "kee siau",
-        "ki siao",
-        "keesiao"
+        "khi siao",
+        "keesiao",
+        "khi siau"
+    ],
+    "keh keh": [
+        "keh keh",
+        "geh geh",
+        "kay kay",
+        "gey gey"
+    ],
+    "keh kiang": [
+        "keh kiang",
+        "geh kiang",
+        "gey kiang",
+        "geykiang",
+        "geh khiang",
+        "ke khiang",
+        "kay kiang"
+    ],
+    "keng": [
+        "keng"
     ],
     "kepala butoh": [
         "kepala butoh"
@@ -1006,8 +2681,27 @@
     "ketapang": [
         "ketapang"
     ],
+    "kha kana chiu, chiu kana kha": [
+        "kha kana chiu, chiu kana kha",
+        "kah kana chiu, chiu kana kah"
+    ],
+    "khao peh khao bu": [
+        "khao peh khao bu",
+        "kpkb",
+        "kao peh kao bu",
+        "khau peh khau bu",
+        "kau peh kau bu",
+        "kao pei kao bu",
+        "khao pei khao bu"
+    ],
     "kia": [
         "kia"
+    ],
+    "kia lai kia khi": [
+        "kia lai kia khi",
+        "gia lai gia ki",
+        "kia lai kia ki",
+        "klkk"
     ],
     "kok": [
         "kok"
@@ -1035,6 +2729,14 @@
     "kosong": [
         "kosong"
     ],
+    "ku ku jiao": [
+        "ku ku jiao",
+        "kuku jiao",
+        "kukujiao",
+        "kkj",
+        "ku ku chiau",
+        "ku ku chiao"
+    ],
     "kueh pie tee": [
         "kueh pie tee",
         "kuih pie tee",
@@ -1042,12 +2744,29 @@
         "kueh paiti",
         "pie tee"
     ],
+    "kuku bird": [
+        "kuku bird",
+        "ku ku bird",
+        "cuckoo bird",
+        "coo coo bird"
+    ],
     "kuku jiao": [
         "kuku jiao",
         "ku ku jiao",
         "kkj",
         "gu gu jiao",
         "ku ku chiau"
+    ],
+    "kumgong": [
+        "kumgong",
+        "khamgong",
+        "kum gong",
+        "cum gong",
+        "cumgong"
+    ],
+    "kuti-kuti": [
+        "kuti kuti",
+        "kuti-kuti"
     ],
     "lah": [
         "la",
@@ -1064,7 +2783,7 @@
         "lanjiao",
         "lj"
     ],
-    "lan pa": [
+    "lam pa": [
         "lan pa",
         "lanpa",
         "lampa",
@@ -1082,7 +2801,10 @@
         "langgah"
     ],
     "lao jiao": [
-        "lao jiao"
+        "lao jiao",
+        "lau jiao",
+        "lau jiau",
+        "lao chiao"
     ],
     "lapsap": [
         "lapsap",
@@ -1109,6 +2831,9 @@
     ],
     "leh": [
         "leh"
+    ],
+    "lend": [
+        "lend"
     ],
     "leng zai": [
         "leng zai",
@@ -1163,6 +2888,9 @@
     ],
     "lor": [
         "lor"
+    ],
+    "lose face": [
+        "lose face"
     ],
     "luan": [
         "luan"
@@ -1250,6 +2978,45 @@
         "ons",
         "onz"
     ],
+    "or ya peh ya": [
+        "or ya peh ya",
+        "or ah peh ah",
+        "or ya peh ah",
+        "or ya pek ah",
+        "or ya pek ya",
+        "oya-peya",
+        "oyapeya",
+        "oryapeya",
+        "o ya peh ya",
+        "o ya peh ah"
+    ],
+    "or ya peh ya som": [
+        "or ya peh ya som",
+        "or ah peh ah som",
+        "or ya peh ah som",
+        "or ya pek ah som",
+        "or ya pek ya som",
+        "oya-peya som",
+        "oyapeyasom",
+        "oryapeyasom",
+        "o ya peh ya som",
+        "o ya peh ah som"
+    ],
+    "or ya peh ya som balik ah": [
+        "or ya peh ya som balik ah",
+        "oya peya som balik ah",
+        "o ya peh ah som balik ah"
+    ],
+    "or ya peh ya som balik ah roti prata chai tow kway": [
+        "or ya peh ya som balik ah roti prata chai tow kway",
+        "oya peya som balik ah roti prata chai tow kway",
+        "o ya peh ah som balik ah roti prata chai tow kway"
+    ],
+    "or ya peh ya som balik ah roti prata char kway teow": [
+        "or ya peh ya som balik ah roti prata char kway teow",
+        "oya peya som balik ah roti prata char kway teow",
+        "o ya peh ah som balik ah roti prata char kway teow"
+    ],
     "orbi quek": [
         "orbi good",
         "orbi quek",
@@ -1318,6 +3085,35 @@
     "pasar": [
         "pasar"
     ],
+    "pasar malam": [
+        "pasar malam"
+    ],
+    "pattern": [
+        "pattern"
+    ],
+    "pattern more than badminton": [
+        "pattern more than badminton",
+        "pattern like badminton"
+    ],
+    "pau sua pau hai": [
+        "pau sua pau hai",
+        "pao sua pao hai",
+        "bao sua bao hai"
+    ],
+    "pe": [
+        "pe"
+    ],
+    "pei daan": [
+        "pei daan",
+        "pei tan",
+        "pei dan"
+    ],
+    "pei daan chok": [
+        "pei daan chok",
+        "pei tan chok",
+        "pei taan zuk",
+        "pei dan chok"
+    ],
     "pek chek": [
         "pek chek",
         "pekchek",
@@ -1326,13 +3122,18 @@
         "pek-chhek"
     ],
     "peng": [
-        "peng",
-        "beng",
-        "bing"
+        "peng"
     ],
     "pengsan": [
         "pengsan",
         "peng san"
+    ],
+    "pepsi cola 1, 2, 3": [
+        "pepsi cola 1, 2, 3",
+        "pepsi cola 123",
+        "pepsi cola 1 2 3",
+        "pepsi cola",
+        "pepsi-cola"
     ],
     "perkedil": [
         "perkedil",
@@ -1347,9 +3148,36 @@
         "piak-piak",
         "piak piak"
     ],
+    "pisang goreng": [
+        "pisang goreng",
+        "goreng pisang"
+    ],
+    "pok kai": [
+        "pok kai",
+        "pok gai",
+        "pokkai",
+        "pokai",
+        "pok-gai",
+        "pok-kai"
+    ],
+    "police and thief": [
+        "police and thief",
+        "police and thieves",
+        "police & thief",
+        "police & thieves"
+    ],
+    "pork ball": [
+        "pork ball"
+    ],
+    "putu mayam": [
+        "putu mayam"
+    ],
     "ramly burger": [
         "ramly burger",
         "burger ramly"
+    ],
+    "rempah udang": [
+        "rempah udang"
     ],
     "rendang": [
         "rendang"
@@ -1393,8 +3221,21 @@
         "satay mee hoon",
         "satay meehoon"
     ],
+    "save face": [
+        "save face"
+    ],
     "sayur lodeh": [
         "sayur lodeh"
+    ],
+    "scissors paper stone": [
+        "scissors paper stone",
+        "scissors-paper-stone"
+    ],
+    "scissors paper stone leg stretch": [
+        "scissors paper stone leg stretch",
+        "scissors paper stone stretch",
+        "scissors paper stone split",
+        "scissors paper stone splits"
     ],
     "sedia": [
         "sedia"
@@ -1446,6 +3287,17 @@
         "sianz",
         "sienz"
     ],
+    "sign extra": [
+        "sign extra"
+    ],
+    "siput gonggong": [
+        "siput gonggong",
+        "siput",
+        "gonggong",
+        "gongong",
+        "gong-gong",
+        "siput gongong"
+    ],
     "song": [
         "song"
     ],
@@ -1460,6 +3312,12 @@
         "steady pom pi pi",
         "steady pom pipi",
         "steady pompipi"
+    ],
+    "steam": [
+        "steam"
+    ],
+    "steamboat": [
+        "steamboat"
     ],
     "stim": [
         "stim",
@@ -1493,8 +3351,32 @@
         "kambing soup",
         "mutton soup"
     ],
+    "talk cock": [
+        "talk cock"
+    ],
+    "talk cock sing song": [
+        "talk cock sing song"
+    ],
     "tampines": [
         "tampines"
+    ],
+    "tan ah kao": [
+        "tan ah kao",
+        "tan ah kau",
+        "tan ah kow"
+    ],
+    "tapau": [
+        "tapau",
+        "tapao",
+        "ta pau",
+        "ta pao",
+        "da bao",
+        "da pau",
+        "da pao",
+        "dabao",
+        "dapau",
+        "dapao ",
+        "tapow"
     ],
     "tau cheo": [
         "tau cheo",
@@ -1506,11 +3388,37 @@
     "tekan": [
         "tekan"
     ],
+    "telt": [
+        "telt",
+        "telc",
+        "talc"
+    ],
     "terbalik": [
         "terbalik",
         "tombalik",
         "terbalek",
         "tombalek"
+    ],
+    "thumb fight": [
+        "thumb fight"
+    ],
+    "ti gu": [
+        "ti gu",
+        "di gu",
+        "te gu",
+        "teh gu"
+    ],
+    "tiam": [
+        "tiam",
+        "diam"
+    ],
+    "tiao her": [
+        "tiao her",
+        "tiao he",
+        "tiao hi",
+        "diao her",
+        "diao he",
+        "tio hoo"
     ],
     "tiko": [
         "tico",
@@ -1531,8 +3439,17 @@
     "tiong": [
         "tiong"
     ],
+    "toto": [
+        "toto"
+    ],
     "tulang merah": [
         "tulang merah"
+    ],
+    "very the": [
+        "very the"
+    ],
+    "virus": [
+        "virus"
     ],
     "wa": [
         "gua",
@@ -1571,8 +3488,14 @@
     "wayang": [
         "wayang"
     ],
+    "wet market": [
+        "wet market"
+    ],
     "whack": [
         "whack"
+    ],
+    "what time already": [
+        "what time already"
     ],
     "whole jin gang": [
         "whole jin gang",
@@ -1588,6 +3511,10 @@
         "yantao",
         "yan tao"
     ],
+    "yong tau foo": [
+        "yong tau foo",
+        "yong tau fu"
+    ],
     "you mee": [
         "you mee",
         "u mee",
@@ -1601,10 +3528,708 @@
         "zao",
         "chao"
     ],
+    "zha": [
+        "zha",
+        "zhat"
+    ],
     "zhun": [
         "zhun",
         "zun",
         "tzun",
         "tzhun"
+    ],
+    "kaypoh": [
+        "kaypoh",
+        "kepoh",
+        "kay poh"
+    ],
+    "kaypoh chee": [
+        "kaypoh chee",
+        "kay poh chee",
+        "kaypoh chi"
+    ],
+    "kee chang": [
+        "kee chang",
+        "ki chang",
+        "keechang",
+        "kee zhang",
+        "ki zhang"
+    ],
+    "kelong": [
+        "kelong"
+    ],
+    "kena": [
+        "kena"
+    ],
+    "khioh tioh": [
+        "khioh tioh",
+        "kheo teoh",
+        "kio tio",
+        "keoh teoh",
+        "khio tio"
+    ],
+    "keropok": [
+        "keropok"
+    ],
+    "ketok": [
+        "ketok"
+    ],
+    "ketupat": [
+        "ketupat"
+    ],
+    "khek": [
+        "khek"
+    ],
+    "kena sai": [
+        "kena sai"
+    ],
+    "keng king": [
+        "keng king"
+    ],
+    "keng ka liau": [
+        "keng ka liau",
+        "keng ka liao",
+        "keng kah liao",
+        "keng kah liau"
+    ],
+    "kengster": [
+        "kengster",
+        "gengster"
+    ],
+    "kia-kia": [
+        "kia-kia",
+        "kia kia"
+    ],
+    "khun": [
+        "khun",
+        "khoon",
+        "koon",
+        "kun"
+    ],
+    "kiam chye": [
+        "kiam chye",
+        "kiam chai",
+        "giam chye",
+        "giam chai"
+    ],
+    "khiao ka": [
+        "khiao ka",
+        "kiao kah",
+        "khiao kah",
+        "kiao kar",
+        "khiau ka"
+    ],
+    "khiao ka io lam pa": [
+        "khiao ka io lam pa",
+        "khiao ka io lan pa",
+        "kiao kah yo lum pa",
+        "khiao kah io lam pa",
+        "kiao kar yo lum pa",
+        "khiau ka io lam pha"
+    ],
+    "kiasi": [
+        "kiasi",
+        "kia si"
+    ],
+    "kiasu": [
+        "kiasu",
+        "kia su"
+    ],
+    "kiasiism": [
+        "kiasiism",
+        "kiasi-ism"
+    ],
+    "kiasuism": [
+        "kiasuism",
+        "kiasu-ism"
+    ],
+    "kiasuness": [
+        "kiasuness",
+        "kiasu-ness"
+    ],
+    "kilat": [
+        "kilat"
+    ],
+    "kin": [
+        "kin"
+    ],
+    "king": [
+        "king"
+    ],
+    "kiv": [
+        "kiv"
+    ],
+    "kiwi": [
+        "kiwi"
+    ],
+    "keling": [
+        "keling",
+        "kling"
+    ],
+    "keling kia": [
+        "keling kia"
+    ],
+    "kong bak pau": [
+        "kong bak pau",
+        "khong bak pau",
+        "kong bak pao"
+    ],
+    "kopi kia": [
+        "kopi kia"
+    ],
+    "ga dai": [
+        "ga dai",
+        "kah dai",
+        "ka dai"
+    ],
+    "kopi licence": [
+        "kopi licence",
+        "kopi license"
+    ],
+    "kopi money": [
+        "kopi money"
+    ],
+    "poh": [
+        "poh",
+        "pok",
+        "po"
+    ],
+    "siu dai": [
+        "siu dai",
+        "siew dai"
+    ],
+    "kopi susu": [
+        "kopi susu"
+    ],
+    "c": [
+        "c",
+        "si"
+    ],
+    "susu": [
+        "susu"
+    ],
+    "kopiccino": [
+        "kopiccino",
+        "kopichino",
+        "kopi-chino"
+    ],
+    "tehccino": [
+        "tehccino",
+        "teh-chino",
+        "tehchino"
+    ],
+    "miloccino": [
+        "miloccino",
+        "milo-chino",
+        "milochino"
+    ],
+    "-ccino": [
+        "-ccino",
+        "-chino"
+    ],
+    "dinosaur": [
+        "dinosaur"
+    ],
+    "godzilla": [
+        "godzilla"
+    ],
+    "tat kiu": [
+        "tat kiu",
+        "tak kiu",
+        "tak giu",
+        "that kiu",
+        "tat-kiu",
+        "tak-kiu",
+        "that-kiu"
+    ],
+    "korban": [
+        "korban"
+    ],
+    "kotek": [
+        "kotek"
+    ],
+    "konek": [
+        "konek"
+    ],
+    "koyak": [
+        "koyak"
+    ],
+    "kua chi": [
+        "kua chi",
+        "kuachi",
+        "kwa chee",
+        "kwachee",
+        "kwachi",
+        "koa chi",
+        "koachi"
+    ],
+    "khoa lang": [
+        "khoa lang",
+        "khua lang",
+        "kua lang"
+    ],
+    "khoa midnight": [
+        "khoa midnight",
+        "khua midnight",
+        "kwah meh nite",
+        "kuah midnight"
+    ],
+    "kucing kurap": [
+        "kucing kurap"
+    ],
+    "kueh": [
+        "kueh",
+        "kuih",
+        "kue",
+        "kway"
+    ],
+    "kueh ambon": [
+        "kueh ambon",
+        "kuih ambon",
+        "bika ambon"
+    ],
+    "kueh bangkit": [
+        "kueh bangkit",
+        "kuih bangkit"
+    ],
+    "kueh bahulu": [
+        "kueh bahulu",
+        "kuih bahulu"
+    ],
+    "kueh bingka ubi": [
+        "kueh bingka ubi",
+        "kueh bengka ubi",
+        "kuih bingka ubi",
+        "kueh bingka",
+        "kuih bingka",
+        "kue bingka"
+    ],
+    "kueh dadar": [
+        "kueh dadar",
+        "kuih dadar"
+    ],
+    "kueh jongkong": [
+        "kueh jongkong",
+        "kuih jongkong"
+    ],
+    "kueh kapit": [
+        "kueh kapit",
+        "kuih kapit",
+        "apit-apit"
+    ],
+    "kueh koci": [
+        "kueh koci",
+        "kueh kochi",
+        "kuih koci"
+    ],
+    "kueh kosui": [
+        "kueh kosui",
+        "kuih kosui"
+    ],
+    "kueh lapis": [
+        "kueh lapis",
+        "kuih lapis",
+        "cake lapis"
+    ],
+    "kueh lopes": [
+        "kueh lopes",
+        "kuih lopes"
+    ],
+    "kueh salat": [
+        "kueh salat",
+        "kuih salat"
+    ],
+    "kueh seri muka": [
+        "kueh seri muka",
+        "kuih seri muka",
+        "serimuka",
+        "seri muka",
+        "sri muka"
+    ],
+    "putri salat": [
+        "putri salat"
+    ],
+    "kueh talam": [
+        "kueh talam",
+        "kuih talam"
+    ],
+    "kueh tutu": [
+        "kueh tutu",
+        "kuih tutu"
+    ],
+    "kueh wajik": [
+        "kueh wajik",
+        "kuih wajik"
+    ],
+    "soon kueh": [
+        "soon kueh",
+        "sun kueh",
+        "soon kuih"
+    ],
+    "kuti": [
+        "kuti"
+    ],
+    "kway chap": [
+        "kway chap",
+        "kueh chap",
+        "kuay chap"
+    ],
+    "kway teow": [
+        "kway teow",
+        "kuay teow"
+    ],
+    "keh ang moh": [
+        "keh ang moh",
+        "geh ang moh",
+        "kay ang moh",
+        "kae ang moh"
+    ],
+    "kenz": [
+        "kenz"
+    ],
+    "kha chng": [
+        "kha chng",
+        "kar chng",
+        "ka cheng",
+        "kha cheng",
+        "kar cheng"
+    ],
+    "kee chia": [
+        "kee chia",
+        "khi chia",
+        "ki chia"
+    ],
+    "kiam": [
+        "kiam"
+    ],
+    "kiam siap": [
+        "kiam siap",
+        "kiamsiap"
+    ],
+    "khiam phah": [
+        "khiam phah",
+        "khiam pah"
+    ],
+    "khong kha khiao": [
+        "khong kha khiao",
+        "khong kha khiau",
+        "khong ka kiao",
+        "khong kar kiao",
+        "kong ka kiao"
+    ],
+    "kampung spirit": [
+        "kampung spirit",
+        "kampong spirit"
+    ],
+    "referee kayu": [
+        "referee kayu"
+    ],
+    "kakak": [
+        "kakak"
+    ],
+    "legit": [
+        "legit"
+    ],
+    "liddat": [
+        "liddat",
+        "like that"
+    ],
+    "lepak": [
+        "lepak"
+    ],
+    "lagi": [
+        "lagi"
+    ],
+    "look-see": [
+        "look-see",
+        "look see"
+    ],
+    "look look see see": [
+        "look look see see",
+        "look-look-see-see",
+        "look-look see-see"
+    ],
+    "see see look look": [
+        "see see look look",
+        "see-see-look-look",
+        "see-see look-look"
+    ],
+    "lobang": [
+        "lobang"
+    ],
+    "tua pao sian": [
+        "tua pao sian",
+        "tua pao xian",
+        "dua pao xian",
+        "tua phau sian",
+        "tua pau sian"
+    ],
+    "sia lan": [
+        "sia lan",
+        "xia lan",
+        "sialan",
+        "xialan"
+    ],
+    "lao lan": [
+        "lao lan",
+        "lau lan",
+        "laolan",
+        "laulan"
+    ],
+    "lao sai": [
+        "lao sai",
+        "laosai",
+        "lau sai"
+    ],
+    "la sai": [
+        "la sai"
+    ],
+    "lao pee huih": [
+        "lao pee huih",
+        "lau bei hyut",
+        "lau phi huih",
+        "lao pi huih",
+        "lau pei huet"
+    ],
+    "leceh": [
+        "leceh"
+    ],
+    "already": [
+        "already"
+    ],
+    "liah bo kiu": [
+        "liah bo kiu",
+        "liak bo kiu",
+        "liah bo giu"
+    ],
+    "lao hia": [
+        "lao hia",
+        "lau hia"
+    ],
+    "lin lao hia": [
+        "lin lao hia",
+        "lin lau hia"
+    ],
+    "chap cheng kia": [
+        "chap cheng kia",
+        "chap zeng kia"
+    ],
+    "long zong": [
+        "long zong",
+        "long chong",
+        "long zhong"
+    ],
+    "lun zun": [
+        "lun zun"
+    ],
+    "la mian": [
+        "la mian",
+        "lamian"
+    ],
+    "laksa": [
+        "laksa"
+    ],
+    "laksa leaf": [
+        "laksa leaf"
+    ],
+    "lan": [
+        "lan"
+    ],
+    "lan-lan": [
+        "lan-lan",
+        "lan lan"
+    ],
+    "langsat": [
+        "langsat"
+    ],
+    "lui cha fan": [
+        "lui cha fan",
+        "lei cha fan"
+    ],
+    "lelong": [
+        "lelong"
+    ],
+    "lemak": [
+        "lemak"
+    ],
+    "lemang": [
+        "lemang"
+    ],
+    "lembek": [
+        "lembek"
+    ],
+    "blue ginger": [
+        "blue ginger"
+    ],
+    "level": [
+        "level"
+    ],
+    "liam keng": [
+        "liam keng"
+    ],
+    "like nobody's business": [
+        "like nobody's business"
+    ],
+    "lin yoong": [
+        "lin yoong",
+        "lin yung"
+    ],
+    "little red dot": [
+        "little red dot"
+    ],
+    "lo hei": [
+        "lo hei",
+        "lohei"
+    ],
+    "yu sheng": [
+        "yu sheng",
+        "yusheng"
+    ],
+    "lo shee fun": [
+        "lo shee fun",
+        "lo shi fan",
+        "lo shu fun",
+        "lau shu fun",
+        "loh shi fun",
+        "loh see fun",
+        "loh shee fun"
+    ],
+    "loh gai yik": [
+        "loh gai yik",
+        "loh kai yik",
+        "lo gai yik",
+        "lo kai yik"
+    ],
+    "lok lok": [
+        "lok lok",
+        "loklok",
+        "lou lou",
+        "loulou"
+    ],
+    "long chiam pas": [
+        "long chiam pas",
+        "lom chiam pas"
+    ],
+    "longan": [
+        "longan"
+    ],
+    "longkang": [
+        "longkang"
+    ],
+    "lontong": [
+        "lontong"
+    ],
+    "lor mai gai": [
+        "lor mai gai",
+        "lor mai kai",
+        "nor mai gai",
+        "no mai gai",
+        "lo mai gai"
+    ],
+    "lor ak": [
+        "lor ak",
+        "lor ark"
+    ],
+    "lor mee": [
+        "lor mee"
+    ],
+    "lor bak": [
+        "lor bak",
+        "lorbak"
+    ],
+    "lor bak png": [
+        "lor bak png"
+    ],
+    "lotus root": [
+        "lotus root"
+    ],
+    "lotus seed": [
+        "lotus seed"
+    ],
+    "love letter": [
+        "love letter"
+    ],
+    "lam pa phah lan": [
+        "lam pa phah lan",
+        "lan pa phah lan",
+        "lan pha phah lan",
+        "lum pa pah lan",
+        "lum pa pa lan",
+        "lppl"
+    ],
+    "lupcheong": [
+        "lupcheong",
+        "lapcheong",
+        "lup cheong",
+        "lap cheong"
+    ],
+    "wa mai": [
+        "wa mai"
+    ],
+    "mai la": [
+        "mai la",
+        "mai lah"
+    ],
+    "mai la mai la, wa mai": [
+        "mai la mai la, wa mai",
+        "mai la mai la wa mai"
+    ],
+    "mc": [
+        "mc"
+    ],
+    "macam": [
+        "macam"
+    ],
+    "mindef": [
+        "mindef"
+    ],
+    "malu": [
+        "malu"
+    ],
+    "mabuk": [
+        "mabuk"
+    ],
+    "mafan": [
+        "mafan",
+        "ma fan"
+    ],
+    "makcik": [
+        "makcik"
+    ],
+    "mampat": [
+        "mampat"
+    ],
+    "mang zang": [
+        "mang zang"
+    ],
+    "masak-masak": [
+        "masak-masak",
+        "masak masak"
+    ],
+    "mat": [
+        "mat"
+    ],
+    "mat salleh": [
+        "mat salleh"
+    ],
+    "mati": [
+        "mati"
+    ],
+    "mata": [
+        "mata"
+    ],
+    "mata-mata": [
+        "mata-mata",
+        "mata mata"
+    ],
+    "mong cha cha": [
+        "mong cha cha",
+        "mung cha cha"
+    ],
+    "mug": [
+        "mug"
+    ],
+    "mugger": [
+        "mugger"
     ]
 }
