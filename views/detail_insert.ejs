@@ -117,6 +117,11 @@
                 </div>
 
                 <div class="property">
+                    <label>Etymology Notes:</label>
+                    <textarea id="etyNotes" name="etyNotes" rows="2" cols="32"></textarea>
+                </div>
+
+                <div class="property">
                     <label>Phonetics:</label>
                     <input type="text" id="phone" name="phone">
                 </div>
@@ -177,8 +182,8 @@
                 </div>
 
                 <div class="property">
-                    <label>Etymology Notes:</label>
-                    <textarea id="etyNotes" name="etyNotes" rows="2" cols="32"></textarea>
+                    <label>Categories:</label>
+                    <textarea id="cat" name="cat" rows="2" cols="32"></textarea>
                 </div>
 
                 <div class="property sameRow" name="particle">
@@ -223,9 +228,12 @@
         <script>
             // main
             const noDefDict = <%- JSON.stringify(noDefDict) %>;
+            var count = 0;
             const randBtn = document.getElementById("random");
             random.addEventListener("click", () => {
-                let randWord =  noDefDict[Math.floor(Math.random() *noDefDict.length)]
+                // let randWord = noDefDict[Math.floor(Math.random() * noDefDict.length)]
+                let randWord = noDefDict[count];
+                count++;
                 console.log("Picked: ", randWord);
                 const mainInput = document.getElementById("major-form").value = randWord;
             });

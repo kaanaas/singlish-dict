@@ -142,6 +142,22 @@
                     <% } %>
                     <% } %>
 
+                    <!-- categories -->
+                    <% if(word.category){ %>
+                        <% if(word.category.length> 0){ %>
+                            <div class="details">
+                                <h3>categories:</h3>
+                                <div class="nyms-flex">
+                                    <% for(let i=0; i < word.category.length; i++){ %>
+                                        <a class="nyms-list" href=<%- `./cat/?c=${word.category[i].replace(/ /g,"%20")}` %>>
+                                            <%= word.category[i] %>
+                                        </a>
+                                        <% } %>
+                                </div>
+                            </div>
+                            <% } %>
+                                <% } %>
+
                 </div>
 
             </div>

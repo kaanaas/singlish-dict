@@ -16,12 +16,17 @@
 
 @font-face {
     font-family: "SimSun";
-    src: url("../fonts/SIMSUN.TTC");
+    src: url("../fonts/SimSun.ttf");
 }
 
 @font-face {
     font-family: "SimSunB";
-    src: url("../fonts/SIMSUNB.TTF");
+    src: url("../fonts/SimSunB.ttf");
+}
+
+@font-face {
+    font-family: "NSimSun";
+    src: url("../fonts/NSimSun.ttf");
 }
 
 html {
@@ -353,12 +358,12 @@ input[type=text] {
     cursor: pointer;
     font-family: "SimSun",
         "SimSunB",
+        "NSimSun",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
         Noto Sans,
-        "Microsoft JhengHei Bold",
-        sans-serif;
+        "Microsoft JhengHei Bold";
 }
 
 .chinese-chars-ext {
@@ -366,12 +371,12 @@ input[type=text] {
     margin: 0;
     font-family: "SimSun",
         "SimSunB",
+        "NSimSun",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
         Noto Sans,
-        "Microsoft JhengHei Bold",
-        sans-serif;
+        "Microsoft JhengHei Bold";
 }
 
 .roman-flex {
