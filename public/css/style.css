@@ -14,21 +14,6 @@
     --grey-red: #b46d8d;
 }
 
-@font-face {
-    font-family: "SimSun";
-    src: url("fonts/SimSun.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "SimSunB";
-    src: url("fonts/SimSunB.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "NSimSun";
-    src: url("fonts/NSimSun.ttf") format("truetype");
-}
-
 html {
     background-color: var(--bg);
 }
@@ -77,7 +62,7 @@ h2 {
 
 .cn-fallback {
     font-family: inherit,
-        SimSun;
+        "SimSun-ExtB";
 }
 
 .content {
@@ -361,9 +346,7 @@ input[type=text] {
 
 .chinese-chars {
     cursor: pointer;
-    font-family: "SimSun",
-        "NSimSun",
-        "SimSunB",
+    font-family: "SimSun-ExtB",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
@@ -375,9 +358,7 @@ input[type=text] {
 .chinese-chars-ext {
     cursor: pointer;
     margin: 0;
-    font-family: "SimSun",
-        "NSimSun",
-        "SimSunB",
+    font-family: "SimSun-ExtB",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
