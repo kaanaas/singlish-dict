@@ -14,6 +14,26 @@
     --grey-red: #b46d8d;
 }
 
+@font-face {
+    font-family: "SimSun";
+    src: url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.eot");
+    src: url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.svg#SimSun")format("svg");
+}
+
+@font-face {
+    font-family: "SimSun-ExtB";
+    src: url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.eot");
+    src: url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.svg#SimSun-ExtB")format("svg");
+}
+
 html {
     background-color: var(--bg);
 }
@@ -62,7 +82,10 @@ h2 {
 
 .cn-fallback {
     font-family: inherit,
-        "SimSun-ExtB";
+        "SimSun-ExtB"
+        "SimSun",
+        SimSun,
+        SimSun-ExtB;
 }
 
 .content {
@@ -347,6 +370,9 @@ input[type=text] {
 .chinese-chars {
     cursor: pointer;
     font-family: "SimSun-ExtB",
+        "SimSun",
+        SimSun-ExtB,
+        SimSun,
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
@@ -359,6 +385,9 @@ input[type=text] {
     cursor: pointer;
     margin: 0;
     font-family: "SimSun-ExtB",
+        "SimSun",
+        SimSun-ExtB,
+        SimSun,
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
