@@ -85,6 +85,10 @@ h2 {
     text-align: center;
 }
 
+.small-caps {
+    font-variant: small-caps;
+}
+
 /* definition box */
 .def-box {
     background-color: var(--offwhite);
@@ -92,7 +96,7 @@ h2 {
     padding: 1em;
     padding-bottom: 2.5em;
     min-width: 88vmin;
-    max-width: 96vmin;
+    max-width: 98vmin;
     box-shadow: 0 2em 4em var(--bg-shadow);
 }
 
@@ -275,6 +279,10 @@ input[type=text] {
     font-size: 2em;
 }
 
+.non-bold {
+    font-weight: normal!important;
+}
+
 .ortho-box h4 {
     font-size: 1.5em;
     margin: 0;
@@ -333,11 +341,13 @@ input[type=text] {
 
 .chinese-chars {
     cursor: pointer;
+    font-family: "SimSun";
 }
 
 .chinese-chars-ext {
     cursor: pointer;
     margin: 0;
+    font-family: "SimSun";
 }
 
 .roman-flex {
@@ -395,6 +405,11 @@ input[type=text] {
 
 .ety-notes-div p {
     font-size: 0.85em;
+}
+
+.ety-notes-div a {
+    text-decoration: underline;
+    text-underline-offset: 3px;
 }
 
 /* etymology tooltip */

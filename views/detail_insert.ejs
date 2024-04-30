@@ -24,6 +24,7 @@
     <body>
         <div class="content banner">
             <h1><a href="./" class="title">Details Insert</a></h1>
+            <p><%= definedLength %> / <%= dictLength %></p>
         </div>
         <div class="content">
             <form action="./" method="get" autocomplete="off" class="detail-form" id="detailForm">
@@ -31,6 +32,11 @@
                     <button name="random" id="random" type="button" class="add-btn">⟳</button>
                     <label>Major form:</label>
                     <input type="text" id="major-form" name="main" required autofocus onfocus="this.select()">
+                </div>
+
+                <div class="property">
+                    <label>Sense (0-id, blank if only):</label>
+                    <input type="text" id="sense" name="sense">
                 </div>
 
                 <div class="property">
@@ -135,6 +141,8 @@
                                     <option value="preposition"></option>
                                     <option value="determiner"></option>
                                     <option value="classifier"></option>
+                                    <option value="idiom"></option>
+                                    <option value="expression"></option>
                                 </datalist>
                             </div>
                             <div class="origin-details" name="meaningDiv" style="margin-bottom:0.75em">

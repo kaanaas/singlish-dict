@@ -1,5 +1,5 @@
-class TrieNode{
-    constructor(){
+class TrieNode {
+    constructor() {
         this.children = {};
         this.isWordEnd = false;
         this.word = [];
@@ -8,18 +8,18 @@ class TrieNode{
 
 class Trie {
     // Constructs the Trie w empty root node
-    constructor(){
+    constructor() {
         this.root = new TrieNode();
     }
 
     // Word insertion
-    insert(word){
+    insert(word) {
         let node = this.root;
         for (let i = 0; i < word.length; i++) {
             // check each letter in word sequentially
             let char = word[i];
             // create new node if next letter is not already in the trie
-            if(!node.children[char]){
+            if (!node.children[char]) {
                 node.children[char] = new TrieNode();
             }
             // move to corresponding letter node
@@ -49,24 +49,24 @@ class Trie {
     }
 
     // Search for word
-    search(word){
+    search(word) {
         let node = this.root;
-        for(let i = 0; i < word.length; i++){
+        for (let i = 0; i < word.length; i++) {
             let char = word[i];
             // return false if word w next letter is not present
-            if(!node.children[char]){
+            if (!node.children[char]) {
                 return false;
             }
             // else move to next letter node
             node = node.children[char];
         }
         // if this is a valid word end, return true
-        if(node.isWordEnd) return node.word;
+        if (node.isWordEnd) return node.word;
         else return false;
     }
 
     // search by prefix (starts with)
-    startsWith(prefix){
+    startsWith(prefix) {
         let node = this.root;
         for (let i = 0; i < prefix.length; i++) {
             let char = prefix[i];

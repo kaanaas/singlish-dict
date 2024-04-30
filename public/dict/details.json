@@ -43,7 +43,8 @@
                 }
             ]
         },
-        "particles": {}
+        "particles": {},
+        "etyNotes": "Development of this phrase was likely also influenced by English <i>'ah, but then?'</i> - see @{ah then}."
     },
     "act blur": {
         "word": "act blur",
@@ -831,7 +832,7 @@
             "adjective": [
                 {
                     "definition": "good-looking; attractive; pretty; charming",
-                    "example": "- That girl in lecture yesterday sibeh chio right, you think got chance?</br>- Wait long long bro...",
+                    "example": "- That girl in lecture yesterday sibeh chio right, you think got chance?<br>- Wait long long bro...",
                     "exampleSource": "@comm",
                     "synonyms": [
                         "sui",
@@ -1401,6 +1402,1443 @@
                         "aiyoh",
                         "aiyah",
                         "aduh"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "steady@1": {
+        "word": "steady",
+        "sense": 0,
+        "related": [
+            "sei",
+            "steady pom pi pi",
+            "zai"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "steady",
+                "romanization": "",
+                "lit": "unwavering; firm; resolute",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "势; 在"
+                ],
+                "etyTrad": [
+                    "勢; 在"
+                ],
+                "etyRoman": [
+                    "sè; chai"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "power; poise; steady"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "cool; solid; capable; ready",
+                    "example": "Ah Soon damn steady one, never siam work never keng never take MC.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "sei"
+                    ],
+                    "antonyms": [
+                        "buay steady"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "alright!; nice!",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ho seh"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": [
+            {
+                "particle": "lah",
+                "meaning": "oh yeah!; alright!",
+                "example": "",
+                "exampleSource": "",
+                "effect": "excitement; being impressed; respect"
+            },
+            {
+                "particle": "sia",
+                "meaning": "indeed steady; very steady",
+                "example": "",
+                "exampleSource": "",
+                "effect": "affirmation; intensification"
+            }
+        ]
+    },
+    "steady@2": {
+        "word": "steady",
+        "sense": 0,
+        "related": [
+            "ai stead mai",
+            "kia stead",
+            "pak tor",
+            "stead"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "steady",
+                "romanization": "",
+                "lit": "(inf, dated, with 'go') date someone exclusively",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of two people) in an exclusive and long-term relationship",
+                    "example": "I didn't realise you and Ah Lian were steady, congrats!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "(with '<i>go</i>') to begin an exclusive and committed relationship",
+                    "example": "Priya and Ah Hee had gone steady four months ago, unbeknownst to their heavily disapproving parents.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "stead": {
+        "word": "stead",
+        "sense": 0,
+        "related": [
+            "ai stead mai",
+            "kia stead",
+            "pak tor",
+            "steady"
+        ],
+        "usage": "See <i>steady</i>. May be used as a short form of <i>kia stead</i> in many cases.",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "steady",
+                "romanization": "",
+                "lit": "(inf; dated; with 'go') date someone exclusively",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "begin an exclusive and committed relationship; go steady",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "kia stead": {
+        "word": "kia stead",
+        "sense": 0,
+        "related": [
+            "ai stead mai",
+            "pak tor",
+            "stead",
+            "steady"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "行",
+                "simplified": "行",
+                "roman": "kiâⁿ",
+                "romanization": "poj",
+                "lit": "walk",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "stead",
+                "romanization": "",
+                "lit": "go steady",
+                "etyPath": [
+                    "english"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "go steady"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(inf; dated) date someone exclusively"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "begin an exclusive and committed relationship; go steady",
+                    "example": "After paktoring for several months, they decided to kia stead and commit to a more serious relationship.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "stead"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai stead mai": {
+        "word": "ai stead mai",
+        "sense": 0,
+        "related": [
+            "kia stead",
+            "paktor",
+            "stead",
+            "steady"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛莫",
+                "simplified": "爱莫",
+                "roman": "ài-m̄-ài",
+                "romanization": "poj",
+                "lit": "愛 (want) + contraction of 毋愛 (not want)",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "爱毋爱"
+                ],
+                "etyTrad": [
+                    "愛毋愛"
+                ],
+                "etyRoman": [
+                    "ài-m̄-ài"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "(interrogative) (do you) want or not want (sth.)?"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "stead",
+                "romanization": "",
+                "lit": "",
+                "etyPath": [
+                    "english"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "go steady"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(inf; dated) date someone exclusively"
+                ]
+            }
+        ],
+        "meanings": {
+            "interrogative": [
+                {
+                    "definition": "(dating) do you want to go steady (or not)?",
+                    "example": "- Bee ah, ai stead mai?<br>- Hehe ons!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ai kia stead mai"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "pak tor": {
+        "word": "pak tor",
+        "sense": 0,
+        "related": [
+            "bgr",
+            "chim-chim",
+            "kia stead",
+            "paktorology"
+        ],
+        "usage": "Usually jocular, teasing, or endearing, and intended to elicit sheepishness or bashfulness amongst one or both of the dating parties.",
+        "phonetics": "[ˈpʰɑʔˈtʰɔː], [ˈpʰɑk̚-]",
+        "etyNotes": "The term originally means \"hitched together\" in Cantonese, referring to the common sight of cargo-carrying motorboats tied to and dragging smaller row-boats in the Pearl River Delta region (the area of Guangdong/Hong Kong/Macau). As an analogy for dating, the word had also made its way into other languages throughout history (such as Hokkien, Teochew, and Hakka), where it is now also a commonly used term.",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "拍拖",
+                "simplified": "拍拖",
+                "roman": "paak3 to1",
+                "romanization": "jyutping",
+                "lit": "date; go out on a date with sb.",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "go out on a romantic date with somebody",
+                    "example": "He adds that he goes there with his children once every two months. \"A lot of memories. First time I paktor (dated) with my wife was there.\"",
+                    "exampleSource": "1994 November 20, “The scattering of Satay Club”, in The Straits Times (Leisure), page 32",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "date somebody romantically",
+                    "example": "That shares the spotlight with Lautner, who plays Cam, a bicycle courier looking to \"paktor\" (Cantonese slang for \"court\") with parkour hottie Nikki (Marie Avgeropoulos).",
+                    "exampleSource": "2015 February 27, “Parkour caper is purely a star vehicle for Lautner”, in The Business Times (Singapore), page 37:",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(colloquial) be generally physical intimate with somebody",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "paktology": {
+        "word": "paktology",
+        "sense": 0,
+        "related": [
+            "chiminology",
+            "pak tor"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pak tor",
+                "romanization": "",
+                "lit": "date; go out on a date with sb.",
+                "etyPath": [
+                    "cantonese"
+                ],
+                "etyScript": [
+                    "拍拖"
+                ],
+                "etyTrad": [
+                    "拍拖"
+                ],
+                "etyRoman": [
+                    "paak3 to1"
+                ],
+                "etyScheme": [
+                    "jyutping"
+                ],
+                "etyLit": [
+                    "date; go out on a date with sb."
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-logy",
+                "romanization": "",
+                "lit": "a branch of learning; a study;<br>(humorous) suffixed tongue-in-cheek to an english word to create a hypothetical subject of study",
+                "etyPath": [
+                    "latin",
+                    "greek"
+                ],
+                "etyScript": [
+                    "",
+                    "-λογία"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "-logia",
+                    "-logía"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "the study or knowledge of",
+                    "denoting the study of something"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(humorous) the study or science of dating",
+                    "example": "Years of research in the scientific field of 'paktohlogy' have shown that horror movies are the best to watch on a date.",
+                    "exampleSource": "2015 February 13, hitz.fm, \"First Vday together? Then stay away from These 5 Movie types\", online",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "steady pom pi pi": {
+        "word": "steady pom pi pi",
+        "sense": 0,
+        "related": [
+            "kan cheong spider",
+            "steady"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "<i>Pom pi pi</i> is a semi-reduplication of 𬅫觱 pûn-pi (to whistle; also 𬅫喙觱 pûn-chhùi-pi, <a href=\"https://sutian.moe.edu.tw/zh-hant/su/11765/\">𬅫觱仔</a> pûn pi-á) → 𬅫觱觱 pûn-pi-pi. ",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "steady",
+                "romanization": "",
+                "lit": "",
+                "etyPath": [
+                    "english"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "steady"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "unwavering; firm; resolute"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "歕觱觱",
+                "simplified": "𬅫觱觱",
+                "roman": "pûn-pi-pi",
+                "romanization": "poj",
+                "lit": "to whistle; blow a whistle",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "capable; ready; solid; keeping cool under any situation. An emphasized variant of <i>steady</i>.",
+                    "example": "He's a good boss lah. We pulled through the recession because even though everywhere else is crashing, he still steady pom pi pi.",
+                    "exampleSource": "2022 August 9, Delfina Utomo, Time Out Singapore. \"Singlish words we don’t hear anymore\". Retrieved from https://www.timeout.com/singapore/things-to-do/singlish-words-we-dont-hear-anymore",
+                    "synonyms": [
+                        "steady"
+                    ],
+                    "antonyms": [
+                        "buay steady",
+                        "kan cheong"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "steady",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "steady"
+                    ],
+                    "antonyms": [
+                        "buay steady"
+                    ]
+                }
+            ]
+        },
+        "particles": []
+    },
+    "buay steady": {
+        "word": "buay steady",
+        "sense": 0,
+        "related": [
+            "spoil the market",
+            "steady"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "See <i>buay</i>.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐",
+                "simplified": "𫧃",
+                "roman": "bōe",
+                "romanization": "poj",
+                "lit": "not",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "steady",
+                "romanization": "",
+                "lit": "cool; solid; capable; ready",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "spoilsport; describing a person whose behaviour sours situations for others",
+                    "example": "- Wee Kheng every time si peh buay steady sia. I never do homework he also must go pau toh.<br>\r\n- Cheh, no wonder you just now tioh kan by Mdm Kuan.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": [
+                        "steady"
+                    ]
+                },
+                {
+                    "definition": "not <i>steady</i>",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "steady"
+                    ]
+                }
+            ]
+        },
+        "particles": []
+    },
+    "how can": {
+        "word": "how can",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "how",
+                "romanization": "",
+                "lit": "how",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "can",
+                "romanization": "",
+                "lit": "affirmative particle; able to; permitted to",
+                "etyPath": [
+                    "english"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "can"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "able to; may; be possible"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "why is it allowed; why is it possible; in what sense would this do or suffice; in what way is this fair",
+                    "example": "I tapau with my own container I still must pay the 50 cents? How can?!",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "(interrogative) in what way will this do or suffice",
+                    "example": "The fella so buay steady, how can trust?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "jibra": {
+        "word": "jibra",
+        "sense": 0,
+        "related": [
+            "gabra like zebra"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "zebra",
+                "romanization": "",
+                "lit": "zebra (hippotigris spp.)",
+                "etyPath": [
+                    "italian",
+                    "old portuguese",
+                    "vulgar latin"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "zebra",
+                    "ezebrario",
+                    "eciferus"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "zebra",
+                    "wild ass",
+                    "wild horse"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an alteration of <i>zebra</i>.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "cock stand": {
+        "word": "cock stand",
+        "sense": 0,
+        "related": [
+            "cock steam",
+            "die cock stand"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock",
+                "romanization": "",
+                "lit": "(vulgar) penis",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "standing",
+                "romanization": "",
+                "lit": "upright; erect",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "having an erection",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "steam",
+                        "cock steam"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "steam": {
+        "word": "steam",
+        "sense": 0,
+        "related": [
+            "cock stand",
+            "die cock stand"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "stimulate",
+                "romanization": "",
+                "lit": "arouse; excite",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "steam up",
+                "romanization": "",
+                "lit": "make angry or excited; arouse",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "sexually excited; stimulated",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "sexually exciting; stimulating",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "have an erection; become erect",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "cock stand",
+                        "cock steam"
+                    ]
+                }
+            ]
+        },
+        "particles": []
+    },
+    "cock steam": {
+        "word": "cock steam",
+        "sense": 0,
+        "related": [
+            "die cock stand"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock",
+                "romanization": "",
+                "lit": "(vulgar) penis",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "steam",
+                "romanization": "",
+                "lit": "sexually excited; stimulated; have an erection",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "having an erection",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "steam",
+                        "cock stand"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "die cock stand": {
+        "word": "die cock stand",
+        "sense": 0,
+        "related": [
+            "cock stand"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "die",
+                "romanization": "",
+                "lit": "become dead; stop living",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock stand",
+                "romanization": "",
+                "lit": "having an erection",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "idiom": [
+                {
+                    "definition": "an activity or experience which is indescribably awesome or pleasurable",
+                    "example": "I love Bangkok! It's die cock stand!",
+                    "exampleSource": "2015 Mar 2, Glory Ngim. Happy-TV, Youtube.",
+                    "synonyms": [
+                        "shiok"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "describing a bustling, often incomprehensible flurry of activity; (lit) to die in the midst of such a great flurry or excitement that one retains an erection after death",
+                    "example": "Sergeant: \"If you screw up again, I will make sure you do so many push ups that you die cockstand!\"",
+                    "exampleSource": "2010 May 16, sergeant iron. Urban Dictionary.",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "kam lan": {
+        "word": "kam lan",
+        "sense": 0,
+        "related": [
+            "lan",
+            "lan jiao"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "The same term exists in Cantonese as <i>ham lan</i> 含撚 ham4 lan2, with the same meanings. 撚 is an alternate character for 𡳞 which is used more often in Cantonese.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "含",
+                "simplified": "含",
+                "roman": "kâm",
+                "romanization": "poj",
+                "lit": "hold or keep in one's mouth",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "𡳞",
+                "simplified": "𡳞",
+                "roman": "lān",
+                "romanization": "poj",
+                "lit": "(vulgar) penis; the hell",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(vulgar) fellate",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(vulgar) to screw off; go to hell",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(vulgar) be condemned; be screwed",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "pengsan": {
+        "word": "pengsan",
+        "sense": 0,
+        "related": [],
+        "usage": "Frequently jocular; often used in the context of having to do hard work, or having a long or tough day.",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pengsan",
+                "romanization": "",
+                "lit": "faint; lose consciousness",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "faint; lose consciousness",
+                    "example": "When he heard the news, he nearly pengsan from shock.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "jangan main-main": {
+        "word": "jangan main-main",
+        "sense": 0,
+        "related": [
+            "play play"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "jangan",
+                "romanization": "",
+                "lit": "don't",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "main-main",
+                "romanization": "",
+                "lit": "playful; unserious; play a fool",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "don't play around; don't play a fool; be serious",
+                    "example": "When it comes to safety rules, jangan main-main.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "don't play play"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "play play": {
+        "word": "play play",
+        "sense": 0,
+        "related": [
+            "don't play play",
+            "jangan main-main"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "Possibly also influenced as a calque from Chinese languages.",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "main-main",
+                "romanization": "",
+                "lit": "playful; unserious; play a fool",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "mess around; play a fool; be unserious",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "don't play play": {
+        "word": "don't play play",
+        "sense": 0,
+        "related": [
+            "jangan main-main",
+            "play play"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "don't",
+                "romanization": "",
+                "lit": "do not",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "play play",
+                "romanization": "",
+                "lit": "mess around; play a fool; be unserious",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "main-main"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "playful; unserious; play a fool"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "don't play around; don't play a fool; be serious. Popularized by the titular character Phua Chu Kang, played by local actor Gurmit Singh.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "auntie": {
+        "word": "auntie",
+        "sense": 0,
+        "related": [
+            "ah mm",
+            "ah so",
+            "makcik",
+            "obasan",
+            "saman auntie",
+            "uncle"
+        ],
+        "usage": "May be considered rude or impolite if used on a young woman, or one around the same age as oneself.",
+        "phonetics": "",
+        "etyNotes": "Calling older women \"auntie\" (or some term meaning \"auntie\" in the native language) as a form of polite address is and has been prevalent throughout cultures in Asia, Africa, and many other places elsewhere in the world; the Singlish use is a continuation of this phenomenon.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "auntie",
+                "romanization": "",
+                "lit": "diminutive of aunt (female relative of the same generation as one's parent)",
+                "etyPath": [
+                    "asian languages"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "\"auntie\""
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "equivalent of \"auntie\" in various languages and cultures; woman of older generation than oneself"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a respectful term of address for a woman of an older generation than the speaker, regardless of relation.",
+                    "example": "Auntie, want to sit?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "a young person whose mannerisms, habits, behaviour, and/or fashion style are outmoded or resemble those of women from a much older generation.",
+                    "example": "Alicia damn auntie one; every time I see her bring the $2 tissue packet to wipe table.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "thank yout": {
+        "word": "thank yout",
+        "sense": 0,
+        "related": [],
+        "usage": "This variant usually only appears when used as a standalone interjection, rather than as a verb or as beginning a longer clause; i.e. \"Thank yout.\" vs. \"Thank you for the...\"",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "thank you",
+                "romanization": "",
+                "lit": "polite expression of gratitude",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "\"thank you\", with the final syllable having been altered to end in a glottal stop. Possibly to assert a sense of finality, curtness, or confirmation; may have been influenced by the prevalence of syllables ending in glottal stops in Hokkien and other Min Nan languages.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "pasar": {
+        "word": "pasar",
+        "sense": 0,
+        "related": [
+            "pasar malam"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "Also made its way through Malay into Standard Singaporean Mandarin and other Chinese languages as 巴刹 (Mandarin: bāshā, Hokkien: pa-sat, Cantonese: baa1 saat3, Teochew: ba1 sag4, etc.) The variant spelling <i>pasat</i> is from the Hokkien pronunciation (seen in names like Lau Pa Sat).",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pasar",
+                "romanization": "",
+                "lit": "market",
+                "etyPath": [
+                    "classical persian"
+                ],
+                "etyScript": [
+                    "بازار"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "bâzâr"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "market; bazaar"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "market",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "pasar malam": {
+        "word": "pasar malam",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pasar",
+                "romanization": "",
+                "lit": "market",
+                "etyPath": [
+                    "classical persian"
+                ],
+                "etyScript": [
+                    "بازار"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "bâzâr"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "market; bazaar"
+                ]
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "malam",
+                "romanization": "",
+                "lit": "night",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "night market",
+                    "example": "- Bro tomorrow night want to go pasar malam buy Ramly?<br>- Cannot, I so gemuk oredi la...",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "dei": {
+        "word": "dei",
+        "sense": 0,
+        "related": [
+            "eh",
+            "oei"
+        ],
+        "usage": "",
+        "phonetics": "[ˈde(ː)]",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "டேய்",
+                "roman": "ṭēy",
+                "romanization": "",
+                "lit": "hey!; interjection for address expressing disrespect or intimacy",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "used to address or attract the attention of somebody; may range from disrespectful to friendly and affectionate based on closeness and context.",
+                    "example": "\"Dey, brother, come here!\" someone called from behind me.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "oei"
                     ],
                     "antonyms": false
                 }
