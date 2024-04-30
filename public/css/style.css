@@ -16,7 +16,8 @@
 
 @font-face {
     font-family: SimSun;
-    src: url(SIMSUN.TTC);
+    src: url("../fonts/SIMSUN.TTC"),
+        url("../fonts/SIMSUNB.TTF");
 }
 
 html {
