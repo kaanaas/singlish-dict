@@ -6,6 +6,7 @@ const app = express();
 
 app.set("view engine", "ejs");
 app.use(express.static(path.join(__dirname, "public")));
+app.use('*/fonts', express.static(path.join(__dirname, 'public/fonts')))
 app.set("views", path.join(__dirname, "/views"));
 
 

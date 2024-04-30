@@ -361,9 +361,9 @@ input[type=text] {
 
 .chinese-chars {
     cursor: pointer;
-    font-family: SimSun,
-        NSimSun,
-        SimSunB,
+    font-family: "SimSun",
+        "NSimSun",
+        "SimSunB",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
@@ -375,9 +375,9 @@ input[type=text] {
 .chinese-chars-ext {
     cursor: pointer;
     margin: 0;
-    font-family: SimSun,
-        NSimSun,
-        SimSunB,
+    font-family: "SimSun",
+        "NSimSun",
+        "SimSunB",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
