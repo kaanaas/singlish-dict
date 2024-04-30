@@ -15,12 +15,12 @@
 }
 
 @font-face {
-    font-family: SimSun;
+    font-family: "SimSun";
     src: url("../fonts/SIMSUN.TTC");
 }
 
 @font-face {
-    font-family: SimSunB;
+    font-family: "SimSunB";
     src: url("../fonts/SIMSUNB.TTF");
 }
 
@@ -351,8 +351,8 @@ input[type=text] {
 
 .chinese-chars {
     cursor: pointer;
-    font-family: SimSun,
-        SimSunB,
+    font-family: "SimSun",
+        "SimSunB",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
@@ -364,8 +364,8 @@ input[type=text] {
 .chinese-chars-ext {
     cursor: pointer;
     margin: 0;
-    font-family: SimSun,
-        SimSunB,
+    font-family: "SimSun",
+        "SimSunB",
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
