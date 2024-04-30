@@ -15,6 +15,11 @@
 }
 
 @font-face {
+    font-family: "SimSunCut";
+    src: url("./fonts/SimSunCut.woff2")format("woff2"),
+}
+
+@font-face {
     font-family: "SimSun";
     src: url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.eot");
     src: url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.eot?#iefix")format("embedded-opentype"),
@@ -82,6 +87,7 @@ h2 {
 
 .cn-fallback {
     font-family: inherit,
+        "SimSunCut",
         "SimSun-ExtB"
         "SimSun",
         SimSun,
@@ -369,7 +375,8 @@ input[type=text] {
 
 .chinese-chars {
     cursor: pointer;
-    font-family: "SimSun-ExtB",
+    font-family: "SimSunCut",
+        "SimSun-ExtB",
         "SimSun",
         SimSun-ExtB,
         SimSun,
@@ -384,7 +391,8 @@ input[type=text] {
 .chinese-chars-ext {
     cursor: pointer;
     margin: 0;
-    font-family: "SimSun-ExtB",
+    font-family: "SimSunCut",
+        "SimSun-ExtB",
         "SimSun",
         SimSun-ExtB,
         SimSun,
