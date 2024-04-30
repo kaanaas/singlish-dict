@@ -14,6 +14,11 @@
     --grey-red: #b46d8d;
 }
 
+@font-face {
+    font-family: SimSun;
+    src: url(SIMSUN.TTC);
+}
+
 html {
     background-color: var(--bg);
 }
@@ -341,13 +346,25 @@ input[type=text] {
 
 .chinese-chars {
     cursor: pointer;
-    font-family: "SimSun";
+    font-family: SimSun,
+        tauhu-oo-bold,
+        PingFangTC-Bold, 
+        Noto Sans TC,
+        Noto Sans,
+        "Microsoft JhengHei Bold",
+        sans-serif;
 }
 
 .chinese-chars-ext {
     cursor: pointer;
     margin: 0;
-    font-family: "SimSun";
+    font-family: SimSun,
+        tauhu-oo-bold,
+        PingFangTC-Bold, 
+        Noto Sans TC,
+        Noto Sans,
+        "Microsoft JhengHei Bold",
+        sans-serif;
 }
 
 .roman-flex {
