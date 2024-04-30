@@ -20,6 +20,7 @@ const dict = require("./public/dict/dict.json");
 
 
 router.get("/", async (req, res) => {
+    if ("fonts/SimSum.ttf") console.log("yes");
     if (req.query.q) {
         let searchInput = req.query.q.toLowerCase()
         let majorFormResult = trie.search(searchInput);
