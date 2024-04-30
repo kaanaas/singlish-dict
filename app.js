@@ -12,7 +12,6 @@ app.set("views", path.join(__dirname, "/views"));
 app.listen(port);
 
 const index = require("./index");
-
 app.get("/", index);
 
 // word request page

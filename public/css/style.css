@@ -75,6 +75,11 @@ h2 {
     color: var(--black);
 }
 
+.cn-fallback {
+    font-family: inherit,
+        SimSun;
+}
+
 .content {
     display: flex;
     align-items: center;
