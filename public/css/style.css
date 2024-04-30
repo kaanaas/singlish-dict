@@ -16,17 +16,17 @@
 
 @font-face {
     font-family: "SimSun";
-    src: url("fonts/SimSun.ttf");
+    src: url("../fonts/SimSun.ttf");
 }
 
 @font-face {
     font-family: "SimSunB";
-    src: url("fonts/SimSunB.ttf");
+    src: url("../fonts/SimSunB.ttf");
 }
 
 @font-face {
     font-family: "NSimSun";
-    src: url("fonts/NSimSun.ttf");
+    src: url("../fonts/NSimSun.ttf");
 }
 
 html {
@@ -356,27 +356,29 @@ input[type=text] {
 
 .chinese-chars {
     cursor: pointer;
-    font-family: SimSunB,
+    font-family: SimSun,
         NSimSun,
-        SimSun,
+        SimSunB,
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
         Noto Sans,
         "Microsoft JhengHei Bold";
+        font-weight: normal;
 }
 
 .chinese-chars-ext {
     cursor: pointer;
     margin: 0;
-    font-family: SimSunB,
+    font-family: SimSun,
         NSimSun,
-        SimSun,
+        SimSunB,
         tauhu-oo-bold,
         PingFangTC-Bold, 
         Noto Sans TC,
         Noto Sans,
         "Microsoft JhengHei Bold";
+        font-weight: normal;
 }
 
 .roman-flex {
