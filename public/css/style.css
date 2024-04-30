@@ -16,17 +16,17 @@
 
 @font-face {
     font-family: "SimSun";
-    src: url("../fonts/SimSun.ttf");
+    src: url("fonts/SimSun.ttf");
 }
 
 @font-face {
     font-family: "SimSunB";
-    src: url("../fonts/SimSunB.ttf");
+    src: url("fonts/SimSunB.ttf");
 }
 
 @font-face {
     font-family: "NSimSun";
-    src: url("../fonts/NSimSun.ttf");
+    src: url("fonts/NSimSun.ttf");
 }
 
 html {
