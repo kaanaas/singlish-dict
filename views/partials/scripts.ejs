@@ -9,7 +9,8 @@
     const detailDiv = document.getElementById("details");
     
 
-    // functions
+    /* functions */
+    // search bar character limiting
     searchBar.addEventListener("input", () => {
         let searchInput = document.getElementById("search-input").value;
         if(/[^a-zA-Z0-9 '-]/.test(searchInput)){
