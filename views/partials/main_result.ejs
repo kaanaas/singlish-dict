@@ -131,7 +131,7 @@
                                         </div>
                                         <div class="roman-flex-ext">
                                             <p class="romanization"><%= word.origin[i].etyScheme[j].toLowerCase() %>:</p>
-                                            <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase() %></p>
+                                            <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %></p>
                                         </div>
                                     </div>
                                     <% } else if(word.origin[i].etyScript && word.origin[i].etyScript[j] != undefined && word.origin[i].etyScript[j] != "") { %>
@@ -140,18 +140,22 @@
                                         <div class="chinese-wrapper-ext">
                                             <h3 class="non-bold"><%= word.origin[i].etyScript[j] %></h3>
                                             <div class="roman-flex">
-                                                <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase() %></p>
+                                                <p class="ortho-roman">
+                                                <% if(word.origin[i].etyScript[j] !="" ){ %>
+                                                    <%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %>
+                                                <% } %>
+                                                </p>
                                             </div>
                                         </div>
                                         <% } %>
                                     <% } else if(langName == "Singlish") { %>
                                         <h4><a href="./?q=<%= word.origin[i].etyRoman[j].toLowerCase() %>"><%= word.origin[i].etyRoman[j].toLowerCase() %></a></h4>
                                     <% } else { %>
-                                        <h4 style="margin: 0;"><%= word.origin[i].etyRoman[j].toLowerCase() %></h4>
+                                        <h4 style="margin: 0;"><%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %></h4>
                                     <% } %>
                                     
                                     <% if(word.origin[i].etyLit[j]){ %>
-                                        <p class="lit"><%= word.origin[i].etyLit[j].toLowerCase() %></p>
+                                        <p class="lit"><%= word.origin[i].etyLit[j].toLowerCase().replace(/,/g, ", ") %></p>
                                     <% } %>
                                 </div>
                                 </div>
@@ -174,7 +178,7 @@
             <% if(word.etyNotes.length> 0){ %>
                 <div class="details ety-notes-div" id="ety-notes" style = "display: none; visibility: hidden">
                     <h3 class="ety-notes-leader">etymology notes</h3>
-                    <p class="text cn-fallback"><%- word.etyNotes %></p>
+                    <p class="text cn-fallback"><%- formatDyno(word.etyNotes) %></p>
                 </div>
             <% } %>
         <% } %>

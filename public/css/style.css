@@ -67,6 +67,15 @@ ul {
     text-decoration: none;
 }
 
+a {
+    color: var(--purp);
+}
+
+.underline {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
 ol {
     margin-top: .5em;
     margin-bottom: .5em;

@@ -67,7 +67,8 @@ router.get("/", async (req, res) => {
                 showStyle: "display:block;visibility:visible;",
                 showAltsStyle: showAltsStyle,
                 alts: altsString,
-                chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"],
+                chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"]
+
             });
         }
 
@@ -82,5 +83,6 @@ router.get("/", async (req, res) => {
         res.render("./index_blank");
     }
 })
+
 
 module.exports = router;

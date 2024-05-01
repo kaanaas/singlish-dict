@@ -9,7 +9,8 @@
             "15a"
         ],
         "category": [
-            "ns"
+            "ns",
+            "abbreviations"
         ],
         "usage": "",
         "phonetics": "",
@@ -53,7 +54,8 @@
             "302"
         ],
         "category": [
-            "ns"
+            "ns",
+            "abbreviations"
         ],
         "usage": "",
         "phonetics": "",
@@ -97,7 +99,8 @@
             "302"
         ],
         "category": [
-            "ns"
+            "ns",
+            "abbreviations"
         ],
         "usage": "",
         "phonetics": "",
@@ -206,7 +209,7 @@
                 "etyPath": [
                     "english"
                 ],
-                "etymology": [
+                "etyRoman": [
                     "blur"
                 ],
                 "etyLit": [
@@ -353,6 +356,9 @@
             "wah lao",
             "wah piang"
         ],
+        "category": [
+            "vulgar"
+        ],
         "usage": "",
         "phonetics": "/wä⁵¹⁻⁵³ kʰɑʊ̯⁵¹/",
         "origin": [
@@ -385,6 +391,9 @@
     "sia": {
         "word": "sia",
         "related": [],
+        "category": [
+            "vulgar"
+        ],
         "usage": "<i>Sial</i> and <i>siol</i> are used more by the Malay community. The form <i>sia</i> is used most commonly as a particle, and seldom as an interjection.",
         "phonetics": "/sjɑː˧/, /sjɐ/",
         "origin": [
@@ -587,6 +596,9 @@
             "hong kan",
             "kan ni na"
         ],
+        "category": [
+            "vulgar"
+        ],
         "usage": "",
         "phonetics": "",
         "origin": [
@@ -638,6 +650,9 @@
         "related": [
             "kan",
             "kan ni na"
+        ],
+        "category": [
+            "vulgar"
         ],
         "usage": "",
         "phonetics": "",
@@ -858,6 +873,9 @@
         "word": "kueh pie tee",
         "related": [],
         "usage": "",
+        "category": [
+            "cuisine"
+        ],
         "phonetics": "/ˈkweɪ ˈpaɪ ˈtiː/",
         "origin": [
             {
@@ -1365,6 +1383,9 @@
             "just whack",
             "whack"
         ],
+        "category": [
+            "sayings"
+        ],
         "usage": "When <i>whack</i> is used in this sense, it is almost always in the phrases \"<i>anyhow whack</i>\" or \"<i>just whack</i>\".",
         "phonetics": "",
         "origin": [
@@ -1787,6 +1808,9 @@
             "steady"
         ],
         "usage": "",
+        "category": [
+            "sayings"
+        ],
         "phonetics": "",
         "etyNotes": "",
         "origin": [
@@ -1990,6 +2014,9 @@
         "related": [
             "kan cheong spider",
             "steady"
+        ],
+        "category": [
+            "sayings"
         ],
         "usage": "",
         "phonetics": "",
@@ -2247,6 +2274,9 @@
             "cock steam",
             "die cock stand"
         ],
+        "category": [
+            "vulgar"
+        ],
         "usage": "",
         "phonetics": "",
         "etyNotes": "",
@@ -2302,6 +2332,9 @@
         "related": [
             "cock stand",
             "die cock stand"
+        ],
+        "category": [
+            "vulgar"
         ],
         "usage": "",
         "phonetics": "",
@@ -2374,6 +2407,9 @@
         "related": [
             "die cock stand"
         ],
+        "category": [
+            "vulgar"
+        ],
         "usage": "",
         "phonetics": "",
         "etyNotes": "",
@@ -2428,6 +2464,10 @@
         "sense": 0,
         "related": [
             "cock stand"
+        ],
+        "category": [
+            "vulgar",
+            "sayings"
         ],
         "usage": "",
         "phonetics": "",
@@ -2490,6 +2530,9 @@
         "related": [
             "lan",
             "lan jiao"
+        ],
+        "category": [
+            "vulgar"
         ],
         "usage": "",
         "phonetics": "",
@@ -2987,7 +3030,8 @@
             "pink ic"
         ],
         "category": [
-            "ns"
+            "ns",
+            "abbreviations"
         ],
         "usage": "",
         "phonetics": "",
@@ -3078,7 +3122,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "(military) a temporary military IC issued to a soldier who has lost their military IC (@{11B]). It has to be used alongside a valid photo ID and a police report.",
+                    "definition": "(military) a temporary military IC issued to a soldier who has lost their military IC (@{11B}). It has to be used alongside a valid photo ID and a police report.",
                     "example": "",
                     "exampleSource": "",
                     "synonyms": false,
@@ -3088,7 +3132,737 @@
         },
         "particles": [],
         "category": [
-            "ns"
+            "ns",
+            "abbreviations"
         ]
+    },
+    "4d": {
+        "word": "4d",
+        "sense": 0,
+        "related": [
+            "toto"
+        ],
+        "category": [
+            "games",
+            "abbreviations"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "4",
+                "romanization": "",
+                "lit": "four",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "digits",
+                "romanization": "",
+                "lit": "digits",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a lottery game popular in Singapore, run by Singapore Pools. Believed to have originated in Kedah in 1951. Name refers to the four-digit number players choose, from 0000 to 9999, which is matched against a draw of 23 winning numbers.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "5-10": {
+        "word": "5-10",
+        "sense": 0,
+        "related": [],
+        "category": [
+            "games"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "Also may be called 五十 (wǔ shí), 五 (wǔ), 十 (shí), and other various combinations amongst Chinese language speakers.",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "十五",
+                "simplified": "十五",
+                "roman": "shí wǔ",
+                "romanization": "pinyin",
+                "lit": "ten five",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a game played by at least two people, or a larger group of any size.<br>Players hold up both fists, and take turns shouting out a multiple of five (0, 5, 10, 15, 20 - or higher, bounded by the number of players in play), while all players simultaneously open none, one, or both of their hands. The number corresponds to the player's guess of the number of fingers held up (hence being a multiple of five). While rules may vary, one variant is that if a player guessed correctly on their turn, they get to guess again, and if getting two correct guesses in a row, the others have to perform a forfeit.<br>Originated as a Chinese drinking game.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "5cs": {
+        "word": "5cs",
+        "sense": 0,
+        "related": [],
+        "category": [
+            "abbreviations"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "\"C\" is the initial letter of cash, car, credit card, condominium, and country club.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "5",
+                "romanization": "",
+                "lit": "five",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "c",
+                "romanization": "",
+                "lit": "the letter c",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a phrase referring to the five status symbols of cash, car, credit card, condominium, and country club; historically held to be the five goals of a successful working Singaporean. Sometimes also alludes to the clout and materialistic goals many spend their lives chasing after, in order to impress others.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aa": {
+        "word": "aa",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "Initialism of \"attract attention\".",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "attract",
+                "romanization": "",
+                "lit": "invite; draw",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "attention",
+                "romanization": "",
+                "lit": "notice; recognition ",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(initialism) describing someone who is routinely solicits the attention of others through loud, showy, provocative, tactless, and unabashed means.",
+                    "example": "Never see she show half ball meh.. so A.A.!",
+                    "exampleSource": "2005 February 27, Renee Tan, The Sunday Times, p.38",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "abacus beads": {
+        "word": "abacus beads",
+        "sense": 0,
+        "related": [
+            "abacus seeds"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "Rendered in Mandarin as suànpánzǐ (Pinyin).<br>\r\n<i>note: verification on the Hakka etymology is requested from a native/fluent Hakka speaker!</i>",
+        "origin": [
+            {
+                "lang": "hakka",
+                "traditional": "算盤子",
+                "simplified": "算盘子",
+                "roman": "son panˇ ziiˋ",
+                "romanization": "hrs",
+                "lit": "abacus bead",
+                "etyPath": [
+                    "hakka",
+                    "hakka"
+                ],
+                "etyScript": [
+                    "算盘",
+                    "子"
+                ],
+                "etyTrad": [
+                    "算盤",
+                    "子"
+                ],
+                "etyRoman": [
+                    "son panˇ",
+                    "ziiˋ"
+                ],
+                "etyScheme": [
+                    "hrs",
+                    "hrs"
+                ],
+                "etyLit": [
+                    "abacus",
+                    "grain-like object; small object; seed"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Hakka dish, made with a dough of taro and tapioca flour that is typically shaped into rounded biconcave discs and boiled, before being stir-fried with various ingredients like minced pork, mushrooms, and spring onions.<br>\r\nSince its namesake - the abacus - is associated with accounting, abacus beads are often taken as a symbol of wealth and prosperity.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "abacus seeds"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "abacus seeds": {
+        "word": "abacus seeds",
+        "sense": 0,
+        "related": [
+            "abacus beads"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "Rendered in Mandarin as suànpánzǐ (Pinyin).<br>\r\n<i>note: verification on the Hakka etymology is requested from a native/fluent Hakka speaker!</i>",
+        "origin": [
+            {
+                "lang": "hakka",
+                "traditional": "算盤子",
+                "simplified": "算盘子",
+                "roman": "son panˇ ziiˋ",
+                "romanization": "hrs",
+                "lit": "abacus bead",
+                "etyPath": [
+                    "hakka",
+                    "hakka"
+                ],
+                "etyScript": [
+                    "算盘",
+                    "子"
+                ],
+                "etyTrad": [
+                    "算盤",
+                    "子"
+                ],
+                "etyRoman": [
+                    "son panˇ",
+                    "ziiˋ"
+                ],
+                "etyScheme": [
+                    "hrs",
+                    "hrs"
+                ],
+                "etyLit": [
+                    "abacus",
+                    "grain-like object; small object; seed"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "See @{abacus beads}.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "abacus beads"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "abang": {
+        "word": "abang",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "abang",
+                "romanization": "",
+                "lit": "older brother; male person older than oneself",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "term of address or endearment for a male person slightly older than oneself; big brother",
+                    "example": "Tucked away at a tiny little coffeehouse in Ang Mo Kio, Abang Gemuk is a halal-certified Western food stall from the same people behind Fatty Bom Bom.",
+                    "exampleSource": "2020 April 7. Eatbook.sg, \"Abang Gemuk Review: Halal Western Food With Huge Portions At Ang Mo Kio\". Retrieved from https://eatbook.sg/abang-gemuk-ang-mo-kio/",
+                    "synonyms": [
+                        "kor",
+                        "ah kor",
+                        "kor kor"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "term of address for an elder son",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "abit": {
+        "word": "abit",
+        "sense": 0,
+        "related": [
+            "abit the"
+        ],
+        "usage": "Often used meiotically to mean \"very\" or \"noticeably\" instead of \" a little bit\".",
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "a bit",
+                "romanization": "",
+                "lit": "slightly; to a small extent; rather",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "a little; to an extent",
+                    "example": "- Want get dessert? Got a very nice @{cendol} place round the corner.<br>- If you want you go ahead ba; I still abit @{jelak} from dinner.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "si peh",
+                        "damn"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(sarcastic, meiosis) quite; rather; very",
+                    "example": "Recruit, you abit the special isit? Wake up your bloody idea!",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "abit the": {
+        "word": "abit the",
+        "sense": 0,
+        "related": [
+            "abit"
+        ],
+        "usage": "Usually precedes an adjective, rather than a noun (unlike how the definite article \"the\" is used in English).",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "abit",
+                "romanization": "",
+                "lit": "a little; (sarcastic, meiosis) quite; rather; very",
+                "etyPath": [
+                    "english"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "a bit"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "slightly; to a small extent; rather"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "the",
+                "romanization": "",
+                "lit": "definite article",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "(sarcastic, meiotic) quite; rather; very",
+                    "example": "You a bit the blur leh...",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "achar": {
+        "word": "achar",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "acar",
+                "romanization": "",
+                "lit": "",
+                "etyPath": [
+                    "hindustani",
+                    "classical persian"
+                ],
+                "etyScript": [
+                    "अचार",
+                    "آچار"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "acār",
+                    "āčār"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "a South Asian pickle",
+                    "preserved meats,pickles,or fruits"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a local variation of Indian pickles (<i>achar</i>), usually made using a mixture of vegetables, chilli padi, shallots, lime, and sometimes other ingredients including fruits and peanuts.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "act blur live longer": {
+        "word": "act blur live longer",
+        "sense": 0,
+        "related": [
+            "act blur",
+            "act cute",
+            "blur like sotong",
+            "buat bodoh"
+        ],
+        "usage": "",
+        "category": [
+            "abbreviations",
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "act blur",
+                "romanization": "",
+                "lit": "feign ignorance; play dumb",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "live",
+                "romanization": "",
+                "lit": "be alive; survive; outlast",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "longer",
+                "romanization": "",
+                "lit": "(comparative) for a greater duration",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "do not present yourself to be as capable as you really are, or pretend you are incompetent and ignorant, and you will encounter less troubles and problems, or be given less work.<br>Possibly originated as military slang.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "act cute": {
+        "word": "act cute",
+        "sense": 0,
+        "related": [
+            "act blur",
+            "act cute buay cute"
+        ],
+        "usage": "Can be used to express annoyance or weariness at the subject's cutesy antics. ",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "act",
+                "romanization": "",
+                "lit": "behave like; feign",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cute",
+                "romanization": "",
+                "lit": "charming; adorable; quirky; innocent",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to behave in an (often exaggeratedly) charming, quirky, adorable, or innocent manner.",
+                    "example": "I can always tell when my girl needs me to do something... she always out of the blue start to act cute one.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "describing someone behaving in such a cutesy manner.",
+                    "example": "See you two liddat so act blur act cute... don't think I dunno is one of you who broke the TV hor!",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "act cute buay cute": {
+        "word": "act cute buay cute",
+        "sense": 0,
+        "related": [],
+        "usage": "Sometimes abbreviated as <i>ACBC</i>.",
+        "category": [
+            "sayings",
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "act cute",
+                "romanization": "",
+                "lit": "behave in an (often exaggeratedly) charming, quirky, adorable, or innocent manner",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐",
+                "simplified": "𫧃",
+                "roman": "bōe",
+                "romanization": "poj",
+                "lit": "not",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cute",
+                "romanization": "",
+                "lit": "charming; adorable; quirky; innocent",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(expression) describing a person behaving in an exaggeratedly cutesy manner, which is obviously feigned or a front, and comes across as unnecessary and irritating. Can also describe the manner in which they are acting.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
     }
 }

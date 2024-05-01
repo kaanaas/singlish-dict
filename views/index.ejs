@@ -41,9 +41,9 @@
                             <ol type="1">
                                 <% for (let j = 0; j < posDet.length; j++) { %>
                                     <!-- check if examples are given -->
-                                    <li class="definition"><%- posDet[j].definition %></li> 
+                                    <li class="definition"><%- formatDyno(posDet[j].definition) %></li> 
                                     <% if(posDet[j].example.length != 0){ %>
-                                        <p class="word-example"><%- posDet[j].example %></p>
+                                        <p class="word-example"><%- formatDyno(posDet[j].example) %></p>
                                         <% if (posDet[j].exampleSource.length > 0) { %>
                                             <% if(posDet[j].exampleSource=="@comm" ){ %>
                                             <p class="word-example-src">— Community contribution</p>
@@ -88,7 +88,7 @@
                     <% if(word.usage.length > 0){ %>
                     <div class="details">
                         <h3>usage notes</h3>
-                        <p class="text"><%- word.usage %></p>
+                        <p class="text"><%- formatDyno(word.usage) %></p>
                     </div>
                     <% } %>
                     <% } %>
