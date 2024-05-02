@@ -17,7 +17,7 @@
             alert("Only alphanumeric characters, spaces, hyphens, and apostrophes are allowed.");
             searchBar.value = searchInput.replace(/[^a-zA-Z0-9 '-]/g, '');
         }
-    })
+    });
 
     whack.addEventListener("click", () => {
         fetch("dict/dict.json")
@@ -28,31 +28,37 @@
                 // console.log(randWord);
                 window.location.href = `./?q=${randWord}`;
             });
-    })
+    });
 
     // 4fun header alts
     const altsLeader = document.getElementById("alts-leader");
-    altsLeader.addEventListener("click", () => {
-        if(altsLeader.innerHTML != "also can:"){
-            altsLeader.innerHTML = "also can:";
-        }
-        else{
-            altsLeader.innerHTML = "alternatives:";
-        }
-    })
+    if(altsLeader){
+        altsLeader.addEventListener("click", () => {
+            if(altsLeader.innerHTML != "also can:"){
+                altsLeader.innerHTML = "also can:";
+            }
+            else{
+                altsLeader.innerHTML = "alternatives:";
+            }
+        });
+    }
 
-    const definitionsLeader = document.getElementById("definitions-leader");
-    definitionsLeader.addEventListener("click", () => {
-        if(definitionsLeader.innerHTML != "means what:"){
-            definitionsLeader.innerHTML = "means what:";
-        }
-        else{
-            definitionsLeader.innerHTML = "definitions:";
-        }
-    })
+    const definitionsLeaders = document.getElementsByName("definitions-leader");
+    if(definitionsLeaders){
+        definitionsLeaders.forEach((definitionsLeader) => {
+            definitionsLeader.addEventListener("click", () => {
+                if(definitionsLeader.innerHTML != "means what:"){
+                    definitionsLeader.innerHTML = "means what:";
+                }
+                else{
+                    definitionsLeader.innerHTML = "definitions:";
+                }
+            })
+        });
+    }
 
-    if(document.getElementsByName("synonyms-leader")) {
-        const synLeaders = document.getElementsByName("synonyms-leader");
+    const synLeaders = document.getElementsByName("synonyms-leader");
+    if(synLeaders) {   
         synLeaders.forEach((synLeader) => {
             synLeader.addEventListener("click", () => {
                 if(synLeader.innerHTML != "same same:"){
@@ -63,10 +69,10 @@
                 }
             });
         });
-    }
-    
-    if(document.getElementsByName("antonyms-leader")){
-        const antLeaders = document.getElementsByName("antonyms-leader");
+    };
+
+    const antLeaders = document.getElementsByName("antonyms-leader");
+    if(antLeaders){      
         antLeaders.forEach((antLeader) => {
             antLeader.addEventListener("click", () => {
                 if(antLeader.innerHTML != "but different:"){
@@ -77,6 +83,6 @@
                 }
             });
         });
-    }
+    };
         
 </script>

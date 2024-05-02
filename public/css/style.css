@@ -12,6 +12,7 @@
     --subh-darker: #997705;
     --grey-green: #6d946d;
     --grey-red: #b46d8d;
+    --grey-red-pale: #d3c2c9;
 }
 
 @font-face {
@@ -19,7 +20,7 @@
     src: url("./fonts/SimSunCut.woff2")format("woff2"),
 }
 
-@font-face {
+/* @font-face {
     font-family: "SimSun";
     src: url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.eot");
     src: url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.eot?#iefix")format("embedded-opentype"),
@@ -37,7 +38,7 @@
         url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.woff")format("woff"),
         url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.ttf")format("truetype"),
         url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.svg#SimSun-ExtB")format("svg");
-}
+} */
 
 html {
     background-color: var(--bg);
@@ -71,11 +72,6 @@ a {
     color: var(--purp);
 }
 
-.underline {
-    text-decoration: underline;
-    text-underline-offset: 3px;
-}
-
 ol {
     margin-top: .5em;
     margin-bottom: .5em;
@@ -89,6 +85,20 @@ h2 {
     margin-top: .33rem;
     margin-bottom: .75em;
 }
+
+.hr-pale {
+    height: 0px;
+    border-top: 1px solid var(--grey-red-pale);
+    max-width: 93%;
+}
+
+.underline {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+
+/* custom content classes */
 
 .text {
     color: var(--black);
@@ -153,7 +163,8 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 1em;
     margin-bottom: 0;
 }
 
@@ -172,7 +183,7 @@ input[type=text] {
 }
 
 .search-button {
-    padding: .5em 1em;
+    padding: .66em .66em;
     align-items: center;
     color: var(--offwhite);
     background-color: var(--bg);
@@ -192,7 +203,7 @@ input[type=text] {
 .more-options {
     display: flex;
     align-items: center;
-    justify-content: left;
+    justify-content: center;
     gap: 2em;
     margin-left: 5vmin;
     margin-right: 5vmin;
@@ -209,15 +220,6 @@ input[type=text] {
 }
 
 /* result */
-.not-found {
-    display: flex;
-    align-items: baseline;
-}
-
-.not-found p {
-    color: var(--grey);
-}
-
 .result {
     position: relative;
     padding: 1.5vmin;
@@ -253,6 +255,14 @@ input[type=text] {
     margin-bottom: 0.33em;
     font-size: 2em;
     color: var(--black);
+}
+
+.variant-tag {
+    position: absolute;
+    margin-top: 0.15em;
+    margin-left: 0.25em;
+    font-size: 0.5em;
+    color: var(--grey-red);
 }
 
 /* redirected */
@@ -518,10 +528,8 @@ input[type=text] {
 /* alts */
 .alts-container {
     position: relative;
-    padding-left: 1.5vmin;
-    padding-right: 1.5vmin;
-    margin-left: 2vmin;
-    margin-right: 2vmin;    
+    margin-top: 1em;
+    margin-bottom: .5em;    
 }
 
 .alts-flex {
@@ -813,6 +821,69 @@ input[type=text] {
     position: relative;
     left: 50%;
     transform: translateX(-50%);
+}
+
+/* prefix */
+.prefix-list {
+    margin-left: 1.5em;
+    list-style-type: '❧';
+    list-style-position: outside;
+}
+
+li::marker {
+    color: var(--purp); 
+}
+
+.prefix-list li {
+    font-family: "Crimson Text";
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+    padding-left: 1em;
+}
+
+.prefix-list a {
+    font-family: "Literata";
+    font-style: italic;
+    color: var(--grey);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.not-found {
+    display: flex;
+    align-items: baseline;
+    justify-content: left;
+    gap: .5em;
+}
+
+.not-found p {
+    color: var(--grey);
+}
+
+.not-found h3 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    font-family: "Crimson Text";
+    font-weight: 600;
+    font-style: italic;
+    color: var(--black);
+}
+
+.not-found p {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+    font-family: "Crimson Text";
+    font-style: italic;
+    color: var(--grey-red);
+}
+
+.not-found h4 {
+    font-size: 1.25em;
+    margin-bottom: 0.5em;
+    font-family: "Crimson Text";
+    font-weight: 600;
+    font-style: italic;
+    color: var(--grey-red);
 }
 
 /* footer */

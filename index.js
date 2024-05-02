@@ -23,12 +23,13 @@ router.get("/", async (req, res) => {
     if (req.query.q) {
         let searchInput = req.query.q.toLowerCase()
         let majorFormResult = trie.search(searchInput);
+        let prefixResult = trie.startsWith(searchInput);
 
         // if query is found in trie, return major form of word
         if (majorFormResult) {
             // retreive data from details hash object
+            let wordVars = [];
             let word = details[majorFormResult];
-            let showAltsStyle = "display:none;visibility:hidden;"
             let altsString = "";
 
             // list alternative spellings
@@ -41,41 +42,62 @@ router.get("/", async (req, res) => {
                         }
                     }
                 }
-                // console.log(altsString);
-                if (altsString.length > 0) showAltsStyle = "display:block;visibility:visible;"
             }
 
             // either word not yet defined, or multiple words same spelling
             if (!word) {
                 word = details[`${majorFormResult}@1`];
                 // dummy word without details
-                if (!word) word = {
-                    "word": majorFormResult,
-                    "chinese": [],
-                    "literal": "",
-                    "phonetics": "",
-                    "origin": [],
-                    "meanings": []
+                if (word) {
+                    let v = 1;
+                    while (word) {
+                        v++;
+                        wordVars.push(word);
+                        word = details[`${majorFormResult}@${v}`];
+                    }
+                }
+                else {
+                    word = {
+                        "word": majorFormResult,
+                        "chinese": [],
+                        "literal": "",
+                        "phonetics": "",
+                        "origin": [],
+                        "meanings": []
+                    };
                 }
                 // console.log(word);
             }
 
+            if (wordVars.length == 0) wordVars = [word];
+            let showVar = (wordVars.length > 1);
+
+            // trim prefix results
+            let pRTemp = [];
+            prefixResult.forEach((result) => {
+                if (!dict[majorFormResult].includes(result)) {
+                    pRTemp.push(result);
+                }
+            });
+            prefixResult = pRTemp;
+
             // render page
             res.render("./index", {
-                redirected: searchInput,
-                word: word,
+                searchInput: searchInput,
+                wordVars: wordVars,
+                showVar: showVar,
                 showStyle: "display:block;visibility:visible;",
-                showAltsStyle: showAltsStyle,
                 alts: altsString,
-                chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"]
-
+                chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"],
+                prefixResult: prefixResult
             });
         }
 
         // if search query not found in Trie
         else {
             res.render("./not_found", {
-                searchInput: searchInput
+                searchInput: searchInput,
+                prefixResult: prefixResult
             });
         }
     }

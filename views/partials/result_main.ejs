@@ -1,13 +1,9 @@
 <div class="result" id="result" style=<%= showStyle %>>
     <div class="word">
-        <% if(redirected != word.word){ %>
-            <div class="redir-flex">
-                <p class="redir-text">redirected from</p> 
-                <p class="redir-word"><%= redirected %></p>
-            </div>
-        <% } %>
         <div class="word-box">
-            <h2><%= word.word %></h2>
+            <h2><%= word.word %>
+                <span class="variant-tag"><%= variant %></span>
+            </h2>
             <p><%= word.phonetics %></p>
         </div>
         <% if(!word.hasOwnProperty("origin")){ %>
@@ -17,7 +13,7 @@
         <% } else { %>
         <div class="ety-container">
             <!-- main container -->
-            <div class="ortho-container" id="ortho-container" name="show">
+            <div class="ortho-container" id="ortho-container<%= variant %>" name="show">
                 <p class="ortho-origin">→</p>
                 <% for(let i = 0; i < word.origin.length; i++) { %>
                     <% if(i != 0) { %>
@@ -59,7 +55,7 @@
             </div>
 
             <!-- extended container -->
-            <div class="ortho-container ortho-container-ext" id="ext-container" name="hide" style = "display: none; visibility: hidden">
+            <div class="ortho-container ortho-container-ext" id="ext-container<%= variant %>" name="hide" style = "display: none; visibility: hidden">
                 <% for(let i = 0; i < word.origin.length; i++) { %>
                     <div class="origin-container">
                         <% if(i != 0) { %>
@@ -167,8 +163,8 @@
 
             <div class="more-info-div">
                 <div class="ttip-ety">
-                    <i class="fa-solid fa-circle-down ety-extend" tabindex="0" onclick="swapEty()" id="ety-btn"></i>
-                    <span class="tooltip-text" id="ety-tooltip">Detailed etymology</span>
+                    <i class="fa-solid fa-circle-down ety-extend" tabindex="0" onclick="swapEty('<%= variant %>')" id="ety-btn<%= variant %>"></i>
+                    <span class="tooltip-text" id="ety-tooltip<%= variant %>">Detailed etymology</span>
                 </div>
             </div>
         </div>
@@ -176,7 +172,7 @@
         <!-- ety notes -->
         <% if(word.hasOwnProperty("etyNotes")){ %>
             <% if(word.etyNotes.length> 0){ %>
-                <div class="details ety-notes-div" id="ety-notes" style = "display: none; visibility: hidden">
+                <div class="details ety-notes-div" id="ety-notes<%= variant %>" style = "display: none; visibility: hidden">
                     <h3 class="ety-notes-leader">etymology notes</h3>
                     <p class="text cn-fallback"><%- formatDyno(word.etyNotes) %></p>
                 </div>
@@ -188,12 +184,12 @@
 </div>
 
 <script>
-    function swapEty(){
-        const etyBtn = document.getElementById("ety-btn");
-        const etyTtip = document.getElementById("ety-tooltip");
-        const orthoContainer = document.getElementById("ortho-container");
-        const extContainer = document.getElementById("ext-container");
-        const etyNotes = document.getElementById("ety-notes");
+    function swapEty(v){
+        const etyBtn = document.getElementById(`ety-btn${v}`);
+        const etyTtip = document.getElementById(`ety-tooltip${v}`);
+        const orthoContainer = document.getElementById(`ortho-container${v}`);
+        const extContainer = document.getElementById(`ext-container${v}`);
+        const etyNotes = document.getElementById(`ety-notes${v}`);
         etyBtn.blur();
         if(orthoContainer.name == "hide"){
             orthoContainer.style = "display: flex; visibility: visible";

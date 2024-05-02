@@ -9,157 +9,59 @@
             <div class="def-box" id="def-box">
                 <!-- search -->
                 <%- include("./partials/search_container") %>
-            
-                <!-- main word result -->
-                <%- include("./partials/main_result") %>
 
                 <!-- alternatives -->
-                <div class="alts-container" id="alts" style=<%= showAltsStyle %>>
-                    <div class="alts-flex" id="alts-flex">
-                        <div class="tooltip">
-                            <i class="fa-solid fa-circle-question q-tip" tabindex="0"></i>
-                            <span class="tooltip-text">Commonly found variants; note these may range from acceptable alternatives to
-                                non-standard forms or incorrect spellings*.
-                                <br><i>* Singlish is a largely spoken creole, and as such descriptivism (recording forms that reflect actual pronunciation in spoken language, or as appearing in the linguistic corpus) is more pertinent than strict prescriptivism. Nevertheless, the use of more standard forms (or for words originating in languages with Latin script, such as Malay, accurate to the original spelling) is recommended and encouraged.</i>
-                            </span>
+                <% if (alts.length > 0) { %>
+                <div class="result">
+                    <% if(searchInput != wordVars[0].word){ %>
+                        <div class="redir-flex">
+                            <p class="redir-text">redirected from</p> 
+                            <p class="redir-word"><%= searchInput %></p>
                         </div>
-                        <p class="alts-leader" id="alts-leader">also can:</p>
-                        <p class="alts-list"><%= alts %></p>
-                    </div>
-                </div>
-
-                <!-- details -->
-                <div class="result" id="details" style=<%= showStyle %>>
-                    <!-- definitions -->
-                    <div class="defs">
-                        <h3 class="defs-leader" id="definitions-leader">definitions</h3>
-                        <% if(word.meanings.length==0) { %>
-                            <br><p><i>no definitions recorded yet!</i></p>
-                        <% } else { %>
-                            <% for(const [pos, posDet] of Object.entries(word.meanings)) { %>
-                            <h4><%= pos %></h4>
-                            <ol type="1">
-                                <% for (let j = 0; j < posDet.length; j++) { %>
-                                    <!-- check if examples are given -->
-                                    <li class="definition"><%- formatDyno(posDet[j].definition) %></li> 
-                                    <% if(posDet[j].example.length != 0){ %>
-                                        <p class="word-example"><%- formatDyno(posDet[j].example) %></p>
-                                        <% if (posDet[j].exampleSource.length > 0) { %>
-                                            <% if(posDet[j].exampleSource=="@comm" ){ %>
-                                            <p class="word-example-src">— Community contribution</p>
-                                            <% } else { %>
-                                            <p class="word-example-src">— <%- posDet[j].exampleSource %></p>
-                                            <% } %>
-                                        <% } %>  
-                                    <% } %>
-                                    <!-- syno/antonyms -->
-                                    <% if(posDet[j].synonyms.length > 0 || posDet[j].antonyms.length > 0){ %>
-                                    <div class="nyms-wrapper">
-                                    <% if(posDet[j].synonyms.length > 0){ %>
-                                        <div class="nyms-flex" id="synonyms-flex">
-                                            <p class="synonyms-leader nyms-leader" name="synonyms-leader">synonyms:</p>
-                                            <% for(let k = 0; k < posDet[j].synonyms.length; k++){ %>
-                                                <a class="nyms-list" href=<%- `./?q=${posDet[j].synonyms[k].replace(/ /g,"%20")}` %>>
-                                                    <%= posDet[j].synonyms[k] %></a>
-                                            <% } %>
-                                        </div>
-                                    <% } %>     
-                                    <% if(posDet[j].antonyms.length > 0){ %>
-                                        <div class="nyms-flex" id="antonyms-flex">
-                                            <p class="antonyms-leader nyms-leader" name="antonyms-leader">antonyms:</p>
-                                            <% for(let k = 0; k < posDet[j].antonyms.length; k++){ %>
-                                                <a class="nyms-list" href=<%- `./?q=${posDet[j].antonyms[k].replace(/ /g,"%20")}` %>>
-                                                    <%= posDet[j].antonyms[k] %></a>
-                                            <% } %>
-                                        </div>
-                                    <% } %>
-                                    </div>
-                                    <% } %>                       
-                                <% } %>
-                            <br>    
-                            </ol>
-                            <% } %>
-                        <% } %>
-                    </div>
-
-
-                    <!-- usage notes -->
-                    <% if(word.hasOwnProperty("usage")){ %>
-                    <% if(word.usage.length > 0){ %>
-                    <div class="details">
-                        <h3>usage notes</h3>
-                        <p class="text"><%- formatDyno(word.usage) %></p>
-                    </div>
                     <% } %>
-                    <% } %>
-                   
-
-                    <!-- particles -->
-                    <% if(word.hasOwnProperty("particles")){ %>
-                    <% if(word.particles.length> 0) { %>
-                    <div class="defs">
-                        <h3 class="defs-leader">particles</h3>
-                        <% for(let i = 0; i < word.particles.length; i++) { %>
-                            <div class="particle-wrapper">
-                                <div class="particle-lead">
-                                    <h4 class="particle"><a href="./?q=<%= word.particles[i].particle %>"><%= word.particles[i].particle %></a></h4>
-                                    <div class="particle-dets">
-                                        <div class="sameRow">
-                                            <h4 class="pt-effect">effect: </h4>
-                                            <p><%- word.particles[i].effect %></p>
-                                        </div>
-                                        <div class="sameRow">
-                                            <h4 class="pt-effect">meaning: </h4>
-                                            <p><%- word.particles[i].meaning %></p>
-                                        </div>
-                                        <p class="word-example text"><%- word.particles[i].example %></p>
-                                        <% if(word.particles[i].exampleSource=="@comm" ){ %>
-                                            <p class="word-example-src">— Community contribution</p>
-                                        <% } else { %>
-                                            <p class="word-example-src"><%- word.particles[i].exampleSource %></p>
-                                        <% } %>                                       
-                                    </div>
-                                </div>
+                    <div class="alts-container" id="alts">
+                        <div class="alts-flex" id="alts-flex">
+                            <div class="tooltip">
+                                <i class="fa-solid fa-circle-question q-tip" tabindex="0"></i>
+                                <span class="tooltip-text">Commonly found variants; note these may range from acceptable alternatives to
+                                    non-standard forms or incorrect spellings*.
+                                    <br><i>* Singlish is a largely spoken creole, and as such descriptivism (recording forms that reflect
+                                        actual pronunciation in spoken language, or as appearing in the linguistic corpus) is more pertinent
+                                        than strict prescriptivism. Nevertheless, the use of more standard forms (or for words originating
+                                        in languages with Latin script, such as Malay, accurate to the original spelling) is recommended and
+                                        encouraged.</i>
+                                </span>
                             </div>
-                        <% } %>
-                    </div>
-                    <% } %>
-                    <% } %>
-
-
-                    <!-- related -->
-                    <% if(word.related){ %>
-                    <% if(word.related.length > 0){ %>
-                    <div class="details">
-                        <h3>related:</h3>
-                        <div class="nyms-flex">
-                        <% for(let i = 0; i < word.related.length; i++){ %>
-                            <a class="nyms-list" href=<%- `./?q=${word.related[i].replace(/ /g,"%20")}` %>>
-                                <%= word.related[i] %></a>
-                        <% } %>
+                            <p class="alts-leader" id="alts-leader">also can:</p>
+                            <p class="alts-list">
+                                <%= alts %>
+                            </p>
                         </div>
                     </div>
-                    <% } %>
-                    <% } %>
-
-                    <!-- categories -->
-                    <% if(word.category){ %>
-                        <% if(word.category.length> 0){ %>
-                            <div class="details">
-                                <h3>categories:</h3>
-                                <div class="nyms-flex">
-                                    <% for(let i=0; i < word.category.length; i++){ %>
-                                        <a class="nyms-list" href=<%- `./cat/?c=${word.category[i].replace(/ /g,"%20")}` %>>
-                                            <%= word.category[i] %>
-                                        </a>
-                                        <% } %>
-                                </div>
-                            </div>
-                            <% } %>
-                                <% } %>
-
                 </div>
+                <% } %>
+            
+                <!-- word result(s) -->
+                <% if(!showVar){ %>
+                    <%- include("./partials/word_result", {
+                        word: wordVars[0],
+                        variant: ''
+                    }) %>
+                <% } else { %>
+                    <% for(let i = 0; i < wordVars.length; i++) { %>
+                        <hr class="hr-pale">
+                        <%- include("./partials/word_result", {
+                            word: wordVars[i],
+                            variant: i+1
+                        }) %>
+                        <br>
+                    <% } %>
+                <% } %>
 
+                <!-- starts with also -->
+                <% if(prefixResult.length > 0){ %>
+                    <%- include("./partials/prefix") %>
+                <% } %>
             </div>
         </div>
 

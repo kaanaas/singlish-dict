@@ -2,6 +2,7 @@ class TrieNode {
     constructor() {
         this.children = {};
         this.isWordEnd = false;
+        this.isMajorForm = false;
         this.word = [];
     }
 };
@@ -45,6 +46,9 @@ class Trie {
         }
         // once at the final letter of word, mark as a new word end (inserted)
         node.isWordEnd = true;
+        if (word == majorForm) {
+            node.isMajorForm = true;
+        }
         node.word.push(majorForm);
     }
 
@@ -67,18 +71,42 @@ class Trie {
 
     // search by prefix (starts with)
     startsWith(prefix) {
+        let ans = [];
+
+        // prevent too short queries (1 or less)
+        if (prefix.length < 2) return [];
+
         let node = this.root;
         for (let i = 0; i < prefix.length; i++) {
             let char = prefix[i];
             // return false if word w next letter is not present
             if (!node.children[char]) {
-                return false;
+                return [];
             }
-            // else move to next letter node
+            // prev boolean implmentation: else move to next letter node
             node = node.children[char];
         }
-        // if there are nodes in trie with this prefix, return true
-        return true;
+        // console.log(node);
+
+        // return array of ALL children
+        let searchStack = [[node, prefix]];
+        while (searchStack.length > 0) {
+            // analyse top of stack (end element of array)
+            [node, prefix] = searchStack.pop();
+
+            // found a major form
+            if (node.isWordEnd) {
+                ans.push(prefix);
+            }
+
+            // add children to the stack with their letter appended to the running prefix
+            for (const [letter, child] of Object.entries(node.children)) {
+                searchStack.push([child, prefix + letter]);
+            }
+        }
+        // if there are nodes in trie with this prefix, return them
+        // console.log(ans);
+        return ans;
     }
 }
 

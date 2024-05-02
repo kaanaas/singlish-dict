@@ -9,12 +9,16 @@
             <div class="def-box">
                 <%- include("./partials/search_container") %>
 
-                <div class="result" id="not-found">
-                    <div class="not-found">
-                        <h3><%= searchInput %>&nbsp;</h3>
-                        <p>cannot find.</p>
+                <% if(prefixResult.length > 0){ %>
+                    <%- include("./partials/prefix") %>
+                <% } else { %>
+                    <div class="result" id="not-found">
+                        <div class="not-found">
+                            <h3><%= searchInput %></h3>
+                            <p>cannot find.</p>
+                        </div>
                     </div>
-                </div>
+                <% } %>
             </div>
         </div>
 
