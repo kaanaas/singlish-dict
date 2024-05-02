@@ -5,8 +5,9 @@
         const match = s.match(regExStr);
         if (match) {
             for (let i = 0; i < match.length; i++){
-                let word = match[i].substring(2, match[i].length - 1).replace(/ /g,"%20");
-                s = s.replace(match[i], `\<a href="./?q=${word}" class="underline">\<i>${word}\</i>\</a>`)
+                let word = match[i].substring(2, match[i].length - 1);
+                let wordUrl = match[i].substring(2, match[i].length - 1).replace(/ /g,"%20");
+                s = s.replace(match[i], `\<a href="./?q=${wordUrl}" class="underline">\<i>${word}\</i>\</a>`)
             }
         }
         return s;
