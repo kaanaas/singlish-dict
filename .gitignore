@@ -5,6 +5,14 @@ views/index_old.ejs
 app_detail.js
 app_dict_insert.js
 public/css/styles_insert.css
+public/dict/dict_simple.json
+public/dict/dict*copy.json
+public/dict/details*copy.json
+
+# fonts
+public/css/fonts/NSimSun.ttf
+public/css/fonts/SimSun.ttf
+public/css/fonts/SimSunB.ttf
 
 
 # Logs

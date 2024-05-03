@@ -57,12 +57,13 @@
                                     <option value="hokkien"></option>
                                     <option value="malay"></option>
                                     <option value="cantonese"></option>
+                                    <option value="teochew"></option>
                                     <option value="mandarin"></option>
                                     <option value="tamil"></option>
                                     <option value="singlish"></option>
                                     <option value="hainanese"></option>
                                     <option value="hakka"></option>
-                                    <option value="other chinese"></option>
+                                    <option value="general chinese"></option>
                                     <option value="other"></option>
                                 </datalist>
                             </div>
@@ -228,7 +229,7 @@
         <script>
             // main
             const noDefDict = <%- JSON.stringify(noDefDict) %>;
-            var count = 0;
+            var count = 2;  // increase this every time a multi word is added
             const randBtn = document.getElementById("random");
             random.addEventListener("click", () => {
                 // let randWord = noDefDict[Math.floor(Math.random() * noDefDict.length)]
@@ -257,12 +258,13 @@
                                     <option value="hokkien"></option>
                                     <option value="malay"></option>
                                     <option value="cantonese"></option>
+                                    <option value="teochew"></option>
                                     <option value="mandarin"></option>
                                     <option value="singlish"></option>
                                     <option value="tamil"></option>
                                     <option value="hainanese"></option>
                                     <option value="hakka"></option>
-                                    <option value="other chinese"></option>
+                                    <option value="general chinese"></option>
                                     <option value="other"></option>
                                 </datalist>
                             </div>

@@ -1,7 +1,7 @@
 <%
     // @{} link function
     formatDyno = function (s) {
-        const regExStr = /@\{([0-9a-zA-Z -',]{1,})\}/g;
+        const regExStr = /@\{([0-9a-zA-Z ',\-]{1,})\}/g;
         const match = s.match(regExStr);
         if (match) {
             for (let i = 0; i < match.length; i++){

@@ -97,9 +97,11 @@
     ],
     "agak": [
         "agak",
-        "agak-agak",
-        "agak agak",
         "agar"
+    ],
+    "agak-agak": [
+        "agak-agak",
+        "agak agak"
     ],
     "agak tarik": [
         "agak tarik",
@@ -121,6 +123,7 @@
     "ah balling": [
         "ah balling",
         "ah-balling",
+        "ah bor nim",
         "ah bor ling",
         "arboling"
     ],
@@ -326,6 +329,7 @@
         "akshen aje",
         "akshen aja",
         "action aja",
+        "action aje",
         "akshen saja"
     ],
     "aksi": [
@@ -408,12 +412,10 @@
         "ang pow"
     ],
     "angkat": [
-        "angkat",
-        "carry"
+        "angkat"
     ],
     "angkat bola": [
-        "angkat bola",
-        "carry balls"
+        "angkat bola"
     ],
     "anyhow": [
         "anyhow",
@@ -6355,5 +6357,11 @@
     ],
     "pink ic": [
         "pink ic"
+    ],
+    "xmm": [
+        "xmm",
+        "xiao mei mei",
+        "xiaomeimei",
+        "xiao meimei"
     ]
 }

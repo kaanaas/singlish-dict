@@ -1,14 +1,14 @@
-<br>
 <hr class="hr-pale">
 
 <div class="result">
     <div class="not-found">
-        <h4>searches starting with</h4>
-        <h3 class="">'<%= searchInput %>'</h3>
+        <h4><%= typeof headerText != 'undefined' ? headerText : "entries starting with" %></h4>
+        <h3>'<%= searchInput %>'</h3>
     </div>
     <ul class="prefix-list">
-    <% for(let i = 0; i < prefixResult.length; i++){ %>    
-        <li><a href="./?q=<%= prefixResult[i] %>"><%= prefixResult[i] %></a></li>
+    <% result = result.sort(); %>
+    <% for(let i = 0; i < result.length; i++){ %>    
+        <li><a href="./?q=<%= result[i] %>"><%= result[i] %></a></li>
     <% } %>
     </ul>
 </div>

@@ -10,7 +10,11 @@
                 <%- include("./partials/search_container") %>
 
                 <% if(prefixResult.length > 0){ %>
-                    <%- include("./partials/prefix") %>
+                    <%- include("./partials/prefix", {
+                        headerText: "entries starting with",
+                        result: prefixResult,
+                        searchInput: searchInput
+                    }) %>
                 <% } else { %>
                     <div class="result" id="not-found">
                         <div class="not-found" style="justify-content: center;">

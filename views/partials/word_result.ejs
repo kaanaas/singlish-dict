@@ -31,19 +31,23 @@
                     <% if(posDet[j].synonyms.length > 0){ %>
                         <div class="nyms-flex" id="synonyms-flex">
                             <p class="synonyms-leader nyms-leader" name="synonyms-leader">synonyms:</p>
+                            <div class="nyms-flex-results">
                             <% for(let k = 0; k < posDet[j].synonyms.length; k++){ %>
                                 <a class="nyms-list" href=<%- `./?q=${posDet[j].synonyms[k].replace(/ /g,"%20")}` %>>
                                     <%= posDet[j].synonyms[k] %></a>
                             <% } %>
+                            </div>
                         </div>
                     <% } %>     
                     <% if(posDet[j].antonyms.length > 0){ %>
                         <div class="nyms-flex" id="antonyms-flex">
                             <p class="antonyms-leader nyms-leader" name="antonyms-leader">antonyms:</p>
+                            <div class="nyms-flex-results">
                             <% for(let k = 0; k < posDet[j].antonyms.length; k++){ %>
                                 <a class="nyms-list" href=<%- `./?q=${posDet[j].antonyms[k].replace(/ /g,"%20")}` %>>
                                     <%= posDet[j].antonyms[k] %></a>
                             <% } %>
+                            </div>
                         </div>
                     <% } %>
                     </div>
@@ -106,10 +110,12 @@
     <div class="details">
         <h3>related:</h3>
         <div class="nyms-flex">
-        <% for(let i = 0; i < word.related.length; i++){ %>
-            <a class="nyms-list" href=<%- `./?q=${word.related[i].replace(/ /g,"%20")}` %>>
-                <%= word.related[i] %></a>
-        <% } %>
+            <div class="nyms-flex-results">
+            <% for(let i = 0; i < word.related.length; i++){ %>
+                <a class="nyms-list" href=<%- `./?q=${word.related[i].replace(/ /g,"%20")}` %>>
+                    <%= word.related[i] %></a>
+            <% } %>
+            </div>
         </div>
     </div>
     <% } %>

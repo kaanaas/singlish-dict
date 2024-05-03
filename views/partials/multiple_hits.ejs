@@ -1,0 +1,7 @@
+<% if(hits.length > 0){ %>
+    <%- include("./prefix", {
+        headerText: "results for",
+        result: hits,
+        searchInput: searchInput
+    }) %>
+<% } %>

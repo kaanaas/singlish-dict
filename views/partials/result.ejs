@@ -1,0 +1,47 @@
+<!-- alternatives -->
+<% if (alts.length > 0) { %>
+<div class="result">
+    <% if(searchInput != wordVars[0].word){ %>
+        <div class="redir-flex">
+            <p class="redir-text">redirected from</p> 
+            <p class="redir-word"><%= searchInput %></p>
+        </div>
+    <% } %>
+    <div class="alts-container" id="alts">
+        <div class="alts-flex" id="alts-flex">
+            <div class="tooltip">
+                <i class="fa-solid fa-circle-question q-tip" tabindex="0"></i>
+                <span class="tooltip-text">Commonly found variants; note these may range from acceptable alternatives to
+                    non-standard forms or incorrect spellings*.
+                    <br><i>* Singlish is a largely spoken creole, and as such descriptivism (recording forms that reflect
+                        actual pronunciation in spoken language, or as appearing in the linguistic corpus) is more pertinent
+                        than strict prescriptivism. Nevertheless, the use of more standard forms (or for words originating
+                        in languages with Latin script, such as Malay, accurate to the original spelling) is recommended and
+                        encouraged.</i>
+                </span>
+            </div>
+            <p class="alts-leader" id="alts-leader">also can:</p>
+            <p class="alts-list">
+                <%= alts %>
+            </p>
+        </div>
+    </div>
+</div>
+<% } %>
+
+<!-- word result(s) -->
+<% if(!showVar){ %>
+    <%- include("./word_result", {
+        word: wordVars[0],
+        variant: ''
+    }) %>
+<% } else { %>
+    <% for(let i = 0; i < wordVars.length; i++) { %>
+        <hr class="hr-pale">
+        <%- include("./word_result", {
+            word: wordVars[i],
+            variant: i+1
+        }) %>
+        <br>
+    <% } %>
+<% } %>

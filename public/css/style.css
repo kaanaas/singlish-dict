@@ -454,6 +454,15 @@ input[type=text] {
     color: var(--bg-darken);
 }
 
+.ortho-lit-div {
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 16em;
+}
+
 .lit {
     margin-top: 0;
     font-size: 0.75em;
@@ -461,7 +470,6 @@ input[type=text] {
     font-style: italic;
     color: var(--grey-green);
     word-wrap: break-word;
-    max-width: 15em;
     text-align: center;
 }
 
@@ -478,6 +486,7 @@ input[type=text] {
 
 .ety-notes-div p {
     font-size: 0.85em;
+    text-align: justify;
 }
 
 .ety-notes-div a {
@@ -566,8 +575,19 @@ input[type=text] {
     display: flex;
     align-items: flex-start;
     justify-content: left;
-    gap: 1.25em;
-    margin-left: .5em;
+    row-gap: 0;
+    column-gap: 1.25em;
+    margin-left: .75em;
+    flex-wrap: nowrap;
+}
+
+.nyms-flex-results {
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+    row-gap: 0;
+    column-gap: 1.25em;
+    flex-wrap: wrap;
 }
 
 .nyms-leader {
@@ -576,6 +596,7 @@ input[type=text] {
     font-weight: 600;
     font-style: italic;
     cursor: pointer;
+    margin-left: 0!important;
 }
 
 .synonyms-leader {
@@ -823,11 +844,44 @@ input[type=text] {
     transform: translateX(-50%);
 }
 
+/* div icon */
+.div-otter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    font-size: 2em;
+    color: var(--bg-darken);
+}
+
+.div-hr {
+    width: 100%;
+    
+}
+
 /* prefix */
 .prefix-list {
     margin-left: 1.5em;
     list-style-type: '❧';
     list-style-position: outside;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
+/* css specific to small screens width */
+@media screen and (max-width: 630px) {
+   .prefix-list {
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
+    }
+}
+@media screen and (max-width: 400px) {
+   .prefix-list {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+    }
 }
 
 li::marker {
@@ -836,8 +890,7 @@ li::marker {
 
 .prefix-list li {
     font-family: "Crimson Text";
-    margin-top: 0.3em;
-    margin-bottom: 0.3em;
+    margin-bottom: 0.6em;
     padding-left: 1em;
 }
 

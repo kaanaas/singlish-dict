@@ -9,8 +9,8 @@ const trie = new Trie();
 // }
 
 // populate Trie with major spellings + alts
-for(const [key, value] of Object.entries(json)) {
-    for(let i = 0; i < value.length; i++){
+for (const [key, value] of Object.entries(json)) {
+    for (let i = 0; i < value.length; i++) {
         trie.insert(value[i].toLowerCase(), key.toLowerCase());
         // console.log(`- ${value[i]} - added to trie under entry - ${key} -.`);
     }

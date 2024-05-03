@@ -1564,7 +1564,7 @@
     },
     "steady@1": {
         "word": "steady",
-        "sense": 0,
+        "sense": 1,
         "related": [
             "sei",
             "steady pom pi pi",
@@ -1646,7 +1646,7 @@
     },
     "steady@2": {
         "word": "steady",
-        "sense": 0,
+        "sense": 2,
         "related": [
             "ai stead mai",
             "kia stead",
@@ -3459,7 +3459,9 @@
     "abang": {
         "word": "abang",
         "sense": 0,
-        "related": [],
+        "related": [
+            "adik"
+        ],
         "usage": "",
         "phonetics": "",
         "etyNotes": "",
@@ -3858,6 +3860,828 @@
                     "definition": "(expression) describing a person behaving in an exaggeratedly cutesy manner, which is obviously feigned or a front, and comes across as unnecessary and irritating. Can also describe the manner in which they are acting.",
                     "example": "",
                     "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "action@1": {
+        "word": "action",
+        "sense": 1,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "action",
+                "romanization": "",
+                "lit": "to perform a motion;<br>(interjection) a command to begin sth., esp. a performance or act",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "blustering, arrogant, and pompous in one's behaviour and bearing.",
+                    "example": "Wei Kiat admits that his grasp of English grammar is poor and his vocabulary, weak. He does not speak “high class English” to his friends and family. Says Wei Kiat, “Wait people think I very action.”",
+                    "exampleSource": "2006 July 30, Nur Amira Abdul Karim (quoting Ang Wei Kiat). The Sunday Times, p.35",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to boast; to show off",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "action@2": {
+        "word": "action",
+        "sense": 2,
+        "related": [
+            "act blur",
+            "act blur live longer"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "action",
+                "romanization": "",
+                "lit": "to perform a motion;<br>(interjection) a command to begin sth., esp. a performance or act",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "appear to be doing something; put on a display; act like one is doing more than one is busy with",
+                    "example": "Eh, boss coming, action action a bit! If not he will arrow you to do more @{saikang}.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "wayang"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of people) appearing as if they are something they are not",
+                    "example": "He say until his @{England} so @{powderful} liddat, but he just action only; later you hear him try spiaking English, really can @{vomit blood} sia.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "wayang",
+                        "action aje"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "akshen aje": {
+        "word": "akshen aje",
+        "sense": 0,
+        "related": [
+            "action"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Malay variant of the common Singlish construction <i>action</i> + only.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "action",
+                "romanization": "",
+                "lit": "(of people) appearing as if they are something they are not",
+                "etyPath": [
+                    "english"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "action"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "to perform a motion;<br>(interjection) a command to begin sth.,esp. a performance or act"
+                ]
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "aje, aja",
+                "romanization": "",
+                "lit": "shortening / eye-dialect spelling of 'sahaja'",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "sahaja"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "only; merely"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "appearing to be something one is not, especially acting tough.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "adik": {
+        "word": "adik",
+        "sense": 0,
+        "related": [
+            "abang"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "adik",
+                "romanization": "",
+                "lit": "younger sibling; term of address for a younger sibling in a family",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "term of address or endearment for a person slightly younger than oneself; little sibling",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "term of address for a younger sibling in a family",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aduh": {
+        "word": "aduh",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "aduh",
+                "romanization": "",
+                "lit": "ouch",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "ouch!; an exclamation in response to physical pain, or sympathy to another's pain, or expressing emotional hurt as a reply to an insult.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "aiyo"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "a general exclamation of disapproval, consternation, disbelief, surprise, etc.",
+                    "example": "“Adoooi,” the cabbie shook his head, as he pulled out of the lane. “Nowadays, the children ah!” ... “Saturday night, adoi! My cab can be like tiger show, you know? Some of the girls wear dental floss only!”",
+                    "exampleSource": "2008 December 28, Colin Goh. The Sunday Times (LifeStyle), p.11",
+                    "synonyms": [
+                        "aiyo",
+                        "aiyoyo",
+                        "alamak"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "agak": {
+        "word": "agak",
+        "sense": 0,
+        "related": [
+            "agak tarik",
+            "agak-agak",
+            "agar-agar",
+            "agaration"
+        ],
+        "usage": "More commonly reduplicated as @{agak-agak}.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "agak",
+                "romanization": "",
+                "lit": "guess; conjecture",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to guess; to estimate",
+                    "example": "- You sure?<br>\r\n- Not really, I agak only.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "agak-agak"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a guess; an estimation",
+                    "example": "[A]ll along she’d cooked by agak (estimation). So when she wrote the cookbook, she had to discipline herself to putting everything into measurements.",
+                    "exampleSource": "2004 May 9, Teo Pau Lin (quoting Pamelia Lee). The Straits Times (LifeStyle), p.32 ",
+                    "synonyms": [
+                        "agak-agak"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "agak-agak": {
+        "word": "agak-agak",
+        "sense": 0,
+        "related": [
+            "agak",
+            "agak tarik",
+            "agaration",
+            "anyhow"
+        ],
+        "usage": "Not to be confused with @{agar-agar}, which is a type of jelly.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "agak-agak",
+                "romanization": "",
+                "lit": "reduplication of agak (to guess; conjecture)",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to guess; to estimate",
+                    "example": "When cooking, for example, if asked how much sugar you put in, you could reply 'I just agak-agak.'",
+                    "exampleSource": "1999, Adam Brown, <i>Singapore English in a Nutshell‎</i>. Singapore: Federal Publications, p.3",
+                    "synonyms": [
+                        "agak"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "estimated; through guesswork",
+                    "example": "Kelly always said,'We Baba follow the agak-agak principle.'",
+                    "exampleSource": "2007, Sidney Cheung, Chee-Beng Tan, editors. <i>Food and Foodways in Asia: Resource, Tradition and Cooking</i>, Abingdon: Routledge.",
+                    "synonyms": [
+                        "agak"
+                    ],
+                    "antonyms": [
+                        "zhun"
+                    ]
+                }
+            ]
+        },
+        "particles": []
+    },
+    "agak tarik": {
+        "word": "agak tarik",
+        "sense": 0,
+        "related": [
+            "agak",
+            "teh tarik"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "agak",
+                "romanization": "",
+                "lit": "estimate",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "tarik",
+                "romanization": "",
+                "lit": "pull",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "hold back; not go too far",
+                    "example": "Don't give the kids so much homework in one day lah. Agak tarik a bit, they've got other classes to study for as well!",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "agar-agar": {
+        "word": "agar-agar",
+        "sense": 0,
+        "related": [],
+        "usage": "Not to be confused with @{agak-agak}, which is a term meaning to guesstimate, or describing something as approximated.",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "agar-agar",
+                "romanization": "",
+                "lit": "a jelly typically made from the gracilaria and gelidiaceae genera of red algae",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "agar"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "the red algae from which agar-agar jelly is produced"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an edible jelly-like substance made from red algae, traditionally used as an ingredient in making jellied desserts.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "agaration": {
+        "word": "agaration",
+        "sense": 0,
+        "related": [
+            "agak",
+            "agak-agak"
+        ],
+        "usage": "Backformations such as <i>agarate</i> or  <i>agarating</i>, as well as the related <i>agar-ing</i>, may be seen - albeit nonstandard and almost always used humorously or ironically.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "The -k is altered to -r either due to the phonology flowing better, or due to misidentification of the '-ation' suffix in English as including the 'r' ('-ration'), it being present in common words such as 'migration', 'generation', and 'celebration'. This was either a common enough mistake that it became standard, or done ironically or humorously.<br>Similar formations are seen in terms like @{chiminology}, where @{chim} is merged with almost the whole of 'criminology' rather than just the suffix '-(o)logy'.",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "agak",
+                "romanization": "",
+                "lit": "estimate; guess",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-(r)ation",
+                "romanization": "",
+                "lit": "an action or process, or the result thereof",
+                "etyPath": [
+                    "old french",
+                    "latin"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "-ation",
+                    "-ātiō"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "an action or process, or the result thereof",
+                    "form of the -tiō suffix added to a noun to form another noun relating to an action or the result thereof"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a guess; an estimation",
+                    "example": "I didn't mean that I watch exactly 10 hours of TV every week for sure; that figure was just an agaration.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "the process or action of estimating (@{agak}).",
+                    "example": "- How much is that in total?<br>- Just do some agaration... close enough also can lah.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah@1": {
+        "word": "ah",
+        "sense": 1,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "啊",
+                "simplified": "啊",
+                "roman": "a",
+                "romanization": "pinyin",
+                "lit": "general particle or interjection",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "particle": [
+                {
+                    "definition": "used at the end of a sentence as a question or interrogative marker; tag asking for clarification",
+                    "example": "This is free? I take two also can?<br>\r\n→ This is free ah? I take two also can ah?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "meh",
+                        "isit"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "used to emphasize a question sentence",
+                    "example": "Why you so liddat?<br>\r\n→ Why you so liddat ah?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "used to impart a didactic or chiding tone (such as at the end of an imperative clause); may carry a tone of caution.",
+                    "example": "Don't play play.<br>\r\n→ Don't play play ah...",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "hor"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "used to express that the speaker is awaiting confirmation or acknowledgement of the sentence",
+                    "example": "Ah boy, study hard, don't come home too late.<br>\r\n→ Ah boy, study hard, don't come home too late, ah?",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "hor"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "a filler word used to mark the point between the sentence topic and the rest of the sentence, sometimes replacing a conjunction; emphasizes and calls attention or heed to the sentence topic before continuing ",
+                    "example": "The rain last night was so noisy I couldn't sleep.<br>\r\n→ The rain last night ah, so noisy I couldn't sleep.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "hor",
+                        "orh"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "used to soften tone, e.g. of a request",
+                    "example": "Girl, can help me with my phone?<br>\r\n→ Girl ah, can help me with my phone?",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "expressing continuousness; inexhaustive listing; enumeration",
+                    "example": "The new hire cannot shut up, I tell you. Talking, asking, laughing; really pek chek man.<br>\r\n→ The new hire cannot shut up, I tell you. Talk ah, ask ah, laugh ah; really pek chek man.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "lah"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "rudely call attention to a present issue; indicate realization of a topic previously discussed to be occurring in the future ",
+                    "example": "Ah! Ah there? You see? @{Orbi good}...",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "used to issue a challenge, or impart a challenging tone",
+                    "example": "Ah, then? My problem isit?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "expression or exclamation of surprise",
+                    "example": "Ah! So fast dry already?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "wah"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "ok; acknowledged; used to indicate acknowledgement or approval",
+                    "example": "Ah, sounds good. We go ahead with your plan ba.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "orh"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah@2": {
+        "word": "ah",
+        "sense": 2,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Use as an honorific prefix is typically attributed to Min Nan languages (the family including Hokkien, Teochew, Hainanese, Hockchew etc.); use as a prefix of familiarity is common throughout southern Chinese languages.",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "阿",
+                "simplified": "阿",
+                "roman": "a",
+                "romanization": "poj",
+                "lit": "honorific or diminutive or endearing prefix",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "affix": [
+                {
+                    "definition": "honorific prefix to a kinship title",
+                    "example": "Ah Kong and Ah Chek both moved house last year.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "prefixed to a name (usually the last syllable) or when addressing an unknown person as a diminutive, or to express familiarity and friendliness.",
+                    "example": "- Ah Yong is studying Law, at Durham.<br>\r\n- I know he is studying lah, what is he studying?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ar": {
+        "word": "ar",
+        "sense": 0,
+        "related": [
+            "ar ka chi",
+            "ar ka liau",
+            "ar lip bo ar chut",
+            "argable"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "This is most likely the origin. This use of <a href=\"https://sutian.moe.edu.tw/zh-hant/su/2110/\">合</a> exists in Hokkien, but not other Chinese languages such as Mandarin; a̍h/ha̍h is the vernacular pronunciation, used for this meaning, while ha̍p is the literary reading and is used for other usual meanings of 合 in Chinese, such as \"to join\".",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "合",
+                "simplified": "合",
+                "roman": "a̍h",
+                "romanization": "poj",
+                "lit": "get along well with",
+                "etyPath": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "curry favour with; get along well with; get into one's good books",
+                    "example": "So if you ar with the IC... you can @{chiah chua} a bit.",
+                    "exampleSource": "1978, Leong Choon Cheong (quoting Tay Poh Hock). <i>Youth in the Army</i>, p.53",
+                    "synonyms": [
+                        "angkat bola",
+                        "angkat",
+                        "carry balls",
+                        "carry",
+                        "cari point"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah balling": {
+        "word": "ah balling",
+        "sense": 0,
+        "related": [
+            "tang yuan"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "\"鴨母\" is probably in reference to duck eggs (due to how the dish resembles eggs), which are called 鸭母卵 (ah4 bho2 neng6) or 鸭卵 (ah4 neng6) in Teochew.<br>\r\n鸭母卵 (ah4 bho2 neng6), \"<i>mother duck's eggs</i>\" is also another possibility for the dish's name, or has at least influenced the alteration of its pronunciation into \"ah balling\" in Singlish.",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "鴨母捻",
+                "simplified": "鸭母捻",
+                "roman": "ah4 bho2 nim3",
+                "romanization": "peng'im",
+                "lit": "ah balling (glutinous rice balls with filling in a sweet soup; tangyuan)",
+                "etyPath": [
+                    "teochew",
+                    "teochew"
+                ],
+                "etyScript": [
+                    "鸭母",
+                    "捻"
+                ],
+                "etyTrad": [
+                    "鴨母",
+                    "捻"
+                ],
+                "etyRoman": [
+                    "ah4 bho2",
+                    "nim3"
+                ],
+                "etyScheme": [
+                    "peng'im",
+                    "peng'im"
+                ],
+                "etyLit": [
+                    "female duck; mother duck",
+                    "to pinch with the fingers"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dish of glutinous rice balls with filling, such as ground peanut or sesame paste mixed with sugar, in a sweet soup; Teochew tangyuan. It is popularly eaten during the Winter Solstice Festival.",
+                    "example": "Tangyuan for the Teochews is known as “Ah Balling”, ... which means “mother duck’s eggs”. The term is used to describe tangyuan’s resemblance to floating duck eggs while being cooked in soup.",
+                    "exampleSource": "2023, Festive Fever, SCCC. <i>Celebrating Winter Solstice The Singaporean Way</i>. https://festivefever.singaporeccc.org.sg/winter-solstice/archival/2023/winter-solstice-101/",
                     "synonyms": false,
                     "antonyms": false
                 }
