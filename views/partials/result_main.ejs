@@ -59,7 +59,7 @@
                 <% for(let i = 0; i < word.origin.length; i++) { %>
                     <div class="origin-container">
                         <% if(i != 0) { %>
-                            <p class="ortho-origin" style="font-style: normal;">&emsp;&nbsp;+ </p>
+                            <h2 class="ortho-origin" style="font-style: normal;">+ </h2>
                         <% } else { %>
                             <p class="ortho-origin">from</p>
                         <% } %>
@@ -102,7 +102,7 @@
                                 <% } %>
 
                                 <div class="ortho-lit-div">
-                                    <p class="lit"><%- word.origin[i].lit.toLowerCase() %></p>
+                                    <p class="lit"><%- word.origin[i].lit %></p>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +110,15 @@
                         <!-- ety paths -->
                         <% if(word.origin[i].etyPath){ %>
                             <% for(let j = 0; j < word.origin[i].etyPath.length; j++){ %>
-                                <p class="ortho-origin">⇠</p>
+                                <% if(word.origin[i].etyType != undefined && j != 0){ %>
+                                    <% if(word.origin[i].etyType[j-1] == "" || word.origin[i].etyType[j-1] == "-"){ %>
+                                    <p class="ortho-origin">⇠</p>
+                                    <% } else { %>
+                                    <p class="ortho-origin"><%= word.origin[i].etyType[j-1] %></p>
+                                    <% } %>
+                                <% } else { %>
+                                    <p class="ortho-origin">⇠</p>
+                                <% } %>
                                 <div class="ortho-box">
                                 <div class="ortho-box-ext">
                                     <!-- const langName = word.origin[i].etyPath[j].toLowerCase().charAt(0).toUpperCase() + word.origin[i].etyPath[j].toLowerCase().slice(1); %> -->
@@ -153,7 +161,7 @@
                                     <% } %>
                                     
                                     <% if(word.origin[i].etyLit[j]){ %>
-                                        <p class="lit"><%= word.origin[i].etyLit[j].toLowerCase().replace(/,/g, ", ") %></p>
+                                        <p class="lit"><%= word.origin[i].etyLit[j].replace(/,/g, ", ") %></p>
                                     <% } %>
                                 </div>
                                 </div>

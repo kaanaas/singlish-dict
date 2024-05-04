@@ -1,6 +1,7 @@
 <%
     // @{} link function
     formatDyno = function (s) {
+        // links
         const regExStr = /@\{([0-9a-zA-Z ',\-]{1,})\}/g;
         const match = s.match(regExStr);
         if (match) {
@@ -8,6 +9,24 @@
                 let word = match[i].substring(2, match[i].length - 1);
                 let wordUrl = match[i].substring(2, match[i].length - 1).replace(/ /g,"%20");
                 s = s.replace(match[i], `\<a href="./?q=${wordUrl}" class="underline">\<i>${word}\</i>\</a>`)
+            }
+        }
+        // special symbols
+        const regExStrHash = /#\{([0-9a-zA-Z ',\-]{1,})\}/g;
+        const matchHash = s.match(regExStrHash);
+        if (matchHash) {
+            for (let i = 0; i < matchHash.length; i++){ 
+                let word = matchHash[i].substring(2, matchHash[i].length - 1);
+                if(word.toLowerCase() == "warn") 
+                    s = s.replace(matchHash[i], `\<i class=\"fa-solid fa-triangle-exclamation\">\</i>`);
+                if(word.toLowerCase() == "dubious") 
+                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Dubious or unconfirmed etymology" style="color:orange">\</i>`);
+                if(word.toLowerCase() == "likely") 
+                    s = s.replace(matchHash[i], `\<i class="fa-solid fa-shuffle" title="Likely, but other possible etymologies exist" style="color:mediumspringgreen">\</i>`);
+                if(word.toLowerCase() == "red") {
+                    s = s.replace(matchHash[i], "");
+                    s = "\<p style=\"color: red;\">" + s + "\</p>";
+                }
             }
         }
         return s;

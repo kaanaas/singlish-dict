@@ -118,7 +118,8 @@
         "agar-ration"
     ],
     "ah": [
-        "ah"
+        "ah",
+        "a"
     ],
     "ah balling": [
         "ah balling",
@@ -194,7 +195,8 @@
         "a m",
         "ah m"
     ],
-    "ah neh": [
+    "anneh": [
+        "anneh",
         "ah neh",
         "ahneh"
     ],
@@ -206,10 +208,13 @@
         "ah pek",
         "ahpek"
     ],
-    "ah pu neh neh": [
+    "apu neh neh": [
+        "apu neh neh",
         "ah pu neh neh",
         "apu neneh",
         "apuneneh",
+        "apunehneh",
+        "ahpunehneh",
         "ahpu nehneh"
     ],
     "ah pui": [
@@ -245,7 +250,15 @@
     ],
     "ai pi ai chee ai tua liap ni": [
         "ai pi ai chee ai tua liap ni",
-        "ai pee ai chee ai tua liap nee"
+        "ai pi ai chi ai tua liap ni",
+        "ai pee ai chee ai tua liap nee",
+        "ai pi ai chee ai dua liap ni",
+        "ai pee ai chee ai dua liap nee"
+    ],
+    "ai pi ai chee": [
+        "ai pi ai chee",
+        "ai pi ai chi",
+        "ai pee ai chee"
     ],
     "ai si": [
         "ai si",
@@ -258,8 +271,7 @@
     ],
     "ai stead mai": [
         "ai stead mai",
-        "stead ai mai",
-        "ai kia stead mai"
+        "stead ai mai"
     ],
     "ai sui mai mia": [
         "ai sui mai mia",
@@ -6363,5 +6375,34 @@
         "xiao mei mei",
         "xiaomeimei",
         "xiao meimei"
+    ],
+    "yp": [
+        "yp",
+        "young punk"
+    ],
+    "salakau": [
+        "salakau",
+        "sa lak kau",
+        "sah lak kau"
+    ],
+    "au au salakau": [
+        "au au salakau",
+        "ow ow salakau",
+        "au au sa lak kau"
+    ],
+    "si gin ah": [
+        "si gin ah",
+        "si ginna",
+        "si ginnah",
+        "si ginah",
+        "si gin a"
+    ],
+    "leng lui": [
+        "leng lui",
+        "lenglui",
+        "leng nui"
+    ],
+    "then": [
+        "then"
     ]
 }

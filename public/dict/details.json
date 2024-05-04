@@ -144,9 +144,9 @@
         "origin": [
             {
                 "lang": "hokkien",
-                "traditional": "抑/若 無",
-                "simplified": "抑/若 无",
-                "roman": "a̍h/ā-bô",
+                "traditional": "抑無",
+                "simplified": "抑无",
+                "roman": "a̍h-bô",
                 "romanization": "POJ",
                 "lit": "or/if not",
                 "etyPath": false,
@@ -1685,7 +1685,7 @@
             "adverb": [
                 {
                     "definition": "(with '<i>go</i>') to begin an exclusive and committed relationship",
-                    "example": "Priya and Ah Hee had gone steady four months ago, unbeknownst to their heavily disapproving parents.",
+                    "example": "Rani and Ah Hee had gone steady eight months ago, unbeknownst to their heavily disapproving parents.",
                     "exampleSource": "@comm",
                     "synonyms": false,
                     "antonyms": false
@@ -1820,24 +1820,33 @@
                 "simplified": "爱莫",
                 "roman": "ài-m̄-ài",
                 "romanization": "poj",
-                "lit": "愛 (want) + contraction of 毋愛 (not want)",
+                "lit": "(interrogative) (do you) want or not want (sth.)?; 愛 (want) + contraction of 毋愛 (not want)",
                 "etyPath": [
+                    "hokkien",
                     "hokkien"
                 ],
                 "etyScript": [
-                    "爱毋爱"
+                    "爱",
+                    "毋爱"
                 ],
                 "etyTrad": [
-                    "愛毋愛"
+                    "愛",
+                    "毋愛"
                 ],
                 "etyRoman": [
-                    "ài-m̄-ài"
+                    "ài",
+                    "m̄-ài"
                 ],
                 "etyScheme": [
+                    "poj",
                     "poj"
                 ],
                 "etyLit": [
-                    "(interrogative) (do you) want or not want (sth.)?"
+                    "want",
+                    "not want"
+                ],
+                "etyType": [
+                    "+"
                 ]
             },
             {
@@ -2279,35 +2288,33 @@
         ],
         "usage": "",
         "phonetics": "",
-        "etyNotes": "",
+        "etyNotes": "May have been derived directly from the archaic English word \"<i>cockstand</i>\", sometimes rendered as \"<i>cock-stand</i>\", which had the same meaning. See <i>2008, Ayto, John, and Simpson, John. 'Oxford Dictionary of Modern Slang'. Oxford University Press, p.54.</i>",
         "origin": [
             {
                 "lang": "english",
                 "traditional": "",
                 "simplified": "",
-                "roman": "cock",
+                "roman": "cockstand",
                 "romanization": "",
-                "lit": "(vulgar) penis",
-                "etyPath": false,
+                "lit": "(vulgar) an erection of the penis",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
                 "etyScript": false,
                 "etyTrad": false,
-                "etyRoman": false,
+                "etyRoman": [
+                    "cock",
+                    "stand"
+                ],
                 "etyScheme": false,
-                "etyLit": false
-            },
-            {
-                "lang": "english",
-                "traditional": "",
-                "simplified": "",
-                "roman": "standing",
-                "romanization": "",
-                "lit": "upright; erect",
-                "etyPath": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "etyLit": [
+                    "(vulgar) penis",
+                    "upright; erect"
+                ],
+                "etyType": [
+                    "+"
+                ]
             }
         ],
         "meanings": {
@@ -2505,19 +2512,19 @@
         "meanings": {
             "idiom": [
                 {
+                    "definition": "describing a bustling, often incomprehensible flurry of activity; (lit) to die in the midst of such a great flurry or excitement that one retains an erection after death",
+                    "example": "Sergeant: \"If you screw up again, I will make sure you do so many push ups that you die cockstand!\"",
+                    "exampleSource": "2010 May 16, sergeant iron. Urban Dictionary.",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
                     "definition": "an activity or experience which is indescribably awesome or pleasurable",
                     "example": "I love Bangkok! It's die cock stand!",
                     "exampleSource": "2015 Mar 2, Glory Ngim. Happy-TV, Youtube.",
                     "synonyms": [
                         "shiok"
                     ],
-                    "antonyms": false
-                },
-                {
-                    "definition": "describing a bustling, often incomprehensible flurry of activity; (lit) to die in the midst of such a great flurry or excitement that one retains an erection after death",
-                    "example": "Sergeant: \"If you screw up again, I will make sure you do so many push ups that you die cockstand!\"",
-                    "exampleSource": "2010 May 16, sergeant iron. Urban Dictionary.",
-                    "synonyms": false,
                     "antonyms": false
                 }
             ]
@@ -3897,7 +3904,9 @@
                     "definition": "blustering, arrogant, and pompous in one's behaviour and bearing.",
                     "example": "Wei Kiat admits that his grasp of English grammar is poor and his vocabulary, weak. He does not speak “high class English” to his friends and family. Says Wei Kiat, “Wait people think I very action.”",
                     "exampleSource": "2006 July 30, Nur Amira Abdul Karim (quoting Ang Wei Kiat). The Sunday Times, p.35",
-                    "synonyms": false,
+                    "synonyms": [
+                        "yaya"
+                    ],
                     "antonyms": false
                 }
             ],
@@ -4654,6 +4663,9 @@
                     "teochew",
                     "teochew"
                 ],
+                "etyType": [
+                    "+"
+                ],
                 "etyScript": [
                     "鸭母",
                     "捻"
@@ -4682,6 +4694,1818 @@
                     "definition": "a dish of glutinous rice balls with filling, such as ground peanut or sesame paste mixed with sugar, in a sweet soup; Teochew tangyuan. It is popularly eaten during the Winter Solstice Festival.",
                     "example": "Tangyuan for the Teochews is known as “Ah Balling”, ... which means “mother duck’s eggs”. The term is used to describe tangyuan’s resemblance to floating duck eggs while being cooked in soup.",
                     "exampleSource": "2023, Festive Fever, SCCC. <i>Celebrating Winter Solstice The Singaporean Way</i>. https://festivefever.singaporeccc.org.sg/winter-solstice/archival/2023/winter-solstice-101/",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah beng": {
+        "word": "ah beng",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah huay",
+            "ah lian",
+            "ah seng",
+            "beng",
+            "suaku",
+            "samseng",
+            "yp"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿明",
+                "simplified": "阿明",
+                "roman": "a-bêng",
+                "romanization": "poj",
+                "lit": "a young Chinese man, stereotypically uncouth, unrefined, and gangsterlike. A stereotypically common male given name.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a young Chinese man, stereotypically uncouth, unrefined, and gangsterlike. The male counterpart of an @{Ah Lian} or @{Ah Huay}. Comes from the stereotypically common male given name 阿明 (a-bêng).",
+                    "example": "The boys are called Ah Bengs and the girls Ah Lians. I have been warned by friends never to make eye contact with them, never to laugh at their ridiculous clothing combinations (white, skin-tight trousers and vest, black belt and a bright yellow handphone stuck to the hip) and never to get into an argument with them because they are usually armed with knives or, wait for it, parangs.",
+                    "exampleSource": "2001, Neil Humphreys. <i>Notes from an Even Smaller Island</i>, p.83",
+                    "synonyms": [
+                        "ah seng"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "having traits associated with an Ah Beng.",
+                    "example": " And beng or not, their radio ditties are catchier than the flu. ... Boom Boom Boom Boom is a staple in the Beng-mobile phone ringer collection.",
+                    "exampleSource": "2000 July 21, Arti Mulchand. <i>The Straits Times (Life!)</i>, p.5",
+                    "synonyms": [
+                        "beng"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah seng": {
+        "word": "ah seng",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah beng",
+            "ah huay",
+            "ah lian",
+            "beng",
+            "samseng",
+            "suaku",
+            "yp"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿成",
+                "simplified": "阿成",
+                "roman": "a-sêng",
+                "romanization": "poj",
+                "lit": "a young Chinese man, stereotypically uncouth, unrefined, and gangsterlike. A stereotypically common male given name.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a young Chinese man, stereotypically uncouth, unrefined, and gangsterlike. The male counterpart of an @{Ah Lian} or @{Ah Huay}. Comes from the stereotypically common male given name 阿成 (a-sêng).",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ah beng"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "having traits associated with an Ah Seng.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "beng",
+                        "ah beng"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah beng ah seng": {
+        "word": "ah beng ah seng",
+        "sense": 0,
+        "related": [
+            "ah beng",
+            "ah seng",
+            "ah",
+            "ah huay",
+            "ah lian",
+            "samseng",
+            "suaku",
+            "yp"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿明阿成",
+                "simplified": "阿明阿成",
+                "roman": "a-bêng a-sêng",
+                "romanization": "poj",
+                "lit": "Ah Bengs and Ah Sengs",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "阿明",
+                    "阿成"
+                ],
+                "etyTrad": [
+                    "阿明",
+                    "阿成"
+                ],
+                "etyRoman": [
+                    "a-bêng",
+                    "a-sêng"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "a young Chinese man,stereotypically uncouth,unrefined,and gangsterlike",
+                    "a young Chinese man,stereotypically uncouth,unrefined,and gangsterlike"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a posse of uncouth, uneducated delinquents and their ilk.",
+                    "example": "Don't go mix with those Ah Beng Ah Seng over there...",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah bo": {
+        "word": "ah bo",
+        "sense": 0,
+        "related": [
+            "abuden"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "抑无",
+                "simplified": "抑無",
+                "roman": "a̍h-bô",
+                "romanization": "poj",
+                "lit": "otherwise; or; if not",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "conjunction": [
+                {
+                    "definition": "otherwise; or; if not",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "else what"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah chek": {
+        "word": "ah chek",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah pek",
+            "ah so",
+            "auntie",
+            "uncle"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "[ˌɑː˨ ˈt͡sek̚˧˨]",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿叔",
+                "simplified": "阿叔",
+                "roman": "a-chek",
+                "romanization": "poj",
+                "lit": "father's younger brother",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "one's father's younger brother",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "an older, middle-aged man; term of address for a middle-aged man. Male equivalent of an @{Ah Soh}.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "uncle"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah huay": {
+        "word": "ah huay",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah beng",
+            "ah lian",
+            "ah seng",
+            "yp"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "While 花 (hoe, \"<i>flower</i>\") is one of the most common characters used to write the stereotypical name, it is not the only possible one. 慧 (hūi / hōe, \"<i>bright; intelligent</i>\"), 惠 (hūi / hōe, \"<i>favour, benevolent, kind</i>\"), and several other examples are also common female names which can be rendered as \"Huay\".",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿花",
+                "simplified": "阿花",
+                "roman": "a-hoe",
+                "romanization": "poj",
+                "lit": "a young Chinese woman, stereotypically uncouth, unrefined, and associated with street gangs; a bimbo. A stereotypically common female given name.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a young Chinese woman, stereotypically uncouth, unrefined, and associated with street gangs; a bimbo. The female counterpart of an @{Ah Beng} or @{Ah Seng}. Comes from the stereotypically common female given name 阿花 (a-hoe).",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ah lian"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah kao": {
+        "word": "ah kao",
+        "sense": 0,
+        "related": [
+            "ah",
+            "tan ah kao"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿狗",
+                "simplified": "阿狗",
+                "roman": "a-káu",
+                "romanization": "poj",
+                "lit": "",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "阿",
+                    "狗"
+                ],
+                "etyTrad": [
+                    "阿",
+                    "狗"
+                ],
+                "etyRoman": [
+                    "a",
+                    "káu"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "diminutive prefix,or used to express familiarity and friendliness",
+                    "dog"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "endearing nickname for someone acting cutesy",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah kong": {
+        "word": "ah kong",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah ma",
+            "ah mm"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿公",
+                "simplified": "阿公",
+                "roman": "a-kong",
+                "romanization": "poj",
+                "lit": "grandfather",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "grandfather",
+                    "example": "Every Chinese New Year, we gather at Ah Kong's house for a festive reunion dinner.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "an elderly man; term of address for an old man. Male equivalent of @{Ah Ma}.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(metaphor, humorous) the government",
+                    "example": "Don't let Ah Kong catch you selling gum.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(metonym, humorous) Lee Kuan Yew, the first Prime Minister of Singapore.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah kor": {
+        "word": "ah kor",
+        "sense": 0,
+        "related": [
+            "ah",
+            "kor",
+            "kor kor"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿哥",
+                "simplified": "阿哥",
+                "roman": "a-ko͘",
+                "romanization": "poj",
+                "lit": "elder brother",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "elder brother",
+                    "example": "Ah kor always takes care of us, giving advice and support whenever we need it.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "a term of address or endearment for a male person slightly older than oneself",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah kua": {
+        "word": "ah kua",
+        "sense": 0,
+        "related": [
+            "ah"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿倌",
+                "simplified": "阿倌",
+                "roman": "a-koaⁿ",
+                "romanization": "poj",
+                "lit": "hermaphrodite; male prostitute; transgender woman",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) an effeminate man",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "gu niang"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(derogatory) a male transvestite",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(derogatory) a male-to-female transgender person",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "a male prostitute",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(derogatory) sissy; effeminate; homosexual",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "gu niang"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "gu niang": {
+        "word": "gu niang",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "姑娘",
+                "simplified": "姑娘",
+                "roman": "gū niáng",
+                "romanization": "pinyin",
+                "lit": "young maiden; young unmarried woman",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an effeminate man",
+                    "example": "Shovelling hard-packed snow is no easy task. It’s a bit like trench-digging during NS, except in the cold and without some sergeant calling you a “gu niang” every few minutes.",
+                    "exampleSource": "2009 January 11, Colin Goh. <i>The Sunday Times (Lifestyle)</i>, p.12",
+                    "synonyms": [
+                        "ah kua"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "a feminine and ladylike woman",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of a man) extremely effeminate",
+                    "example": "He may be gu niang, but he's also one of the most caring and compassionate individuals I know.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ah kua"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(of a woman) ladylike; feminine; dependent",
+                    "example": "I think the stereotype of girls in the army tending to be more tomboyish is not true... We can be very gu niang (ladylike).",
+                    "exampleSource": "2001 March 8, Fiona Chan (quoting Charmaine Chua). <i>The Straits Times (Life! This Weekend)</i>, p.8",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah lian": {
+        "word": "ah lian",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah beng",
+            "ah huay",
+            "ah seng",
+            "yp"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿蓮",
+                "simplified": "阿莲",
+                "roman": "a-liân",
+                "romanization": "poj",
+                "lit": "a young Chinese woman, stereotypically uncouth, unrefined, and associated with street gangs; a bimbo. A stereotypically common female given name.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a young Chinese woman, stereotypically uncouth, unrefined, and associated with street gangs; a bimbo. The female counterpart of an @{Ah Beng} or @{Ah Seng}. Comes from the stereotypically common female given name 阿莲 (a-liân).",
+                    "example": "Often labelled as Bengs and Lians, they howl in Hokkien and gesture in unison while dancing to Euro-trance.",
+                    "exampleSource": "2001 January 14, Michelle Ho. <i>The Sunday Times (Sunday Plus)</i>, p.7",
+                    "synonyms": [
+                        "ah huay"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "having traits associated with an Ah Lian.",
+                    "example": "She is so ah lian, always dressed in chintzy clothes, hanging out at the pool table and smoking with the Ah Bengs, and speaking loudly on her phone wherever she goes.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah long": {
+        "word": "ah long",
+        "sense": 0,
+        "related": [
+            "ah",
+            "o$p$"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "阿窿",
+                "simplified": "阿窿",
+                "roman": "aa3 lung1",
+                "romanization": "jyutping",
+                "lit": "loan shark",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "阿",
+                    "大耳窿",
+                    "大",
+                    "耳窿"
+                ],
+                "etyTrad": [
+                    "阿",
+                    "大耳窿",
+                    "大",
+                    "耳窿"
+                ],
+                "etyRoman": [
+                    "aa3",
+                    "daai6 ji5 lung4-1",
+                    "daai6",
+                    "ji5 lung4-1"
+                ],
+                "etyScheme": [
+                    "jyutping",
+                    "jyutping",
+                    "jyutping",
+                    "jyutping"
+                ],
+                "etyLit": [
+                    "diminutive or endearing prefix",
+                    "loan shark",
+                    "big",
+                    "ear cavity; ear hole; ear piercing"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a loan shark",
+                    "example": "During those tough times, the coffee shop towkay resorted to borrowing from an ah long to keep his business afloat... but he was soon given many reasons to regret his mistake.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(humorous) Lee Hsien Loong, the third Prime Minister of Singapore. <i>Ah Loong</i> is a homophone of <i>ah long</i>.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah ma": {
+        "word": "ah ma",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah kong",
+            "ah mm"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "阿媽",
+                "simplified": "阿妈",
+                "roman": "a-má",
+                "romanization": "poj",
+                "lit": "grandmother; elderly woman",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "grandmother",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "an elderly woman; term of address for an old woman. Female equivalent of @{Ah Kong}.",
+                    "example": "During peak tourist season, tour groups chock full of ah mas and aunties descend upon the most popular sites across East Asia, each donning sweaters in the most garish of neon shades, and with none of their outfits complete without a wide-brimmed sun hat and hawkish leopard-print-framed sunglasses.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah mm": {
+        "word": "ah mm",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah kong",
+            "ah ma",
+            "ah soh"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿姆",
+                "simplified": "阿姆",
+                "roman": "a-ḿ",
+                "romanization": "poj",
+                "lit": "elderly woman; honorific term of address for a woman slightly older than one's mother; father's elder brother's wife",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "one's father's elder brother's wife",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "an elderly woman; term of address for an elderly woman.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "anneh": {
+        "word": "anneh",
+        "sense": 0,
+        "related": [
+            "ah"
+        ],
+        "usage": "While the term itself is not strictly racist, and can be well-meaning or endearing, it is often used in a derogatory and demeaning way by non-Indians to refer to Indians. Thus, flagrant use of the term without understanding is discouraged.",
+        "category": [
+            "vulgar"
+        ],
+        "phonetics": "",
+        "etyNotes": "The pronunciation \"anneh\" stems from the informal Tamil pronunciation.\r\n<br><br>The spelling \"ah neh\" and its variations are due to conflation with the common diminutive prefix \"@{ah}\" (Hokkien: 阿, a), as in @{ah beng}, @{ah ma}, etc; it may also have been influenced by (or influenced the development of) the racist and derogatory term @{apu neh neh}.",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "அண்ணன்",
+                "roman": "aṇṇaṉ",
+                "romanization": "",
+                "lit": "elder brother",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "அண்ணா",
+                "roman": "aṇṇā",
+                "romanization": "",
+                "lit": "elder brother",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "elder brother; a term of address for an elder brother",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "a term of address for a man around the same age or slightly older than the speaker, especially one of Tamil or other Indian descent.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(derogatory, racist) an Indian person, especially of Tamil or South Indian descent, or a migrant worker from the Indian subcontinent.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "apu neh neh",
+                        "keling",
+                        "keling kia",
+                        "bangla"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah nia": {
+        "word": "ah nia",
+        "sense": 0,
+        "related": [
+            "ah"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "阿",
+                "simplified": "阿",
+                "roman": "a1",
+                "romanization": "peng'im",
+                "lit": "diminutive or endearing prefix",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "teochew",
+                "traditional": "雅",
+                "simplified": "雅",
+                "roman": "ngia2",
+                "romanization": "peng'im",
+                "lit": "pretty; beautiful",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a young and beautiful girl; term of address for a young woman",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "leng lui",
+                        "chiobu"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah pek": {
+        "word": "ah pek",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿伯",
+                "simplified": "阿伯",
+                "roman": "a-peh",
+                "romanization": "poj",
+                "lit": "father's elder brother; old man",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "one's father's elder brother",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "old man; old uncle; an older middle-aged man",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "uncle",
+                        "ah chek"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "apu neh neh": {
+        "word": "apu neh neh",
+        "sense": 0,
+        "related": [
+            "anneh"
+        ],
+        "usage": "#{red}#{warn} The term is considered extremely offensive and racist, and should not be used.",
+        "category": [
+            "vulgar"
+        ],
+        "phonetics": "",
+        "etyNotes": "Actual etymology is unknown. Likely a nonsense word based off racist and stereotypical impressions of the sound of the Tamil language; @{anneh} or its Hokkien pronunciation @{ah neh} likely influenced the development of the slur.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "anneh",
+                "romanization": "(possibly?)",
+                "lit": "elder brother; (derogatory, racist) an Indian person, especially of Tamil or South Indian descent, or a migrant worker from the Indian subcontinent",
+                "etyPath": [
+                    "tamil",
+                    "tamil"
+                ],
+                "etyType": [
+                    "&"
+                ],
+                "etyScript": [
+                    "அண்ணன்",
+                    "அண்ணா"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "aṇṇaṉ",
+                    "aṇṇā"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "elder brother",
+                    "elder brother"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "(nonce word)",
+                "roman": "(unknown)",
+                "romanization": "",
+                "lit": "likely a nonsense word based off racist impressions of the sound of the Tamil language",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory, racist, offensive) a racist slur for an Indian person, especially of Tamil or South Indian descent, or a migrant worker from the Indian subcontinent.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "anneh",
+                        "keling",
+                        "keling kia",
+                        "bangla"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(racist, offensive) a boogeyman",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah pui": {
+        "word": "ah pui",
+        "sense": 0,
+        "related": [
+            "ah",
+            "gemuk",
+            "goondu"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿肥",
+                "simplified": "阿肥",
+                "roman": "a-pûi",
+                "romanization": "poj",
+                "lit": "fatty; fatso",
+                "etyPath": [
+                    "min nan",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "阿",
+                    "肥"
+                ],
+                "etyTrad": [
+                    "阿",
+                    "肥"
+                ],
+                "etyRoman": [
+                    "a",
+                    "pûi"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "diminutive or endearing prefix",
+                    "fat; obese"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "fatty; a fat person. Can be derogatory, neutral, or endearing.",
+                    "example": "The Pokemon Go aunties have endearingly nicknamed Snorlax 'Ah Pui', the Hokkien term for a 'fatty', for its striking similarity to an out-of-shape ah pek.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "fatty bom bom"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah so": {
+        "word": "ah so",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah chek",
+            "ah kor",
+            "ah ma",
+            "ah mm",
+            "ah pek",
+            "auntie",
+            "uncle"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿嫂",
+                "simplified": "阿嫂",
+                "roman": "a-só",
+                "romanization": "poj",
+                "lit": "elder brother's wife (sister-in-law)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "one's elder brother's wife (sister-in-law)",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "an older, middle-aged woman; term of address for a middle-aged woman. Female equivalent of an @{Ah Chek}.",
+                    "example": "After the British soldiers left Singapore, she worked as a coffee lady (kopi ah soh) in offices, making drinks and carrying out cleaning chores.",
+                    "exampleSource": "2006 October 5, Tan Chek Wee. <i>Today (Todayonline.com)</i>.",
+                    "synonyms": [
+                        "auntie"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "pertaining to an older, middle-aged woman; having traits such as being wont to complain, gossipy, and old-fashioned. ",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "auntie"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah then": {
+        "word": "ah then",
+        "sense": 0,
+        "related": [
+            "abuden"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ah",
+                "romanization": "",
+                "lit": "interjection; particle (see main article for details)",
+                "etyPath": [
+                    "general chinese"
+                ],
+                "etyType": false,
+                "etyScript": [
+                    "啊"
+                ],
+                "etyTrad": [
+                    "啊"
+                ],
+                "etyRoman": [
+                    "a"
+                ],
+                "etyScheme": [
+                    "pinyin"
+                ],
+                "etyLit": [
+                    "interjection; particle"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "then",
+                "romanization": "",
+                "lit": "interjection used to ask for elaboration on something said, or point out the obviousness of a statement; usually in a rhetorical or sometimes impolite manner.",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "then"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "next to occur; afterward; besides that"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "so what?; so?; duh; OK, and?; no shit. A sarcastic or rhetorical rebuttal to an obvious or stupid statement, often dismissive and impolite. ",
+                    "example": "- I heard that if you want to lose weight, you should eat less.<br>\r\n- Ah then?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah tiong": {
+        "word": "ah tiong",
+        "sense": 0,
+        "related": [
+            "cheena",
+            "prc"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "阿中",
+                "simplified": "阿中",
+                "roman": "a-tiong",
+                "romanization": "poj",
+                "lit": "(derogatory or endearing) a person from mainland China",
+                "etyPath": [
+                    "hokkien",
+                    "general chinese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "阿",
+                    "中国"
+                ],
+                "etyTrad": [
+                    "阿",
+                    "中國"
+                ],
+                "etyRoman": [
+                    "a",
+                    "tiong-kok"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "diminutive or endearing prefix",
+                    "China"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory slur or endearing) a person from mainland China.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "prc"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ah tong ah seng": {
+        "word": "ah tong ah seng",
+        "sense": 0,
+        "related": [
+            "ah",
+            "ah seng"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "#{dubious} The only source claims that this is of Cantonese origin, but the source is unreliable and uncorroborated. Regardless, the same two names would be transliterated nearly the same way in other Southern Chinese languages (see @{ah seng}).<br><br>\r\n东 (meaning \"<i>east</i>\") is very likely the correct character, as it is one of the most common names with the transliteration \"Tong\", but this is unconfirmed.",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "阿東",
+                "simplified": "阿东",
+                "roman": "aa3 dung1 (?)",
+                "romanization": "jyutping",
+                "lit": "a common male given name",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "cantonese",
+                "traditional": "阿成",
+                "simplified": "阿成",
+                "roman": "aa3 seng4",
+                "romanization": "jyutping",
+                "lit": "a stereotypically common male given name; an uncouth, unrefined young man.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "any old body; placeholder names for unspecified ordinary people; Tom, Dick, and Harry",
+                    "example": "In the age of the Internet, every Ah Tong Ah Seng can become a leading expert in any field of knowledge overnight - or so most of them believe, at least.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai": {
+        "word": "ai",
+        "sense": 0,
+        "related": [
+            "ai mai",
+            "mai"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛",
+                "simplified": "爱",
+                "roman": "ài",
+                "romanization": "poj",
+                "lit": "want; need to; must",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to want",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "to need to; must",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai kia stead mai": {
+        "word": "ai kia stead mai",
+        "sense": 0,
+        "related": [
+            "ai stead mai",
+            "kia stead",
+            "paktor",
+            "stead",
+            "steady"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "See also @{kia stead} and @{ai stead mai}.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "爱莫",
+                "simplified": "愛莫",
+                "roman": "ài-m̄-ài",
+                "romanization": "poj",
+                "lit": "(interrogative) (do you) want or not want (sth.)?; 愛 (want) + contraction of 毋愛 (not want)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "爱",
+                    "毋爱"
+                ],
+                "etyTrad": [
+                    "愛",
+                    "毋愛"
+                ],
+                "etyRoman": [
+                    "ài",
+                    "m̄-ài"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "want",
+                    "not want"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "行",
+                "simplified": "行",
+                "roman": "kiâⁿ",
+                "romanization": "poj",
+                "lit": "walk",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "stead",
+                "romanization": "",
+                "lit": "go steady",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "go steady"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(inf; dated) date someone exclusively"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(dating) do you want to go steady (or not)?",
+                    "example": "During recess, he mustered up the courage to ask her, \"Ai kia stead mai?\"",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ai stead mai"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai pi ai chee": {
+        "word": "ai pi ai chee",
+        "sense": 0,
+        "related": [
+            "ai"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "#{likely} One source claims it is of Teochew origin; this is not fully corroborated. Regardless, the phrase also works and is pronounced similarly in related languages like Hokkien (albeit with \"<i>pi</i>\" corresponding to the character 偏, <i>phiⁿ</i> - which is likely a borrowing from Teochew 便 anyway).",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "愛便愛鮮",
+                "simplified": "爱便爱鲜",
+                "roman": "ain3 pin1 ain3 cin1",
+                "romanization": "peng'im",
+                "lit": "want cheap, want fresh",
+                "etyPath": [
+                    "teochew",
+                    "teochew",
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "爱",
+                    "便",
+                    "爱",
+                    "鲜"
+                ],
+                "etyTrad": [
+                    "愛",
+                    "便",
+                    "愛",
+                    "鮮"
+                ],
+                "etyRoman": [
+                    "ain3",
+                    "pin1",
+                    "ain3",
+                    "cin1"
+                ],
+                "etyScheme": [
+                    "peng'im",
+                    "peng'im",
+                    "peng'im",
+                    "peng'im"
+                ],
+                "etyLit": [
+                    "want",
+                    "cheap; inexpensive",
+                    "want",
+                    "fresh; new; special; brightly coloured"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(lit.) want cheap, want fresh/pretty. Describing a person who always demands the best of both worlds; someone who has unrealistic expectations; someone hard to please.",
+                    "example": "The food critic was notorious for being ai pi ai chee, rarely giving out positive reviews to the hawker stalls she visited.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ai pi ai chee ai tua liap ni"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai pi ai chee ai tua liap ni": {
+        "word": "ai pi ai chee ai tua liap ni",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "See @{ai pi ai chee}.",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "愛便愛鮮",
+                "simplified": "爱便爱鲜",
+                "roman": "ain3 pin1 ain3 cin1",
+                "romanization": "peng'im",
+                "lit": "want cheap, want fresh",
+                "etyPath": [
+                    "teochew",
+                    "teochew",
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "爱",
+                    "便",
+                    "爱",
+                    "鲜"
+                ],
+                "etyTrad": [
+                    "愛",
+                    "便",
+                    "愛",
+                    "鮮"
+                ],
+                "etyRoman": [
+                    "ain3",
+                    "pin1",
+                    "ain3",
+                    "cin1"
+                ],
+                "etyScheme": [
+                    "peng'im",
+                    "peng'im",
+                    "peng'im",
+                    "peng'im"
+                ],
+                "etyLit": [
+                    "want",
+                    "cheap; inexpensive",
+                    "want",
+                    "fresh; new; special; brightly coloured"
+                ]
+            },
+            {
+                "lang": "teochew",
+                "traditional": "愛",
+                "simplified": "爱",
+                "roman": "ain3",
+                "romanization": "peng'im",
+                "lit": "want",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "teochew",
+                "traditional": "大粒",
+                "simplified": "大粒",
+                "roman": "dua7 liab8",
+                "romanization": "peng'im",
+                "lit": "(esp. of round objects, grains, or pieces) large; big",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "teochew",
+                "traditional": "奶",
+                "simplified": "奶",
+                "roman": "ni6 / ni1",
+                "romanization": "peng'im",
+                "lit": "breasts",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(lit.) want cheap, want fresh/pretty, want big breasts. Describing a person who always demands the best of both worlds; someone who has unrealistic expectations; someone hard to please.",
+                    "example": "This bugger really buay tahan. Yesterday only buy new iPhone, today complain storage not enough, battery life CMI, other models got better camera. Ai pi ai chee ai dua liap ni. ",
+                    "exampleSource": "@comm",
                     "synonyms": false,
                     "antonyms": false
                 }

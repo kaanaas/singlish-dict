@@ -66,6 +66,7 @@ ul {
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: "SimSunCut", "Literata";
 }
 
 a {
@@ -322,6 +323,7 @@ input[type=text] {
     align-items: center;
     flex-wrap: wrap;
     gap: 0.75em;
+    word-wrap: break-word;
 }
 
 .ortho-box p {
@@ -330,6 +332,7 @@ input[type=text] {
 
 .ortho-box h3 {
     font-size: 2em;
+    word-wrap: break-word;
 }
 
 .non-bold {
@@ -469,6 +472,7 @@ input[type=text] {
     font-family: "Literata";
     font-style: italic;
     color: var(--grey-green);
+    max-width: 16em;
     word-wrap: break-word;
     text-align: center;
 }
@@ -487,6 +491,9 @@ input[type=text] {
 .ety-notes-div p {
     font-size: 0.85em;
     text-align: justify;
+    font-family: "SimSunCut",
+            "Literata",
+            inherit;
 }
 
 .ety-notes-div a {
