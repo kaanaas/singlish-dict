@@ -8080,7 +8080,8 @@
                     "exampleSource": "",
                     "synonyms": [
                         "chiah kentang",
-                        "kentang"
+                        "kentang",
+                        "banana"
                     ],
                     "antonyms": false
                 }
@@ -8531,7 +8532,8 @@
                     "example": "",
                     "exampleSource": "",
                     "synonyms": [
-                        "min chiang kueh"
+                        "min chiang kueh",
+                        "ban chian kueh"
                     ],
                     "antonyms": false
                 }
@@ -9855,8 +9857,8 @@
             },
             {
                 "lang": "hokkien",
-                "traditional": "#{dubious} 炕豬",
-                "simplified": "#{dubious} 炕猪",
+                "traditional": "#{dubious}炕豬",
+                "simplified": "#{dubious}炕猪",
                 "roman": "khòng-tir",
                 "romanization": "poj",
                 "lit": "slow-cooked or stewed pork",
@@ -10112,6 +10114,877 @@
                     "synonyms": [
                         "pah jiao"
                     ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bak chor mee": {
+        "word": "bak chor mee",
+        "sense": 0,
+        "related": [
+            "bak",
+            "mee",
+            "mee kia",
+            "mee pok"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "肉脞麵",
+                "simplified": "肉脞面",
+                "roman": "bah-chhò͘-mī",
+                "romanization": "poj",
+                "lit": "bak chor mee",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "肉脞",
+                    "面"
+                ],
+                "etyTrad": [
+                    "肉脞",
+                    "麵"
+                ],
+                "etyRoman": [
+                    "bah-chhò͘",
+                    "mī"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "minced meat; minced pork",
+                    "noodles "
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a noodle dish, usually either using @{mee pok} or @{mee kia} as the noodles (though other varieties exist), topped with minced pork, pork slices, a savoury sauce, vinegar, white pepper, and sambal, and topped with fried shallots, lard, @{ikan bilis}, fried @{wantan}, fried or dried fish, mushrooms, and/or other toppings. It can be ordered either with the noodles in a soup (@{soup}/@{wet}) or with the soup served separately on the side (@{dry}).",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bak kut teh": {
+        "word": "bak kut teh",
+        "sense": 0,
+        "related": [
+            "bak",
+            "teh"
+        ],
+        "usage": "A Malaysian version exists, using several Chinese medicinal herbs in addition to the main ingredients. Other versions also exist in Singapore, but are less common, such as Hokkien bak kut teh, which uses additional herbs like the Malaysian version. However, in Singapore, the term on its own usually only refers to the \"Singaporean\" version.",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "#{dubious} Several sources state that the name comes from the name of one of the first people to develop the dish, 李文地, lí bûn-tē (\"Lee Boon Teh\", the \"father of bak kut teh\"), whose name became attached to the dish as 肉骨地, bah-kut-tē (\"Teh's pork ribs\"). The last character of his name sounds similar to the Hokkien word for tea, 茶 tê, hence giving the modern name of the dish. While this could be true, it may also just be a folk etymology.<br><br>\r\nAnother folk etymology is that locals liked to drink tea to wash down the spicy, salty, or greasy soup, and hence the dish became associated as always being paired with tea: 肉骨 with 茶.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "肉骨茶",
+                "simplified": "肉骨茶",
+                "roman": "bah-kut-tê",
+                "romanization": "poj",
+                "lit": "bak kut teh; a soup made of boiled pork ribs, garlic, and white pepper",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    ""
+                ],
+                "etyScript": [
+                    "#{dubious}肉骨地",
+                    "李文地"
+                ],
+                "etyTrad": [
+                    "#{dubious}肉骨地",
+                    "李文地"
+                ],
+                "etyRoman": [
+                    "bah-kut-tē",
+                    "lí bûn-tē"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "Teh's pork ribs",
+                    "Lee Boon Teh"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Chinese soup made of primarily boiled pork ribs and a generous amount of garlic and toasted white pepper. Sometimes paired with a bowl of rice.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bak kwa": {
+        "word": "bak kwa",
+        "sense": 0,
+        "related": [
+            "bak",
+            "dry"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "肉干",
+                "simplified": "肉干",
+                "roman": "bah-koaⁿ",
+                "romanization": "poj",
+                "lit": "bak kwa; a sweet and savoury grilled jerky, usually made from pork but also sometimes beef, chicken, mutton, or others",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweet and savoury, jerky-like grilled food of Hokkien origin, usually made from pork but also sometimes beef, chicken, mutton, or others. The meat is seasoned with spices, sugar, and soya sauce, then dried in large, square-shaped pieces around 3mm thick, and finally barbecued over a charcoal fire until a char has formed. It is a very popular food to eat during Chinese New Year.",
+                    "example": "Everyone indulged in the delicious Chinese New Year cookies on offer at Ah Kong's house. Even Waggie, the dog, got to enjoy a few delicious pieces of bak kwa!",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bakwan kepiting": {
+        "word": "bakwan kepiting",
+        "sense": 0,
+        "related": [
+            "bak"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "肉丸",
+                "simplified": "肉丸",
+                "roman": "bah-oân",
+                "romanization": "poj",
+                "lit": "meatball",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "肉丸"
+                ],
+                "etyTrad": [
+                    "肉丸"
+                ],
+                "etyRoman": [
+                    "bah-oân"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "meat; pork",
+                    ""
+                ]
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "kepiting",
+                "romanization": "",
+                "lit": "crab",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional clear @{Peranakan} soup of a chicken or prawn stock base with meatballs made of crab meat and minced pork and prawns, with bamboo shoots cut into strips that are either incorporated into the meatballs, added separately into the soup, or both.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "balik": {
+        "word": "balik",
+        "sense": 0,
+        "related": [
+            "terbalik",
+            "ke belakang pusing"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "balik",
+                "romanization": "",
+                "lit": "turn; reverse; turn around; back",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to return; to go back; to go back to where one came from, or where one is staying.",
+                    "example": "This work touches on the identity and roots of @{Peranakan}s, and raises the question of belonging and the notion of ‘home’. The term itself, ‘Balik Rumah’, references the language of Malay - once a common tongue among the people of Singapore, it appears that the local lingua franca is dwindling in the face of an increasingly Mandarin dominated society.",
+                    "exampleSource": "2015, Jennifer Lim. Jennifer Lim Art, https://jenniferlimart.com/balik-rumah-print",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "balik kampung": {
+        "word": "balik kampung",
+        "sense": 0,
+        "related": [
+            "balik",
+            "pang kang"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "balik kampung",
+                "romanization": "",
+                "lit": "to go back to one's hometown or place of origin",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "balik",
+                    "kampung"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "turn; reverse; turn around; back",
+                    "village; community; (fig.) hometown"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to go back to one's hometown or place of origin; go home; pack up and go home",
+                    "example": "The [fuel] shortage was made worse by the surge in demand that came from motorists filling up to return to their home for Hari Raya celebrations. The “balik kampung” rush had turned chaotic over the past few days ...",
+                    "exampleSource": "2008 October 4, The Straits Times (World), C2",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "balls drop": {
+        "word": "balls drop",
+        "sense": 0,
+        "related": [
+            "balls shrink"
+        ],
+        "usage": "",
+        "category": [
+            "sayings",
+            "vulgar"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "balls",
+                "romanization": "",
+                "lit": "(slang) testicles",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "drop",
+                "romanization": "",
+                "lit": "fall straight down; descend suddenly",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "frightened; shocked; petrified.",
+                    "example": "@{Ah Seng} was vaping at the back of the school when the discipline master walked by; upon seeing his furious glare, Ah Seng straight away balls drop.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "balls shrink"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "balls shrink": {
+        "word": "balls shrink",
+        "sense": 0,
+        "related": [
+            "balls drop"
+        ],
+        "usage": "",
+        "category": [
+            "sayings",
+            "vulgar"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "balls",
+                "romanization": "",
+                "lit": "(slang) testicles",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "shrink",
+                "romanization": "",
+                "lit": "contract; become smaller; withdraw",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "frightened; shocked; petrified.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "balls drop"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ban chian kueh": {
+        "word": "ban chian kueh",
+        "sense": 0,
+        "related": [
+            "kueh"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "Name came about as an alteration of 滿清, boán-chheng (\"Manchu\"), to a similar-sounding word. According to legend, the dish was invented by a Qing dynasty general, Zuo Zongtang (also known as General Tso of General Tso's Chicken fame in the West), as an easy-to-eat ration for his soldiers during the Taiping Rebellion in Fujian in 1855. As the Qing dynasty was ruled by Manchu emperors, the dish then got the name 滿清粿, boán-chheng-kóe (\"Manchu pancake\") in Fujian.^{sci bck}",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "曼煎粿",
+                "simplified": "曼煎粿",
+                "roman": "bān-chian-kóe",
+                "romanization": "poj",
+                "lit": "a type of sweet pancake with peanut filling",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "满清",
+                    "粿"
+                ],
+                "etyTrad": [
+                    "滿清",
+                    "粿"
+                ],
+                "etyRoman": [
+                    "boán-chheng",
+                    "kóe"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "Manchu (dynasty/people)",
+                    "@{kueh}"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Hokkien name for @{min chiang kueh}, a type of sweet pancake with peanut filling.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "min chiang kueh",
+                        "apam balik"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "banana": {
+        "word": "banana",
+        "sense": 0,
+        "related": [
+            "chinese helicopter",
+            "coconut"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "So called because a banana is yellow on the outside, but white on the inside. Term may have existed independently in English before being translated in from Hokkien.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "banana",
+                "romanization": "",
+                "lit": "the edible fruit of the <i>Musa</i> genus of flowering plants",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "or"
+                ],
+                "etyScript": [
+                    "弓蕉囝",
+                    "金蕉囝"
+                ],
+                "etyTrad": [
+                    "弓蕉囝",
+                    "金蕉囝"
+                ],
+                "etyRoman": [
+                    "keng-chio-kiáⁿ",
+                    "kim-chio-kiáⁿ"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "(lit.) banana kid/fella",
+                    "(lit.) banana kid/fella"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(pejorative) a person of Chinese descent who speaks English well but has poor skills in Chinese languages, is only in touch with Western culture, and lives a Western lifestyle.",
+                    "example": "Rick is such a banana, just like all his ACS classmates.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "orang cina bukan cina",
+                        "ang moh pai",
+                        "chiah kentang"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "strawberry": {
+        "word": "strawberry",
+        "sense": 0,
+        "related": [
+            "strawberry generation"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Direct translation from Mandarin term.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "strawberry",
+                "romanization": "",
+                "lit": "edible fruit of the <i>Fragaria × ananassa</i> plant",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "mandarin",
+                "traditional": "草莓",
+                "simplified": "草莓",
+                "roman": "cǎo méi",
+                "romanization": "pinyin",
+                "lit": "(lit.) strawberry; (fig.) sb. or sth. easily bruised",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(metaphor, pejorative) something or someone that is easily bruised, or unable to cope with hardships",
+                    "example": "Many older people snigger openly at the concerns of the young people of today, who they perceive as strawberries for caring about effete issues like mental health and a healthy workplace environment instead of toughing it out like they did in the old days.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(pejorative) easily bruised; effete and feeble; unable to cope with hardships",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "strawberry generation": {
+        "word": "strawberry generation",
+        "sense": 0,
+        "related": [
+            "strawberry"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "Direct calque of Mandarin term.",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "草莓族",
+                "simplified": "草莓族",
+                "roman": "cǎo méi zú",
+                "romanization": "pinyin",
+                "lit": "a generation of people that is perceived as effete and feeble, and unable to cope with hardships",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(pejorative) a generation of people (typically younger) that is perceived as effete and feeble, and unable to cope with the hardships of the real world.",
+                    "example": "No matter how hard you had it in NS, there's always an old uncle ready to regale you with tales of how torturous and gruelling their 2.5 years were, and how you kids are a strawberry generation for complaining about the intensity of your daily @{tekan session}s.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "banana money": {
+        "word": "banana money",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "banana",
+                "romanization": "",
+                "lit": "the <i>Musa</i> genus of flowering plants; the edible fruit thereof",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "money",
+                "romanization": "",
+                "lit": "currency; cash in the form of notes or coins",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "paper currency issued by the Japanese government in Singapore, Malaysia, and Borneo during the Japanese Occupation in World War II. So called because of the drawing of a banana tree with several bunches of bananas on the ten-dollar note.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bandung": {
+        "word": "bandung",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "While often falsely attributed to the city of Bandung in West Java, Indonesia, the drink actually has no connection to the place.^{nlb bandung} Instead, it comes from the Malay word <i>bandung</i> meaning two things that come as a pair (e.g. in <i>mee bandung Muar</i>, a Johorean dish), referring to the rose syrup and milk which are mixed together in the drink.",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bandung",
+                "romanization": "",
+                "lit": "pair; two things that are mixed or come in pairs",
+                "etyPath": [
+                    "old javanese"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "baṇḍuṅ"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "together; at the same time"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweet drink made with rose cordial and milk",
+                    "example": "Oh 不要忘了<br>\r\n还有一杯 bandung<br>\r\n还有一杯 bandung<br>\r\n(Yeah) 还有一杯 bandung",
+                    "exampleSource": "2015, ShiGGa Shay - \"<i>Tapau</i>\". <i>3688</i>.",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bangla": {
+        "word": "bangla",
+        "sense": 0,
+        "related": [],
+        "usage": "#{warn} Due to the nuance between the offensive ethnic slur and the genuine use of the term as a synonym for \"<i>Bengali</i>\", careful and sensitive use is necessary, or otherwise the alternative terms \"<i>Bengali</i>\" or \"<i>Bangladeshi</i>\".",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "The word, in the sense of the slur, is likely also a clipping of English <i>bangladeshi</i>.",
+        "origin": [
+            {
+                "lang": "bengali",
+                "traditional": "",
+                "simplified": "বাংলা",
+                "roman": "baṅla",
+                "romanization": "",
+                "lit": "Bengali; Bengal",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bangladeshi",
+                "romanization": "",
+                "lit": "of or relating to Bangladesh",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory, racist) ethnic slur for a Bangladeshi person, or other dark-skinned person of South Asian descent.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "Bengali (the language, people, or ethnicity), or the region where Bengali is spoken.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(derogatory, racist) Bangladeshi, or of or relating to dark-skinned people of South Asian descent, such as in the phrase \"bangla worker\" referring to Bangladeshi foreign workers.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "Bengali, or of or relating to the region where Bengali is spoken.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
                     "antonyms": false
                 }
             ]

@@ -21,7 +21,9 @@
                     <% } %>
                     <div class="ortho-box">
                         <% const langName = word.origin[i].lang.toLowerCase().charAt(0).toUpperCase() + word.origin[i].lang.toLowerCase().slice(1); %>
-                        <p class="ortho-origin small-caps"><%= langName %>:</p>
+                        <% if(i == 0 || word.origin[i].lang.toLowerCase() != word.origin[i-1].lang.toLowerCase()){ %>
+                            <p class="ortho-origin small-caps"><%= langName %>:</p>
+                        <% } %>
                         <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
                             <!-- Chinese languages -->
                             <div name="chinese-chars">
@@ -67,7 +69,6 @@
                             <div class="ortho-box-ext">
                                 <% const langName = word.origin[i].lang.toLowerCase(); %>
                                 <p class="ortho-origin-ext small-caps"><%= langName %></p>
-
                                 <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
                                     <!-- Chinese languages -->
                                     <div class="chinese-wrapper-ext">

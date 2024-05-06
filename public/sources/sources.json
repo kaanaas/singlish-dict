@@ -71,6 +71,12 @@
         "name": "Singapore Infopedia (NLB): Ang Mo Kio",
         "id": "8a"
     },
+    "nlb bandung": {
+        "type": "web",
+        "link": "https://web.archive.org/web/20170422080502/http://www.nlb.gov.sg/sure/bandung-in-bandung/",
+        "name": "Cai Yinghong, NLB. \"Bandung in Bandung?\"",
+        "id": "8b"
+    },
     "ylai": {
         "type": "journal",
         "link": "https://doi.org/10.32657/10356/171872",
@@ -88,6 +94,12 @@
         "link": "https://baike.baidu.com/item/%E7%BA%A2%E6%9D%89%E9%B1%BC/1353829",
         "name": "Baidu: 红杉鱼",
         "id": "10a"
+    },
+    "bd bkt": {
+        "type": "web",
+        "link": "https://baike.baidu.com/item/%E8%82%89%E9%AA%A8%E8%8C%B6/2536247",
+        "name": "Baidu: 肉骨茶",
+        "id": "10b"
     },
     "mts": {
         "type": "web",
@@ -168,5 +180,11 @@
         "year": "2007",
         "isbn": "9780203947128",
         "id": "18"
+    },
+    "sci bck": {
+        "type": "web",
+        "link": "https://web.archive.org/web/20141213155747/http://mag.sinchew-i.com/scgc/content.phtml?vol=20070826&sec=A75",
+        "name": "2007 August 26, 林金城. 滿煎糕vs曼煎粿, sinchew-i.com",
+        "id": "19"
     }
 }
