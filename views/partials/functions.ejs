@@ -1,7 +1,7 @@
 <%
     // @{} link function
     formatDyno = function (s) {
-        // links
+        // internal links
         const regExStr = /@\{([0-9a-zA-Z ',\-]{1,})\}/g;
         const match = s.match(regExStr);
         if (match) {
@@ -11,18 +11,47 @@
                 s = s.replace(match[i], `\<a href="./?q=${wordUrl}" class="underline">\<i>${word}\</i>\</a>`)
             }
         }
+
+        // sources citing
+        const regExStrSrc = /\^\{([0-9a-zA-Z ',\-]{1,})\}/g;
+        const matchSrc = s.match(regExStrSrc);
+        if (matchSrc) {
+            for (let i = 0; i < matchSrc.length; i++){
+                let src = matchSrc[i].substring(2, matchSrc[i].length - 1);
+                if(sources[src]){
+                    if(sources[src].type != undefined && (sources[src].type == "web" || sources[src].type == "journal")){
+                        s = s.replace(matchSrc[i], `\<sup>\<a href="${sources[src].link}" title="${sources[src].name}" class="ref">\<i>[${sources[src].id}]\</i>\</a>\</sup>`);
+                    }
+                    if(sources[src].type != undefined && (sources[src].type == "book")){
+                    s = s.replace(matchSrc[i], 
+                        `\<sup>\<a href="/sources" title="${sources[src].year}, ${sources[src].author}. \<i>${sources[src].title}\</i>, ${sources[src].publisher}" class="ref">\<i>[${sources[src].id}]\</i>\</a>\</sup>`);
+                    }
+                }
+            }
+        }
+
         // special symbols
-        const regExStrHash = /#\{([0-9a-zA-Z ',\-]{1,})\}/g;
+        const regExStrHash = /#\{([0-9a-zA-Z ',:\-]{1,})\}/g;
         const matchHash = s.match(regExStrHash);
         if (matchHash) {
             for (let i = 0; i < matchHash.length; i++){ 
                 let word = matchHash[i].substring(2, matchHash[i].length - 1);
-                if(word.toLowerCase() == "warn") 
+                // wiktionary link
+                if(word.toLowerCase().substring(0, 2) == "w:") {
+                    let wordUrl = word.substring(2, word.length);
+                    s = s.replace(matchHash[i], `\<a href="https://en.wiktionary.org/wiki/${wordUrl}" class="underline">\<i>${wordUrl}\</i>\</a>`)
+                }
+
+                // special symbols
+                if(word.toLowerCase() == "warn") {
                     s = s.replace(matchHash[i], `\<i class=\"fa-solid fa-triangle-exclamation\">\</i>`);
-                if(word.toLowerCase() == "dubious") 
-                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Dubious or unconfirmed etymology" style="color:orange">\</i>`);
-                if(word.toLowerCase() == "likely") 
-                    s = s.replace(matchHash[i], `\<i class="fa-solid fa-shuffle" title="Likely, but other possible etymologies exist" style="color:mediumspringgreen">\</i>`);
+                }
+                if(word.toLowerCase() == "dubious") {
+                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Dubious or unconfirmed" style="color:orange;">\</i>`);
+                }
+                if(word.toLowerCase() == "likely") {
+                    s = s.replace(matchHash[i], `\<i class="fa-solid fa-shuffle" title="Likely, but other possible etymologies exist" style="color:mediumspringgreen;">\</i>`);
+                }
                 if(word.toLowerCase() == "red") {
                     s = s.replace(matchHash[i], "");
                     s = "\<p style=\"color: red;\">" + s + "\</p>";
@@ -31,4 +60,5 @@
         }
         return s;
     }
+
 %>

@@ -98,6 +98,11 @@ h2 {
     text-underline-offset: 3px;
 }
 
+.ref {
+    font-size: 0.75em;
+    color: var(--grey-green);
+    text-decoration: none!important;
+}
 
 /* custom content classes */
 
@@ -359,6 +364,14 @@ input[type=text] {
     text-decoration: underline;
     text-decoration-thickness: 2px;
     text-underline-offset: 6px;
+    text-decoration-color: var(--subh-lighter);
+}
+
+.ortho-box .lit a {
+    color: var(--purp);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
     text-decoration-color: var(--subh-lighter);
 }
 
@@ -982,4 +995,22 @@ footer {
 .footer a {
     color: var(--subh);
     font-size: .85em;
+}
+
+/* sources */
+.src-wrapper {
+    display: table;
+    margin: 1em 1em;
+}
+
+.src-line {
+    display: table-row;
+}
+
+.src-col {
+    display: table-cell;
+}
+
+.src-id {
+    padding-right: 1em;
 }

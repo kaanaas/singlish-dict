@@ -1,0 +1,172 @@
+{
+    "sutian": {
+        "type": "web",
+        "link": "sutian.moe.edu.tw",
+        "name": "教育部臺灣閩南語常用詞辭典",
+        "id": "1"
+    },
+    "wikt": {
+        "type": "web",
+        "link": "http://en.wiktionary.org",
+        "name": "Wiktionary-en",
+        "id": "2"
+    },
+    "w": {
+        "type": "web",
+        "link": "https://en.wikipedia.org/",
+        "name": "Wikipedia",
+        "id": "3"
+    },
+    "w sv": {
+        "type": "web",
+        "link": "https://en.wikipedia.org/wiki/Singlish_vocabulary",
+        "name": "Wikipedia: Singlish Vocabulary",
+        "id": "3a"
+    },
+    "w s": {
+        "type": "web",
+        "link": "https://en.wikipedia.org/wiki/Singlish",
+        "name": "Wikipedia: Singlish",
+        "id": "3a"
+    },
+    "w hp": {
+        "type": "web",
+        "link": "https://en.wikipedia.org/wiki/Hokkien_profanity",
+        "name": "Wikipedia: Hokkien profanity",
+        "id": "3b"
+    },
+    "w losa": {
+        "type": "web",
+        "link": "https://en.wikipedia.org/wiki/List_of_Singapore_abbreviations",
+        "name": "Wikipedia: List of Singapore abbreviations",
+        "id": "3c"
+    },
+    "prpm": {
+        "type": "web",
+        "link": "https://prpm.dbp.gov.my/",
+        "name": "PRPM",
+        "id": "5"
+    },
+    "jlee": {
+        "type": "web",
+        "link": "http://www.mysmu.edu/faculty/jacklee/singlish_A.htm",
+        "name": "A Dictionary of Singlish and Singapore English",
+        "id": "6"
+    },
+    "apete": {
+        "type": "web",
+        "link": "https://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html",
+        "name": "SINGLISH - A Language Guide for Foreigners",
+        "id": "7"
+    },
+    "nlb": {
+        "type": "web",
+        "link": "https://www.nlb.gov.sg/main/",
+        "name": "Singapore Infopedia (NLB)",
+        "id": "8"
+    },
+    "nlb amk": {
+        "type": "web",
+        "link": "https://www.nlb.gov.sg/main/",
+        "name": "Singapore Infopedia (NLB): Ang Mo Kio",
+        "id": "8a"
+    },
+    "ylai": {
+        "type": "journal",
+        "link": "https://doi.org/10.32657/10356/171872",
+        "name": "Lai, Y. (2023). Cultural metaphors in Singlish. NTU",
+        "id": "9"
+    },
+    "bd": {
+        "type": "web",
+        "link": "https://baike.baidu.com/",
+        "name": "Baidu",
+        "id": "10"
+    },
+    "bd angkoli": {
+        "type": "web",
+        "link": "https://baike.baidu.com/item/%E7%BA%A2%E6%9D%89%E9%B1%BC/1353829",
+        "name": "Baidu: 红杉鱼",
+        "id": "10a"
+    },
+    "mts": {
+        "type": "web",
+        "link": "https://lasiacodeswitcher.wordpress.com/",
+        "name": "Make the Switch",
+        "id": "11"
+    },
+    "blip": {
+        "type": "web",
+        "link": "https://blogs.ntu.edu.sg/blip/uniquely-singaporean-terms/",
+        "name": "BLIP",
+        "id": "12"
+    },
+    "sgmag": {
+        "type": "web",
+        "link": "https://sgmagazine.com/city-living/news/underrated-singlish-expressions-are-incredibly-nuanced",
+        "name": "SG Magazine",
+        "id": "13"
+    },
+    "tsl": {
+        "type": "web",
+        "link": "https://thesmartlocal.com/",
+        "name": "TheSmartLocal",
+        "id": "14"
+    },
+    "tsl ss": {
+        "type": "web",
+        "link": "https://thesmartlocal.com/read/singaporean-slang/",
+        "name": "TheSmartLocal: Singaporean Slang",
+        "id": "14a"
+    },
+    "tsl chg": {
+        "type": "web",
+        "link": "https://thesmartlocal.com/read/childhood-hand-games/",
+        "name": "TheSmartLocal: Childhood Hand Games",
+        "id": "14b"
+    },
+    "sdict": {
+        "type": "web",
+        "link": "https://www.singlish.net/",
+        "name": "Singlish Dictionary - Colloquial Singaporean English",
+        "id": "15"
+    },
+    "hainan": {
+        "type": "book",
+        "link": "",
+        "title": "海口方言詞典",
+        "author": "陳鴻邁",
+        "publisher": "江蘇教育出版社",
+        "year": "1996",
+        "isbn": "7534328861",
+        "id": "16"
+    },
+    "msf": {
+        "type": "web",
+        "link": "https://mysingaporefood.com/",
+        "name": "My Singapore Food",
+        "id": "17"
+    },
+    "msf ab": {
+        "type": "web",
+        "link": "https://mysingaporefood.com/recipe/art-buah-hainanese-kueh/",
+        "name": "My Singapore Food - Art Buah",
+        "id": "17a"
+    },
+    "msf al": {
+        "type": "web",
+        "link": "https://mysingaporefood.com/recipe/assam-laksa/",
+        "name": "My Singapore Food - Assam Laksa",
+        "id": "17b"
+    },
+    "cbtan": {
+        "type": "book",
+        "link": "",
+        "title": "Food and Foodways in Asia",
+        "author": "Tan Chee-Beng",
+        "publisher": "Routledge",
+        "year": "2007",
+        "isbn": "9780203947128",
+        "id": "18"
+    }
+}

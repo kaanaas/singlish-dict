@@ -99,13 +99,13 @@
         "agak",
         "agar"
     ],
-    "agak-agak": [
-        "agak-agak",
-        "agak agak"
-    ],
     "agak tarik": [
         "agak tarik",
         "agak tarek"
+    ],
+    "agak-agak": [
+        "agak-agak",
+        "agak agak"
     ],
     "agar-agar": [
         "agar-agar",
@@ -195,11 +195,6 @@
         "a m",
         "ah m"
     ],
-    "anneh": [
-        "anneh",
-        "ah neh",
-        "ahneh"
-    ],
     "ah nia": [
         "ah nia",
         "ahnia"
@@ -207,15 +202,6 @@
     "ah pek": [
         "ah pek",
         "ahpek"
-    ],
-    "apu neh neh": [
-        "apu neh neh",
-        "ah pu neh neh",
-        "apu neneh",
-        "apuneneh",
-        "apunehneh",
-        "ahpunehneh",
-        "ahpu nehneh"
     ],
     "ah pui": [
         "ah pui",
@@ -248,17 +234,17 @@
     "ai kia stead mai": [
         "ai kia stead mai"
     ],
+    "ai pi ai chee": [
+        "ai pi ai chee",
+        "ai pi ai chi",
+        "ai pee ai chee"
+    ],
     "ai pi ai chee ai tua liap ni": [
         "ai pi ai chee ai tua liap ni",
         "ai pi ai chi ai tua liap ni",
         "ai pee ai chee ai tua liap nee",
         "ai pi ai chee ai dua liap ni",
         "ai pee ai chee ai dua liap nee"
-    ],
-    "ai pi ai chee": [
-        "ai pi ai chee",
-        "ai pi ai chi",
-        "ai pee ai chee"
     ],
     "ai si": [
         "ai si",
@@ -272,6 +258,10 @@
     "ai stead mai": [
         "ai stead mai",
         "stead ai mai"
+    ],
+    "ai sui": [
+        "ai sui",
+        "ai swee"
     ],
     "ai sui mai mia": [
         "ai sui mai mia",
@@ -327,13 +317,6 @@
         "ah kah ah chew",
         "ah ka ah chiu"
     ],
-    "ak kha chiu ji": [
-        "ak kha chiu ji",
-        "ak kah chiu ji",
-        "ak kah chiew ji",
-        "ak ka chiew ji",
-        "ak kha chiew ji"
-    ],
     "akan datang": [
         "akan datang"
     ],
@@ -370,9 +353,6 @@
     "amacam": [
         "amacam"
     ],
-    "ambilla labu": [
-        "ambilla labu"
-    ],
     "an zua": [
         "an zua",
         "an zhua",
@@ -390,6 +370,10 @@
         "angkukueh",
         "ang ku kuih",
         "angkoo kueh"
+    ],
+    "ang mo kio": [
+        "ang mo kio",
+        "ang moh kio"
     ],
     "ang moh": [
         "ang moh",
@@ -410,6 +394,11 @@
         "ang moh gui",
         "ang mo kui"
     ],
+    "ang moh liu lian": [
+        "ang moh liu lian",
+        "ang mo liu lian",
+        "ang mor liu lian"
+    ],
     "ang moh pai": [
         "ang moh pai",
         "ang mo pai",
@@ -429,6 +418,11 @@
     "angkat bola": [
         "angkat bola"
     ],
+    "anneh": [
+        "anneh",
+        "ah neh",
+        "ahneh"
+    ],
     "anyhow": [
         "anyhow",
         "any how"
@@ -446,6 +440,15 @@
         "appam",
         "appom"
     ],
+    "apu neh neh": [
+        "apu neh neh",
+        "ah pu neh neh",
+        "apu neneh",
+        "apuneneh",
+        "apunehneh",
+        "ahpunehneh",
+        "ahpu nehneh"
+    ],
     "ar": [
         "ar",
         "ah",
@@ -453,15 +456,28 @@
     ],
     "ar ka chi": [
         "ar ka chi",
+        "ak ka chi",
         "ar ka chih"
+    ],
+    "ar ka chiu ji": [
+        "ak ka chiu ji",
+        "ar ka chiu ji",
+        "ak kah chiu ji",
+        "ar kah chiu ji",
+        "ak kah chiew ji",
+        "ar kah chiew ji",
+        "ak ka chiew ji",
+        "ar ka chiew ji"
     ],
     "ar ka liau": [
         "ar ka liau",
+        "ak ka liau",
         "ar ka liao",
         "ak kah liao"
     ],
     "ar lip bo ar chut": [
         "ar lip bo ar chut",
+        "ak lip bo ar chut",
         "ar lip bo ar choot",
         "ar jip bo ar chut"
     ],
@@ -475,7 +491,8 @@
         "arrow"
     ],
     "art buah": [
-        "art buah"
+        "art buah",
+        "buah dah art"
     ],
     "assam": [
         "assam",
@@ -500,11 +517,14 @@
     "attend c": [
         "attend c"
     ],
+    "au au salakau": [
+        "au au salakau",
+        "ow ow salakau",
+        "au au sa lak kau",
+        "au au 369"
+    ],
     "auntie": [
         "auntie"
-    ],
-    "aware": [
-        "aware"
     ],
     "ayam": [
         "ayam"
@@ -519,7 +539,8 @@
         "ayam percik"
     ],
     "ayam sio": [
-        "ayam sio"
+        "ayam sio",
+        "ayam sioh"
     ],
     "babi pongteh": [
         "babi pongteh",
@@ -534,6 +555,7 @@
         "bak chang",
         "bak zhang",
         "bah chang",
+        "bah zhang",
         "bak zang"
     ],
     "bak chiu": [
@@ -683,6 +705,9 @@
     "berak": [
         "berak"
     ],
+    "berry": [
+        "berry"
+    ],
     "best in singapore, jb, and some say batam": [
         "best in singapore, jb, and some say batam",
         "best in singapore and jb and some say batam",
@@ -773,6 +798,11 @@
         "bo zeng hu",
         "boh cheng hu",
         "bo cheng hoo"
+    ],
+    "bo chi": [
+        "bo chi",
+        "bo chee",
+        "bo ji"
     ],
     "bo chup": [
         "bo chup",
@@ -1584,7 +1614,8 @@
         "chitty melaka",
         "chitty malacca"
     ],
-    "chiu kana kha, kha kana lam pha": [
+    "chiu kana kha, kha kana lam pa": [
+        "chiu kana kha, kha kana lam pa",
         "chiu kana kha, kha kana lam pha",
         "chiu kana kah, kah kana lam pa",
         "chiu kana kah, kah kana lampa",
@@ -1597,6 +1628,9 @@
         "cho phai lang",
         "zho pai nang",
         "zho pai lang"
+    ],
+    "chocolate bar": [
+        "chocolate bar"
     ],
     "choi": [
         "choi",
@@ -2084,8 +2118,24 @@
     "gasak": [
         "gasak"
     ],
+    "geh kiang": [
+        "geh kiang",
+        "keh kiang",
+        "gey kiang",
+        "keh khiang",
+        "geykiang",
+        "geh khiang",
+        "ke khiang",
+        "kay kiang"
+    ],
     "gemuk": [
         "gemuk"
+    ],
+    "gennermen": [
+        "gennermen",
+        "gennelmen",
+        "gentermen",
+        "gennerman"
     ],
     "ger": [
         "ger"
@@ -2377,6 +2427,10 @@
     "hdb": [
         "hdb"
     ],
+    "hear say": [
+        "hear say",
+        "hearsay"
+    ],
     "heart attack": [
         "heart attack"
     ],
@@ -2617,7 +2671,8 @@
         "itchy backside"
     ],
     "itek sio": [
-        "itek sio"
+        "itek sio",
+        "itek sioh"
     ],
     "itek tim": [
         "itek tim"
@@ -2976,15 +3031,6 @@
         "kay kay",
         "gey gey"
     ],
-    "keh kiang": [
-        "keh kiang",
-        "geh kiang",
-        "gey kiang",
-        "geykiang",
-        "geh khiang",
-        "ke khiang",
-        "kay kiang"
-    ],
     "keling": [
         "keling",
         "kling"
@@ -3016,6 +3062,11 @@
     "kengster": [
         "kengster",
         "gengster"
+    ],
+    "kentang": [
+        "kentang",
+        "kantang",
+        "kan tang"
     ],
     "kenz": [
         "kenz"
@@ -3211,9 +3262,13 @@
     "konek": [
         "konek"
     ],
-    "kong bak pau": [
-        "kong bak pau",
+    "khong bak": [
+        "khong bak",
+        "kong bak"
+    ],
+    "khong bak pau": [
         "khong bak pau",
+        "kong bak pau",
         "kong bak pao"
     ],
     "kong wu kong bo": [
@@ -3584,6 +3639,11 @@
     ],
     "lend": [
         "lend"
+    ],
+    "leng lui": [
+        "leng lui",
+        "lenglui",
+        "leng nui"
     ],
     "leng zai": [
         "leng zai",
@@ -4741,10 +4801,10 @@
         "pak bang",
         "pah bang"
     ],
-    "phah chiau": [
+    "pah jiao": [
+        "pah jiao",
         "phah chiau",
         "pah chiau",
-        "pah jiao",
         "pak jiao",
         "pak chiau"
     ],
@@ -4765,6 +4825,9 @@
     ],
     "pikachu": [
         "pikachu"
+    ],
+    "pink ic": [
+        "pink ic"
     ],
     "pisang": [
         "pisang"
@@ -4889,6 +4952,11 @@
         "puah sio",
         "pua sio"
     ],
+    "pui": [
+        "pui",
+        "bui",
+        "phui"
+    ],
     "puki": [
         "puki"
     ],
@@ -4930,6 +4998,11 @@
     "putu piring": [
         "putu piring",
         "puttu piring"
+    ],
+    "qq": [
+        "qq",
+        "khiu khiu",
+        "kiu kiu"
     ],
     "queenstown": [
         "queenstown"
@@ -4988,6 +5061,9 @@
     "rilak": [
         "rilak",
         "relak"
+    ],
+    "rmj": [
+        "rmj"
     ],
     "rod": [
         "rod"
@@ -5050,11 +5126,21 @@
         "saikang",
         "sai gang"
     ],
+    "sai kang warrior": [
+        "sai kang warrior",
+        "saikang warrior"
+    ],
     "sakar": [
         "sakar"
     ],
     "salah": [
         "salah"
+    ],
+    "salakau": [
+        "salakau",
+        "sa lak kau",
+        "sah lak kau",
+        "369"
     ],
     "saman": [
         "saman"
@@ -5277,6 +5363,13 @@
     ],
     "si": [
         "si"
+    ],
+    "si gin ah": [
+        "si gin ah",
+        "si ginna",
+        "si ginnah",
+        "si ginah",
+        "si gin a"
     ],
     "si m si": [
         "si m si"
@@ -5941,6 +6034,9 @@
         "thank yout",
         "thankyout"
     ],
+    "then": [
+        "then"
+    ],
     "then you know": [
         "then you know"
     ],
@@ -6252,6 +6348,12 @@
         "wor",
         "woh"
     ],
+    "xmm": [
+        "xmm",
+        "xiao mei mei",
+        "xiaomeimei",
+        "xiao meimei"
+    ],
     "ya": [
         "ya",
         "yah",
@@ -6311,6 +6413,10 @@
     "your head": [
         "your head"
     ],
+    "yp": [
+        "yp",
+        "young punk"
+    ],
     "yu char kueh": [
         "yu char kueh",
         "yu char kway",
@@ -6356,53 +6462,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "chocolate bar": [
-        "chocolate bar"
-    ],
-    "rmj": [
-        "rmj"
-    ],
-    "hear say": [
-        "hear say",
-        "hearsay"
-    ],
-    "pink ic": [
-        "pink ic"
-    ],
-    "xmm": [
-        "xmm",
-        "xiao mei mei",
-        "xiaomeimei",
-        "xiao meimei"
-    ],
-    "yp": [
-        "yp",
-        "young punk"
-    ],
-    "salakau": [
-        "salakau",
-        "sa lak kau",
-        "sah lak kau"
-    ],
-    "au au salakau": [
-        "au au salakau",
-        "ow ow salakau",
-        "au au sa lak kau"
-    ],
-    "si gin ah": [
-        "si gin ah",
-        "si ginna",
-        "si ginnah",
-        "si ginah",
-        "si gin a"
-    ],
-    "leng lui": [
-        "leng lui",
-        "lenglui",
-        "leng nui"
-    ],
-    "then": [
-        "then"
     ]
 }

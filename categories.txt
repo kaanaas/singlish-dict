@@ -1,0 +1,7 @@
+cuisine
+sayings
+ns
+vulgar
+abbreviations
+nature
+locations

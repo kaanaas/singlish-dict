@@ -26,9 +26,9 @@
                             <!-- Chinese languages -->
                             <div name="chinese-chars">
                                 <h3 class="chinese-chars" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
-                                    <%= word.origin[i].simplified %></h3>
+                                    <%- formatDyno(word.origin[i].simplified) %></h3>
                                 <h3 class="chinese-chars" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
-                                    <%= word.origin[i].traditional %></h3>
+                                    <%- formatDyno(word.origin[i].traditional) %></h3>
                             </div>
                             <div class="roman-flex">
                                 <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
@@ -37,7 +37,7 @@
                         <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
                             <!-- Other alt-script languages -->
                             <% if(word.origin[i].simplified != ""){ %>
-                            <h3 class="non-bold"><%= word.origin[i].simplified %></h3>
+                            <h3 class="non-bold"><%- formatDyno(word.origin[i].simplified) %></h3>
                             <div class="roman-flex">
                                 <% if(word.origin[i].romanization && word.origin[i].romanization != "") { %>
                                     <p class="romanization"><%= word.origin[i].romanization %>:</p>
@@ -48,7 +48,7 @@
                         <% } else if(langName.toLowerCase() == "singlish") { %>
                             <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
                         <% } else { %>
-                            <h4><%= word.origin[i].roman.toLowerCase() %></h4>
+                            <h4><%- formatDyno(word.origin[i].roman.toLowerCase()) %></h4>
                         <% } %>
                     </div>
                 <% } %>
@@ -73,9 +73,9 @@
                                     <div class="chinese-wrapper-ext">
                                         <div name="chinese-chars">
                                             <h3 class="chinese-chars-ext" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
-                                                <%= word.origin[i].simplified %></h3>
+                                                <%- formatDyno(word.origin[i].simplified) %></h3>
                                             <h3 class="chinese-chars-ext" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
-                                                <%= word.origin[i].traditional %></h3>
+                                                <%- formatDyno(word.origin[i].traditional) %></h3>
                                         </div>
                                         <div class="roman-flex-ext">
                                             <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
@@ -86,7 +86,7 @@
                                     <!-- Other alt-script languages -->
                                     <% if(word.origin[i].simplified != ""){ %>
                                     <div class="chinese-wrapper-ext">
-                                        <h3 class="non-bold"><%= word.origin[i].simplified %></h3>
+                                        <h3 class="non-bold"><%- formatDyno(word.origin[i].simplified) %></h3>
                                         <div class="roman-flex">
                                             <% if(word.origin[i].romanization && word.origin[i].romanization != "") { %>
                                                 <p class="romanization"><%= word.origin[i].romanization %>:</p>
@@ -96,13 +96,13 @@
                                     </div>
                                     <% } %>
                                 <% } else if(langName.toLowerCase() == "singlish") { %>
-                                    <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
+                                    <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman %></a></h4>
                                 <% } else { %>
-                                    <h4 style="margin: 0;"><%= word.origin[i].roman.toLowerCase() %></h4>
+                                    <h4 style="margin: 0;"><%- formatDyno(word.origin[i].roman) %></h4>
                                 <% } %>
 
                                 <div class="ortho-lit-div">
-                                    <p class="lit"><%- word.origin[i].lit %></p>
+                                    <p class="lit"><%- formatDyno(word.origin[i].lit) %></p>
                                 </div>
                             </div>
                         </div>
@@ -131,12 +131,14 @@
                                     <div class="chinese-wrapper-ext">
                                         <div name="chinese-chars">
                                             <h3 class="chinese-chars-ext" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
-                                                <%= word.origin[i].etyScript[j] %></h3>
+                                                <%- formatDyno(word.origin[i].etyScript[j]) %></h3>
                                             <h3 class="chinese-chars-ext" name="hide" title="Click for Simplified" style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
-                                                <%= word.origin[i].etyTrad[j] %></h3>
+                                                <%- formatDyno(word.origin[i].etyTrad[j]) %></h3>
                                         </div>
                                         <div class="roman-flex-ext">
+                                            <% if(word.origin[i].etyScheme[j] != undefined){ %>
                                             <p class="romanization"><%= word.origin[i].etyScheme[j].toLowerCase() %>:</p>
+                                            <% } %>
                                             <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %></p>
                                         </div>
                                     </div>
@@ -144,7 +146,7 @@
                                         <!-- Other alt-script languages -->
                                         <% if(word.origin[i].etyScript[j] != ""){ %>
                                         <div class="chinese-wrapper-ext">
-                                            <h3 class="non-bold"><%= word.origin[i].etyScript[j] %></h3>
+                                            <h3 class="non-bold"><%- formatDyno(word.origin[i].etyScript[j]) %></h3>
                                             <div class="roman-flex">
                                                 <p class="ortho-roman">
                                                 <% if(word.origin[i].etyScript[j] !="" ){ %>
@@ -155,13 +157,13 @@
                                         </div>
                                         <% } %>
                                     <% } else if(langName == "Singlish") { %>
-                                        <h4><a href="./?q=<%= word.origin[i].etyRoman[j].toLowerCase() %>"><%= word.origin[i].etyRoman[j].toLowerCase() %></a></h4>
+                                        <h4><a href="./?q=<%= word.origin[i].etyRoman[j].toLowerCase() %>"><%= word.origin[i].etyRoman[j] %></a></h4>
                                     <% } else { %>
-                                        <h4 style="margin: 0;"><%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %></h4>
+                                        <h4 style="margin: 0;"><%- formatDyno(word.origin[i].etyRoman[j].replace(/,/g, ", ")) %></h4>
                                     <% } %>
                                     
                                     <% if(word.origin[i].etyLit[j]){ %>
-                                        <p class="lit"><%= word.origin[i].etyLit[j].replace(/,/g, ", ") %></p>
+                                        <p class="lit"><%- formatDyno(word.origin[i].etyLit[j].replace(/,/g, ", ")) %></p>
                                     <% } %>
                                 </div>
                                 </div>

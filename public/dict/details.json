@@ -774,7 +774,7 @@
                 {
                     "definition": "(condescending or humorous) I; me",
                     "example": "恁爸是我; 我是恁爸！(Limpeh is me; I am Limpeh!)",
-                    "exampleSource": "ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick, 2014.",
+                    "exampleSource": "2014, ShiGGa Shay - \"<i>LimPeh</i>\". <i>LimPeh - EP</i>, Ginette Chittick.",
                     "synonyms": [
                         "lin lao peh"
                     ],
@@ -1470,7 +1470,7 @@
         ],
         "usage": "Exact meaning depends heavily on tone and context.",
         "phonetics": "/aɪˈjoʊ/, /ɐɪ̯joː/",
-        "etyNotes": "Common expression in many Dravidian languages; possibly borrowed into Chinese languages from Tamil ஐயோ <i>aiyō</i>. See <i>aiyoyo</i> (Tamil\r\n ஐயையோ, <i>aiyaiyō</i>).",
+        "etyNotes": "Common expression in many Dravidian languages; possibly borrowed into Chinese languages from Tamil ஐயோ <i>aiyō</i>. See @{aiyoyo} (Tamil ஐயையோ, <i>aiyaiyō</i>).",
         "origin": [
             {
                 "lang": "tamil",
@@ -2167,7 +2167,7 @@
         "related": [],
         "usage": "",
         "phonetics": "",
-        "etyNotes": "",
+        "etyNotes": "See @{can}.",
         "origin": [
             {
                 "lang": "english",
@@ -2200,7 +2200,7 @@
                 ],
                 "etyScheme": false,
                 "etyLit": [
-                    "able to; may; be possible"
+                    "able to; may; be possible; permitted"
                 ]
             }
         ],
@@ -2519,7 +2519,7 @@
                     "antonyms": false
                 },
                 {
-                    "definition": "an activity or experience which is indescribably awesome or pleasurable",
+                    "definition": "#{dubious} an activity or experience which is indescribably awesome or pleasurable",
                     "example": "I love Bangkok! It's die cock stand!",
                     "exampleSource": "2015 Mar 2, Glory Ngim. Happy-TV, Youtube.",
                     "synonyms": [
@@ -3905,7 +3905,8 @@
                     "example": "Wei Kiat admits that his grasp of English grammar is poor and his vocabulary, weak. He does not speak “high class English” to his friends and family. Says Wei Kiat, “Wait people think I very action.”",
                     "exampleSource": "2006 July 30, Nur Amira Abdul Karim (quoting Ang Wei Kiat). The Sunday Times, p.35",
                     "synonyms": [
-                        "yaya"
+                        "yaya",
+                        "aksi"
                     ],
                     "antonyms": false
                 }
@@ -4603,7 +4604,7 @@
         "usage": "",
         "category": [],
         "phonetics": "",
-        "etyNotes": "This is most likely the origin. This use of <a href=\"https://sutian.moe.edu.tw/zh-hant/su/2110/\">合</a> exists in Hokkien, but not other Chinese languages such as Mandarin; a̍h/ha̍h is the vernacular pronunciation, used for this meaning, while ha̍p is the literary reading and is used for other usual meanings of 合 in Chinese, such as \"to join\".",
+        "etyNotes": "#{likely} This is most likely the origin. This use of <a href=\"https://sutian.moe.edu.tw/zh-hant/su/2110/\">合</a> exists in Hokkien, but not other Chinese languages such as Mandarin; a̍h/ha̍h is the vernacular pronunciation, used for this meaning, while ha̍p is the literary reading and is used for other usual meanings of 合 in Chinese, such as \"to join\".",
         "origin": [
             {
                 "lang": "hokkien",
@@ -5140,7 +5141,9 @@
                     "definition": "(metaphor, humorous) the government",
                     "example": "Don't let Ah Kong catch you selling gum.",
                     "exampleSource": "@comm",
-                    "synonyms": false,
+                    "synonyms": [
+                        "gahmen"
+                    ],
                     "antonyms": false
                 },
                 {
@@ -6115,7 +6118,8 @@
         "sense": 0,
         "related": [
             "ah",
-            "ah seng"
+            "ah seng",
+            "ah beng ah seng"
         ],
         "usage": "",
         "category": [],
@@ -6507,6 +6511,3607 @@
                     "example": "This bugger really buay tahan. Yesterday only buy new iPhone, today complain storage not enough, battery life CMI, other models got better camera. Ai pi ai chee ai dua liap ni. ",
                     "exampleSource": "@comm",
                     "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "pui@1": {
+        "word": "pui",
+        "sense": 1,
+        "related": [
+            "ah pui",
+            "fatty bom bom"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "肥",
+                "simplified": "肥",
+                "roman": "pûi",
+                "romanization": "poj",
+                "lit": "fat; obese",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "fat; chubby; obese.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "gemuk",
+                        "goondu"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "pui@2": {
+        "word": "pui",
+        "sense": 2,
+        "related": [],
+        "usage": "Often said while mimicking the action of spitting.",
+        "category": [
+            "vulgar"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "呸",
+                "simplified": "呸",
+                "roman": "phùi",
+                "romanization": "poj",
+                "lit": "spit; (interjection) expressing contempt, disdain, or disgust; mimicking the action of spitting on sth.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(strong, rude) expressing contempt, disdain, or disgust; mimicking the action of spitting on something.",
+                    "example": "Pui! I don't care what that cheating fellow has to say.",
+                    "exampleSource": "@{comm}",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to spit",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai si": {
+        "word": "ai si",
+        "sense": 0,
+        "related": [
+            "ai si buay si"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛死",
+                "simplified": "爱死",
+                "roman": "ài-sí",
+                "romanization": "poj",
+                "lit": "about to die; want to die",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "on thin ice; in a delicate or dangerous situation; courting disaster",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ai si buay si"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai si buay si": {
+        "word": "ai si buay si",
+        "sense": 0,
+        "related": [
+            "ai si"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛死𣍐死",
+                "simplified": "爱死𫧃死",
+                "roman": "ài-sí-bōe-sí",
+                "romanization": "poj",
+                "lit": "want to die but not dead; about to die but not dead",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "on thin ice; in a delicate or dangerous situation; courting disaster",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ai si"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai sui mai mia": {
+        "word": "ai sui mai mia",
+        "sense": 0,
+        "related": [
+            "ai sui"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛媠莫命",
+                "simplified": "爱媠莫命",
+                "roman": "ài-súi-mài-miā",
+                "romanization": "poj",
+                "lit": "love/want beauty, don't want life",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "爱媠",
+                    "莫",
+                    "命"
+                ],
+                "etyTrad": [
+                    "愛媠",
+                    "莫",
+                    "命"
+                ],
+                "etyRoman": [
+                    "ài-súi",
+                    "mài",
+                    "miā"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "beauty-conscious; vain (lit: love beauty)",
+                    "contraction of 毋愛 (not want)",
+                    "life"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "to be so beauty- or fashion-conscious and vain that one ignores or compromises one's own health and wellbeing.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai sui": {
+        "word": "ai sui",
+        "sense": 0,
+        "related": [
+            "ai sui mai mia",
+            "sui"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛媠",
+                "simplified": "爱媠",
+                "roman": "ài-súi",
+                "romanization": "poj",
+                "lit": "beauty-conscious; vain (lit: love beauty)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "beauty- or fashion-conscious; vain",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ai zai": {
+        "word": "ai zai",
+        "sense": 0,
+        "related": [
+            "ai",
+            "zai"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛在",
+                "simplified": "爱在",
+                "roman": "ài-chāi",
+                "romanization": "poj",
+                "lit": "must be firm, calm, and solid",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(imperative) stay calm; reassuring phrase to calm someone down",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "relak"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aimai": {
+        "word": "aimai",
+        "sense": 0,
+        "related": [
+            "ai",
+            "mai",
+            "ai kia stead mai"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "愛莫",
+                "simplified": "爱莫",
+                "roman": "ài-mài",
+                "romanization": "poj",
+                "lit": "(interrogative) (do you) want or not want (sth.)?; 愛 (want) + contraction of 毋愛 (not want)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "爱",
+                    "毋爱"
+                ],
+                "etyTrad": [
+                    "愛",
+                    "毋愛"
+                ],
+                "etyRoman": [
+                    "ài",
+                    "m̄-ài"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "want",
+                    "not want"
+                ]
+            }
+        ],
+        "meanings": {
+            "interrogative": [
+                {
+                    "definition": "(do you) want or not want (something, or to do something)?",
+                    "example": "After school we going bowling, aimai?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "air-level": {
+        "word": "air-level",
+        "sense": 0,
+        "related": [
+            "geh kiang"
+        ],
+        "usage": "",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "A (possibly ironic or humorous) alteration of \"A-level\", referring to the Singapore-Cambridge GCE A-level examinations taken by students in the second year of junior college (around 18 years old); equivalent to A-levels in the UK, or the International Baccalaureate.<br>Likely derived from \"@{encik}-speak\", the phenomenon of (stereotypically) middle-aged career warrant officers in the army mangling pronunciations in an unintentionally humorous manner.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "a-level",
+                "romanization": "",
+                "lit": "the Singapore-Cambridge GCE A-level examinations",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) (lit.) Someone educated up to GCE A-levels; (fig.) a smart aleck; someone who is pretentious about their level of education and intelligence; someone perceived to be smarter than oneself",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aircon": {
+        "word": "aircon",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "air-con",
+                "romanization": "",
+                "lit": "abbreviation of air-conditioner",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "air conditioner"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "a system used alongside a remote to control the temperature and humidity of a room or space"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an air conditioner, or an air conditioning system.",
+                    "example": "- Your room got aircon?<br>\r\n- Ya but spoiled, that's why at night sometimes humid until buay tahan.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to use an air conditioner to cool a room",
+                    "example": "Can you aircon the room half and hour before the guests arrive?",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "air-conditioned",
+                    "example": "The aircon classrooms were only for the students in the upper primary cohort.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aiseh": {
+        "word": "aiseh",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "#{likely} Similar expressions have been borrowed into other languages from English; see Swahili #{w:aisee} for example.<br>\r\nIts spelling likely was influenced by the common Singlish interjections @{hoseh} and @{paiseh}.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "i say",
+                "romanization": "",
+                "lit": "exclamation of surprise, strong emotion, or protest",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "wow!; hot damn!; exclamation of pleasant surprise, awe, admiration, or excitement.",
+                    "example": "Aiseh, this chicken rice really sedap sia!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "wah"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aiyah": {
+        "word": "aiyah",
+        "sense": 0,
+        "related": [
+            "haiz"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Probably developed independently in China, but like the similar form @{aiyo}, could have possibly been borrowed into Chinese languages from Tamil ஐயோ aiyō. See @{aiyoyo} (Tamil ஐயையோ, aiyaiyō).",
+        "origin": [
+            {
+                "lang": "chinese",
+                "traditional": "哎呀",
+                "simplified": "哎呀",
+                "roman": "āiyā",
+                "romanization": "pinyin",
+                "lit": "ouch; oh dear; alas",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "ஐயோ",
+                "roman": "aiyō",
+                "romanization": "",
+                "lit": "alas; woe; oh no",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "oh dear; oh no; ouch; alas; exclamation of distress, pain, admiration, etc.",
+                    "example": "Aiya, I missed the bus again... now I'll be late for work.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "aduh",
+                        "aiyoh",
+                        "aiyoyo",
+                        "haiya",
+                        "haiyo",
+                        "alamak"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ak kha ak chiu": {
+        "word": "ak kha ak chiu",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "鴨跤鴨手",
+                "simplified": "鸭跤鸭手",
+                "roman": "ah-kha-ah-chhiú",
+                "romanization": "poj",
+                "lit": "(lit.) duck feet, duck hands; (fig.) a clumsy person",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "lacking physical coordination; clumsy; bumbling.",
+                    "example": "Syabil is so ak kha ak chiu, he tripped and fell over <i>on the way</i> to @{SOC}...",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "kha kana chiu, chiu kana kha",
+                        "chiu kana kha, kha kana lam pa"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ar ka chiu ji": {
+        "word": "ar ka chiu ji",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "sayings",
+            "vulgar"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "合甲?子",
+                "simplified": "合甲?子",
+                "roman": "a̍h-kah-?-chí",
+                "romanization": "poj",
+                "lit": "get along well with sb. to the extent of being like testicles",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "like peas in a pod; extremely close with somebody",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "akan datang": {
+        "word": "akan datang",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "akan datang",
+                "romanization": "",
+                "lit": "will come; coming soon",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "akan",
+                    "datang"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "will",
+                    "arrive"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "on the way; coming soon",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "on the way; coming soon",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aksi": {
+        "word": "aksi",
+        "sense": 0,
+        "related": [
+            "aksi borak"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "aksi",
+                "romanization": "",
+                "lit": "action; to boast; to brag",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "action"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "to perform a motion;<br>(interjection) a command to begin sth.,esp. a performance or act"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "arrogant; boastful; braggardly",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "action",
+                        "yaya"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "aksi borak": {
+        "word": "aksi borak",
+        "sense": 0,
+        "related": [
+            "aksi"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "aksi",
+                "romanization": "",
+                "lit": "action; to boast; to brag",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "action"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "to perform a motion;<br>(interjection) a command to begin sth.,esp. a performance or act"
+                ]
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "berborak; borak",
+                "romanization": "",
+                "lit": "chit-chat; talk",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "arrogant; boastful; braggardly",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "aksi",
+                        "yaya",
+                        "action"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ali baba bag": {
+        "word": "ali baba bag",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "The allusion to Ali Baba is likely in reference to when the forty thieves hide in large oil jars in the story, suggesting that the bag is big enough for a full-grown person to hide inside of.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ali baba",
+                "romanization": "",
+                "lit": "",
+                "etyPath": [
+                    "arabic"
+                ],
+                "etyType": false,
+                "etyScript": [
+                    "عَلِيّ بَابَا"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "ʕaliyy bābā"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "the protagonist of the story <i>Ali Baba and the Forty Thieves</i>"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bag",
+                "romanization": "",
+                "lit": "a soft container, usually made form a flexible material, used to hold items",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a large duffel bag, especially as used by a soldier in the military",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "all fart and no shit": {
+        "word": "all fart and no shit",
+        "sense": 0,
+        "related": [
+            "action"
+        ],
+        "usage": "",
+        "category": [
+            "vulgar",
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "This idiom originates somewhere in English, but the exact origin is unknown. Equivalent to expressions such as <i>all bark and no bite</i>, <i>all hat and no cattle</i>, or <i>all mouth and trousers</i> in other English dialects.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "all fart and no shit",
+                "romanization": "",
+                "lit": "full of superficial blustering and empty chatter of no real substance",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "full of superficial blustering and empty chatter of no real substance; phony; pretentious",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "action",
+                        "akshen aje"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "already": {
+        "word": "already",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Modern tone follows the Mandarin reading of 了, <i>liǎo</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "already",
+                "romanization": "",
+                "lit": "direct translation of 了",
+                "etyPath": [
+                    "min nan"
+                ],
+                "etyType": false,
+                "etyScript": [
+                    "了"
+                ],
+                "etyTrad": [
+                    "了"
+                ],
+                "etyRoman": [
+                    "liáu"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "particle indicating perfective aspect or change of state; already; (approximately) past tense marker"
+                ]
+            }
+        ],
+        "meanings": {
+            "particle": [
+                {
+                    "definition": "indicating perfective aspect (completion of an action)",
+                    "example": "Eat already @{anot}?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "liao"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "used at the end of a clause or sentence to indicate a change of state",
+                    "example": "Faster eat, the food is getting cold already!",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "also can": {
+        "word": "also can",
+        "sense": 0,
+        "related": [
+            "how can",
+            "where can"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Likely a direct translation from Min Nan syntax: 嘛会使, <i>mā ē-sái</i> (Mandarin: 也可以, <i>yě kě yǐ </i>), lit. \"<i>also can</i>\".\r\n<br>See @{can}.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "also",
+                "romanization": "",
+                "lit": "in addition; as well",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "can",
+                "romanization": "",
+                "lit": "affirmative particle; able to; permitted to",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "can"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "able to; may; be possible; permitted"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "that's fine as well; that works too; that's permissible as well",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to be fine as well; work too; permissible as well",
+                    "example": "- Paiseh, morning I got something on.<br>\r\n- Don't worry, afternoon also can.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": [
+            {
+                "particle": "ba",
+                "meaning": "that option is certainly acceptable and viable as well",
+                "example": "- What do you think about dim sum instead? Heard the new place got opening discount 20%.<br>- Also can ba.",
+                "exampleSource": "@comm",
+                "effect": "affirmation; emphasizes agreement"
+            },
+            {
+                "particle": "lah",
+                "meaning": "that option works, don't worry",
+                "example": "- How about this shirt instead?<br>- Also can lah.",
+                "exampleSource": "",
+                "effect": "convincing, reassuring"
+            },
+            {
+                "particle": "lor",
+                "meaning": "alright, fine; sure / whatever, I guess that works",
+                "example": "- Eh after the client's comments, I think your design changes maybe not so good. We revert to the original design, hor?<br>- Also can lor.",
+                "exampleSource": "@comm",
+                "effect": "resigned tone; compromise"
+            },
+            {
+                "particle": "meh",
+                "meaning": "is that option seriously viable?",
+                "example": "Liddat also can meh? Aiyah anyhow lor, you happy I happy.",
+                "exampleSource": "@comm",
+                "effect": "questioning; doubtfulness"
+            }
+        ]
+    },
+    "amacam": {
+        "word": "amacam",
+        "sense": 0,
+        "related": [
+            "macam"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "apa",
+                "romanization": "",
+                "lit": "what; how",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "macam",
+                "romanization": "",
+                "lit": "like; similar to",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "how's it going; what's up",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "an zua": {
+        "word": "an zua",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "按怎",
+                "simplified": "按怎",
+                "roman": "án-chóaⁿ",
+                "romanization": "poj",
+                "lit": "how; why",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "what's the matter; what's up",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang ko li": {
+        "word": "ang ko li",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "phonetics": "",
+        "etyNotes": "Lee^{jlee} also cites <i>Pristipomoides spp.</i> (goldband snappers) as being referred to as <i>ang ko li</i>, which they also sometimes are; however, according to Baidu^{bd angkoli} it refers to <i>Nemipterus virgatus</i>.",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "紅哥鯉",
+                "simplified": "红哥鲤",
+                "roman": "ang5 go1 li2",
+                "romanization": "peng'im",
+                "lit": "Nemipterus virgatus (golden threadfin bream)",
+                "etyPath": [
+                    "teochew",
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "红",
+                    "哥",
+                    "鲤"
+                ],
+                "etyTrad": [
+                    "紅",
+                    "哥",
+                    "鯉"
+                ],
+                "etyRoman": [
+                    "ang5",
+                    "go1",
+                    "li2"
+                ],
+                "etyScheme": [
+                    "peng'im",
+                    "peng'im",
+                    "peng'im"
+                ],
+                "etyLit": [
+                    "red",
+                    "elder brother",
+                    "carp"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>Nemipterus virgatus</i>, commonly known as the golden threadfin bream. The most common fish of choice for making fish head curry, among other popular dishes.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang ku kueh": {
+        "word": "ang ku kueh",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "紅龜粿",
+                "simplified": "红龟粿",
+                "roman": "âng-ku-kóe",
+                "romanization": "poj",
+                "lit": "red tortoise @{kueh}",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a small oval-shaped dumpling, consisting of a sweet filling such as green bean paste, ground peanuts, and sugar, wrapped in a (typically red-coloured) skin made of glutinous rice flour. The dumpling is pressed into a form resembling a tortoise shell, and has a sticky, chewy texture.<br>As eating tortoises was associated with longevity in Chinese culture, it is traditionally eaten to celebrate special occasions such as birthdays or the first month of a newborn baby.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang moh": {
+        "word": "ang moh",
+        "sense": 0,
+        "related": [
+            "ang mo kio",
+            "chiah kentang"
+        ],
+        "usage": "The term is a completely neutral synonym for \"Caucasian\", \"westerner\", or \"white person\", but some may consider it mildly derogatory.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "紅毛",
+                "simplified": "红毛",
+                "roman": "âng-mô͘",
+                "romanization": "poj",
+                "lit": "(lit.) red hair; (fig.) Caucasian; white person; person of Western descent; English (people, culture, and language)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "红",
+                    "毛"
+                ],
+                "etyTrad": [
+                    "紅",
+                    "毛"
+                ],
+                "etyRoman": [
+                    "âng",
+                    "mô͘"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "red",
+                    "hair"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Caucasian person; white person; person of Western descent",
+                    "example": "\"Ang moh\" is still used today with an implicit sense of the cultural power ang mohs wield in postcolonial Singapore, whether we admit it anot.",
+                    "exampleSource": "2017, Gwee Li Sui. “England”, <i>Spiaking Singlish: A Companion to how Singaporeans Communicate</i>, Singapore: Marshall Cavendish Editions. p.67-68",
+                    "synonyms": [
+                        "mat salleh"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "Caucasian; of Western descent, or having associated traits.",
+                    "example": "How @{Ang Mo Kio} really got its name ... In olden Singapore, it was common to name some districts after nearby landmarks such as rivers (kang in Hokkien) or bridges (kio).. And so, there was, and is, Ang Moh (Caucasian) Kio. In those days, anything “modern” was considered ang moh, such as a brick-and-tile house, as opposed to an attap-and-wood dwelling. Thus, Ang Mo Kio probably referred to a nearly iron – hence, modern – bridge built to replace an old wooden one.",
+                    "exampleSource": "2006 March 17, Chew Poh Loh. <i>Today (from Todayonline.com)</i>.",
+                    "synonyms": [
+                        "kentang"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang moh chu": {
+        "word": "ang moh chu",
+        "sense": 0,
+        "related": [
+            "ang moh",
+            "bungalow"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "紅毛厝",
+                "simplified": "红毛厝",
+                "roman": "âng-mô͘-chhù",
+                "romanization": "poj",
+                "lit": "Western-style building; (lit.) white man's / Caucasian house",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Western-style building, especially from the colonial era, such as a bungalow or a black-and-white house.",
+                    "example": "These black and white Anglo-Indian bungalows (which come from the term Bangala or Bengali for from Bengal) or “Ang-Moh Chu” (White Man’s House) are designed in the “revival architectural style”.<br>It’s not just a residential estate. As you would expect the British, when they stayed there had a town centre, with some bistros and convenience stalls. The Village Square still serves this purpose today.",
+                    "exampleSource": "2021 May 7, salbia. Trip.com, https://my.trip.com/moments/detail/singapore-53-9783299",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang moh kui": {
+        "word": "ang moh kui",
+        "sense": 0,
+        "related": [
+            "ang moh",
+            "mat salleh"
+        ],
+        "usage": "While @{ang moh} on its own is neutral, this term is overtly pejorative and derogatory.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Literally \"Caucasian/Western devil\".",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "紅毛",
+                "simplified": "红毛",
+                "roman": "âng-mô͘",
+                "romanization": "poj",
+                "lit": "(lit.) red hair; (fig.) Caucasian; white person; person of Western descent; English (people, culture, and language)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "min nan",
+                "traditional": "鬼",
+                "simplified": "鬼",
+                "roman": "kúi",
+                "romanization": "poj",
+                "lit": "ghost; demon; devil",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a Caucasian person; white person; person of Western descent",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang moh pai": {
+        "word": "ang moh pai",
+        "sense": 0,
+        "related": [
+            "ang moh"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "紅毛",
+                "simplified": "红毛",
+                "roman": "âng-mô͘",
+                "romanization": "poj",
+                "lit": "(lit.) red hair; (fig.) Caucasian; white person; person of Western descent; English (people, culture, and language)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "派",
+                "simplified": "派",
+                "roman": "phài",
+                "romanization": "poj",
+                "lit": "sect; faction; manner or style",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(pejorative) a Chinese Singaporean, or the set of Chinese Singaporeans in general, who speak English well but have poor skills in Chinese languages, and/or who are only in touch with Western culture and behave too \"Western\".",
+                    "example": "So we look Singaporean but we 讲话怪怪<br>\r\nFrom the bottom to the top, Ang Moh Pai<br>...<br>\r\nUh, they say we wanna be American<br>\r\nTalk and dress like black dudes when we are Singaporean\r\n",
+                    "exampleSource": "2015 Oct 21, ShiGGa Shay. <i>Ang Moh Pai (ft. Tosh Rock)</i>. YouTube, https://www.youtube.com/watch?v=l9ZRk3P3GEA",
+                    "synonyms": [
+                        "kentang"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(pejorative) describing Chinese Singaporeans, or a group thereof, who speak English well but have poor skills in Chinese languages, and/or who are only in touch with Western culture and behave too \"Western\".",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "chiah kentang",
+                        "kentang"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang moh liu lian": {
+        "word": "ang moh liu lian",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "phonetics": "",
+        "etyNotes": "(lit.) Western / Westerners' durian, as the fruit originated in the Americas and was then imported to Asia from the West.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "紅毛榴蓮",
+                "simplified": "红毛榴莲",
+                "roman": "âng-mô͘ liû-liân",
+                "romanization": "poj",
+                "lit": "soursop",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "红毛",
+                    "榴莲"
+                ],
+                "etyTrad": [
+                    "紅毛",
+                    "榴蓮"
+                ],
+                "etyRoman": [
+                    "âng-mô͘",
+                    "liû-liân"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "Western; Caucasian",
+                    "durian"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "soursop (fruit of the <i>Annona muricata</i> tree)",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang mo kio@1": {
+        "word": "ang mo kio",
+        "sense": 1,
+        "related": [],
+        "usage": "In Hokkien, both this and the word for tomato (@{ang moh kio}) are complete homophones, down to the tone. However, due to the spelling of the township in English, the association with the original root word @{ang moh} has been muddied somewhat, and it is common to hear the '<i>mo</i>' pronunced as /mo/ (as in 'MOst'), instead of the original /mɔ/ (as in 'MOre' or 'ang MOH').",
+        "category": [
+            "locations"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "紅毛",
+                "simplified": "红毛",
+                "roman": "âng-mô͘",
+                "romanization": "poj",
+                "lit": "Caucasian; white person; person of Western descent; English (people, culture, and language)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "橋",
+                "simplified": "桥",
+                "roman": "kiô",
+                "romanization": "poj",
+                "lit": "bridge",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a planning area and residential town to the north of central Singapore, first redeveloped by the HDB in 1973.^{nlb amk}",
+                    "example": "The name Ang Mo Kio in Hokkien literally translates to “red-haired man’s bridge”, where ang mo is a colloquial term for a Caucasian person.",
+                    "exampleSource": "2020, Cornelius, Vernon. NLB - Singapore Infopedia. https://www.nlb.gov.sg/main/article-detail?cmsuuid=af89bff4-ffa3-4786-967b-8b8719069624",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang mo kio@2": {
+        "word": "ang mo kio",
+        "sense": 2,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "phonetics": "",
+        "etyNotes": "In Hokkien, both this and the place name (@{Ang Mo Kio}) are complete homophones, down to the tone.",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "紅毛茄",
+                "simplified": "红毛茄",
+                "roman": "âng-mô͘-kiô",
+                "romanization": "poj",
+                "lit": "tomato",
+                "etyPath": [
+                    "hokkien",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "红毛",
+                    "茄"
+                ],
+                "etyTrad": [
+                    "紅毛",
+                    "茄"
+                ],
+                "etyRoman": [
+                    "âng-mô͘",
+                    "kiô"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "Western/Westerner's",
+                    "brinjal"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "tomato (fruit of the <i>Solanum lycopersicum</i> plant)",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ang pau": {
+        "word": "ang pau",
+        "sense": 0,
+        "related": [
+            "ang",
+            "lo hei",
+            "yusheng"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "红包",
+                "simplified": "紅包",
+                "roman": "âng-pau",
+                "romanization": "poj",
+                "lit": "red packets",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "red packet; a (usually red, or some other auspicious colour such as gold) envelope containing money, given as a gift during occasions such as birthdays, weddings, and especially at Chinese New Year.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "angkat": {
+        "word": "angkat",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Likely a euphemistic ellipsis of @{angkat bola}; see for more details.",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "angkat",
+                "romanization": "",
+                "lit": "carry; lift; raise",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to curry favour; to use obsequious flattery and perform favours to gain privileges from someone, or get into their good books.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "carry",
+                        "angkat bola",
+                        "carry balls",
+                        "ar"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "angkat bola": {
+        "word": "angkat bola",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "Likely a euphemistic reference to the testicles; the meaning of the phrase hence derives from \"carrying someone else's testicles for them\", a metaphor for servility and sycophancy.",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "angkat",
+                "romanization": "",
+                "lit": "carry; lift; raise",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bola",
+                "romanization": "",
+                "lit": "ball",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to curry favour; to use obsequious flattery and perform favours to gain privileges from someone, or get into their good books.",
+                    "example": "She's always trying to angkat bola the manager, hoping for a promotion.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "carry",
+                        "carry balls",
+                        "angkat",
+                        "ar",
+                        "cari point"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "anyhowly": {
+        "word": "anyhowly",
+        "sense": 0,
+        "related": [
+            "anyhow whack"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "anyhow",
+                "romanization": "",
+                "lit": "in any way or manner whatsoever; in a random fashion",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "anyhow"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "any + how"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-ly",
+                "romanization": "",
+                "lit": "suffix to form an adverb from an adjective or noun",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "in an @{anyhow} manner; using any way or manner whatsoever; in a random fashion",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "luan"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "apam balik": {
+        "word": "apam balik",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "apam",
+                "romanization": "",
+                "lit": "appam",
+                "etyPath": [
+                    "tamil"
+                ],
+                "etyType": false,
+                "etyScript": [
+                    "ஆப்பம்"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "āppam"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "appam; palappam; hopper (a thin pancake made from fermented rice batter and coconut milk)"
+                ]
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "balik",
+                "romanization": "",
+                "lit": "turn; reverse; turn around",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Malay name for @{min chiang kueh}, a type of sweet pancake with peanut filling. Also known as martabak manis in Indonesia.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "min chiang kueh"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "appam": {
+        "word": "appam",
+        "sense": 0,
+        "related": [
+            "idiyappam",
+            "putu mayam"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "ஆப்பம்",
+                "roman": "āppam",
+                "romanization": "",
+                "lit": "appam; palappam; hopper (a thin pancake made from fermented rice batter and coconut milk)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a thin pancake with crispy, paper-thin edges and a soft, bouncy centre, made from fermented rice batter and coconut milk; also known as palappam, and known as hopper in Sri Lanka. Similar to @{idiyappam} or @{putu mayam}.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ar ka chi": {
+        "word": "ar ka chi",
+        "sense": 0,
+        "related": [
+            "angkat bola",
+            "ar",
+            "ar ka chiu ji",
+            "ar ka liau"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "Possibly in the sense of \"currying favour until something unexpectedly snaps\", or \"break; snap\" in the sense of causing unintended hurt or detriment to oneself.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "合",
+                "simplified": "合",
+                "roman": "a̍h",
+                "romanization": "poj",
+                "lit": "curry favour; get along well with",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "甲",
+                "simplified": "甲",
+                "roman": "kah",
+                "romanization": "poj",
+                "lit": "until; to the point of; to the extent that",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "折",
+                "simplified": "折",
+                "roman": "chi̍h",
+                "romanization": "poj",
+                "lit": "snap; bend; twist; break",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to overzealously attempt to curry favor from someone to the point that it goes wrong, causing detriment to oneself.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ar ka liau": {
+        "word": "ar ka liau",
+        "sense": 0,
+        "related": [
+            "angkat bola",
+            "ar",
+            "ar ka chih",
+            "ar ka chiu ji",
+            "cari point"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "(lit.) meaning \"currying favour until the end / all the way\".",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "合",
+                "simplified": "合",
+                "roman": "a̍h",
+                "romanization": "poj",
+                "lit": "curry favour; get along well with",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "甲",
+                "simplified": "甲",
+                "roman": "kah",
+                "romanization": "poj",
+                "lit": "until; to the point of; to the extent that",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "了",
+                "simplified": "了",
+                "roman": "liáu",
+                "romanization": "poj",
+                "lit": "finished; completed; to the end",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to attempt to curry favour until one is in someone's good books; to work hard to become close to somebody",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of two or more people) very close friends",
+                    "example": "After working together for almost three years, Ajay and Ismail were ar ka liau.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "describing someone who is susceptible to flattery and easy to curry favour with; someone very @{argable}.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "argable"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ar lip bo ar chut": {
+        "word": "ar lip bo ar chut",
+        "sense": 0,
+        "related": [
+            "angkat bola",
+            "ar",
+            "cari point"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "In the sense of favouring one's \"inside/inner circle\" over people on the \"outside\".",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "合",
+                "simplified": "合",
+                "roman": "a̍h",
+                "romanization": "poj",
+                "lit": "curry favour; get along well with",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "入",
+                "simplified": "入",
+                "roman": "ji̍p / li̍p",
+                "romanization": "poj",
+                "lit": "in; enter; join; become a member",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "無",
+                "simplified": "无",
+                "roman": "bô",
+                "romanization": "poj",
+                "lit": "do not; to not",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "合",
+                "simplified": "合",
+                "roman": "a̍h",
+                "romanization": "poj",
+                "lit": "curry favour; get along well with",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "出",
+                "simplified": "出",
+                "roman": "chhut",
+                "romanization": "poj",
+                "lit": "out; outside",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to show favour only to a person or a group of people in one's inner circle; to grant favours and advantages to those in one's clique only",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "showing favour only to a person or a group of people in one's inner circle; being wont to grant favours and advantages to those in one's clique only",
+                    "example": "The boss at my old workplace was so ar lip bo ar chut that it got really toxic, and I had to leave or I'd have no chance of advancing in my career.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "argable": {
+        "word": "argable",
+        "sense": 0,
+        "related": [
+            "ar",
+            "ar ka liau"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "合",
+                "simplified": "合",
+                "roman": "a̍h",
+                "romanization": "poj",
+                "lit": "curry favour; get along well with",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-able",
+                "romanization": "",
+                "lit": "suffix to form an adjective, meaning able to de done or inclined to",
+                "etyPath": [
+                    "latin"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "-ābilis"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "able to be acted upon"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "very amenable to sycophancy; easy to curry favour with",
+                    "example": "This new boss is so argable. Heard Lewis is already in line for a pay review just because he got into his good books early on.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ar ka liau"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "arrow": {
+        "word": "arrow",
+        "sense": 0,
+        "related": [
+            "sai kang"
+        ],
+        "usage": "Often used in a phrase together with a word meaning \"got\", such as \"kena arrow\" or \"tioh arrow\".",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Possibly refers to being pointed to, as the arrow symbol is used for pointing or indicating.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "arrow",
+                "romanization": "",
+                "lit": "a pointed shaft fired from a bow; a symbol in such a shape pointing to sth.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to be delegated or chosen, especially for an undesirable task.",
+                    "example": "@{Sian}. I kena arrow to cover all of Fatima's cases because she go @{chiah hong} in Bali until next week.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "art buah": {
+        "word": "art buah",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hainanese",
+                "traditional": "壓",
+                "simplified": "压",
+                "roman": "?",
+                "romanization": "?",
+                "lit": "press; apply pressure",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hainanese",
+                "traditional": "粑",
+                "simplified": "粑",
+                "roman": "?",
+                "romanization": "?",
+                "lit": "cake; food that is cake-like",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional Hainanese sweet cake made from shredded ginger, grated coconut, palm sugar, glutinous rice flour, flour, salt, and water, sometimes flavoured with pandan.^{msf ab}",
+                    "example": "All these chats with my mom did not lead to any action till last Lunar New Year dinner when I saw a colander full of shredded ginger when helping with the dishes. Immediately, I knew my mom was going to make buah dah art. I was really excited and came armed with my @{barang barang}.",
+                    "exampleSource": "2014, Heng Meei Shya. My Singapore Food. https://mysingaporefood.com/story/art-buah-hainanese-kueh/",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "assam": {
+        "word": "assam",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "asam",
+                "romanization": "",
+                "lit": "sour food",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "tamarind (the fruit of the <i>Tamarindus indica</i> plant), a common ingredient in cuisine in Singapore and the surrounding region, such as in dishes like assam fish.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "assam laksa": {
+        "word": "assam laksa",
+        "sense": 0,
+        "related": [
+            "assam",
+            "laksa"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "#{likely} Exact etymology of @{laksa} is uncertain.",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "asam",
+                "romanization": "",
+                "lit": "sour food; tamarind",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "laksa",
+                "romanization": "",
+                "lit": "@{laksa} (see for more details)",
+                "etyPath": [
+                    "hokkien",
+                    "classical persian"
+                ],
+                "etyType": [
+                    "or"
+                ],
+                "etyScript": [
+                    "辣沙",
+                    "لاکچه"
+                ],
+                "etyTrad": [
+                    "辣沙",
+                    ""
+                ],
+                "etyRoman": [
+                    "la̍t-sa",
+                    "lākča"
+                ],
+                "etyScheme": [
+                    "poj",
+                    ""
+                ],
+                "etyLit": [
+                    "spicy and grainy",
+                    "noodles"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a noodle soup dish of Peranakan origin, made with laksa noodles, a fish or other broth flavoured with tamarind (assam) paste, and a @{rempah} of shallots, garlic, galangal, chilli, lemongrass, and other ingredients.^{msf al}",
+                    "example": "When she first invited me to her home to taste this dish of Assam Laksa, I was rather apprehensive. At first, I was overwhelmed by the pungent smell from the gravy that filled her house. Then, I was put off by the unappealing orange-black broth in the bowl ... To my surprise, I fell in love with it immediately.",
+                    "exampleSource": "2015 July 31, Chew Lay Hua. My Singapore Food, https://mysingaporefood.com/story/assam-laksa/",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "assam pedas": {
+        "word": "assam pedas",
+        "sense": 0,
+        "related": [
+            "assam"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "Literally means \"sour spicy\".",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "assam",
+                "romanization": "",
+                "lit": "sour food; tamarind",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pedas",
+                "romanization": "",
+                "lit": "spicy; pungent",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sour and spicy fish curry flavoured with tamarind (assam).",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "atas": {
+        "word": "atas",
+        "sense": 0,
+        "related": [
+            "chim",
+            "air-level"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "atas",
+                "romanization": "",
+                "lit": "on top of; above; upper",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "high or elevated, or perceived as such, in terms of prestige, esteem, character, class, language, etc.",
+                    "example": "He still preferred to eat at the hawker centre downstairs, as the chic new cafés popping up like mushrooms around the block were a little too atas for his liking.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "arrogant",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "yaya"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "attap chee": {
+        "word": "attap chee",
+        "sense": 0,
+        "related": [
+            "bo chi"
+        ],
+        "usage": "",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "attap",
+                "romanization": "",
+                "lit": "nipa palm (<i>Nypa fruticans</i>)",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": [
+                    "atap"
+                ],
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": [
+                    "roof"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "子",
+                "simplified": "子",
+                "roman": "chí",
+                "romanization": "poj",
+                "lit": "child; son; seed",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the immature fruits of the nipa palm (<i>Nypa fruticans</i>), which are oval-shaped, translucent, and approximately 3cm long. Commonly used for their chewy, gelatinous texture in sweet desserts.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "attend b": {
+        "word": "attend b",
+        "sense": 0,
+        "related": [
+            "attend c",
+            "mc",
+            "keng",
+            "chao keng",
+            "pai kha pai chiu",
+            "rmj"
+        ],
+        "usage": "",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "Likely in contrast to A (first letter of the English alphabet), which would indicate a soldier is medically fit for any duties. See @{Attend C}.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "attend",
+                "romanization": "",
+                "lit": "(of a medical professional) to care for; to administer medical help or advice to",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "b",
+                "romanization": "",
+                "lit": "second letter of the English alphabet",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a medical status exempting a soldier from all but light duties",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(military) a soldier with an Attend B medical status",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of a soldier) to be exempted from all but light duties",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(humorous) injured; sick; unwell.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "attend c": {
+        "word": "attend c",
+        "sense": 0,
+        "related": [
+            "attend b",
+            "mc",
+            "keng",
+            "chao keng",
+            "pai kha pai chiu",
+            "rmj"
+        ],
+        "usage": "",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "Likely in contrast to A (first letter of the English alphabet), which would indicate a soldier is medically fit for any duties. See @{Attend C}.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "attend",
+                "romanization": "",
+                "lit": "(of a medical professional) to care for; to administer medical help or advice to",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "c",
+                "romanization": "",
+                "lit": "third letter of the English alphabet",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a medical status exempting a soldier from all duties",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(military) a soldier with an Attend C medical status",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of a soldier) to be exempted from all duties",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(humorous) badly injured; sick; very unwell; medically unfit to go to work or carry out one's normal duties.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "au au salakau": {
+        "word": "au au salakau",
+        "sense": 0,
+        "related": [
+            "ah beng",
+            "salakau"
+        ],
+        "usage": "Don't.",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "@[dubious} No exact character for \"au\".",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "呕",
+                "simplified": "嘔",
+                "roman": "áu",
+                "romanization": "poj",
+                "lit": "onomatopoeic; chosen to rhyme with 九, \"káu\".",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "三六九",
+                "simplified": "三六九",
+                "roman": "saⁿ-la̍k-káu",
+                "romanization": "",
+                "lit": "369 (name of an infamous gang)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(provocative, crass) a gang shout used by the infamous 369 (@{Salakau}) gang. Associated with violent gangsterism, delinquency, criminals, and low-class behaviour.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ayam": {
+        "word": "ayam",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ayam",
+                "romanization": "",
+                "lit": "chicken",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a chicken",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "chicken meat",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "someone who is easily intimidated",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "a popular brand of condiments and canned foods",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ayam buah keluak": {
+        "word": "ayam buah keluak",
+        "sense": 0,
+        "related": [
+            "ayam"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ayam",
+                "romanization": "",
+                "lit": "chicken; chicken (meat)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buah keluak",
+                "romanization": "",
+                "lit": "the seeds of the <i>Pangium edule</i> tree",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a @{Peranakan} dish consisting of chicken (@{ayam}) stewed with buah keluak in a gravy of pounded spices including tamarind (@{assam}), candlenuts, turmeric, chilli, lemongrass, galangal, and belacan. In some recipes, the flesh of the buah keluak nut is be mixed with ground meat and stuffed back in before stewing, while others let the flesh be. In both cases, nevertheless, the dish is served with the flesh still in the nut's shell as part of the presentation. It takes a lot of influence from Indonesian cuisine.<br>\r\nThe dish is infamous, like many other Peranakan dishes, for its incredibly long preparation time; for example, the buah keluak has to be boiled, buried, and soaked for up to forty days beforehand to draw out the toxic hydrogen cyanide naturally present in the raw nuts. This process results in the nuts turning the dark black colour that they familiarly appear with in the dish.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ayam penyet": {
+        "word": "ayam penyet",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ayam",
+                "romanization": "",
+                "lit": "chicken; chicken (meat)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "javanese",
+                "traditional": "",
+                "simplified": "",
+                "roman": "penyet",
+                "romanization": "",
+                "lit": "flattened; smashed; squeezed",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of fried chicken originating in Javanese cuisine, where the fried chicken is crushed or flattened (such as by using a pestle and mortar) to split the fibres of the meat and thus mechanically tenderize it.<br>The chicken is pre-cooked in a preparation of spices before being deep-fried.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ayam percik": {
+        "word": "ayam percik",
+        "sense": 0,
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ayam",
+                "romanization": "",
+                "lit": "chicken; chicken (meat)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "percik",
+                "romanization": "",
+                "lit": "sprinkle; scatter drops",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Malay dish of chicken (@{ayam}) marinated in spices and then grilled over charcoal. The chicken is basted with a sauce consisting of ground chilli, shallots, garlic, ginger, candlenuts, pepper, coconut milk, @{assam} (tamarind), etc. while it grills, hence giving rise to the name \"percik\".",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ayam sio": {
+        "word": "ayam sio",
+        "sense": 0,
+        "related": [
+            "itek sio"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ayam",
+                "romanization": "",
+                "lit": "chicken; chicken (meat)",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "燒",
+                "simplified": "烧",
+                "roman": "sio",
+                "romanization": "poj",
+                "lit": "roast; cook",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a @{Peranakan} dish of chicken roasted or braised with a ground paste of shallots, garlic, tamarind (@{assam}), sugar, @{tau cheo}, coriander seeds, soya sauce, or other aromatic ingredients.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "babi pongteh": {
+        "word": "babi pongteh",
+        "sense": 0,
+        "related": [],
+        "usage": "The meat may be substituted for others, most commonly by using chicken instead of pork (e.g. to make the dish halal); in that case, it would correspondingly be called \"<i>@{ayam} pongteh</i>\".",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "#{dubious} *According to Tan (2007).  However, while Tan's claim is cited or indirectly propagated by a majority of web sources, it is purely speculative and uncorroborated, and he does conclude that the true origin is untraceable.^{cbtan}<br><br>\r\nTan cites \"pong\" as stemming from a mispronunciation of some Hokkien word \"<i>hong</i>\" meaning to stew in soya sauce, but no such word seems to exist; the closest is 烘, <i>hōng</i> (which means to bake or roast dry). On the other hand, 炕, <i>khòng</i> actually means to stew or cook over slow heat for a long time (see @{khong bak}, which is an actual dish consisting of pork stewed in soya sauce).<br><br>Tan conjectures that \"teh\" is from the Hokkien for \"pork trotter\", though he likely was confused by the word 猪跤, <i>tir-kha</i> (see @{ter kha}), which does mean \"pork trotter\"; but just 猪, \"tir\" alone already means pig or pork. It is also possible that \"teh\" stems from Hokkien 茶, <i>tê</i>, meaning \"tea\".",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "babi",
+                "romanization": "",
+                "lit": "pig; pork",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "#{dubious} 炕豬",
+                "simplified": "#{dubious} 炕猪",
+                "roman": "khòng-tir",
+                "romanization": "poj",
+                "lit": "slow-cooked or stewed pork",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "or"
+                ],
+                "etyScript": [
+                    "炕",
+                    "猪",
+                    "茶"
+                ],
+                "etyTrad": [
+                    "炕",
+                    "豬",
+                    "茶"
+                ],
+                "etyRoman": [
+                    "khòng",
+                    "tir",
+                    "tê"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "slow-cook or stew",
+                    "pork",
+                    "tea"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a @{Peranakan} stew of pork braised in a gravy made from @{tau cheo} (fermented soya bean paste), garlic, shallots, @{gula melaka} (palm sugar), and other spices; the stew often includes other ingredients, such as bamboo shoots, mushrooms, potatoes, or sea cucumber.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bak": {
+        "word": "bak",
+        "sense": 0,
+        "related": [
+            "bak chor mee",
+            "bak kut teh",
+            "bak kwa",
+            "khong bak",
+            "sio bak"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "肉",
+                "simplified": "肉",
+                "roman": "bah",
+                "romanization": "poj",
+                "lit": "meat; flesh; pork",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "meat; flesh",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "pork",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bak chang": {
+        "word": "bak chang",
+        "sense": 0,
+        "related": [
+            "bak"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "肉粽",
+                "simplified": "肉粽",
+                "roman": "bah-chàng",
+                "romanization": "poj",
+                "lit": "a dumpling of glutinous rice wrapped in a flat leaf (usually bamboo), typically stuffed with meat and/or other ingredients.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dumpling of glutinous rice wrapped in a flat leaf (usually bamboo), typically stuffed with meat and/or other ingredients. It can be savoury or sweet, and comes in various forms depending on culture, such as Nyonya, Hokkien, Hakka, Cantonese, etc. It is commonly eaten during the Dragon Boat Festival, but is also enjoyed as a popular dish or snack throughout the year.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bak chiu": {
+        "word": "bak chiu",
+        "sense": 0,
+        "related": [
+            "mata"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "目睭",
+                "simplified": "目睭",
+                "roman": "ba̍k-chiu",
+                "romanization": "poj",
+                "lit": "eye; eyes; eyeball",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "eyes",
+                    "example": "看什物看？看你的目睭 (khòaⁿ sím-mi̍h khòaⁿ?\r\nkhòaⁿ lí ê ba̍k-chiu)<br>\r\n我的目睭死爸细, so I can't even see you! (óa-ê ba̍k-chiu sí-pē sòe)<br>(tr.: @{See what see}? See your eyes;<br>My eyes are so damn small, so I can't even see you!)",
+                    "exampleSource": "2014, ShiGGa Shay - \"<i>LimPeh</i>\". <i>LimPeh - EP</i>, Ginette Chittick.",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "bak chiu tak stamp": {
+        "word": "bak chiu tak stamp",
+        "sense": 0,
+        "related": [
+            "bak chiu",
+            "got eyes also don't know mount taishan",
+            "no eye see"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "(lit.) having stamps pasted over one's eyes.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "目睭",
+                "simplified": "目睭",
+                "roman": "ba̍k-chiu",
+                "romanization": "poj",
+                "lit": "eye; eyes; eyeball",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "貼",
+                "simplified": "贴",
+                "roman": "tah",
+                "romanization": "poj",
+                "lit": "paste; stick on; be attached",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "stamp",
+                "romanization": "",
+                "lit": "a small sticker pasted onto letter or envelope as a prepayment of postage, or used for decoration.",
+                "etyPath": false,
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": false,
+                "etyScheme": false,
+                "etyLit": false
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "blind; unable to see; (lit.) to have stamps pasted over one's eyes.",
+                    "example": "- Wah, those girls all so chio...<br>- Where got?<br>- Alamak, your bak chiu tak stamp isit?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "pah jiao"
+                    ],
                     "antonyms": false
                 }
             ]

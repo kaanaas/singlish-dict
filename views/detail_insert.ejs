@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="property">
-                    <label>Sense (0-id, blank if only):</label>
+                    <label>Sense (1-id, blank if only):</label>
                     <input type="text" id="sense" name="sense">
                 </div>
 
@@ -233,7 +233,7 @@
         <script>
             // main
             const noDefDict = <%- JSON.stringify(noDefDict) %>;
-            var count = 2;  // increase this every time a multi word is added
+            var count = 3;  // increase this every time a multi word is added
             const randBtn = document.getElementById("random");
             random.addEventListener("click", () => {
                 // let randWord = noDefDict[Math.floor(Math.random() * noDefDict.length)]

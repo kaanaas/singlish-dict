@@ -1,33 +1,39 @@
 <html lang="en">
     <%- include("./partials/head") %>
 
+    <head>   
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+    </head>
+
     <body>
         <div class="content banner">
-            <h1><a href="./" class="title">Chimbridge Singlish Dictionary</a></h1>
+            <h1><a href="/" class="title">Chimbridge Singlish Dictionary</a></h1>
         </div>
         <div class="content">
             <div class="def-box">
                 <h2 class="subpage-title">Sources</h2>
                 <hr>
-                <div class="sources">
-                    <a href="sutian.moe.edu.tw">教育部臺灣閩南語常用詞辭典</a>
-                    <a href="http://en.wiktionary.org">Wiktionary-en</a>
-                    <a href="https://en.wikipedia.org/wiki/Singlish_vocabulary">Wikipedia: Singlish Vocabulary</a>
-                    <a href="https://en.wikipedia.org/wiki/Singlish">Wikipedia: Singlish</a>
-                    <a href="http://www.mysmu.edu/faculty/jacklee/singlish_A.htm">A Dictionary of Singlish and Singapore English</a>
-                    <a href="https://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html">SINGLISH - A Language Guide for Foreigners</a>                    
-                    <a href="https://www.singlish.net/">Singlish Dictionary - Colloquial Singaporean English</a>
-                    <a href="https://doi.org/10.32657/10356/171872">Lai, Y. (2023). Cultural metaphors in Singlish. NTU</a>
-                    <a href="https://en.wikipedia.org/wiki/List_of_Singapore_abbreviations">Singapore Abbreviations</a>
-                    <a href="https://lasiacodeswitcher.wordpress.com/">Make The Switch</a>
-                    <a href="https://blogs.ntu.edu.sg/blip/uniquely-singaporean-terms/">BLIP</a> 
-                    <a href="https://sgmagazine.com/city-living/news/underrated-singlish-expressions-are-incredibly-nuanced">SG Magazine</a>
-                    <a href="https://thesmartlocal.com/read/singaporean-slang/">TheSmartLocal</a>
-                    <a href="https://thesmartlocal.com/read/childhood-hand-games/">TheSmartLocal - Hand Games</a>
+                <div class="src-wrapper">
+                <% for(const [key, source] of Object.entries(sources)){ %>
+                    <div class="src-line">
+                        <p class="src-col src-id"><%= source.id %>.</p>
+
+                        <% if(source.type == "web" || source.type == "journal"){ %>
+                            <a class="src-col" href="<%= source.link %>"><%= source.name %></a>
+                        <% } else if(source.type == "book"){ %>
+                            <p class="src-col"><%= typeof source.year !='undefined' ? source.year + ", " : "" %>
+                                <%= source.author %>.&nbsp;
+                                <i><%= source.title %></i>,&nbsp;
+                                <%= typeof source.publisher !='undefined' ? source.publisher + ". " : "" %>
+                                <%= typeof source.isbn !='undefined' ? `ISBN: ${source.isbn}` : "" %></p>
+                        <% } %>
+                    </div>
+                <% } %>
                 </div>
                 <hr>
                 <p class="src-msg">~ if you believe a source has been missed out, please do let me know! ~</p>
-                <button class="home-button" onclick="location.href='./';">Home</button>
+                <button class="home-button" onclick="location.href='/';">Home</button>
             </div>
         </div>
     </body>

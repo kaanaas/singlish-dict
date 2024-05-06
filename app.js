@@ -20,8 +20,9 @@ app.get("/word_request", (req, res) => {
 });
 
 // sources page
+const sources = require("./public/sources/sources.json");
 app.get("/sources", (req, res) => {
-    res.render("./sources", {});
+    res.render("./sources", { sources: sources });
 });
 
 // 404

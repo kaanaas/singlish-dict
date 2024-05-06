@@ -18,6 +18,9 @@ const trie = require("./public/scripts/generate_trie");
 const details = require("./public/dict/details.json");
 const dict = require("./public/dict/dict.json");
 
+// Import source details
+const sources = require("./public/sources/sources.json");
+
 
 router.get("/", async (req, res) => {
     if (req.query.q) {
@@ -48,7 +51,8 @@ router.get("/", async (req, res) => {
                 mFRs: majorFormResult,
                 showStyle: "display:block;visibility:visible;",
                 chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"],
-                prefixResult: prefixResult
+                prefixResult: prefixResult,
+                sources: sources
             });
         }
 
@@ -73,7 +77,8 @@ router.get("/", async (req, res) => {
                 showStyle: "display:block;visibility:visible;",
                 alts: altsString,
                 chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"],
-                prefixResult: prefixResult
+                prefixResult: prefixResult,
+                sources: sources
             });
         }
 
@@ -81,7 +86,8 @@ router.get("/", async (req, res) => {
         else {
             res.render("./not_found", {
                 searchInput: searchInput,
-                prefixResult: prefixResult
+                prefixResult: prefixResult,
+                sources: sources
             });
         }
     }
