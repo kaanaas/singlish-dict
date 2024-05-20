@@ -627,6 +627,11 @@ input[type=text] {
     color: var(--grey-red);
 }
 
+.refs-leader {
+    margin-top: 2em;
+    color: var(--black);
+}
+
 .nyms-list {
     color: var(--grey);
     font-style: italic;
@@ -798,6 +803,10 @@ input[type=text] {
     margin-top: 0.5em;
     margin-bottom: 0.4em;
     border-color: var(--subh);
+}
+
+.pt-effect {
+    align-self: flex-start;
 }
 
 /* tooltip */
@@ -1013,4 +1022,21 @@ footer {
 
 .src-id {
     padding-right: 1em;
+}
+
+.ref-in-result-id {
+    color: var(--black);
+}
+
+.ref-in-result {
+    font-size: 0.75em;
+}
+
+.src-wrapper-in-result {
+    display: table;
+    margin: 0 0.25em;
+}
+
+.nolinkref {
+    color: var(--black);
 }

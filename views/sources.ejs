@@ -13,11 +13,12 @@
         <div class="content">
             <div class="def-box">
                 <h2 class="subpage-title">Sources</h2>
+                <p class="src-msg">This page lists general references for information, background context, and definitions.<br>Sources for specific terms are listed with the corresponding terms' definition pages.</p>
                 <hr>
                 <div class="src-wrapper">
                 <% for(const [key, source] of Object.entries(sources)){ %>
                     <div class="src-line">
-                        <p class="src-col src-id"><%= source.id %>.</p>
+                        <p class="src-col src-id">-</p>
 
                         <% if(source.type == "web" || source.type == "journal"){ %>
                             <a class="src-col" href="<%= source.link %>"><%= source.name %></a>

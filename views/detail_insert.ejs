@@ -24,7 +24,7 @@
     <body>
         <div class="content banner">
             <h1><a href="./" class="title">Details Insert</a></h1>
-            <p><%= definedLength %> / <%= dictLength %></p>
+            <p>&emsp;<%= definedLength %> / <%= dictLength %> (<%= (definedLength/dictLength*100).toFixed(2) %>%)</p>
         </div>
         <div class="content">
             <form action="./" method="get" autocomplete="off" class="detail-form" id="detailForm">
@@ -222,6 +222,25 @@
                     </div>
                 </div>
 
+                <div class="property sameRow" name="reference">
+                    <button name="rmRef" id="rmRef" type="button" class="add-btn">-</button>
+                    <button name="addRef" id="addRef" type="button" class="add-btn">+</button>
+                    <div class="option-container">
+                        <div name="referenceDiv" class="particle-div">
+                            <div class="origin-details" name="referenceDiv" style="margin-bottom:0.75em">
+                                <div>
+                                    <label for="refLink">Link:</label>
+                                    <input name="refLink">
+                                </div>
+                                <div>
+                                    <label for="refName">Name:</label>
+                                    <input name="refName">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <button class="submit-button" id="search-button" for="detailForm">Update Details</button>
             </form>
         </div>
@@ -233,7 +252,7 @@
         <script>
             // main
             const noDefDict = <%- JSON.stringify(noDefDict) %>;
-            var count = 4;  // increase this every time a multi word is added
+            var count = 7;  // increase this every time a multi word is added
             const randBtn = document.getElementById("random");
             random.addEventListener("click", () => {
                 // let randWord = noDefDict[Math.floor(Math.random() * noDefDict.length)]
@@ -443,6 +462,39 @@
                         else if (e.srcElement.innerHTML == "-") {
                             const allParticleDiv = document.getElementsByName("particle");
                             if (allParticleDiv.length > 1) {
+                                e.srcElement.parentElement.remove();
+                            }
+                        }
+                    }
+                    else if (e.srcElement.parentElement.attributes.name.value == "reference") {
+                        if (e.srcElement.innerHTML == "+") {
+                            e.srcElement.parentElement.insertAdjacentHTML(
+                                "afterend",
+                                `
+                                    <div class="property sameRow" name="reference">
+                                        <button name="rmRef" id="rmRef" type="button" class="add-btn">-</button>
+                                        <button name="addRef" id="addRef" type="button" class="add-btn">+</button>
+                                        <div class="option-container">
+                                            <div name="referenceDiv" class="particle-div">
+                                                <div class="origin-details" name="referenceDiv" style="margin-bottom:0.75em">
+                                                    <div>
+                                                        <label for="refLink">Link:</label>
+                                                        <input name="refLink">
+                                                    </div>
+                                                    <div>
+                                                        <label for="refName">Name:</label>
+                                                        <input name="refName">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                `
+                            )
+                        }
+                        else if (e.srcElement.innerHTML == "-") {
+                            const allRefDiv = document.getElementsByName("reference");
+                            if (allRefDiv.length > 1) {
                                 e.srcElement.parentElement.remove();
                             }
                         }

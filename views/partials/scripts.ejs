@@ -84,5 +84,19 @@
             });
         });
     };
+
+    const refLeaders = document.getElementsByName("refs-leader");
+    if(refLeaders){      
+        refLeaders.forEach((leader) => {
+            leader.addEventListener("click", () => {
+                if(leader.innerHTML != "references:"){
+                    leader.innerHTML = "references:";
+                }
+                else{
+                    leader.innerHTML = "who confirm?";
+                }
+            });
+        });
+    };
         
 </script>

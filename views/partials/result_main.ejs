@@ -157,7 +157,7 @@
                                             </div>
                                         </div>
                                         <% } %>
-                                    <% } else if(langName == "Singlish") { %>
+                                    <% } else if(langName.toLowerCase() == "singlish") { %>
                                         <h4><a href="./?q=<%= word.origin[i].etyRoman[j].toLowerCase() %>"><%= word.origin[i].etyRoman[j] %></a></h4>
                                     <% } else { %>
                                         <h4 style="margin: 0;"><%- formatDyno(word.origin[i].etyRoman[j].replace(/,/g, ", ")) %></h4>

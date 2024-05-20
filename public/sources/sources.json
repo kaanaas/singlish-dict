@@ -1,7 +1,7 @@
 {
     "sutian": {
         "type": "web",
-        "link": "sutian.moe.edu.tw",
+        "link": "https://sutian.moe.edu.tw",
         "name": "教育部臺灣閩南語常用詞辭典",
         "id": "1"
     },
@@ -65,18 +65,6 @@
         "name": "Singapore Infopedia (NLB)",
         "id": "8"
     },
-    "nlb amk": {
-        "type": "web",
-        "link": "https://www.nlb.gov.sg/main/",
-        "name": "Singapore Infopedia (NLB): Ang Mo Kio",
-        "id": "8a"
-    },
-    "nlb bandung": {
-        "type": "web",
-        "link": "https://web.archive.org/web/20170422080502/http://www.nlb.gov.sg/sure/bandung-in-bandung/",
-        "name": "Cai Yinghong, NLB. \"Bandung in Bandung?\"",
-        "id": "8b"
-    },
     "ylai": {
         "type": "journal",
         "link": "https://doi.org/10.32657/10356/171872",
@@ -89,18 +77,6 @@
         "name": "Baidu",
         "id": "10"
     },
-    "bd angkoli": {
-        "type": "web",
-        "link": "https://baike.baidu.com/item/%E7%BA%A2%E6%9D%89%E9%B1%BC/1353829",
-        "name": "Baidu: 红杉鱼",
-        "id": "10a"
-    },
-    "bd bkt": {
-        "type": "web",
-        "link": "https://baike.baidu.com/item/%E8%82%89%E9%AA%A8%E8%8C%B6/2536247",
-        "name": "Baidu: 肉骨茶",
-        "id": "10b"
-    },
     "mts": {
         "type": "web",
         "link": "https://lasiacodeswitcher.wordpress.com/",
@@ -110,7 +86,7 @@
     "blip": {
         "type": "web",
         "link": "https://blogs.ntu.edu.sg/blip/uniquely-singaporean-terms/",
-        "name": "BLIP",
+        "name": "NTU BLIP - Uniquely Singaporean terms?",
         "id": "12"
     },
     "sgmag": {
@@ -159,32 +135,10 @@
         "name": "My Singapore Food",
         "id": "17"
     },
-    "msf ab": {
+    "hotl3": {
         "type": "web",
-        "link": "https://mysingaporefood.com/recipe/art-buah-hainanese-kueh/",
-        "name": "My Singapore Food - Art Buah",
-        "id": "17a"
-    },
-    "msf al": {
-        "type": "web",
-        "link": "https://mysingaporefood.com/recipe/assam-laksa/",
-        "name": "My Singapore Food - Assam Laksa",
-        "id": "17b"
-    },
-    "cbtan": {
-        "type": "book",
-        "link": "",
-        "title": "Food and Foodways in Asia",
-        "author": "Tan Chee-Beng",
-        "publisher": "Routledge",
-        "year": "2007",
-        "isbn": "9780203947128",
+        "link": "http://hotl3.com/mud/singlish.html",
+        "name": "HOTL3 MUD - Singlish",
         "id": "18"
-    },
-    "sci bck": {
-        "type": "web",
-        "link": "https://web.archive.org/web/20141213155747/http://mag.sinchew-i.com/scgc/content.phtml?vol=20070826&sec=A75",
-        "name": "2007 August 26, 林金城. 滿煎糕vs曼煎粿, sinchew-i.com",
-        "id": "19"
     }
 }

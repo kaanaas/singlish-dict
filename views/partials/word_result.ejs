@@ -15,9 +15,9 @@
                 <% for (let j = 0; j < posDet.length; j++) { %>
                     <!-- check if examples are given -->
                     <li class="definition"><%- formatDyno(posDet[j].definition) %></li> 
-                    <% if(posDet[j].example.length != 0){ %>
+                    <% if(posDet[j].example && posDet[j].example.length != 0){ %>
                         <p class="word-example"><%- formatDyno(posDet[j].example) %></p>
-                        <% if (posDet[j].exampleSource.length > 0) { %>
+                        <% if (posDet[j].exampleSource && posDet[j].exampleSource.length > 0) { %>
                             <% if(posDet[j].exampleSource=="@comm" ){ %>
                             <p class="word-example-src">— Community contribution</p>
                             <% } else { %>
@@ -26,7 +26,7 @@
                         <% } %>  
                     <% } %>
                     <!-- syno/antonyms -->
-                    <% if(posDet[j].synonyms.length > 0 || posDet[j].antonyms.length > 0){ %>
+                    <% if((posDet[j].synonyms || posDet[j].antonyms) && (posDet[j].synonyms.length > 0 || posDet[j].antonyms.length > 0)){ %>
                     <div class="nyms-wrapper">
                     <% if(posDet[j].synonyms.length > 0){ %>
                         <div class="nyms-flex" id="synonyms-flex">
@@ -131,7 +131,34 @@
                         <a class="nyms-list" href=<%- `./cat/?c=${word.category[i].replace(/ /g,"%20")}` %>>
                             <%= word.category[i] %>
                         </a>
-                        <% } %>
+                    <% } %>
+                </div>
+            </div>
+        <% } %>
+    <% } %>
+
+    <!-- references -->
+    <% if(word.references){ %>
+        <% if(word.references.length> 0){ %>
+            <div class="details">
+                <h3 name="refs-leader" class="nyms-leader refs-leader">references:</h3>
+                <div class="nyms-flex">
+                <div class="src-wrapper-in-result">
+                    <% for(let i=0; i < word.references.length; i++){ %>
+                        <div class="src-line ref-in-result">
+                            <p class="src-col ref-in-result-id"><%= i+1 %>.&emsp;</p>
+                            <% if(word.references[i].link && word.references[i].link != ""){ %>
+                                <a class="src-col" href=<%= word.references[i].link %>>
+                                    <%= word.references[i].name %>
+                                </a>
+                            <% } else { %>
+                                <p class="src-col nolinkref">
+                                    <%= word.references[i].name %>
+                                </p>
+                            <% } %>
+                        </div>
+                    <% } %>
+                </div>
                 </div>
             </div>
         <% } %>
