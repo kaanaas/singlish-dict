@@ -7,3 +7,4 @@ nature
 locations
 terms of address
 games
+drinks

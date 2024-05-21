@@ -145,6 +145,14 @@
     "ah boy": [
         "ah boy"
     ],
+    "ah che": [
+        "ah che",
+        "ah chi",
+        "ah ji",
+        "ah jie",
+        "ah je",
+        "ah zeh"
+    ],
     "ah chek": [
         "ah chek",
         "ahchek",
@@ -982,6 +990,9 @@
         "balukoo",
         "baduku"
     ],
+    "buah keluak": [
+        "buah keluak"
+    ],
     "buah susu": [
         "buah susu"
     ],
@@ -1090,10 +1101,12 @@
     ],
     "butoh": [
         "butoh",
-        "buto"
+        "buto",
+        "butuh"
     ],
     "c": [
         "c",
+        "-c",
         "si"
     ],
     "cabut": [
@@ -1922,6 +1935,9 @@
         "ding dong",
         "ding-dong"
     ],
+    "dinobu": [
+        "dinobu"
+    ],
     "dinosaur": [
         "dinosaur"
     ],
@@ -2015,6 +2031,17 @@
     ],
     "eh": [
         "eh"
+    ],
+    "eh hiao": [
+        "eh hiao",
+        "ay hiao",
+        "e hiau",
+        "e hiao",
+        "eh hiau",
+        "ey hiao",
+        "ey hiau",
+        "eh heow",
+        "ey heow"
     ],
     "eh sai": [
         "eh sai",
@@ -3143,7 +3170,8 @@
         "kenz"
     ],
     "kepala butoh": [
-        "kepala butoh"
+        "kepala butoh",
+        "kepala butuh"
     ],
     "keropok": [
         "keropok"
@@ -6170,6 +6198,21 @@
         "te gu",
         "teh gu"
     ],
+    "ti ko": [
+        "ti ko",
+        "tiko",
+        "tico",
+        "teeko",
+        "tee ko"
+    ],
+    "ti ko pek": [
+        "ti ko pek",
+        "tee ko pek",
+        "tikopek",
+        "ticopek",
+        "teeko pek",
+        "tiko pek"
+    ],
     "tiao her": [
         "tiao her",
         "tiao he",
@@ -6188,18 +6231,6 @@
     "tikam-tikam": [
         "tikam-tikam",
         "tikam tikam"
-    ],
-    "tiko": [
-        "tico",
-        "tiko",
-        "teeko"
-    ],
-    "tikopek": [
-        "tikopek",
-        "ticopek",
-        "teeko pek",
-        "tiko pek",
-        "ti ko pek"
     ],
     "tingkat": [
         "tingkat"
@@ -6598,16 +6629,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "ah che": [
-        "ah che",
-        "ah chi",
-        "ah ji",
-        "ah jie",
-        "ah je",
-        "ah zeh"
-    ],
-    "dinobu": [
-        "dinobu"
     ]
 }

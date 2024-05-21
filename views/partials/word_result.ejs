@@ -26,7 +26,7 @@
                         <% } %>  
                     <% } %>
                     <!-- syno/antonyms -->
-                    <% if((posDet[j].synonyms || posDet[j].antonyms) && (posDet[j].synonyms.length > 0 || posDet[j].antonyms.length > 0)){ %>
+                    <% if((posDet[j].synonyms && posDet[j].synonyms.length > 0) || (posDet[j].antonyms && posDet[j].antonyms.length > 0)){ %>
                     <div class="nyms-wrapper">
                     <% if(posDet[j].synonyms && posDet[j].synonyms.length > 0){ %>
                         <div class="nyms-flex" id="synonyms-flex">

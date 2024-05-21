@@ -49,7 +49,7 @@
     },
     "jlee": {
         "type": "web",
-        "link": "http://www.mysmu.edu/faculty/jacklee/singlish_A.htm",
+        "link": "http://www.mysmu.edu/faculty/jacklee/Information/singlish_menu.htm",
         "name": "A Dictionary of Singlish and Singapore English",
         "id": "6"
     },
@@ -65,11 +65,17 @@
         "name": "Singapore Infopedia (NLB)",
         "id": "8"
     },
+    "nparks": {
+        "type": "web",
+        "link": "https://www.nparks.gov.sg/florafaunaweb/",
+        "name": "NParks Singapore - Flora & Fauna Web",
+        "id": "9"
+    },
     "ylai": {
         "type": "journal",
         "link": "https://doi.org/10.32657/10356/171872",
         "name": "Lai, Y. (2023). Cultural metaphors in Singlish. NTU",
-        "id": "9"
+        "id": "19"
     },
     "bd": {
         "type": "web",

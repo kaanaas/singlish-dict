@@ -1009,11 +1009,12 @@
             "adjective": [
                 {
                     "definition": "blustering, arrogant, and pompous in one's behaviour and bearing.",
-                    "example": "Wei Kiat admits that his grasp of English grammar is poor and his vocabulary, weak. He does not speak “high class English” to his friends and family. Says Wei Kiat, “Wait people think I very action.”",
+                    "example": "Wei Kiat admits that his grasp of English grammar is poor and his vocabulary, weak. He does not speak \"high class English\" to his friends and family. Says Wei Kiat, \"Wait people think I very action.\"",
                     "exampleSource": "2006 July 30, Nur Amira Abdul Karim (quoting Ang Wei Kiat). The Sunday Times, p.35",
                     "synonyms": [
                         "yaya",
-                        "aksi"
+                        "aksi",
+                        "buay hiao bai"
                     ],
                     "antonyms": false
                 }
@@ -6728,7 +6729,8 @@
     "ayam buah keluak": {
         "word": "ayam buah keluak",
         "related": [
-            "ayam"
+            "ayam",
+            "buah keluak"
         ],
         "category": [
             "cuisine"
@@ -6768,7 +6770,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "a @{Peranakan} dish consisting of chicken (@{ayam}) stewed with buah keluak in a gravy of pounded spices including tamarind (@{assam}), candlenuts, turmeric, chilli, lemongrass, galangal, and belacan. In some recipes, the flesh of the buah keluak nut is be mixed with ground meat and stuffed back in before stewing, while others let the flesh be. In both cases, nevertheless, the dish is served with the flesh still in the nut's shell as part of the presentation. It takes a lot of influence from Indonesian cuisine.<br>\r\nThe dish is infamous, like many other Peranakan dishes, for its incredibly long preparation time; for example, the buah keluak has to be boiled, buried, and soaked for up to forty days beforehand to draw out the toxic hydrogen cyanide naturally present in the raw nuts. This process results in the nuts turning the dark black colour that they familiarly appear with in the dish.",
+                    "definition": "a @{Peranakan} dish consisting of chicken (@{ayam}) stewed with @{buah keluak} in a gravy of pounded spices including tamarind (@{assam}), candlenuts, turmeric, chilli, lemongrass, galangal, and belacan. In some recipes, the flesh of the buah keluak nut is be mixed with ground meat and stuffed back in before stewing, while others let the flesh be. In both cases, nevertheless, the dish is served with the flesh still in the nut's shell as part of the presentation. It takes a lot of influence from Indonesian cuisine.<br>\r\nThe dish is infamous, like many other Peranakan dishes, for its incredibly long preparation time; for example, the buah keluak has to be boiled, buried, and soaked for up to forty days beforehand to draw out the toxic hydrogen cyanide naturally present in the raw nuts. This process results in the nuts turning the dark black colour that they familiarly appear with in the dish.",
                     "example": "",
                     "exampleSource": "",
                     "synonyms": false,
@@ -7802,7 +7804,8 @@
     "bandung": {
         "word": "bandung",
         "category": [
-            "cuisine"
+            "cuisine",
+            "drinks"
         ],
         "etyNotes": "While often falsely attributed to the city of Bandung in West Java, Indonesia, the drink actually has no connection to the place.^{1} Instead, it comes from the Malay word <i>bandung</i> meaning two things that come as a pair (e.g. in <i>mee bandung Muar</i>, a Johorean dish), referring to the rose syrup and milk which are mixed together in the drink.",
         "origin": [
@@ -11371,7 +11374,7 @@
                 "simplified": "无认厝",
                 "roman": "bô-līn-chhù",
                 "romanization": "poj",
-                "lit": "not profitable; not a good deal",
+                "lit": "in a state of mental confusion; frightened; panicked",
                 "etyPath": [
                     "hokkien",
                     "hokkien",
@@ -11413,7 +11416,8 @@
                 {
                     "definition": "in a state of mental confusion; frightened; panicked",
                     "synonyms": [
-                        "gabra"
+                        "gabra",
+                        "buay lin chu"
                     ],
                     "antonyms": false
                 }
@@ -11772,7 +11776,7 @@
             "sui",
             "yan tao"
         ],
-        "usage": "Used to be considered slightly vulgar, due to conflation with Hokkien 𪁎 <i>chhio</i> (<i>in heat; horny</i>) - see <i>chiobu</i>. However, in modern usage it is almost always used as a compliment without a negative or vulgar connotation.",
+        "usage": "Used to be considered slightly vulgar, due to conflation with Hokkien 𪁎, <i>chhio</i> (\"in heat; horny; to rut\") - see <i>chiobu</i>. However, in modern usage it is almost always used as a compliment without a negative or vulgar connotation.",
         "origin": [
             {
                 "lang": "hokkien",
@@ -12940,6 +12944,8 @@
         "word": "ku ku jiao",
         "related": [
             "konek",
+            "kotek",
+            "butoh",
             "lan",
             "lan jiao"
         ],
@@ -12989,7 +12995,8 @@
                     "exampleSource": "",
                     "synonyms": [
                         "bird bird",
-                        "ku ku bird"
+                        "ku ku bird",
+                        "lan jiao"
                     ],
                     "antonyms": false
                 }
@@ -13672,7 +13679,7 @@
             "noun": [
                 {
                     "definition": "night market",
-                    "example": "- Bro tomorrow night want to go pasar malam buy Ramly?<br>- Cannot, I so gemuk oredi la...",
+                    "example": "- Bro tomorrow night want to go pasar malam buy Ramly?<br>- Cannot, I so @{gemuk} oredi la...",
                     "exampleSource": "@comm",
                     "synonyms": false,
                     "antonyms": false
@@ -13834,7 +13841,8 @@
                     "exampleSource": "",
                     "synonyms": [
                         "gemuk",
-                        "goondu"
+                        "goondu",
+                        "bulat"
                     ],
                     "antonyms": false
                 }
@@ -14195,22 +14203,31 @@
                 "romanization": "",
                 "lit": "unwavering; firm; resolute",
                 "etyPath": [
+                    "hokkien",
                     "hokkien"
                 ],
+                "etyType": [
+                    "&"
+                ],
                 "etyScript": [
-                    "势; 在"
+                    "势",
+                    "在"
                 ],
                 "etyTrad": [
-                    "勢; 在"
+                    "勢",
+                    "在"
                 ],
                 "etyRoman": [
-                    "sè; chai"
+                    "sè",
+                    "chai"
                 ],
                 "etyScheme": [
+                    "poj",
                     "poj"
                 ],
                 "etyLit": [
-                    "power; poise; steady"
+                    "power; poise",
+                    "steady; solid, confident, and collected under pressure"
                 ]
             }
         ],
@@ -15486,5 +15503,1144 @@
                 }
             ]
         }
+    },
+    "buah duku": {
+        "word": "buah duku",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buah",
+                "romanization": "",
+                "lit": "fruit"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "duku",
+                "romanization": "",
+                "lit": "edible fruit of the Lansium domesticum tree"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible fruit of the Lansium domesticum tree, which are round and between 2.5 - 5.0 cm in diameter.^{1} The fruit's flesh is segmented into large segments the length of the fruit itself. The flesh has a mild flavour and is translucent-white in colour. It is a sweeter variety of the @{langsat}."
+                },
+                {
+                    "definition": "a large swelling or bruise, typically caused by an impact injury, such as on the head. So named because large ones often vaguely resemble a buah duku fruit."
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "usage": "When used in the sense of the actual fruit, almost always spelled \"buah duku\"; when used in the sense of the swelling or bruise, may be spelled \"baluku\" and its variants.",
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2994",
+                "name": "NParks Singapore - Flora and Fauna Web - Lansium domesticum Corrêa"
+            }
+        ]
+    },
+    "buah susu": {
+        "word": "buah susu",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buah",
+                "romanization": "",
+                "lit": "fruit"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "duku",
+                "romanization": "",
+                "lit": "edible fruit of the Passiflora laurifolia L. plant"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible fruit of the Passiflora laurifolia L. plant, native to South America.^{1} It is a milder, less tart variety of passionfruit, and is also known by water lemon, yellow granadilla, and various other names in other regions."
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/1/4/1467",
+                "name": "NParks Singapore - Flora and Fauna Web - Passiflora laurifolia L."
+            }
+        ]
+    },
+    "buah keluak": {
+        "word": "buah keluak",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buah",
+                "romanization": "",
+                "lit": "fruit; any small or roundish object"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "keluak",
+                "romanization": "",
+                "lit": "edible* seeds of the Pangium edule tree"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible* seeds of the Pangium edule tree, also known as kepayang in Malay, native to Southeast Asia.^{1} It is famously used as one of the main ingredients in traditional Peranakan dishes like @{ayam buah keluak}, as well as more modern creations such as buah keluak fried rice.<br>*Buah keluak has to be boiled, buried, and soaked for up to forty days before culinary use, to draw out the toxic hydrogen cyanide naturally present in the raw nuts."
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3050",
+                "name": "NParks Singapore - Flora and Fauna Web - Pangium edule"
+            }
+        ]
+    },
+    "buak gu yu": {
+        "word": "buak gu yu",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "抹牛油",
+                "simplified": "抹牛油",
+                "roman": "boah/boa̍h gû-iû",
+                "romanization": "poj",
+                "lit": "(fig.) criticize; scold, (lit.) spread butter",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "抹",
+                    "牛油"
+                ],
+                "etyTrad": [
+                    "抹",
+                    "牛油"
+                ],
+                "etyRoman": [
+                    "boah/boa̍h",
+                    "gû-iû"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "smear; spread",
+                    "butter; beef tallow"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(euphemistic, metaphor) to criticize; to scold",
+                    "example": "After badly messing up the accounts for the third time, Andy @{tioh} buak gu yu by his boss.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "kan"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "Unknown how it became a metaphor for criticism.",
+        "category": [
+            "sayings"
+        ]
+    },
+    "buat bodoh": {
+        "word": "buat bodoh",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buat",
+                "romanization": "",
+                "lit": "do; make"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bodoh",
+                "romanization": "",
+                "lit": "stupid; idiot; fool"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "play dumb; ignore; feign ignorance",
+                    "synonyms": [
+                        "act blur"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "bodoh",
+            "act blur live longer"
+        ]
+    },
+    "buay": {
+        "word": "buay",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐/袂",
+                "simplified": "𫧃/袂",
+                "roman": "bōe/bē",
+                "romanization": "poj",
+                "lit": "cannot; not; won't",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "会"
+                ],
+                "etyTrad": [
+                    "無",
+                    "會"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "ē"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; not",
+                    "can; able to; will"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "cannot; unable to"
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "not; used to negate the meaning of something",
+                    "example": "@{steady} → @{buay steady}"
+                }
+            ]
+        },
+        "related": [
+            "act cute buay cute",
+            "ai si buay si"
+        ],
+        "etyNotes": "#{likely} Likely a contraction of 无会/無會, <i>bô-ē</i> in Hokkien.<br>\r\n袂 is a common alternative character, and has wider Unicode support (since the characters 𫧃/𣍐 do not exist in Mandarin)."
+    },
+    "buay hiao": {
+        "word": "buay hiao",
+        "etyNotes": "袂 is a common alternative character for \"buay\", and has wider Unicode support (since the characters 𫧃/𣍐 do not exist in Mandarin).",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐曉",
+                "simplified": "𫧃晓",
+                "roman": "bōe-hiáu / bē-hiáu",
+                "romanization": "poj",
+                "lit": "not know how to; unable to",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃",
+                    "晓"
+                ],
+                "etyTrad": [
+                    "𣍐",
+                    "曉"
+                ],
+                "etyRoman": [
+                    "bōe/bē",
+                    "hiáu"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "cannot; unable to",
+                    "understand; get; know"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to not know (how to); to be unable to (for lack of knowledge or having learned to do so)",
+                    "example": "Since many foreigners buay hiao proper Singlish, it's easy to pick them out when they try to @{chinchai} @{whack} one awkward 'lah' or 'leh' in their sentences.",
+                    "exampleSource": "@comm",
+                    "antonyms": [
+                        "eh hiao"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buay",
+            "buay sai"
+        ]
+    },
+    "buay hiao bai": {
+        "word": "buay hiao bai",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐曉䆀",
+                "simplified": "𫧃晓䆀",
+                "roman": "bōe-hiáu-bái",
+                "romanization": "poj",
+                "lit": "arrogant; shameless",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃晓",
+                    "䆀"
+                ],
+                "etyTrad": [
+                    "𣍐曉",
+                    "䆀"
+                ],
+                "etyRoman": [
+                    "bōe-hiáu",
+                    "bái"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "not know how to; unable to",
+                    "bad; disappointing; difficult"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "shameless; overwhelmingly arrogant; inclined to show off",
+                    "example": "Not all Singapore influencers are considered buay hiao bai, but aspiring ones without anything to show for it might be. Social media comments and instant messaging have made this even more apparent these days.",
+                    "exampleSource": "2024 March 11, Athirah Syamimi. 4 Underrated Singlish Expressions to Use Today. https://www.bestinsingapore.co/underrated-singlish-expressions/",
+                    "synonyms": [
+                        "yaya papaya",
+                        "action",
+                        "yaya",
+                        "aksi"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "(lit.) to not know disappointment or difficulty; not understand \"bad\""
+    },
+    "buay kan": {
+        "word": "buay kan",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐幹",
+                "simplified": "𫧃干",
+                "roman": "bōe-kàn",
+                "romanization": "poj",
+                "lit": "incompetent; useless",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃",
+                    "干"
+                ],
+                "etyTrad": [
+                    "𣍐",
+                    "幹"
+                ],
+                "etyRoman": [
+                    "bōe",
+                    "kàn"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "cannot; unable to",
+                    "work; do; manage to do"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "incompetent; useless",
+                    "example": "I don't believe that someone can be this buay kan... he has to be acting @{blur}.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "act blur",
+            "buat bodoh"
+        ]
+    },
+    "buay lin chu": {
+        "word": "buay lin chu",
+        "related": [
+            "buay",
+            "gabra like zebra"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "(lit.) unable to recognize home/house",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐認厝",
+                "simplified": "𫧃认厝",
+                "roman": "bōe-līn-chhù",
+                "romanization": "poj",
+                "lit": "in a state of mental confusion; frightened; panicked",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃",
+                    "認",
+                    "厝"
+                ],
+                "etyTrad": [
+                    "𣍐",
+                    "认",
+                    "厝"
+                ],
+                "etyRoman": [
+                    "bōe",
+                    "līn",
+                    "chhù"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "cannot; unable to",
+                    "recognize; distinguish",
+                    "house; building; home"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "in a state of mental confusion; frightened; panicked",
+                    "synonyms": [
+                        "gabra",
+                        "bo lin chu"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/10812/",
+                "name": "教育部臺灣閩南語常用詞辭典 - 認"
+            },
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/5790/",
+                "name": "教育部臺灣閩南語常用詞辭典 - 厝"
+            }
+        ]
+    },
+    "buay pai": {
+        "word": "buay pai",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐歹",
+                "simplified": "𫧃歹",
+                "roman": "bōe-pháiⁿ",
+                "romanization": "poj",
+                "lit": "not bad; pretty good",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃",
+                    "歹"
+                ],
+                "etyTrad": [
+                    "𣍐",
+                    "歹"
+                ],
+                "etyRoman": [
+                    "bōe",
+                    "pháiⁿ"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "not; cannot",
+                    "bad; evil"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(litotes) not bad; pretty good; decent",
+                    "example": "That movie buay pai, quite exciting sia.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "buay",
+            "paiseh"
+        ]
+    },
+    "buay sai": {
+        "word": "buay sai",
+        "etyNotes": "袂 is a common alternative character for \"buay\", and has wider Unicode support (since the characters 𫧃/𣍐 do not exist in Mandarin).",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐使",
+                "simplified": "𫧃使",
+                "roman": "bōe-sái / bē-sái",
+                "romanization": "poj",
+                "lit": "cannot; may not; not allowed to"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "cannot; may not; not allowed to",
+                    "example": "- Can find anyone to cover my shift next weekend?<br>- Buay sai, it's the CNY long weekend, no one will do it lah.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "buay"
+                    ],
+                    "antonyms": [
+                        "eh sai"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buay",
+            "buay hiao"
+        ]
+    },
+    "buay song": {
+        "word": "buay song",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐爽",
+                "simplified": "𫧃爽",
+                "roman": "bōe-sóng",
+                "romanization": "poj",
+                "lit": "unhappy; dissatisfied; unwell",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃",
+                    "爽"
+                ],
+                "etyTrad": [
+                    "𣍐",
+                    "爽"
+                ],
+                "etyRoman": [
+                    "bōe",
+                    "sóng"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "not; cannot",
+                    "pleased; happy; satisfied; feel good"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "unhappy; dissatisfied",
+                    "antonyms": [
+                        "song"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(rude) used to issue a challenge; 'not happy?'; 'got a problem?'",
+                    "example": "Not happy? Buay song, ah? Complain, lor.",
+                    "exampleSource": "2000 December 6, Koh Boon Pin. The Straits Times. H8",
+                    "synonyms": [
+                        "not happy"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buay",
+            "hentam",
+            "khoa si mi"
+        ]
+    },
+    "buay tahan": {
+        "word": "buay tahan",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐",
+                "simplified": "𫧃",
+                "roman": "bōe",
+                "romanization": "poj",
+                "lit": "not; cannot; unable to"
+            },
+            {
+                "lang": "malay",
+                "traditional": false,
+                "simplified": false,
+                "roman": "tahan",
+                "romanization": false,
+                "lit": "bear; endure; resist"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(transitive, of something or someone) to be unable to withstand or endure; to find intolerable or unbearable",
+                    "example": "I really buay tahan the heat nowadays... sometimes even @{aircon} is not enough sia.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "(intransitive) to be unable to withstand or endure",
+                    "example": "Faster find toilet - I buay tahan already!",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "to be unable to resist; to find irresistible",
+                    "example": "That @{cendol} looks so good; I buay tahan, we have to get one.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "tahan"
+        ]
+    },
+    "buay zai": {
+        "word": "buay zai",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐在",
+                "simplified": "𫧃在",
+                "roman": "bōe-chāi",
+                "romanization": "poj",
+                "lit": "panicky; frantic; not calm or cool-headed",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃",
+                    "在"
+                ],
+                "etyTrad": [
+                    "𣍐",
+                    "在"
+                ],
+                "etyRoman": [
+                    "bōe",
+                    "chāi"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "not; cannot",
+                    "steady; solid, confident, and collected under pressure"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "panicky; frantic; not calm or cool-headed",
+                    "antonyms": [
+                        "steady",
+                        "zai"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buay steady"
+        ]
+    },
+    "buaya": {
+        "word": "buaya",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buaya",
+                "romanization": "",
+                "lit": "(lit.) crocodile,<br>(fig.) playboy; womanizer",
+                "etyPath": [
+                    "malay",
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "buaya darat",
+                    "buaya",
+                    "darat"
+                ],
+                "etyLit": [
+                    "(lit.) land crocodile;<br>(fig.) playboy; womanizer; bad guy",
+                    "crocodile",
+                    "land; ground"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "crocodile"
+                },
+                {
+                    "definition": "(metaphor) womanizer; playboy"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(of a man) flirt; skirt-chase; womanize"
+                }
+            ]
+        },
+        "related": [
+            "pai kia",
+            "ti ko",
+            "ti ko pek"
+        ],
+        "category": [
+            "nature"
+        ],
+        "etyNotes": "Sense of \"playboy; womanizer\" is from a clipping of the phrase \"buaya darat\"."
+    },
+    "bubur": {
+        "word": "bubur",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bubur",
+                "romanization": "",
+                "lit": "porridge; congee"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "porridge; congee"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "bubur cha cha": {
+        "word": "bubur cha cha",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bubur",
+                "romanization": "",
+                "lit": "porridge; congee"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "#{poss} cacah",
+                "romanization": "",
+                "lit": "chop into bits"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweet dessert soup originating in Malaysian and Peranakan cuisine, consisting of sago, coconut milk, and pandan, with cubes of a starchy vegetable such as sweet potato, yam, taro, or banana. Some variations may include additional ingredients such as gula melaka, tapioca jelly, black-eyed peas, or grated coconut. It may be served hot or cold, and was traditionally eaten by Peranakans to celebrate @{Chap Go Mei}.^{1}^{2}"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "While the origins of <i>bubur</i> are uncontroversial, the actual origin of <i>cha cha</i> is not certain.\r\n<br><br>\r\n#{poss} It could very likely be from the Malay term <i>cacah</i>,^{jlee} meaning to chop into bits, referring to how the porridge includes starchy vegetables which are cubed into small pieces before cooking.\r\n<br><br>\r\n#{dubious} Another theory is that cha cha was a Peranakan alteration of the Hokkien term 济/濟, chōe/chē (\"many; plenty\", reduplicated), hence representing abundance and prosperity.^{1}^{2} It could also be that the dish's popularity at festive celebrations like Chap Go Mei was simply boosted due to this fortunate coincidence.\r\n<br><br>\r\n#{dubious} The name may also have come from a similar root as the Macanese dessert 喳咋, zaa1 zaa2^{2}, which is a similar sweet dessert soup which originated simply as beans cooked in water with sugar, but later evolved to also include coconut milk, taro, and sago (similarly to bubur cha cha). #{dubious} <i> Zaa1 zaa2</i> is purported to be a phonetic translation of some Portuguese word for \"grains\", or could also be from 杂杂/雜雜, zaap6 zaap6 (\"mixed; assorted\"),^{3} describing the miscellaneous, multicoloured mixture of beans used to cook the dish.",
+        "references": [
+            {
+                "link": "https://www.curiouscuisiniere.com/bubur-cha-cha-coconut-milk-dessert/#:~:text=In%20Malay%2C%20%E2%80%9Cbubur%E2%80%9D%20means,%E2%80%9D%20which%20means%20%E2%80%9Cprosperity%E2%80%9D.",
+                "name": "2019 September 9, Michelle. Curious Cuisinere - Bubur Cha Cha (Malaysian Coconut Milk Dessert)"
+            },
+            {
+                "link": "https://www.reddit.com/r/asianeats/comments/poygvl/bubur_cha_cha_a_traditional_malaysian_dessert/",
+                "name": "2021 September 15, foodsamaritan. r/asianeats,  \"Bubur Cha Cha, a traditional Malaysian dessert with a quirky name and colourful ingredients\""
+            },
+            {
+                "link": "https://zh.wikipedia.org/wiki/%E5%96%B3%E5%92%8B?oldformat=true",
+                "name": "Wikipedia - 喳咋"
+            }
+        ]
+    },
+    "bubur pulut hitam": {
+        "word": "bubur pulut hitam",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bubur",
+                "romanization": "",
+                "lit": "porridge; congee"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pulut",
+                "romanization": "",
+                "lit": "glutinous rice"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "hitam",
+                "romanization": "",
+                "lit": "black"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweet dessert, originating in Indonesian cuisine, consisting of a sticky porridge of black glutinous rice with coconut milk and either @{gula melaka} or cane sugar. Additional ingredients, such as @{green bean}s, pandan, and salt may also be included.^{1}"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Also known as <i>bubur ketan hitam</i> in many parts of Indonesia, where \"ketan\" is a synonym for glutinous rice.",
+        "references": [
+            {
+                "link": "https://www.singaporeanmalaysianrecipes.com/bubur-pulut-hitam/",
+                "name": "2022 April 20, Azlin Bloor. Singaporean and Malaysian Recipes - Bubur Pulut Hitam (Black Glutinous Rice Pudding)"
+            }
+        ]
+    },
+    "bulat": {
+        "word": "bulat",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bulat",
+                "romanization": "",
+                "lit": "round; spherical"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "fat; obese",
+                    "example": "You need to eat healthier man. Bulat already.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "pui",
+                        "goondu",
+                        "gemuk",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "ah pui",
+            "bbfa"
+        ]
+    },
+    "bungalow": {
+        "word": "bungalow",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bungalow",
+                "romanization": "",
+                "lit": "a large, detached one-storey house",
+                "etyPath": [
+                    "hindi"
+                ],
+                "etyScript": [
+                    "बंगला"
+                ],
+                "etyRoman": [
+                    "baṅglā"
+                ],
+                "etyLit": [
+                    "Bengali"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a large, detached house (with any number of storeys).",
+                    "example": "When all my aunties came over to Singapore to visit, we booked a big bungalow at Changi for them to spend a few nights relaxing and catching up in.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "usage": "Unlike the use of the term elsewhere, which specifically refers to a style of one-storey house, the Singaporean use refers to a large, detached house with any number of storeys."
+    },
+    "bungkus": {
+        "word": "bungkus",
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bungkus",
+                "romanization": "",
+                "lit": "(of food) pack; wrap, wrapper"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(of food) to take-away; to order to go",
+                    "synonyms": [
+                        "ta pau"
+                    ],
+                    "antonyms": [
+                        "makan"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of food) to go; packed for take-away",
+                    "example": "Auntie, one maggi goreng bungkus, tambah egg please.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ta pau"
+                    ],
+                    "antonyms": [
+                        "makan"
+                    ]
+                }
+            ]
+        },
+        "usage": "Malay equivalent of @{ta pau}, used for example at Malay/Muslim stalls when ordering food to go (though <i>tapau</i> has also entered Malay as a loanword from Cantonese)."
+    },
+    "butoh": {
+        "word": "butoh",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "butuh",
+                "romanization": "",
+                "lit": "(vulgar) penis; (general insult)"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar) penis",
+                    "synonyms": [
+                        "konek",
+                        "kotek",
+                        "lan jiao",
+                        "kuku bird"
+                    ]
+                },
+                {
+                    "definition": "(vulgar, pejorative) general term of insult or abuse",
+                    "example": "Butoh lah kau. @{Go fuck spider}!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "vulgar"
+        ],
+        "usage": "While \"butuh\"/\"membutuh\" just means \"to need\" in Indonesian, it is quite a bit ruder in Malay - so if you want your friends to come and help with something, don't tell them \"butuh kau\"."
+    },
+    "c": {
+        "word": "c",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "Carnation",
+                "romanization": "",
+                "lit": "brand name of Carnation evaporated milk",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "middle french",
+                    "italian",
+                    "late latin"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "etyRoman": [
+                    "Carnation",
+                    "carnation",
+                    "carnation",
+                    "#{poss} carnagione",
+                    "carnātiōnem"
+                ],
+                "etyLit": [
+                    "brand name of Carnation cigars (or image of carnation on cigar box)",
+                    "flowers of the Dianthus genus and its hybrids",
+                    "skin- or flesh-coloured",
+                    "skin- or flesh-coloured",
+                    "fleshiness"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) with evaporated milk.",
+                    "example": "Uncle, one kopi C siew dai and one teh C peng please.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "abbreviations",
+            "cuisine",
+            "drinks"
+        ],
+        "usage": "C has ordinal priority 1 in drink description, meaning it always comes as the first adjective after the drink base itself.",
+        "etyNotes": "Initial of \"Carnation\", the brand of evaporated milk which is and has historically been the most commonly used in drink stalls across Singapore. The brand name was inspired by either a cigar brand name, or the image of carnation flowers on a cigar box.^{1} C does not stand for \"condensed (milk)\", as is sometimes mistakenly believed, which is just the default milk used in drinks like plain kopi and teh.",
+        "references": [
+            {
+                "link": "https://www.historylink.org/File/1733",
+                "name": "1999 November 10. HistoryLink. Biography of Stuart, Elbridge A. (1856-1944)"
+            }
+        ]
     }
 }

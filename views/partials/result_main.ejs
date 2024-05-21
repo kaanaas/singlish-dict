@@ -50,7 +50,7 @@
                         <% } else if(langName.toLowerCase() == "singlish") { %>
                             <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
                         <% } else { %>
-                            <h4><%- formatDyno(word.origin[i].roman.toLowerCase()) %></h4>
+                            <h4><%- formatDyno(word.origin[i].roman) %></h4>
                         <% } %>
                     </div>
                 <% } %>
