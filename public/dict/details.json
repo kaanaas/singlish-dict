@@ -18,7 +18,7 @@
                 "simplified": "",
                 "roman": "1206",
                 "romanization": "",
-                "lit": "numerals",
+                "lit": "(numerals)",
                 "etyPath": false,
                 "etyScript": false,
                 "etyTrad": false,
@@ -58,7 +58,7 @@
                 "simplified": "",
                 "roman": "1206",
                 "romanization": "",
-                "lit": "numerals 1, 2, 0, 6",
+                "lit": "(numerals)",
                 "etyPath": false,
                 "etyScript": false,
                 "etyTrad": false,
@@ -98,13 +98,7 @@
                 "simplified": "",
                 "roman": "1211",
                 "romanization": "",
-                "lit": "numerals",
-                "etyPath": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "(numerals)"
             }
         ],
         "meanings": {
@@ -5321,7 +5315,8 @@
         "related": [
             "anyhow",
             "just whack",
-            "whack"
+            "whack",
+            "chinchai"
         ],
         "category": [
             "sayings"
@@ -5359,6 +5354,9 @@
                     "english",
                     "hokkien"
                 ],
+                "etyType": [
+                    "c"
+                ],
                 "etyScript": [
                     "",
                     "拍"
@@ -5376,7 +5374,7 @@
                     "poj"
                 ],
                 "etyLit": [
-                    "whack",
+                    "strike; hit; beat",
                     "(lit.) hit; (generally) do or perform an action; used to verbify a noun"
                 ]
             }
@@ -5388,8 +5386,8 @@
                     "example": "Instead of following the recipe, she decided to just anyhow whack and see what happened.",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "whack",
-                        "chinchai"
+                        "luan hut",
+                        "just whack"
                     ],
                     "antonyms": false
                 }
@@ -10273,7 +10271,8 @@
     "bo chup": {
         "word": "bo chup",
         "related": [
-            "bo"
+            "bo",
+            "no eye see"
         ],
         "origin": [
             {
@@ -10593,7 +10592,8 @@
     "bo hiu": {
         "word": "bo hiu",
         "related": [
-            "bo"
+            "bo",
+            "no eye see"
         ],
         "category": [
             "vulgar"
@@ -10967,6 +10967,336 @@
             ]
         }
     },
+    "bo seh": {
+        "word": "bo seh",
+        "related": [
+            "bo",
+            "seh"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "無勢",
+                "simplified": "无势",
+                "roman": "bô-sè",
+                "romanization": "poj",
+                "lit": "lacking power, poise, or authority; weak",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "势"
+                ],
+                "etyTrad": [
+                    "無",
+                    "勢"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "sè"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; not have",
+                    "power; authority; poise"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "weak; lacking power, poise, or authority",
+                    "example": "Bo seh one.... Sg is screwed",
+                    "exampleSource": "2024 May 15, Insatiable_creat. HardwareZone Forums, '[LIVE] Handover: Lawrence Wong's swearing-in as Singapore's new Prime Minister'. https://forums.hardwarezone.com.sg/threads/live-handover-lawrence-wongs-swearing-in-as-singapores-new-prime-minister.7029298/page-22"
+                },
+                {
+                    "definition": "not @{steady}; not reliable; incapable",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "buay steady"
+                    ]
+                }
+            ]
+        }
+    },
+    "bo sui": {
+        "word": "bo sui",
+        "related": [
+            "bo",
+            "sui",
+            "bbfa"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "無媠",
+                "simplified": "无媠",
+                "roman": "bô-súi",
+                "romanization": "poj",
+                "lit": "not pretty, biased",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "媠"
+                ],
+                "etyTrad": [
+                    "無",
+                    "媠"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "súi"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; not",
+                    "beautiful; good-looking"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(pejorative) not pretty; ugly",
+                    "example": "Oh please i have enough experience to tell u that sometimes the bo swee ones are even more @{guailan} than the swee ones based on my past relationships.... i had a @{dinobu} ex before who is ultra princess vs a slim tall ex who dont mind walking taking public transport eat at hawker...",
+                    "exampleSource": "2022 June 24, Truthz. HardwareZone Forums, 'Why would guys settle for a bo swee charbor??'. https://forums.hardwarezone.com.sg/threads/why-would-guys-settle-for-a-bo-swee-charbor.6769419/page-3",
+                    "synonyms": [
+                        "cui"
+                    ],
+                    "antonyms": [
+                        "sui",
+                        "chio"
+                    ]
+                },
+                {
+                    "definition": "poor quality; substandard; undesired",
+                    "synonyms": [
+                        "bo lang ai"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "biased"
+                }
+            ]
+        }
+    },
+    "bo ta bo lam pa": {
+        "word": "bo ta bo lam pa",
+        "related": [
+            "bo",
+            "lam pa"
+        ],
+        "category": [
+            "sayings",
+            "vulgar"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "無焦無𡳞脬",
+                "simplified": "无焦无𡳞脬",
+                "roman": "bô-ta-bô-lān-pha",
+                "romanization": "poj",
+                "lit": "(vulgar) (lit.) if it (your drink) isn't dry, (you have) no testicles,<br>(fig.) if you don't drink bottoms up, you have no balls",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "焦",
+                    "𡳞脬"
+                ],
+                "etyTrad": [
+                    "無",
+                    "焦",
+                    "𡳞脬"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "ta",
+                    "lān-pha"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; not; don't",
+                    "dry; (intj.) cheers!; bottoms up!",
+                    "testicles; (fig.) courage; guts; balls"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(vulgar, drinking toast) bottoms up!; if you don't drink every last drop, you have no balls"
+                }
+            ]
+        }
+    },
+    "bo tao bo beh": {
+        "word": "bo tao bo beh",
+        "related": [
+            "bo",
+            "gabra",
+            "bo lin chu"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "無頭無尾",
+                "simplified": "无头无尾",
+                "roman": "bô-thâu-bô-bé",
+                "romanization": "poj",
+                "lit": "(lit.) no head and no tail, (fig.) unclear; incomprehensible; nonsensical; chaotic; all over the place",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "头",
+                    "尾"
+                ],
+                "etyTrad": [
+                    "無",
+                    "頭",
+                    "尾"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "thâu",
+                    "bé"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; don't have",
+                    "head",
+                    "tail"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(metaphor) incomprehensible; hard to understand or follow; can't make head nor tail",
+                    "example": "@{Ah ma}'s accounts of events are always bo tao bo beh, leaving me even more confused about what happened by the end.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "(metaphor) chaotic; all over the place; in a mess",
+                    "example": "Whoever 'organized' the office supplies has got to do it again. Stapler cannot even find, so bo tau bo beh.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "luan",
+                        "anyhow"
+                    ],
+                    "antonyms": []
+                }
+            ]
+        }
+    },
+    "bo tua bo suey": {
+        "word": "bo tua bo suey",
+        "related": [
+            "bo"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "無大無細",
+                "simplified": "无大无细",
+                "roman": "bô-tōa-bô-sòe",
+                "romanization": "poj",
+                "lit": "(lit.) no big and no small, (fig.) no sense of seniority and juniority",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "大",
+                    "细"
+                ],
+                "etyTrad": [
+                    "無",
+                    "大",
+                    "細"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "tōa",
+                    "sòe"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; don't have",
+                    "big",
+                    "small"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) to have no sense of seniority or juniority; showing no respect to seniors or elders",
+                    "example": "The teacher had had enough with the bo tua bo suay attitudes of the wannabe @{ah lian}s and @{ah beng}s in her class.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
     "bo liao": {
         "word": "bo liao",
         "related": [
@@ -11219,35 +11549,61 @@
         "word": "bo peng yau si",
         "related": [
             "bo",
-            "no horse run"
+            "peng"
         ],
         "category": [
             "sayings"
         ],
-        "etyNotes": "From horse-racing jargon, describing a horse supposedly so excellent that no other horse has a chance of beating it in a race.",
         "origin": [
             {
                 "lang": "hokkien",
-                "traditional": "無馬走",
-                "simplified": "无马走",
-                "roman": "bô bé cháu",
+                "traditional": "無兵枵死",
+                "simplified": "无兵枵死",
+                "roman": "bô peng iau sí",
                 "romanization": "poj",
-                "lit": "the very best; top-grade; unbeatable; incomparable",
-                "etyPath": false,
-                "etyType": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "(lit.) starve to death without the army",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "兵",
+                    "枵死"
+                ],
+                "etyTrad": [
+                    "無",
+                    "兵",
+                    "枵死"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "peng",
+                    "iau--sí"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; not have; without",
+                    "army; soldier",
+                    "starve to death"
+                ]
             }
         ],
         "meanings": {
-            "adjective": [
+            "noun": [
                 {
-                    "definition": "(idiom) the very best; top-grade; unbeatable; incomparable; superb; way ahead of the competition",
-                    "example": "Her performance in the audition was truly bo beh zao, making the casters' choice of who would play the lead role a no-brainer.",
-                    "exampleSource": "@comm",
+                    "definition": "(sarcastic) a soldier who works so hard as though the army were his sole means of survival",
+                    "example": "bo peng yau si. Literally, it means 'without the Army one can starve to death'. (The peng here is used collectively to mean army). This slang smacks of sarcasm and is aimed at the soldier who works so diligently and seriously as though the Army were his only source of survival...",
+                    "exampleSource": "1978, Leong Choon Cheong. Youth in the Army. p.304",
                     "synonyms": [
                         "tok kong"
                     ],
@@ -11436,8 +11792,8 @@
         "meanings": {
             "adjective": [
                 {
-                    "definition": "good-looking; attractive; pretty; charming",
-                    "example": "- That girl in lecture yesterday sibeh chio right, you think got chance?<br>- Wait long long bro...",
+                    "definition": "(usually of a young girl or woman) good-looking; attractive; pretty; charming",
+                    "example": "- That girl near me in lecture yesterday @{sibeh} chio right, you think got chance?<br>- @{Wait long long} bro...",
                     "exampleSource": "@comm",
                     "synonyms": [
                         "sui",
@@ -12302,6 +12658,7 @@
         "related": [
             "gabra like zebra"
         ],
+        "etyNotes": "An alteration of <i>zebra</i>",
         "origin": [
             {
                 "lang": "english",
@@ -12333,7 +12690,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "an alteration of <i>zebra</i>.",
+                    "definition": "zebra",
                     "example": "",
                     "exampleSource": "",
                     "synonyms": false,
@@ -12826,7 +13183,8 @@
         "related": [
             "limpeh",
             "lin lao bu",
-            "lin lao peh"
+            "lin lao peh",
+            "bu"
         ],
         "usage": "Female speaker. Female equivalent of limpeh.",
         "origin": [
@@ -12897,7 +13255,11 @@
         "related": [
             "limbu",
             "limpeh",
-            "lin lao peh"
+            "lin lao peh",
+            "bu"
+        ],
+        "category": [
+            "vulgar"
         ],
         "usage": "Female speaker. Female equivalent of lin lao peh.\r\nMay be considered vulgar or taken as a severe insult, due to its use as the interjection.",
         "origin": [
@@ -12944,6 +13306,9 @@
             "limbu",
             "limpeh",
             "lin lao bu"
+        ],
+        "category": [
+            "vulgar"
         ],
         "usage": "Male speaker. Male equivalent of lin lao bu.",
         "origin": [
@@ -13852,7 +14217,7 @@
         "meanings": {
             "adjective": [
                 {
-                    "definition": "cool; solid; capable; ready",
+                    "definition": "cool-headed; reliable; solid; capable; ready",
                     "example": "Ah Soon damn steady one, never siam work never keng never take MC.",
                     "exampleSource": "@comm",
                     "synonyms": [
@@ -14107,7 +14472,7 @@
     "sui": {
         "word": "sui",
         "related": [
-            "chio"
+            "ai sui"
         ],
         "phonetics": "/swi˦˨/",
         "origin": [
@@ -14130,9 +14495,12 @@
                     "example": "Eh this pic I go Japan take one, sui anot?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "chio"
+                        "chio",
+                        "bo sui"
                     ],
-                    "antonyms": false
+                    "antonyms": [
+                        "cui"
+                    ]
                 },
                 {
                     "definition": "excellent, nice",
@@ -14421,20 +14789,6 @@
         "phonetics": "/wæk/",
         "origin": [
             {
-                "lang": "english",
-                "traditional": "",
-                "simplified": "",
-                "roman": "whack",
-                "romanization": "",
-                "lit": "whack",
-                "etyPath": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
-            },
-            {
                 "lang": "hokkien",
                 "traditional": "拍",
                 "simplified": "拍",
@@ -14533,6 +14887,602 @@
                         "leng zai"
                     ],
                     "antonyms": false
+                }
+            ]
+        }
+    },
+    "bobo": {
+        "word": "bobo",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "wowo",
+                "romanization": "",
+                "lit": "terrible aim; score poorly in live firing or shooting practice",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "wash-out"
+                ],
+                "etyLit": [
+                    "fail overwhelmingly and totally; unsuccessful; (mil.) flunk out of a training course"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "無",
+                "simplified": "无",
+                "roman": "bô",
+                "romanization": "poj",
+                "lit": "no; not have"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a soldier with terrible aim",
+                    "example": "Boon Kee should apply to be a Stormtrooper, given how much of a bobo he is.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bobo shooter"
+                    ]
+                },
+                {
+                    "definition": "(military) a live firing or shooting practice session with a terrible score",
+                    "example": "The CO knew his KPI targets were a @{gone case} when he saw the WOWOs streaming through detail after detail.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "wowo"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(military) to score poorly in live firing or shooting practice",
+                    "synonyms": [
+                        "wowo"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "bobo shooter",
+            "bobo king"
+        ],
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "usage": "\"Bobo\" is becoming more common than \"wowo\" in modern parlance.",
+        "etyNotes": "#{poss} Transformation of the pronunciation from \"WOWO\" to \"bobo\" may have been influenced by the Hokkien pronunciation of 无/無, bô (\"no, not\"; see @{bo}), referring to repeated misses or \"no-hits\"."
+    },
+    "bobo king": {
+        "word": "bobo king",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bobo",
+                "romanization": "",
+                "lit": "terrible aim; score poorly in live firing or shooting practice"
+            },
+            {
+                "lang": "singlish",
+                "traditional": false,
+                "simplified": false,
+                "roman": "king",
+                "romanization": false,
+                "lit": "(suffix, usu. sarcastic or pejorative) the epitome of sth.",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "king"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(usu. male) the ruler of a monarchy; a powerful or preeminent person"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a soldier who is the epitome of terrible aim",
+                    "example": "Bobo King Benny never fails to disappoint, scoring a big fat zero in the critical live firing required for his @{CSB}.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bobo shooter"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "bobo shooter"
+        ],
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "usage": "\"Bobo\" is becoming more common than \"wowo\" in modern parlance.",
+        "etyNotes": "See @{bobo} for further detail."
+    },
+    "bobo shooter": {
+        "word": "bobo shooter",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bobo",
+                "romanization": "",
+                "lit": "terrible aim; score poorly in live firing or shooting practice"
+            },
+            {
+                "lang": "english",
+                "traditional": false,
+                "simplified": false,
+                "roman": "shooter",
+                "romanization": false,
+                "lit": "sb. who shoots sth., e.g. a gun"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a soldier with terrible aim",
+                    "example": "Shaun would have been a decent pick for the company sniper, if it weren't for the unfortunate, glaring fact that he is a bobo shooter.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bobo king"
+                    ]
+                },
+                {
+                    "definition": "(military) a soldier who scores terribly in a particular live firing or shooting practice session.",
+                    "example": "The sergeant was taken aback at how many soldiers in his section were bobo shooters that morning, when he had expected much better results from previous exercises.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bobo"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "bobo shooter"
+        ],
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "usage": "\"Bobo\" is becoming more common than \"wowo\" in modern parlance.",
+        "etyNotes": "See @{bobo} for further detail."
+    },
+    "bodoh": {
+        "word": "bodoh",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bodoh",
+                "romanization": "",
+                "lit": "idiot; stupid"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "stupid",
+                    "example": "Bodoh lah you, don't know how to use brain to think @{isit}?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "goondu"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "idiot; ignoramus; fool",
+                    "synonyms": [
+                        "goondu"
+                    ]
+                }
+            ]
+        }
+    },
+    "boleh": {
+        "word": "boleh",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "boleh",
+                "romanization": "",
+                "lit": "can; able to; may"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "can; to be able to",
+                    "example": "Everyone always says \"Malaysia boleh!\", but does anyone ever stop to think if Malaysia should?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh sai"
+                    ],
+                    "antonyms": [
+                        "buay sai"
+                    ]
+                },
+                {
+                    "definition": "may; to be permitted to",
+                    "synonyms": [
+                        "eh sai"
+                    ],
+                    "antonyms": [
+                        "buay sai"
+                    ]
+                }
+            ]
+        }
+    },
+    "boomz": {
+        "word": "boomz",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "boom",
+                "romanization": "",
+                "lit": "(onom., intj.) a loud, explosive sound;  sth. sudden happening"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-z",
+                "romanization": "",
+                "lit": "(urban slang) suffix used to add a quirky, silly, cool, or cute twang"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(humorous, ironic) used to indicate something awesome or indescribable"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(humorous, ironic) substitute for any positive adjective for a flashy, loud, or awesome feature that one momentarily cannot or does not have the vocabulary to describe",
+                    "example": "If I'm feeling naughty, then I'll wear something red, and loud... something, you know, 'BOOMZ'! Something that shouts ME!",
+                    "exampleSource": "2009, Ris Low. Interview with RazorTV."
+                }
+            ]
+        },
+        "usage": "When used, typically a memetic or ironic reference to Miss Singapore World 2009 Ris Low's interview, where she infamously used this term."
+    },
+    "borrow": {
+        "word": "borrow",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "借",
+                "simplified": "借",
+                "roman": "jiè",
+                "romanization": "pinyin",
+                "lit": "borrow; lend"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pinjam",
+                "romanization": "",
+                "lit": "borrow; lend"
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "கடன்",
+                "roman": "kaṭaṉ",
+                "romanization": "",
+                "lit": "borrow; lend"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to borrow; to receive something with the expectation of returning it in the future",
+                    "example": "Can I borrow your phone for a minute?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "borrow"
+                    ],
+                    "antonyms": [
+                        "lend",
+                        "borrow"
+                    ]
+                },
+                {
+                    "definition": "to lend; to give something with the expectation of receiving it back in the future",
+                    "example": "Can borrow me your portable charger?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "borrow"
+                    ],
+                    "antonyms": [
+                        "lend",
+                        "borrow"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "From the fact that the verbs \"to borrow\"/\"to lend\" can usually be expressed with the same word in multiple languages, including all Chinese languages, Malay, Tamil, etc., hence blurring or losing the distinction between the two when speaking in Singlish."
+    },
+    "lend": {
+        "word": "lend",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "借",
+                "simplified": "借",
+                "roman": "jiè",
+                "romanization": "pinyin",
+                "lit": "borrow; lend"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pinjam",
+                "romanization": "",
+                "lit": "borrow; lend"
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "கடன்",
+                "roman": "kaṭaṉ",
+                "romanization": "",
+                "lit": "borrow; lend"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to lend; to give something with the expectation of receiving it back in the future",
+                    "example": "Can lend me your portable charger?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "borrow"
+                    ],
+                    "antonyms": [
+                        "borrow",
+                        "lend"
+                    ]
+                },
+                {
+                    "definition": "to borrow; to receive something with the expectation of returning it in the future",
+                    "example": "Can I lend your phone for a minute?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "borrow"
+                    ],
+                    "antonyms": [
+                        "borrow",
+                        "lend"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "From the fact that the verbs \"to borrow\"/\"to lend\" can usually be expressed with the same word in multiple languages, including all Chinese languages, Malay, Tamil, etc., hence blurring or losing the distinction between the two when speaking in Singlish."
+    },
+    "botak": {
+        "word": "botak",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "botak",
+                "romanization": "",
+                "lit": "bald; balding",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "butak"
+                ],
+                "etyLit": [
+                    "bald; balding"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "bald; balding",
+                    "example": "The sergeant @{kan} the @{chao} @{on} recruit for going botak instead of shaving number one. @{Orbi quek}!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
+    "bottlecaps": {
+        "word": "bottlecaps",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bottle cap",
+                "romanization": "",
+                "lit": "item designed to seal the top of a bottle",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "bottle",
+                    "cap"
+                ],
+                "etyLit": [
+                    "container with a tapered neck and opening at the top,usually made of plastic or glass,used to contain liquids or small substances",
+                    "cover or seal for the top of sth."
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a variation of @{kuti kuti}, played in a pinch using bottle caps, when the usual plastic game pieces are not available"
+                },
+                {
+                    "definition": "a game played with rules approximating those of football (soccer), with the ball substituted for a bottle cap"
+                }
+            ]
+        },
+        "category": [
+            "games"
+        ],
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d856d1f-c223-47fd-9ad4-e636ee5d9197",
+                "name": "2014, Bonny Tan. NLB. Singapore Infopedia - Kuti Kuti"
+            }
+        ]
+    },
+    "brudder": {
+        "word": "brudder",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "brother",
+                "romanization": "",
+                "lit": "male sibling; term of address or endearment for a male person"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "term of address or endearment for a male person",
+                    "example": "Brudder, canteen @{pe}?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "terms of address"
+        ],
+        "etyNotes": "Alteration / eye dialect spelling of <i>brother</i>."
+    },
+    "bto": {
+        "word": "bto",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "build to order",
+                "romanization": "",
+                "lit": "a scheme by HDB to build housing according to demand, where applicants apply for a new flat via a balloting system",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "build",
+                    "to order"
+                ],
+                "etyLit": [
+                    "construct; erect",
+                    "as commissioned; in fulfilment of a request; bespoke"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a scheme by HDB to build housing according to demand, where applicants apply for a new flat via a balloting system.",
+                    "example": "BTO flats come with basic home design features and are an affordable and popular option for young married couples who are first-time homeowners.",
+                    "exampleSource": "2024 March 19, PropertyGuru Editorial Team. PropertyGuru.com, https://www.propertyguru.com.sg/property-guides/hdb-appointment-booking-bto-sbf-application-timeline-fees-38649"
+                },
+                {
+                    "definition": "a block or neighbourhood of flats built under the BTO scheme",
+                    "example": "There are new BTOs springing up in previously-@{ulu} areas like Punggol and Jurong East.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "a specific apartment which is part of a block built under the BTO scheme",
+                    "example": "Gina and Gerald's new BTO is almost ready. They're planning to @{jio} their friends over for a housewarming party when it's all settled in.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to apply for a flat under the BTO scheme",
+                    "example": "Aswin and Penny BTOed two years ago, but are still waiting for their flat to be ready.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "(metonym, of a young male-female couple) to get married; to settle down",
+                    "example": "Wah, you and Kevin are so sweet together... when you two gonna BTO?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "abbreviations"
+        ],
+        "usage": "Applying for a BTO requires one to be at least 35 years old if single, and 21 (in certain cases 18) if a fiancé/fiancée couple.^{1} Hence, the term is often used in a suggestive or teasing manner to imply a @{steady} romantic relationship between a young man and woman has developed to the point of considering marriage and moving in with one another.",
+        "references": [
+            {
+                "link": "https://dollarsandsense.sg/bto-guide-eligibility-criteria-buying-hdb-singapore/#:~:text=Age,the%20applicant%27s%20parents%20or%20guardians.",
+                "name": "2023 December 06, Dinesh Dayani. Dollars and Sense, [BTO Guide] Eligibility Criteria For Buying A HDB In Singapore"
+            }
+        ]
+    },
+    "bu": {
+        "word": "bu",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "母",
+                "simplified": "母",
+                "roman": "bú",
+                "romanization": "poj",
+                "lit": "mother; female"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "mother; also used in phrases such as @{limbu} and @{lin lao bu}."
+                },
+                {
+                    "definition": "a woman in general; used in phrases such as @{chio bu}."
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "female"
                 }
             ]
         }

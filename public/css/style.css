@@ -384,6 +384,15 @@ input[type=text] {
     color: var(--grey);
 }
 
+.ortho-arrow {
+    margin-top: 0;
+    align-self: center;
+    font-size: 1em;
+    font-family: "Crimson Text";
+    font-style: normal;
+    color: var(--black);
+}
+
 .ortho-origin-ext {
     margin-top: 0;
     font-size: 1em;

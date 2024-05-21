@@ -917,16 +917,18 @@
         "bo ta bo lanpa",
         "bo ta bo lam pha"
     ],
-    "bo tau bo beh": [
-        "bo tau bo beh",
-        "bo thau bo beh",
+    "bo tao bo beh": [
         "bo tao bo beh",
+        "bo thau bo beh",
+        "bo tau bo beh",
         "bo tau bo be",
         "bo tao bo be"
     ],
     "bo tua bo suey": [
         "bo tua bo suey",
-        "bo tua bo sui",
+        "bo tua bo suay",
+        "bo toa bo suay",
+        "bo toa bo suey",
         "bo tuah bo suey",
         "bo tua bo sway"
     ],
@@ -958,7 +960,8 @@
         "botak"
     ],
     "bottlecaps": [
-        "bottlecaps"
+        "bottlecaps",
+        "bottle caps"
     ],
     "brudder": [
         "brudder"
@@ -4547,11 +4550,12 @@
         "orbi"
     ],
     "orbi quek": [
-        "orbi good",
         "orbi quek",
+        "orbi good",
         "orbit quek",
         "orbi quack",
-        "orbiquek"
+        "orbiquek",
+        "or bi quek"
     ],
     "ord": [
         "ord"
@@ -6602,5 +6606,8 @@
         "ah jie",
         "ah je",
         "ah zeh"
+    ],
+    "dinobu": [
+        "dinobu"
     ]
 }

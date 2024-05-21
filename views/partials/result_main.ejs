@@ -113,12 +113,14 @@
                             <% for(let j = 0; j < word.origin[i].etyPath.length; j++){ %>
                                 <% if(word.origin[i].etyType != undefined && j != 0){ %>
                                     <% if(word.origin[i].etyType[j-1] == "" || word.origin[i].etyType[j-1] == "-"){ %>
-                                    <p class="ortho-origin">⇠</p>
+                                    <p class="ortho-origin ortho-arrow">←</p>
+                                    <% } else if(word.origin[i].etyType[j-1] == "tx" || word.origin[i].etyType[j-1] == "c"){ %>
+                                    <p class="ortho-origin ortho-arrow">↻</p>
                                     <% } else { %>
-                                    <p class="ortho-origin"><%= word.origin[i].etyType[j-1] %></p>
+                                    <p class="ortho-origin ortho-arrow"><%= word.origin[i].etyType[j-1] %></p>
                                     <% } %>
                                 <% } else { %>
-                                    <p class="ortho-origin">⇠</p>
+                                    <p class="ortho-origin ortho-arrow">←</p>
                                 <% } %>
                                 <div class="ortho-box">
                                 <div class="ortho-box-ext">
