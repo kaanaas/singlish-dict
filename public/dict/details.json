@@ -16642,5 +16642,502 @@
                 "name": "1999 November 10. HistoryLink. Biography of Stuart, Elbridge A. (1856-1944)"
             }
         ]
+    },
+    "cabut": {
+        "word": "cabut",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cabut lari",
+                "romanization": "",
+                "lit": "escape; run away",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "cabut",
+                    "lari"
+                ],
+                "etyLit": [
+                    "pull out (esp. forcefully)",
+                    "run; escape; abscond"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to leave hurriedly",
+                    "synonyms": [
+                        "siam"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "Clipping of Malay <i>cabut lari</i>."
+    },
+    "siam": {
+        "word": "siam",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "閃",
+                "simplified": "闪",
+                "roman": "siám",
+                "romanization": "poj",
+                "lit": "evade; dodge; avoid"
+            },
+            {
+                "lang": "cantonese",
+                "traditional": "閃",
+                "simplified": "闪",
+                "roman": "sim2",
+                "romanization": "jyutping",
+                "lit": "evade; dodge; avoid, (slang) leave quickly or hurriedly"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(direct, may be rude) 'get out of the way'; 'move aside'; 'move!'",
+                    "example": "Siam! @{Sio} sio sio, @{ah ger} watch out!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "scuse"
+                    ]
+                },
+                {
+                    "definition": "'get out of here'; 'let's go'; 'move it'",
+                    "example": "Siam! Later we late.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "zao"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to get out of the way; to move aside",
+                    "example": "- Can siam please, this box damn heavy sia.<br>\r\n- Sorry, need me help carry?<br>\r\n- No need, just siam, I got it.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "to evade; to escape; to avoid (especially of an uncomfortable situation or a responsibility)",
+                    "example": "Psst, this lecturer so @{lor sor} until I really @{buay tahan}... want siam?",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "to leave quickly or hurriedly",
+                    "example": "Better siam first, later boss last minute arrow us more work then today have to OT.",
+                    "synonyms": [
+                        "cabut",
+                        "zao"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "siam one corner"
+        ],
+        "etyNotes": "Sense of \"to leave quickly or hurriedly\" probably from Cantonese slang.<br>\r\nCharacter consists of a 人 (\"person\") + 门/門 (\"door; gate\"), hence depicting a person in the act of escaping or absconding out the door."
+    },
+    "cai png": {
+        "word": "cai png",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "菜飯",
+                "simplified": "菜饭",
+                "roman": "chhài-pn̄g",
+                "romanization": "poj",
+                "lit": "economy rice"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "economy rice (white rice with portions of assorted dishes, typically a selection or combination of vegetable dishes and meat or fish dishes). ",
+                    "example": "Come on, how can a Singaporean not support a guy who understands the pleasure of chai png?",
+                    "exampleSource": "2008 November 16, Colin Goh. The Sunday Times (LifeStyle). p.12",
+                    "synonyms": [
+                        "cai fan"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "usage": "Effectively the Chinese counterpart of @{nasi padang}. Since it is typically uninteresting and simple, yet one of the more affordable meals one can order, it is often seen as a humble meal and a symbol of the working class.",
+        "etyNotes": "(lit.) vegetables and rice",
+        "phonetics": "[ˈt͡sʰaɪ˦˨ ˌpŋ̍˨]"
+    },
+    "cai fan": {
+        "word": "cai fan",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "菜飯",
+                "simplified": "菜饭",
+                "roman": "cài fàn",
+                "romanization": "pinyin",
+                "lit": "economy rice",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "菜饭"
+                ],
+                "etyTrad": [
+                    "菜飯"
+                ],
+                "etyRoman": [
+                    "chhài-pn̄g"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "economy rice"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Mandarin term for @{cai png}.",
+                    "synonyms": [
+                        "cai png"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "(lit.) vegetables and rice. While the term \"cài fàn\" exists elsewhere in Mandarin and other Chinese languages (e.g. Shanghainese), it refers to various other dishes. The Singaporean-Malaysian use of the term to mean \"economy rice\" is probably borrowed from Hokkien."
+    },
+    "calamansi": {
+        "word": "calamansi",
+        "origin": [
+            {
+                "lang": "tagalog",
+                "traditional": "",
+                "simplified": "",
+                "roman": "kalamansi",
+                "romanization": "",
+                "lit": "Citrus × microcarpa, or its edible fruit"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the plant Citrus × microcarpa, or its edible fruit. As a kumquat hybrid, the plant is sometimes sold as an ornamental, especially during the Chinese New Year season. The fruit resembles a spherical lime, and is yellow-orange in colour on the inside. It is used in many traditional dishes, often as a season or garnish, and is also popular for its juice. It is also known as <i>limau kasturi</i>.^{1}",
+                    "example": "The Calamansi (Citrus microcarpa) grows to about 3 to 4 m tall, producing white to whitish-pink fragrant flowers. It grows best in moist to well-drained soil.<br>\r\nThis citrus-scented plant not only brings a fresh aroma to your garden but it is also a food source for the caterpillars of the Lime Butterfly and its small rounded fruits can be eaten when they turn from green to light orange.",
+                    "exampleSource": "2021 September, Ang Xin. NParks Buzz, Lifestyle, \"Do-It-Yourself Butterfly Garden\". https://www.nparks.gov.sg/nparksbuzz/sep-issue-2021/conservation/do-it-yourself-butterfly-garden",
+                    "synonyms": [
+                        "limau kasturi"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3351",
+                "name": "NParks Singapore - Flora and Fauna Web - Citrus × microcarpa"
+            }
+        ]
+    },
+    "calefare": {
+        "word": "calefare",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "茄哩啡",
+                "simplified": "茄哩啡",
+                "roman": "ke4/ke1 le1 fe1",
+                "romanization": "jyutping",
+                "lit": "(acting) extra; background actor or player",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "carefree"
+                ],
+                "etyLit": [
+                    "without worries or concern"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(acting) an extra; a background actor or player with a minor role",
+                    "example": "Mediacorp calefare jailed for taking photo of actor in toilet & posting in chat, writing 'who want see his k* k* j***'",
+                    "exampleSource": "2023 June 23, Fiona Tan. Mothership.sg. https://mothership.sg/2023/06/man-take-actor-urinating-photo/"
+                },
+                {
+                    "definition": "(fig.) a supernumerary or redundant person who is hanging or idling about when they are not needed; a person there for no apparent reason or with no actual purpose",
+                    "example": "- If she's the only one presenting, then why got the other three fellas up there with her?<br>- @{Bo idea}. Just calefares lor.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "etyNotes": "Originated in Hong Kong cinema. Popularized in Singlish by the MediaCorp TV series \"Calefare\".^{1}",
+        "phonetics": "/ˈkɛlɛfɛː/, [-fɛː˦], [-fɛː(˦˧)]",
+        "references": [
+            {
+                "link": "https://www.imdb.com/title/tt1931700/",
+                "name": "IMDB - Calefare (TV Series 2008)"
+            }
+        ]
+    },
+    "can": {
+        "word": "can",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "can",
+                "romanization": "",
+                "lit": "able to; know how to; may; be possible; potentially be"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(high tone, usually short vowel) used to indicate acceptance or acknowledgement; 'OK'",
+                    "example": "- I leave your book here, ok?<br>\r\n- Can.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh sai",
+                        "boleh",
+                        "ok can"
+                    ]
+                },
+                {
+                    "definition": "(low to rising tone, long vowel) used to indicate reassurance or confirmation",
+                    "example": "- <b>Can</b>. Trust me.<br>\r\n- Cannot then how?\r\n- Don't worry. Can is <b>can</b>.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to be able to; to know how to",
+                    "example": "If can then tell me can lah.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh sai",
+                        "boleh",
+                        "eh hiao"
+                    ]
+                },
+                {
+                    "definition": "may; to have permission to",
+                    "example": "Cher, can I go toilet?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh sai",
+                        "boleh"
+                    ]
+                },
+                {
+                    "definition": "to possibly be; to have the potential to",
+                    "example": "Today the office hot until can @{pengsan}.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "particle": [
+                {
+                    "definition": "used at the end of a sentence as a question or interrogative marker asking about acceptability of a presented option; 'OK?'",
+                    "example": "I pass you later?<br>\r\n→ I pass you later, can?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "can anot",
+                        "eh sai bo"
+                    ]
+                }
+            ]
+        },
+        "usage": "As a verb, when used alone or as the subject, carries a high tone (e.g. \"Tell me can anot\"); as an auxiliary verb (accompanying another verb), it is unemphasized and with either no or a mid/low tone (\"Can on the aircon?\").",
+        "etyNotes": "Direct calque from approximately equivalent words in several languages, such as Hokkien and Malay. For example, it is in most use cases syntactically equivalent to Hokkien 会/會, ē or 会使, ē-sái, or Malay <i>boleh</i>.",
+        "particles": [
+            {
+                "particle": "lah",
+                "meaning": "can, of course",
+                "example": "",
+                "exampleSource": "",
+                "effect": "reassurance, confirmation"
+            },
+            {
+                "particle": "lah...",
+                "meaning": "can, I guess...",
+                "example": "",
+                "exampleSource": "",
+                "effect": "hesitation; vague doubt; resignation; reluctance"
+            },
+            {
+                "particle": "laa",
+                "meaning": "alright, can",
+                "example": "",
+                "exampleSource": "",
+                "effect": "acceptance (possibly begrudging)"
+            },
+            {
+                "particle": "lor",
+                "meaning": "sure... can; alright... can",
+                "example": "",
+                "exampleSource": "",
+                "effect": "resignation; emphasis"
+            },
+            {
+                "particle": "already",
+                "meaning": "already can; (of something or somebody) to be ready or finished",
+                "example": "",
+                "exampleSource": "",
+                "effect": "completion"
+            },
+            {
+                "particle": "liao",
+                "meaning": "ready to go",
+                "example": "",
+                "exampleSource": "",
+                "effect": "finality, present ability"
+            },
+            {
+                "particle": "liao",
+                "meaning": "(of something or somebody) to be ready or finished",
+                "example": "",
+                "exampleSource": "",
+                "effect": "completion"
+            },
+            {
+                "particle": "liao lor",
+                "meaning": "(intj.) used to express finality; (sarcastic) exasperation or annoyance at an unfortunate situation or mess-up",
+                "example": "",
+                "exampleSource": "",
+                "effect": "finality; exasperation; annoyance"
+            },
+            {
+                "particle": "leh",
+                "meaning": "why not? I think (can); seems like (can)",
+                "example": "",
+                "exampleSource": "",
+                "effect": "persuasion; unconvincedness"
+            },
+            {
+                "particle": "one",
+                "meaning": "can, I mean it; really can; can, don't worry",
+                "example": "",
+                "exampleSource": "",
+                "effect": "persuasion; reassurance"
+            },
+            {
+                "particle": "one lah",
+                "meaning": "can, it won't pose a problem; easily can, don't worry",
+                "example": "",
+                "exampleSource": "",
+                "effect": "persuasion; reassurance; confidence"
+            },
+            {
+                "particle": "ba",
+                "meaning": "right, can",
+                "example": "",
+                "exampleSource": "",
+                "effect": "agreement; acceptance"
+            },
+            {
+                "particle": "sia",
+                "meaning": "actually (can)!; wait a minute, (can)!",
+                "example": "",
+                "exampleSource": "",
+                "effect": "surprise; subversion"
+            },
+            {
+                "particle": "ah",
+                "meaning": "sure, that'll do; alright, (can)",
+                "example": "",
+                "exampleSource": "",
+                "effect": "acceptance"
+            },
+            {
+                "particle": "ah?",
+                "meaning": "(when just about to act) you're sure about this?; will this do?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "asking for confirmation"
+            },
+            {
+                "particle": "ah?",
+                "meaning": "are you sure (can)?; is it really possible/allowed?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "doubt; curiosity; asking for confirmation"
+            },
+            {
+                "particle": "meh?",
+                "meaning": "can (something or somebody) really?; is it really possible/allowed?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "doubt; questioning"
+            },
+            {
+                "particle": "hor",
+                "meaning": "yes, really (can); believe me, (can)",
+                "example": "",
+                "exampleSource": "",
+                "effect": "assurance; assertion of opinion"
+            },
+            {
+                "particle": "hor?",
+                "meaning": "are you sure (can)?; will this do?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "asking for confirmation"
+            },
+            {
+                "particle": "bo?",
+                "meaning": "(can) or cannot?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "questioning possibility"
+            },
+            {
+                "particle": "ha?",
+                "meaning": "are you sure (can)?; did I understand correctly that (can)?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "clarification; confirmation"
+            },
+            {
+                "particle": "isit?",
+                "meaning": "oh, so you thought it was fine, did you?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "sarcasm; admonishment"
+            },
+            {
+                "particle": "can",
+                "meaning": "yep, can!; go ahead",
+                "example": "",
+                "exampleSource": "",
+                "effect": "confirmation"
+            },
+            {
+                "particle": "anot",
+                "meaning": "See @{can anot}.",
+                "example": "",
+                "exampleSource": "",
+                "effect": ""
+            }
+        ]
     }
 }

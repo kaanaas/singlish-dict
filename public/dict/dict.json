@@ -3587,8 +3587,9 @@
         "lagi"
     ],
     "lah": [
-        "la",
         "lah",
+        "la",
+        "laa",
         "lar",
         "larh"
     ],
@@ -6629,5 +6630,34 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "scuse": [
+        "scuse",
+        "'scuse",
+        "skius",
+        "'skius",
+        "skiew",
+        "'skiew",
+        "skews",
+        "'skews",
+        "skew",
+        "'skew",
+        "skiu",
+        "'skiu"
+    ],
+    "sio": [
+        "sio",
+        "seo",
+        "siu",
+        "siew"
+    ],
+    "cai fan": [
+        "cai fan",
+        "caifan"
+    ],
+    "ok can": [
+        "ok can",
+        "okay can",
+        "k can"
     ]
 }
