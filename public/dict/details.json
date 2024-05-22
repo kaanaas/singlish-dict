@@ -16925,7 +16925,7 @@
                 },
                 {
                     "definition": "(low to rising tone, long vowel) used to indicate reassurance or confirmation",
-                    "example": "- <b>Can</b>. Trust me.<br>\r\n- Cannot then how?\r\n- Don't worry. Can is <b>can</b>.",
+                    "example": "- <b>Can</b>. Trust me.<br>\r\n- Cannot then how?\r\n<br>- Don't worry. Can is <b>can</b>.",
                     "exampleSource": "@comm"
                 }
             ],
@@ -16957,7 +16957,7 @@
             ],
             "particle": [
                 {
-                    "definition": "used at the end of a sentence as a question or interrogative marker asking about acceptability of a presented option; 'OK?'",
+                    "definition": "(high tone, usually short vowel) used at the end of a sentence as a question or interrogative marker asking about acceptability of a presented option; 'OK?'",
                     "example": "I pass you later?<br>\r\n→ I pass you later, can?",
                     "exampleSource": "@comm",
                     "synonyms": [
@@ -16968,7 +16968,7 @@
             ]
         },
         "usage": "As a verb, when used alone or as the subject, carries a high tone (e.g. \"Tell me can anot\"); as an auxiliary verb (accompanying another verb), it is unemphasized and with either no or a mid/low tone (\"Can on the aircon?\").",
-        "etyNotes": "Direct calque from approximately equivalent words in several languages, such as Hokkien and Malay. For example, it is in most use cases syntactically equivalent to Hokkien 会/會, ē or 会使, ē-sái, or Malay <i>boleh</i>.",
+        "etyNotes": "Direct calque from approximately equivalent words in several languages, such as Hokkien and Malay. For example, it is in most use cases syntactically equivalent to Hokkien 会/會, ē or 会使, ē-sái, or Malay <i>boleh</i>, all meaning \"can; able to; may; permitted to\".",
         "particles": [
             {
                 "particle": "lah",
@@ -17133,10 +17133,10 @@
             },
             {
                 "particle": "anot",
-                "meaning": "See @{can anot}.",
+                "meaning": "See <i>can anot</i>.",
                 "example": "",
                 "exampleSource": "",
-                "effect": ""
+                "effect": "questioning possibility"
             }
         ]
     }
