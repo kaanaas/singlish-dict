@@ -1,0 +1,1 @@
+const langTerms = ["ah","ah ma","ah nia","ah pui","already","ang mo kio","ang moh kui"]; module.exports = langTerms;

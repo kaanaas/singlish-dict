@@ -411,10 +411,9 @@ input[type=text] {
 
 .chinese-wrapper-ext {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 0.75em;
 }
 
 .chinese-chars {
@@ -433,6 +432,7 @@ input[type=text] {
 }
 
 .chinese-chars-ext {
+    text-align: center;
     cursor: pointer;
     margin: 0;
     font-family: "SimSunCut",
@@ -448,6 +448,14 @@ input[type=text] {
         font-weight: normal;
 }
 
+.lang-romz-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25em;
+}
+
 .roman-flex {
     display: flex;
     align-items: flex-start;
@@ -461,18 +469,18 @@ input[type=text] {
     align-items: flex-start;
     flex-direction: column;
     justify-content: flex-end;
-    max-height: 2.25em;
+    padding: 0 0.75em;
 }
 
 .romanization {
-    margin-top: 0;
     font-size: 0.67em;
     font-family: "Crimson Text";
     font-style: italic;
-    color: var(--grey);
+    color: var(--grey-red);
 }
 
 .ortho-roman {
+    text-align: center;
     align-self: center;
     font-size: 1.25em;
     font-family: "Crimson Text";
@@ -528,6 +536,10 @@ input[type=text] {
     color: var(--bg-darken);
     font-size: 1.75em;
     margin-left: 1.25em;
+}
+
+.more-info-div {
+    align-self: flex-start;
 }
 
 .ttip-ety {
@@ -750,6 +762,13 @@ input[type=text] {
 }
 
 /* home button */
+.button-row {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 1em;
+}
+
 .home-button {
     padding: .5em 1em;
     align-items: center;
@@ -760,9 +779,6 @@ input[type=text] {
     font-size: 1em;
     border: none;
     border-radius: 0.75rem;
-    position: relative;
-    left: 100%;
-    transform: translateX(-100%);
 }
 
 .home-button:hover {
@@ -779,14 +795,15 @@ input[type=text] {
 .particle-wrapper {
     margin-top: .5em;
     margin-bottom: .5em;
-    margin-left: 1em;
+    margin-left: 0.25em;
 }
 
 .particle-lead {
     display: flex;
+    flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
-    gap: 1.5em;
+    gap: 0.5em;
 }
 
 .particle-wrapper h4 {
@@ -806,6 +823,7 @@ input[type=text] {
 .particle-dets {
     display: flex;
     flex-direction: column;
+    margin-left: 0.75em;
 }
 
 .particle-dets .word-example {
@@ -815,7 +833,14 @@ input[type=text] {
 }
 
 .pt-effect {
+    align-self: flex-start!important;
+}
+
+.pt-effect-text {
     align-self: flex-start;
+    font-size: 1em;
+    color: var(--grey);
+    font-style: italic;
 }
 
 /* tooltip */
@@ -1048,4 +1073,45 @@ footer {
 
 .nolinkref {
     color: var(--black);
+}
+
+/* langs list */
+.langs-wrapper {
+    display: table;
+    border-collapse: collapse;
+    margin: 1em 1em;
+    position: relative;
+    left: 50%;
+    transform: translateX(-55%);
+}
+
+.langs-header {
+    display: table-header-group;
+    font-weight: bold;
+    font-style: italic;
+    color: var(--bg-darken);
+    border-bottom: 1px solid #2c0912;
+}
+
+.langs-header-col {
+    padding-bottom: 0.5em!important;
+}
+
+.langs-line {
+    display: table-row;
+}
+
+.langs-col {
+    display: table-cell;
+    padding: 0.15em;
+}
+
+.langs-id {
+    padding-right: 3em;
+    font-style: italic;
+}
+
+.langs-count {
+    text-align: right;
+    padding-right: 1em;
 }

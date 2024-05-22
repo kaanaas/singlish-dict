@@ -67,8 +67,26 @@
                         <% } %>
                         <div class="ortho-box">
                             <div class="ortho-box-ext">
-                                <% const langName = word.origin[i].lang.toLowerCase(); %>
-                                <p class="ortho-origin-ext small-caps"><%= langName %></p>
+                                <% const langName=word.origin[i].lang.toLowerCase(); %>
+                                <div class="lang-romz-wrapper">
+                                    <p class="ortho-origin-ext small-caps"><%= langName %></p>
+                                    
+                                    <% if(word.origin[i].romanization == undefined || word.origin[i].romanization == undefined){ %>
+                                        <% if(word.origin[i].lang.toLowerCase().includes("chinese")){ %>
+                                            <p class="romanization">(pinyin)</p>
+                                        <% } else if(word.origin[i].lang.toLowerCase().includes("hokkien")){ %>
+                                            <p class="romanization">(poj)</p>
+                                        <% } else if(word.origin[i].lang.toLowerCase().includes("cantonese")){ %>
+                                            <p class="romanization">(jyutping)</p>
+                                        <% } else if(word.origin[i].lang.toLowerCase().includes("teochew")){ %>
+                                            <p class="romanization">(peng'im)</p>
+                                        <% } else if(word.origin[i].lang.toLowerCase().includes("mandarin")){ %>
+                                            <p class="romanization">(pinyin)</p>
+                                        <% } %>
+                                    <% } else { %>
+                                        <p class="romanization">(<%= word.origin[i].romanization.toLowerCase() %>)</p>
+                                    <% } %>
+                                </div>
                                 <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
                                     <!-- Chinese languages -->
                                     <div class="chinese-wrapper-ext">
@@ -79,7 +97,7 @@
                                                 <%- formatDyno(word.origin[i].traditional) %></h3>
                                         </div>
                                         <div class="roman-flex-ext">
-                                            <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
+                                            
                                             <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
                                         </div>
                                     </div>
@@ -127,8 +145,25 @@
                                     <!-- const langName = word.origin[i].etyPath[j].toLowerCase().charAt(0).toUpperCase() + word.origin[i].etyPath[j].toLowerCase().slice(1); %> -->
                                     <% const langName = word.origin[i].etyPath[j].toLowerCase(); %>
                                     
-                                    <p class="ortho-origin-ext small-caps"><%= langName %></p>
+                                    <div class="lang-romz-wrapper">
+                                        <p class="ortho-origin-ext small-caps"><%= langName %></p>
 
+                                        <% if(word.origin[i].etyScheme == undefined || word.origin[i].etyScheme[j] == undefined){ %>
+                                            <% if(word.origin[i].etyPath[j].includes("chinese")){ %>
+                                                <p class="romanization">(pinyin)</p>
+                                            <% } else if(word.origin[i].etyPath[j].includes("hokkien")){ %>
+                                                <p class="romanization">(poj)</p>
+                                            <% } else if(word.origin[i].etyPath[j].includes("cantonese")){ %>
+                                                <p class="romanization">(jyutping)</p>
+                                            <% } else if(word.origin[i].etyPath[j].includes("teochew")){ %>
+                                                <p class="romanization">(peng'im)</p>
+                                            <% } else if(word.origin[i].etyPath[j].includes("mandarin")){ %>
+                                                <p class="romanization">(pinyin)</p>
+                                            <% } %>
+                                        <% } else { %>
+                                        <p class="romanization">(<%= word.origin[i].etyScheme[j].toLowerCase() %>)</p>
+                                        <% } %>
+                                    </div>
                                     <% if(word.origin[i].etyPath[j] && chineseLangs.includes(word.origin[i].etyPath[j].toLowerCase())){ %>
                                     <!-- Chinese languages -->
                                     <div class="chinese-wrapper-ext">
@@ -139,9 +174,7 @@
                                                 <%- formatDyno(word.origin[i].etyTrad[j]) %></h3>
                                         </div>
                                         <div class="roman-flex-ext">
-                                            <% if(word.origin[i].etyScheme[j] != undefined){ %>
-                                            <p class="romanization"><%= word.origin[i].etyScheme[j].toLowerCase() %>:</p>
-                                            <% } %>
+                                            
                                             <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %></p>
                                         </div>
                                     </div>

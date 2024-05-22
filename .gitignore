@@ -4,10 +4,12 @@ views/detail_insert.ejs
 views/index_old.ejs
 app_detail.js
 app_dict_insert.js
+gen_cat.js
 public/css/styles_insert.css
 public/dict/dict_simple.json
 public/dict/dict*copy.json
 public/dict/details*copy.json
+categories.js
 
 # fonts
 public/css/fonts/NSimSun.ttf

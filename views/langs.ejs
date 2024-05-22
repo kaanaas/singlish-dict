@@ -1,0 +1,38 @@
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <head>   
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+    </head>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="/" class="title">Chimbridge Singlish Dictionary</a></h1>
+        </div>
+        <div class="content">
+            <div class="def-box">
+                <h2 class="subpage-title">Languages of Origin</h2>
+                <p class="src-msg">This page lists all recorded languages of origin for entries defined in the dictionary.<br>Click on a language for a full list of all terms with origins in that language.<br>Note that etymologies are typically only traced back to the primary or secondary ancestors of a term, and so older ancestors may not always be included.</p>
+                <hr>
+                <div class="langs-wrapper">
+                    <div class="langs-header">
+                        <p class="langs-col langs-id langs-header-col">Language:</p>
+                        <p class="langs-col langs-header-col">Entries:</p>
+                    </div>
+                    <br style="line-height: 0.5em;">
+                <% for(const [lang, count] of Object.entries(langs)){ %>
+                    <div class="langs-line">
+                        <p class="langs-col langs-id"><a href="./langs?l=<%- lang.toLowerCase() %>"><%- lang %></a></p>
+                        <p class="langs-col langs-count"><%= count %></p>
+                    </div>
+                <% } %>
+                </div>
+                <hr>
+                <div class="button-row"><button class="home-button" onclick="location.href='/';">Home</button></div>
+            </div>
+        </div>
+    </body>
+
+    <%- include("./partials/footer") %>
+</html>

@@ -1,0 +1,1 @@
+const langTerms = ["bo lui"]; module.exports = langTerms;

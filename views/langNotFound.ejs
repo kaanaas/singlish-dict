@@ -1,0 +1,28 @@
+<html lang="en">
+<%- include("./partials/head") %>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="./" class="title">Chimbridge Singlish Dictionary</a></h1>
+        </div>
+        <div class="content">
+            <div class="def-box">
+                <%- include("./partials/search_container") %>
+                <div class="result" id="not-found">
+                    <div class="not-found" style="justify-content: center;">
+                        <h3>
+                            <%= searchInput %>
+                        </h3>
+                        <p>cannot find.</p>
+                        <span style="font-size: 1.75em;">😿</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <%- include("./partials/scripts") %>
+            <%- include("./partials/footer") %>
+
+    </body>
+
+</html>

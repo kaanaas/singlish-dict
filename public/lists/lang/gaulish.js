@@ -1,0 +1,1 @@
+const langTerms = ["berry"]; module.exports = langTerms;

@@ -1,0 +1,1 @@
+const langTerms = ["ayam penyet","bedek"]; module.exports = langTerms;

@@ -1,0 +1,1 @@
+const cat = ["all fart and no shit","anneh","apu neh neh","ar ka chiu ji","balls drop","balls shrink","basket","big fuck","bird bird","blur cock","bo chi","bo hiu","bo ta bo lam pa","butoh","cock stand","cock steam","die cock stand","fuck spider","hong gan","kam lan","kan","lin lao bu","lin lao peh","pui","sia","steam","wa kao","wa ko"]; module.exports = cat;

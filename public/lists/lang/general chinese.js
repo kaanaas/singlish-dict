@@ -1,0 +1,1 @@
+const langTerms = ["5-10","ah","ah then","ah tiong","aiyah","aiyoh","bittergourd","blue ginger","borrow","colour","heart pain","lend"]; module.exports = langTerms;

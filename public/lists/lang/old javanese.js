@@ -1,0 +1,1 @@
+const langTerms = ["bandung"]; module.exports = langTerms;

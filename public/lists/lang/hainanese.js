@@ -1,0 +1,1 @@
+const langTerms = ["art buah"]; module.exports = langTerms;

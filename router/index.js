@@ -11,15 +11,15 @@ app.set("views", path.join(__dirname, "/views"));
 
 
 /* import generated Trie */
-const Trie = require("./public/scripts/trie");
-const trie = require("./public/scripts/generate_trie");
+const Trie = require("../public/scripts/trie");
+const trie = require("../public/scripts/generate_trie");
 
 // Import dictionary + details
-const details = require("./public/dict/details.json");
-const dict = require("./public/dict/dict.json");
+const details = require("../public/dict/details.json");
+const dict = require("../public/dict/dict.json");
 
 // Import source details
-const sources = require("./public/sources/sources.json");
+const sources = require("../public/sources/sources.json");
 
 
 router.get("/", async (req, res) => {

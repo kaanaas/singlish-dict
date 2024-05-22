@@ -1,0 +1,1 @@
+const langTerms = ["basha"]; module.exports = langTerms;

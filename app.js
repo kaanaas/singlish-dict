@@ -11,13 +11,17 @@ app.set("views", path.join(__dirname, "/views"));
 
 app.listen(port);
 
-const index = require("./index");
+const index = require("./router/index");
 app.get("/", index);
 
 // word request page
 app.get("/word_request", (req, res) => {
     res.render("./word_request", {});
 });
+
+// langs page
+const langsRouter = require("./router/langsRouter");
+app.get("/langs", langsRouter);
 
 // sources page
 const sources = require("./public/sources/sources.json");

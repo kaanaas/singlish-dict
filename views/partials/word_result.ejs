@@ -79,14 +79,14 @@
         <% for(let i = 0; i < word.particles.length; i++) { %>
             <div class="particle-wrapper">
                 <div class="particle-lead">
-                    <h4 class="particle"><a href="./?q=<%= word.particles[i].particle %>"><%= word.particles[i].particle %></a></h4>
+                    <h4 class="particle"><a href="./?q=<%= word.particles[i].particle.replace(/[^0-9a-zA-Z ',\-]/g, "") %>"><%= word.particles[i].particle %></a></h4>
                     <div class="particle-dets">
                         <div class="sameRow">
                             <h4 class="pt-effect">effect: </h4>
-                            <p><%- word.particles[i].effect %></p>
+                            <p class="pt-effect-text"><%- word.particles[i].effect %></p>
                         </div>
                         <div class="sameRow">
-                            <h4 class="pt-effect">meaning: </h4>
+                            <h4 class="pt-effect"> — </h4>
                             <p><%- word.particles[i].meaning %></p>
                         </div>
                         <p class="word-example text"><%- word.particles[i].example %></p>

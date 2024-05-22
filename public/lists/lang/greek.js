@@ -1,0 +1,1 @@
+const langTerms = ["paktology"]; module.exports = langTerms;

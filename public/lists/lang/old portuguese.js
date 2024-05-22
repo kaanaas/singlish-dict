@@ -1,0 +1,1 @@
+const langTerms = ["jibra"]; module.exports = langTerms;

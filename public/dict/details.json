@@ -3750,7 +3750,7 @@
         "etyNotes": "Probably developed independently in China, but like the similar form @{aiyo}, could have possibly been borrowed into Chinese languages from Tamil ஐயோ aiyō. See @{aiyoyo} (Tamil ஐயையோ, aiyaiyō).",
         "origin": [
             {
-                "lang": "chinese",
+                "lang": "general chinese",
                 "traditional": "哎呀",
                 "simplified": "哎呀",
                 "roman": "āiyā",
@@ -3828,7 +3828,7 @@
                 "etyLit": false
             },
             {
-                "lang": "chinese",
+                "lang": "general chinese",
                 "traditional": "哎喲",
                 "simplified": "哎哟",
                 "roman": "āiyō",
@@ -8234,7 +8234,7 @@
                 "romanization": "",
                 "lit": "bluff; lie",
                 "etyPath": [
-                    "Javanese (possibly)"
+                    "javanese"
                 ],
                 "etyLit": [
                     "ask riddles"
@@ -8242,7 +8242,7 @@
                 "etyScript": false,
                 "etyTrad": false,
                 "etyRoman": [
-                    "bedek-bedekan"
+                    "#{poss} bedek-bedekan"
                 ],
                 "etyScheme": false
             }

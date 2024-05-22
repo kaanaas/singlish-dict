@@ -1,0 +1,1 @@
+const langTerms = ["achar"]; module.exports = langTerms;
