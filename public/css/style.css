@@ -20,6 +20,11 @@
     src: url("./fonts/SimSunCut.woff2")format("woff2"),
 }
 
+@font-face {
+    font-family: "Prata";
+    src: url("./fonts/Prata.ttf")format("ttf"),
+}
+
 /* @font-face {
     font-family: "SimSun";
     src: url("https://db.onlinewebfonts.com/t/b4a89f5837a3f561b244965550593f37.eot");
@@ -102,6 +107,15 @@ h2 {
     font-size: 0.75em;
     color: var(--grey-green);
     text-decoration: none!important;
+}
+
+.not-selectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 
 /* custom content classes */
@@ -1144,7 +1158,7 @@ footer {
 }
 
 .pie-circle {
-    fill:none;
+    fill: none;
     stroke-width: 10;
     transition: 0.25s;
     z-index: 1;

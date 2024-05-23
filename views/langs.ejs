@@ -16,7 +16,7 @@
                 <div class="langs-head-div">
                     <h2 class="subpage-title">Languages of Origin</h2>
                     <p class="langs-msg">This page lists all recorded languages of origin for entries defined in the dictionary.</p>
-                    <p class="langs-msg">Click on a language name, or its slice in the pie chart, for a full list of all terms with origins in that language.</p>
+                    <p class="langs-msg">Click on a language name, or double-click its slice in the pie chart, for a full list of all terms with origins in that language.</p>
                     <p class="langs-msg">Note that etymologies are typically only traced back to the primary or secondary ancestors of a term, and so older ancestors may not always be included.</p>
                 </div>
                 <hr>
@@ -30,10 +30,10 @@
                                     stroke-dasharray="<%= dashArray[i] %>, <%= 2*Math.PI*radius - dashArray[i] %>"
                                     stroke-dashoffset="<%= offset %>"
                                     stroke="<%= colourArray[i] %>"
-                                    onclick="location.href = './langs?l=<%= langsArray[i] %>'"
+                                    ondblclick="location.href = './langs?l=<%= langsArray[i] %>'"
                                 />
-                                <text class="percent-text" x="50%" y="50%"><%= +(100* dashArray[i] / (2*Math.PI*radius)).toFixed(2) %>%</text>
-                                <text class="lang-name-text" x="50%" y="96%"><%= langsArray[i] %></text>
+                                <text class="percent-text not-selectable" x="50%" y="50%"><%= +(100* dashArray[i] / (2*Math.PI*radius)).toFixed(2) %>%</text>
+                                <text class="lang-name-text not-selectable" x="50%" y="96%"><%= langsArray[i] %></text>
                             </g>
                         <% } %>
                     </svg>
