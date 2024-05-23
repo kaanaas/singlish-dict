@@ -41,8 +41,40 @@ router.get("/langs", async (req, res) => {
             });
         }
     } else {
+        // generate main lang page
+        // calculate pie chart info
+        let totalCount = 0;
+        let langsArray = [];
+        let dashArray = [];
+        let colourArray = [];
+        let goldenAngle = 137.508;
+
+        for (const [lang, count] of Object.entries(langs)) {
+            totalCount += count;
+        }
+
+        const radius = 13;
+        const cf = 2 * Math.PI * radius;
+        let i = 0;
+        // const strokeOffset = cf / 4;
+        for (const [lang, count] of Object.entries(langs)) {
+            let angle = count / totalCount;
+            // console.log(lang, angle);
+            langsArray.push(lang);
+            dashArray.push(angle * cf);
+            colourArray.push(`hsl(${i * goldenAngle}, 72%, 34%)`);
+            i++;
+        }
+
+        // render page
         res.render("./langs", {
-            langs: langs
+            langs: langs,
+
+            // for pie chart only
+            radius: radius,
+            dashArray: dashArray,
+            langsArray: langsArray,
+            colourArray: colourArray
         });
     }
 })

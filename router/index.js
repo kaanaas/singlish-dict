@@ -24,7 +24,7 @@ const sources = require("../public/sources/sources.json");
 
 router.get("/", async (req, res) => {
     if (req.query.q) {
-        let searchInput = req.query.q.toLowerCase()
+        let searchInput = req.query.q.toLowerCase().trim();
         let majorFormResult = trie.search(searchInput);
         let prefixResult = trie.startsWith(searchInput);
         let results = [];
