@@ -16,7 +16,7 @@
                 <div class="langs-head-div">
                     <h2 class="subpage-title">Languages of Origin</h2>
                     <p class="langs-msg">This page lists all recorded languages of origin for entries defined in the dictionary.</p>
-                    <p class="langs-msg">Click on a language name, or double-click its slice in the pie chart, for a full list of all terms with origins in that language.</p>
+                    <p class="langs-msg">Click on a language name for a full list of all terms with origins in that language.</p>
                     <p class="langs-msg">Note that etymologies are typically only traced back to the primary or secondary ancestors of a term, and so older ancestors may not always be included.</p>
                 </div>
                 <hr>
@@ -27,6 +27,7 @@
                             <% offset += dashArray[i]; %>
                             <g>
                                 <circle name="<%= langsArray[i] %>" class="pie-circle" r="<%= radius %>" cx="50%" cy="50%" 
+                                    style="fill: none;"
                                     stroke-dasharray="<%= dashArray[i] %>, <%= 2*Math.PI*radius - dashArray[i] %>"
                                     stroke-dashoffset="<%= offset %>"
                                     stroke="<%= colourArray[i] %>"
