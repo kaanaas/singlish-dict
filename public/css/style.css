@@ -1170,7 +1170,7 @@ svg g:hover .lang-name-text {
 }
 
 .percent-text {
-    font-size: 2.75;
+    font-size: 2.75px;
     color: var(--black);
     alignment-baseline: middle;
     text-anchor: middle;
@@ -1178,7 +1178,7 @@ svg g:hover .lang-name-text {
 }
 
 .lang-name-text {
-    font-size: 3.25;
+    font-size: 3.25px;
     font-weight: bold;
     color: var(--black);
     text-anchor: middle;
