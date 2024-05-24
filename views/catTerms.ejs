@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <head>   
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+    </head>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="/" class="title">Chimbridge Singlish Dictionary</a></h1>
+        </div>
+        <div class="content">
+            <div class="def-box">
+                <div class="langs-head-div">
+                    <h2 class="subpage-title">Category: <i class="cat-name"><%= cat %></i></h2>
+                    <p class="src-msg">This page lists all currently defined terms tagged in the category <strong style="font-family: Crimson Text;"><%= cat %></strong>.</p>
+                </div>
+                <hr>
+                <div class="result">
+                    <ul class="prefix-list">
+                    <% catTerms = catTerms.sort(); %>
+                    <% for(let i = 0; i < catTerms.length; i++){ %>    
+                        <li><a href="/?q=<%= catTerms[i] %>"><%= catTerms[i] %></a></li>
+                    <% } %>
+                    </ul>
+                </div>
+                <hr>
+                <p class="langs-msg">If you believe a term is wrongly tagged, or a term should belong in this category, please drop me a suggestion!</p>
+                <div class="button-row">
+                    <button class="home-button" onclick="location.href='/cat';">Back to List</button>
+                    <button class="home-button" onclick="location.href='/';">Home</button>
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <%- include("./partials/footer") %>
+</html>

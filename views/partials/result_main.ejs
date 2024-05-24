@@ -33,7 +33,21 @@
                                     <%- formatDyno(word.origin[i].traditional) %></h3>
                             </div>
                             <div class="roman-flex">
-                                <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
+                                <% if(word.origin[i].romanization == undefined || word.origin[i].romanization == ""){ %>
+                                    <% if(word.origin[i].lang.toLowerCase().includes("chinese")){ %>
+                                        <p class="romanization">pinyin:</p>
+                                    <% } else if(word.origin[i].lang.toLowerCase().includes("hokkien")){ %>
+                                        <p class="romanization">poj:</p>
+                                    <% } else if(word.origin[i].lang.toLowerCase().includes("cantonese")){ %>
+                                        <p class="romanization">jyutping:</p>
+                                    <% } else if(word.origin[i].lang.toLowerCase().includes("teochew")){ %>
+                                        <p class="romanization">peng'im:</p>
+                                    <% } else if(word.origin[i].lang.toLowerCase().includes("mandarin")){ %>
+                                        <p class="romanization">pinyin:</p>
+                                    <% } %>
+                                <% } else { %>
+                                    <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
+                                <% } %>
                                 <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
                             </div>
                         <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
@@ -72,7 +86,7 @@
                                     <p class="ortho-origin-ext small-caps"><%= langName %></p>
                                     
                                     <% if(chineseLangs.includes(word.origin[i].lang.toLowerCase())){ %>
-                                        <% if(word.origin[i].romanization == undefined || word.origin[i].romanization == undefined){ %>
+                                        <% if(word.origin[i].romanization == undefined || word.origin[i].romanization == ""){ %>
                                             <% if(word.origin[i].lang.toLowerCase().includes("chinese")){ %>
                                                 <p class="romanization">(pinyin)</p>
                                             <% } else if(word.origin[i].lang.toLowerCase().includes("hokkien")){ %>

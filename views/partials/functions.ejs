@@ -8,7 +8,7 @@
             for (let i = 0; i < match.length; i++){
                 let word = match[i].substring(2, match[i].length - 1);
                 let wordUrl = match[i].substring(2, match[i].length - 1).replace(/ /g,"%20");
-                s = s.replace(match[i], `\<a href="./?q=${wordUrl}" class="underline">\<i>${word}\</i>\</a>`)
+                s = s.replace(match[i], `\<a href="./?q=${wordUrl}" class="underline">\<i>${word}\</i>\</a>`);
             }
         }
 
@@ -42,7 +42,7 @@
                 // wiktionary link
                 if(word.toLowerCase().substring(0, 2) == "w:") {
                     let wordUrl = word.substring(2, word.length);
-                    s = s.replace(matchHash[i], `\<a href="https://en.wiktionary.org/wiki/${wordUrl}" class="underline">\<i>${wordUrl}\</i>\</a>`)
+                    s = s.replace(matchHash[i], `\<a href="https://en.wiktionary.org/wiki/${wordUrl}" class="underline">\<i>${wordUrl}\</i>\</a>`);
                 }
 
                 // special symbols
@@ -62,6 +62,31 @@
                     s = s.replace(matchHash[i], "");
                     s = "\<p style=\"color: red;\">" + s + "\</p>";
                 }
+            }
+        }
+        return s;
+    }
+
+    formatNym = function (s) {
+        // synonyms
+        const regExStr = /\*\{([0-9a-zA-Z ',\-]{1,})\}/g;
+        const match = s.match(regExStr);
+        if (match) {
+            for (let i = 0; i < match.length; i++){
+                let word = match[i].substring(2, match[i].length - 1);
+                s = s.replace(match[i], word)
+            }
+        }
+        return s;
+    }
+
+    formatNymLink = function (s) {
+        // synonyms
+        const regExStr = /\*\{([0-9a-zA-Z ',\-]{1,})\}/g;
+        const match = s.match(regExStr);
+        if (match) {
+            for (let i = 0; i < match.length; i++){
+                s = s.replace(match[i], '');
             }
         }
         return s;

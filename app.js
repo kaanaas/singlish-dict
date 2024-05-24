@@ -23,6 +23,10 @@ app.get("/word_request", (req, res) => {
 const langsRouter = require("./router/langsRouter");
 app.get("/langs", langsRouter);
 
+// cats page
+const catsRouter = require("./router/catsRouter");
+app.get("/cat", catsRouter);
+
 // sources page
 const sources = require("./public/sources/sources.json");
 app.get("/sources", (req, res) => {

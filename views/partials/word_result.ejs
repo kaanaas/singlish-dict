@@ -33,8 +33,8 @@
                             <p class="synonyms-leader nyms-leader" name="synonyms-leader">synonyms:</p>
                             <div class="nyms-flex-results">
                             <% for(let k = 0; k < posDet[j].synonyms.length; k++){ %>
-                                <a class="nyms-list" href=<%- `./?q=${posDet[j].synonyms[k].replace(/ /g,"%20")}` %>>
-                                    <%= posDet[j].synonyms[k] %></a>
+                                <a class="nyms-list" href=<%- `./?q=${ formatNymLink(posDet[j].synonyms[k]).trim().replace(/ /g,"%20") }#particles` %>>
+                                    <%- formatNym(posDet[j].synonyms[k]).trim() %></a>
                             <% } %>
                             </div>
                         </div>
@@ -44,8 +44,8 @@
                             <p class="antonyms-leader nyms-leader" name="antonyms-leader">antonyms:</p>
                             <div class="nyms-flex-results">
                             <% for(let k = 0; k < posDet[j].antonyms.length; k++){ %>
-                                <a class="nyms-list" href=<%- `./?q=${posDet[j].antonyms[k].replace(/ /g,"%20")}` %>>
-                                    <%= posDet[j].antonyms[k] %></a>
+                                <a class="nyms-list" href=<%- `./?q=${ formatNymLink(posDet[j].antonyms[k]).trim().replace(/ /g,"%20") }#particles` %>>
+                                    <%- formatNym(posDet[j].antonyms[k]).trim() %></a>
                             <% } %>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
     <!-- particles -->
     <% if(word.hasOwnProperty("particles")){ %>
     <% if(word.particles.length> 0) { %>
-    <div class="defs">
+    <div class="defs" id="particles">
         <h3 class="defs-leader" style="cursor: default;">particles</h3>
         <% for(let i = 0; i < word.particles.length; i++) { %>
             <div class="particle-wrapper">

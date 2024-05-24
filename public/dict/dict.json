@@ -1138,7 +1138,11 @@
         "can die"
     ],
     "can is can": [
-        "can is can"
+        "can is can",
+        "if can can",
+        "if can, can",
+        "can is can, cannot is cannot",
+        "can is can cannot is cannot"
     ],
     "cangkul": [
         "cangkul",
@@ -3950,11 +3954,11 @@
     "lun zun": [
         "lun zun"
     ],
-    "lupcheong": [
-        "lupcheong",
-        "lapcheong",
+    "lup cheong": [
         "lup cheong",
-        "lap cheong"
+        "lupcheong",
+        "lap cheong",
+        "lapcheong"
     ],
     "ma": [
         "ma",
@@ -6662,5 +6666,20 @@
     ],
     "sorry no cure": [
         "sorry no cure"
+    ],
+    "et": [
+        "et",
+        "entrenching tool"
+    ],
+    "et stick": [
+        "et stick",
+        "entrenching tool stick"
+    ],
+    "et blade": [
+        "et blade",
+        "entrenching tool blade"
+    ],
+    "end up": [
+        "end up"
     ]
 }

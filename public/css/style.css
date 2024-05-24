@@ -85,11 +85,18 @@ ol {
 
 ol li {
     margin-bottom: 0.25em;
+    margin-top: 0.75em;
 }
 
 h2 {
     margin-top: .33rem;
     margin-bottom: .75em;
+}
+
+br {
+    content: "";
+    display: block;
+    margin: 0.4em;
 }
 
 .hr-pale {
@@ -122,6 +129,9 @@ h2 {
 
 .text {
     color: var(--black);
+    text-align: justify;
+    text-indent: 1em;
+    
 }
 
 .cn-fallback {
@@ -234,7 +244,7 @@ input[type=text] {
     color: var(--subh);
     font-size: 0.85em;
     font-family: "Prata";
-    font-style: italic;
+    /* font-style: italic; */
     z-index: 3;
     cursor: pointer;
 }
@@ -731,6 +741,9 @@ input[type=text] {
 
 .definition {
     color: var(--black);
+    text-align: justify;
+    word-wrap: break-word;
+    /* text-wrap: balance; */
 }
 
 .details {
@@ -1030,28 +1043,63 @@ footer {
     margin-bottom: 5em;
 }
 
-.footer-content {
+.footer-card {
     position: relative;
     left: 50%;
     transform: translateX(-50%);
     margin-top: 5em;
 
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-evenly;
-    
-    min-width: 50vmin;
-    max-width: 60vmin;
-    padding: 0.5rem 4rem 1rem 4rem;
+    min-width: 90%;
+    max-width: 96%;
+    padding: 0.5rem 1rem 1rem 1rem;
     background-color: var(--bg-shadow-solid);
     border-radius: 0.5rem;
 }
 
-.footer p, 
-.footer a {
+.footer-hr {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    height: 0;
+    border-top: 2px solid var(--bg);
+}
+
+.footer-content {
+    margin-left: .5em;
+    padding-bottom: 1em;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 0.5em;
+}
+
+.footer-signature {
     color: var(--subh);
-    font-size: .85em;
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.footer-nav-button {
+    padding: 2px 12px;
+    background-color: var(--grey);
+    border-radius: 0.5rem;
+    box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
+}
+
+.footer-nav-button:hover {
+    opacity: 90%;
+}
+
+.footer-nav-item {
+    color: var(--offwhite);
+    font-size: 0.9em;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 2.5em;
 }
 
 /* sources */
@@ -1203,4 +1251,43 @@ svg g:hover .lang-name-text {
     color: var(--black);
     text-anchor: middle;
     z-index: 2;
+}
+
+/* cats */
+.cat-name {
+    color: var(--subh);
+}
+
+.cats-list {
+    margin-left: 1.5em;
+    list-style-type: '❧';
+    list-style-position: outside;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+@media screen and (max-width: 480px) {
+    .cats-list {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+    }
+}
+
+.cats-list li {
+    font-family: "Crimson Text";
+    margin-bottom: 0.6em;
+    padding-left: 1em;
+    margin-right: 1.25em;
+    margin-left: 1.25em;
+}
+
+.cats-list a {
+    font-family: "Literata";
+    font-style: italic;
+    color: var(--black);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: var(--subh-lighter);
 }

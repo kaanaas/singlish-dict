@@ -13,9 +13,9 @@
     // search bar character limiting
     searchBar.addEventListener("input", () => {
         let searchInput = document.getElementById("search-input").value;
-        if(/[^a-zA-Z0-9 '\-$]/.test(searchInput)){
+        if(/[^a-zA-Z0-9 ,'\-$]/.test(searchInput)){
             alert("Only alphanumeric characters, spaces, hyphens, apostrophes, and certain limited special characters are allowed.");
-            searchBar.value = searchInput.replace(/[^a-zA-Z0-9 '\-$]/g, '');
+            searchBar.value = searchInput.replace(/[^a-zA-Z0-9 ,'\-$]/g, '');
         }
     });
 

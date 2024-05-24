@@ -2988,8 +2988,8 @@
         "origin": [
             {
                 "lang": "hokkien",
-                "traditional": "爱莫",
-                "simplified": "愛莫",
+                "traditional": "愛莫",
+                "simplified": "爱莫",
                 "roman": "ài-m̄-ài",
                 "romanization": "poj",
                 "lit": "(interrogative) (do you) want or not want (sth.)?; 愛 (want) + contraction of 毋愛 (not want)",
@@ -3603,7 +3603,7 @@
         "meanings": {
             "interrogative": [
                 {
-                    "definition": "(do you) want or not want (something, or to do something)?",
+                    "definition": "'(do you) want or not want (something, or to do something)?'",
                     "example": "After school we going bowling, aimai?",
                     "exampleSource": "@comm",
                     "synonyms": false,
@@ -5239,7 +5239,7 @@
             "particle": [
                 {
                     "definition": "(interrogative) used at the end of a statement to turn it into a yes/no question",
-                    "example": "She got ask.\r\n<br>→She got ask anot?",
+                    "example": "She got ask.\r\n<br>→ She got ask anot?",
                     "exampleSource": "@comm",
                     "synonyms": [
                         "bo"
@@ -15133,19 +15133,25 @@
                     "example": "Everyone always says \"Malaysia boleh!\", but does anyone ever stop to think if Malaysia should?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "eh sai"
+                        "eh sai",
+                        "can"
                     ],
                     "antonyms": [
-                        "buay sai"
+                        "buay sai",
+                        "cannot",
+                        "tak boleh"
                     ]
                 },
                 {
                     "definition": "may; to be permitted to",
                     "synonyms": [
-                        "eh sai"
+                        "eh sai",
+                        "can"
                     ],
                     "antonyms": [
-                        "buay sai"
+                        "buay sai",
+                        "cannot",
+                        "tak boleh"
                     ]
                 }
             ]
@@ -16090,10 +16096,14 @@
                     "example": "- Can find anyone to cover my shift next weekend?<br>- Buay sai, it's the CNY long weekend, no one will do it lah.",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "buay"
+                        "buay",
+                        "cannot",
+                        "tak boleh"
                     ],
                     "antonyms": [
-                        "eh sai"
+                        "eh sai",
+                        "can",
+                        "boleh"
                     ]
                 }
             ]
@@ -16921,23 +16931,54 @@
                         "eh sai",
                         "boleh",
                         "ok can"
+                    ],
+                    "antonyms": [
+                        "cannot",
+                        "buay sai",
+                        "tak boleh"
                     ]
                 },
                 {
                     "definition": "(low to rising tone, long vowel) used to indicate reassurance or confirmation",
                     "example": "- <b>Can</b>. Trust me.<br>\r\n- Cannot then how?\r\n<br>- Don't worry. Can is <b>can</b>.",
-                    "exampleSource": "@comm"
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh sai",
+                        "boleh"
+                    ],
+                    "antonyms": [
+                        "cannot",
+                        "buay sai",
+                        "tak boleh"
+                    ]
                 }
             ],
             "verb": [
                 {
-                    "definition": "to be able to; to know how to",
+                    "definition": "to be able to",
                     "example": "If can then tell me can lah.",
                     "exampleSource": "@comm",
                     "synonyms": [
                         "eh sai",
                         "boleh",
                         "eh hiao"
+                    ],
+                    "antonyms": [
+                        "cannot",
+                        "buay hiao",
+                        "tak boleh"
+                    ]
+                },
+                {
+                    "definition": "to know how to",
+                    "example": "Wah your Jimmy is so clever. Primary school only but algebra he can already!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh hiao"
+                    ],
+                    "antonyms": [
+                        "cannot",
+                        "buay hiao"
                     ]
                 },
                 {
@@ -16947,12 +16988,20 @@
                     "synonyms": [
                         "eh sai",
                         "boleh"
+                    ],
+                    "antonyms": [
+                        "cannot",
+                        "buay sai",
+                        "tak boleh"
                     ]
                 },
                 {
                     "definition": "to possibly be; to have the potential to",
                     "example": "Today the office hot until can @{pengsan}.",
-                    "exampleSource": "@comm"
+                    "exampleSource": "@comm",
+                    "antonyms": [
+                        "cannot"
+                    ]
                 }
             ],
             "particle": [
@@ -17139,5 +17188,521 @@
                 "effect": "questioning possibility"
             }
         ]
+    },
+    "can anot": {
+        "word": "can anot",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "can",
+                "romanization": "",
+                "lit": "see @{can} for details",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "can"
+                ],
+                "etyLit": [
+                    "able to; know how to; may; be possible; potentially be"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "anot",
+                "romanization": "",
+                "lit": "(interrog.) used at the end of a statement to turn it into a yes/no question",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "or not"
+                ],
+                "etyLit": [
+                    "optionally used at the end of a yes/no question to emphasize the negated option"
+                ]
+            }
+        ],
+        "meanings": {
+            "interrogative": [
+                {
+                    "definition": "'can it be done or not?'; used to question if something is possible, doable, or achievable",
+                    "example": "The project if finish by next week can anot?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "can *{bo}"
+                    ]
+                },
+                {
+                    "definition": "'will this do?'; used to question if something is acceptable or correct",
+                    "example": "I put my bag here can anot?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "can *{bo}"
+                    ]
+                },
+                {
+                    "definition": "used to question if something is permissible; used to express doubt",
+                    "example": "Turn here? Can anot?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "how can",
+                        "can *{meh}"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "anot",
+            "boleh",
+            "can",
+            "eh hiao",
+            "eh sai"
+        ]
+    },
+    "can is can": {
+        "word": "can is can",
+        "usage": "Can be formed into longer sayings, such as \"<i>can is can, cannot is cannot</i>\", or variant forms such as \"<i>if can, can; if cannot, then cannot</i>\".",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "can",
+                "romanization": "",
+                "lit": "see @{can} for details",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "can"
+                ],
+                "etyLit": [
+                    "able to; know how to; may; be possible; potentially be"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "is",
+                "romanization": "",
+                "lit": "3p. sing. simple present form of 'to be'"
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "can",
+                "romanization": "",
+                "lit": "see @{can} for details",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "can"
+                ],
+                "etyLit": [
+                    "able to; know how to; may; be possible; potentially be"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "used to reassure somebody on, or (re)assert the validity or viability of, a previous statement of \"@{can}\".",
+                    "example": "@{I tell you}, can is can. No need so @{kancheong} like everyone else.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "can *{bo}"
+                    ]
+                }
+            ]
+        },
+        "particles": [
+            {
+                "particle": "lah",
+                "meaning": "(can is can), of course",
+                "example": "",
+                "exampleSource": "",
+                "effect": "reassurance, confirmation"
+            },
+            {
+                "particle": "one",
+                "meaning": "(can is can), I mean it; believe me, (can is can); certainly can, as is always so",
+                "example": "",
+                "exampleSource": "",
+                "effect": "persuasion; reassurance; appeal for faith"
+            },
+            {
+                "particle": "meh?",
+                "meaning": "can you really be sure?; is it really certain/possible?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "doubt; questioning"
+            },
+            {
+                "particle": "hor",
+                "meaning": "yes, (can) really (is can); believe me, (can is can); listen here, (can is can) for sure",
+                "example": "",
+                "exampleSource": "",
+                "effect": "didacticness; assurance; assertion of opinion"
+            }
+        ],
+        "related": [
+            "can"
+        ],
+        "category": [
+            "sayings"
+        ]
+    },
+    "can die": {
+        "word": "can die",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "can",
+                "romanization": "",
+                "lit": "able to; may; be possible; potentially be"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "die",
+                "romanization": "",
+                "lit": "become dead; stop living"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(exclamation) used to express intense fatigue, especially physical",
+                    "example": "This week OT like @{siao}; Tuesday I nearly sleep overnight at work. @{Shag} until can die!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "pengsan",
+            "shag"
+        ]
+    },
+    "cangkul": {
+        "word": "cangkul",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cangkul",
+                "romanization": "",
+                "lit": "hoe"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of adze hoe",
+                    "example": "The scout leader taught us how to efficiently dig a pit for a cooking fire using a small cangkul.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "et"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "et blade",
+            "et stick",
+            "parang"
+        ],
+        "phonetics": "[ˈt͡ʃaŋkʊl]"
+    },
+    "cannot": {
+        "word": "cannot",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cannot",
+                "romanization": "",
+                "lit": "unable to; able to; not know how to; may not; be impossible; not be permitted to",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "can",
+                    "not"
+                ],
+                "etyLit": [
+                    "able to; know how to; may; be possible; potentially be",
+                    "adverb used to negate sth."
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "used to disallow or reject, as a response to a request or action",
+                    "example": "- Mummy can I go watch Shrek 3 with my friend?<br>- Cannot! Finish your homework first then can.",
+                    "synonyms": [
+                        "buay sai",
+                        "tak boleh"
+                    ],
+                    "antonyms": [
+                        "can",
+                        "eh sai",
+                        "boleh"
+                    ]
+                },
+                {
+                    "definition": "(low to rising tone, long vowel) used to indicate dissuasion or denial",
+                    "example": "- <b>Cannot</b>. Trust me.<br>- Really meh? I thought maybe can.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "buay sai",
+                        "tak boleh"
+                    ],
+                    "antonyms": [
+                        "can",
+                        "eh sai",
+                        "boleh"
+                    ]
+                },
+                {
+                    "definition": "(with <i>be</i>) used to express to opinion that something should be impossible, or otherwise expressing surprise or disbelief that something thought unlikely or impossible has occurred",
+                    "example": "Huh? Ming Wei legit got top in class? Cannot be!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "how can"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to be unable to",
+                    "example": "I cannot @{tahan} already, need to @{pangsai}!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "buay sai",
+                        "tak boleh"
+                    ],
+                    "antonyms": [
+                        "can",
+                        "eh sai",
+                        "boleh"
+                    ]
+                },
+                {
+                    "definition": "to not know how to; to not be able to (for lack of skill or knowledge)",
+                    "example": "Wah so @{jialat}, maths fail science fail, even social studies he cannot one.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "buay hiao"
+                    ],
+                    "antonyms": [
+                        "can",
+                        "eh hiao"
+                    ]
+                },
+                {
+                    "definition": "may; to have permission to",
+                    "example": "- @{Cher}, @{can} I go toilet?<br>- No, you cannot.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "eh sai",
+                        "boleh"
+                    ],
+                    "antonyms": [
+                        "cannot",
+                        "buay sai",
+                        "tak boleh"
+                    ]
+                },
+                {
+                    "definition": "(with <i>be</i>, often sarcasm) to be impossible; to lack the potential to; to be unthinkably unlikely to. Often expressing disappointment or disbelief at something that has occurred.",
+                    "example": "Cannot be that @{I tell you} so many times to @{off} the oven, end up you still go and forget?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "usage": "For all particles, see <b>@{can}</b>."
+    },
+    "capteh": {
+        "word": "capteh",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "capteh",
+                "romanization": "",
+                "lit": "Malay term for jianzi (traditional Chinese shuttlecock game)"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "A popular traditional game which involves trying to keep a shuttlecock in the air primarily using the feet, with other parts of the leg or body except the hands often also allowed. The shuttlecock is made of a bunch of colourful rooster feathers attached at the quills to a weighted base of rubber and/or metal discs. Some modern examples may use plastic feathers or a plastic base.<br>It is similar in concept to keepie-uppies (using a shuttlecock instead of a football), and similarly can be played by passing the shuttlecock between multiple players while keeping it airborne.<br>The game originated in the Han dynasty of ancient China, and is known as 毽子, jiàn zi (\"little shuttlecock\") in Chinese.^{1}"
+                },
+                {
+                    "definition": "the shuttlecock used to play the game of capteh"
+                }
+            ]
+        },
+        "category": [
+            "games"
+        ],
+        "etyNotes": "Further etymology is unknown. The Malay word could have originated from an older word in Malay or Hokkien.^{1}",
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=274d6731-e5f5-4d5c-8341-9587b83d71e6#:~:text=Background,is%20also%20well%2Dknown%20internationally.",
+                "name": "2017, Bonny Tan. NLB. Singapore Infopedia - Capteh"
+            }
+        ]
+    },
+    "cari makan": {
+        "word": "cari makan",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cari",
+                "romanization": "",
+                "lit": "find; look for; seek"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "makan",
+                "romanization": "",
+                "lit": "eat; consume"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to eke out a living; to work solely to feed oneself",
+                    "example": "- Why are you still there if you hate the work and the hours?<br>- @{Bo pian}, cari makan lor.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "etyNotes": "(lit.) \"look for / seek food\". From a shortening of <i>makanan</i> (\"food\"), a metaphor for money or work in the sense of a livelihood and affording necessities and sustenance.",
+        "category": [
+            "sayings"
+        ]
+    },
+    "cari point": {
+        "word": "cari point",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cari",
+                "romanization": "",
+                "lit": "find; look for; seek"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "point",
+                "romanization": "",
+                "lit": "unit of score in a sport or game"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to curry favour; to use obsequious flattery and perform favours to gain privileges from someone, or get into their good books.",
+                    "example": "Don't try to cari point with me. I very fair one.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "angkat bola",
+                        "carry balls",
+                        "ar"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "angkat",
+            "carry"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "\"Point\" derives from the figurative phrase \"<i>score points</i>\" in English, meaning to win favour with or pander to."
+    },
+    "carrot cake": {
+        "word": "carrot cake",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "菜頭粿",
+                "simplified": "菜头粿",
+                "roman": "cai3 tao5 guê2",
+                "romanization": "",
+                "lit": "@{chai tow kway}",
+                "etyPath": [
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "菜头",
+                    "粿"
+                ],
+                "etyTrad": [
+                    "菜頭",
+                    "粿"
+                ],
+                "etyRoman": [
+                    "cai3 tao5",
+                    "guê2"
+                ],
+                "etyLit": [
+                    "radish; Chinese radish; daikon",
+                    "@{kueh}"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Another name for @{chai tow kway}.",
+                    "synonyms": [
+                        "chai tow kway"
+                    ]
+                },
+                {
+                    "definition": "a Cantonese version of the steamed radish and rice flour cake, popular as a dim sum dish. It is served as larger, flat cuboids (around 6 - 10 cm long on the longer dimensions, and 1 - 2 cm thick), which are usually pan-fried to obtain a crispy outside layer before serving. The cakes may include additional umami ingredients to boost their flavour, such as dried shrimp or @{lup cheong}. Can be eaten with various sauces, such as chilli sauce, kicap manis, and hoisin sauce.<br>Also known as turnip cake, or more accurately radish cake, in other English-speaking countries.",
+                    "example": "Steaming carts stacked with baskets of @{har gao}, carrot cake, chicken feet, and other dim sum goodies streamed endlessly out of the kitchen.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Direct calque from Teochew or some other southern Chinese language. \"Carrot\" comes from a mistranslation of 菜头/菜頭, cai3 tao5 (\"radish\") - specifically Chinese radish or daikon, the actual starchy vegetable ingredient in the dish - to \"carrot\"."
     }
 }

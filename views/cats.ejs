@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <head>   
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+    </head>
+
+    <body>
+        <div class="content banner">
+            <h1><a href="/" class="title">Chimbridge Singlish Dictionary</a></h1>
+        </div>
+        <div class="content">
+            <div class="def-box">
+                <div class="langs-head-div">
+                    <h2 class="subpage-title">Categories</h2>
+                    <p class="langs-msg">This page lists all recorded categories for entries defined in the dictionary.</p>
+                    <p class="langs-msg">Click on a category for a full list of all terms in that category.</p>
+                </div>
+                <hr>
+                <div>
+                    <ul class="cats-list">
+                    <% for(let i = 0; i < cats.length; i++){ %>
+                        <li><a class="langs-col" href="./cat?c=<%- cats[i].toLowerCase() %>"><%- cats[i] %></a></p>
+                    <% } %>
+                    </ul>
+                </div>
+                <hr>
+                <div class="button-row"><button class="home-button" onclick="location.href='/';">Home</button></div>
+            </div>
+        </div>
+    </body>
+
+    <%- include("./partials/footer") %>
+</html>
