@@ -5242,13 +5242,16 @@
                     "example": "She got ask.\r\n<br>→ She got ask anot?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "bo"
+                        "bo",
+                        "meh"
                     ]
                 }
             ]
         },
         "related": [
-            "isit"
+            "isit",
+            "ah",
+            "can anot"
         ],
         "etyNotes": "Use as a final particle to form an interrogative is adopted from Chinese languages, such as Min Nan 無, bô, or Cantonese 冇, mou2, directly translated to English \"or not\".",
         "phonetics": "/əˈnɔt˨/, [əˈnɔt̚˨]"
@@ -11556,7 +11559,8 @@
             "peng"
         ],
         "category": [
-            "sayings"
+            "sayings",
+            "ns"
         ],
         "origin": [
             {
@@ -17704,5 +17708,535 @@
             "cuisine"
         ],
         "etyNotes": "Direct calque from Teochew or some other southern Chinese language. \"Carrot\" comes from a mistranslation of 菜头/菜頭, cai3 tao5 (\"radish\") - specifically Chinese radish or daikon, the actual starchy vegetable ingredient in the dish - to \"carrot\"."
+    },
+    "carry@1": {
+        "word": "carry",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "carry balls",
+                "romanization": "",
+                "lit": "direct calque of @{angkat bola}",
+                "etyPath": [
+                    "singlish",
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "angkat bola",
+                    "angkat",
+                    "bola"
+                ],
+                "etyLit": [
+                    "curry favour",
+                    "carry; lift; raise",
+                    "ball"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to curry favour; to use obsequious flattery and perform favours to gain privileges from someone, or get into their good books.",
+                    "synonyms": [
+                        "angkat",
+                        "angkat bola",
+                        "carry balls"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "ar"
+        ],
+        "etyNotes": "Ellipsis of @{carry balls}, which is itself a direct calque of Malay/Singlish @{angkat bola}. Alternatively, a direct calque of Malay/Singlish ellipsis @{angkat}."
+    },
+    "carry@2": {
+        "word": "carry",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "carry",
+                "romanization": "",
+                "lit": "(gaming) to be almost singlehandedly responsible for the success of a team; to bring a team and other teammates to success through a largely individual effort; sb. or sth. that carries",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "carry"
+                ],
+                "etyLit": [
+                    "lift and transport (sb. or sth.)"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to be almost singlehandedly responsible for the success of a larger group or effort; to bring a group, team, or effort to success through a largely individual effort",
+                    "example": "When classes went online during Covid and the quality of teaching fell off a cliff, Youtube videos carried many a student through their degrees.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "someone or something responsible for a disproportionately major amount of the success of a group, team, or otherwise effort.",
+                    "example": "Sze Heng had to be the carry for the whole third year project, finishing 90% of the report while his groupmates were apparently 'too stressed' or 'too busy' to contribute.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "etyNotes": "Term probably originated in gaming."
+    },
+    "carry balls": {
+        "word": "carry balls",
+        "etyNotes": "Direct calque of Malay/Singlish @{angkat bola}.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "angkat bola",
+                "romanization": "",
+                "lit": "curry favour",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "angkat",
+                    "bola"
+                ],
+                "etyLit": [
+                    "carry; lift; raise",
+                    "ball"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to curry favour; to use obsequious flattery and perform favours to gain privileges from someone, or get into their good books.",
+                    "synonyms": [
+                        "angkat",
+                        "angkat bola",
+                        "carry"
+                    ]
+                }
+            ]
+        }
+    },
+    "cartoon": {
+        "word": "cartoon",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cartoon",
+                "romanization": "",
+                "lit": "often humorous or caricatured drawing or animation"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "ridiculous; absurd; foolish",
+                    "example": "Very cartoon ah you. Leave your expensive camera to chope table, think like nobody going to take. You think what, this place same like Singapore ah?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
+    "catch no ball": {
+        "word": "catch no ball",
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "掠無球",
+                "simplified": "掠无球",
+                "roman": "lia̍h-bô-kiû",
+                "romanization": "poj",
+                "lit": "not understand",
+                "etyPath": [
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "掠",
+                    "无",
+                    "球"
+                ],
+                "etyTrad": [
+                    "掠",
+                    "無",
+                    "球"
+                ],
+                "etyRoman": [
+                    "lia̍h",
+                    "bô",
+                    "kiû"
+                ],
+                "etyLit": [
+                    "catch; capture",
+                    "no; not; don't",
+                    "ball"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to not understand; to not grasp or comprehend",
+                    "example": "- 'Singlish' is just broken vernacular English. You can't list it under 'languages spoken'.<br>- Orh, Singlish no count isit? @{Limpeh ka li kong} until liddat you got catch any ball meh?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "liah bo kiu"
+                    ],
+                    "antonyms": [
+                        "understand"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "understooded"
+        ],
+        "etyNotes": "Direct calque from Singaporean Hokkien and Teochew phrase."
+    },
+    "cb leaf": {
+        "word": "cb leaf",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "chi bai",
+                "romanization": "",
+                "lit": "(vulgar) cunt; general term of insult or abuse",
+                "etyPath": [
+                    "min nan"
+                ],
+                "etyScript": [
+                    "膣屄"
+                ],
+                "etyTrad": [
+                    "膣屄"
+                ],
+                "etyRoman": [
+                    "chi-bai"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "(vulgar) cunt; vagina; vulva"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "leaf",
+                "romanization": "",
+                "lit": "usually green and flat organ of a plant, typically responsible for photosynthesis, transpiration, etc."
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar) the leaves of the <i>Dillenia suffruticosa</i> plant, known as @{simpuh air} in Malay or @{CB plant} in Singlish, which are around 12.5 - 38 by 6.5 - 25.5 cm in dimension.^{1} When the leaf is split open at the base near the petiole (stalk), it resembles a vulva, hence the nickname.<br>While soldiers are discouraged from using it as camouflage, its wide area and strength make it ideal as a dish or wrapper (@{bungkus}) for food like nasi lemak. In the jungle, these qualities also happen to make it decent toilet paper in a pinch.",
+                    "example": "In case you think I’m cherry-picking, I present you with the CB leaf. ... \"Gentlemen, I proudly announce that you’re no longer boys.\" Reminder: this screenplay was approved by MINDEF.",
+                    "exampleSource": "2021 June 2, Ivan K. Wu. Ricemedia.co - \"Classic Movie Reviews: Jack Neo’s Ah Boys to Men Franchise Is A Cultural Treasure\", https://www.ricemedia.co/culture-events-classic-movie-reviews-jack-neos-ah-boys-to-men-franchise-is-a-cultural-treasure-part-1/"
+                }
+            ]
+        },
+        "related": [
+            "cb",
+            "cb plant"
+        ],
+        "category": [
+            "nature",
+            "abbreviations",
+            "vulgar"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2847",
+                "name": "NParks Singapore - Flora and Fauna Web - Dillenia suffruticosa"
+            }
+        ]
+    },
+    "cb plant": {
+        "word": "cb plant",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "chi bai",
+                "romanization": "",
+                "lit": "(vulgar) cunt; general term of insult or abuse",
+                "etyPath": [
+                    "min nan"
+                ],
+                "etyScript": [
+                    "膣屄"
+                ],
+                "etyTrad": [
+                    "膣屄"
+                ],
+                "etyRoman": [
+                    "chi-bai"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "(vulgar) cunt; vagina; vulva"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "plant",
+                "romanization": "",
+                "lit": "member of the kingdom Plantae, (inf.) any similar vegetative or herbaceous organism",
+                "etyPath": [
+                    "old french",
+                    "latin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "planta",
+                    "plante"
+                ],
+                "etyLit": [
+                    "vegetative life in general; plants; vegetation",
+                    "any propagative vegetable part e.g. shoot or sprout; young tree; shrub"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar) the <i>Dillenia suffruticosa</i> plant, also known as <i>simpuh air</i> in Malay. It is a large shrub that grows up to 7 m tall.^{1} It is well known for its large leaves, which are nicknamed @{CB leaves|cb leaf} in Singlish.",
+                    "example": "... the trainer shown us this plant and told us it is a no-no to use its leave as camouflage material.<br>The trainer than proceeded to show us why it is called the CB plant: [sic]",
+                    "exampleSource": "2011 October 4, Tekko. RUN.EAT.GOSSIP - \"CB Leave\", https://runeatgossip.wordpress.com/2011/10/04/cb-leave/"
+                }
+            ]
+        },
+        "related": [
+            "cb",
+            "cb leaf"
+        ],
+        "category": [
+            "nature",
+            "abbreviations",
+            "vulgar"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2847",
+                "name": "NParks Singapore - Flora and Fauna Web - Dillenia suffruticosa"
+            }
+        ]
+    },
+    "cempedak": {
+        "word": "cempedak",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cempedak",
+                "romanization": "",
+                "lit": " Artocarpus integer var. integer tree, or its edible fruit"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the <i>Artocarpus integer</i> var. <i>integer</i> tree, or its edible fruit. The tree is native to Southeast Asia and grows up to 20 m tall, and bears large, capsule-shaped fruits around 20 - 35 cm long and 10 - 15 cm in diameter.^{1} The fruit has a thick, bumpy skin resembling that of a jackfruit, and has a fragrance resembling that of a durian, albeit less pungent and offensive. It is related to breadfruit and jackfruit.^{2}",
+                    "example": "Unlike other hawkers, the stall offers more inter-meal grub than a full meal, the highlight being their popular cempedak fritters. Despite it being of the same genus as jackfruit, this fruit was one I had yet to try.",
+                    "exampleSource": "2023 September 22, Zheng Yuan. SETHLUI.com - \"Geylang Lor 20 Banana Fritters: Cempedak, goreng pisang & creamy durian fritters including MSW from $1\". https://sethlui.com/geylang-lor-20-banana-fritters-singapore/"
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "/t͡ʃəm.pə.daʔ/",
+        "references": [
+            {
+                "link": "https://doi.org/10.1002%2Fajb2.1094",
+                "name": "Wang, M.M.; Gardner, E.M.; Chung, R.C.; Chew, M.Y.; Milan, A.R.; Pereira, J. T.; Zerega, N.J. (2018). \"Origin and diversity of an underutilized fruit tree crop, cempedak (Artocarpus integer, Moraceae)\". American Journal of Botany. 105 (5): 898–914."
+            },
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3309",
+                "name": "NParks Singapore - Flora and Fauna Web - Artocarpus integer var. integer"
+            }
+        ]
+    },
+    "cert": {
+        "word": "cert",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cert",
+                "romanization": "",
+                "lit": "(inf.) shortening of 'certificate'",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "certificate"
+                ],
+                "etyLit": [
+                    "official document or identification providing evidence of sth."
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "certificate",
+                    "example": "Can I have a copy of his birth cert?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "etyNotes": "Also commonly used in various English dialects. Informal shortening of 'certificate'."
+    },
+    "cha tow": {
+        "word": "cha tow",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "柴頭",
+                "simplified": "柴头",
+                "roman": "chhâ-thâu",
+                "romanization": "poj",
+                "lit": "(lit.) firewood; log; wood, (fig., of sb.) dull; thick; ignorant"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of a person) dull; thick; ignorant",
+                    "example": "I can't tell if the guy is @{acting blur|act blur} or actually just damn cha tow.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "kayu"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "blur"
+        ]
+    },
+    "cha tow peng": {
+        "word": "cha tow peng",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "柴頭",
+                "simplified": "柴头",
+                "roman": "chhâ-thâu",
+                "romanization": "poj",
+                "lit": "(lit.) firewood; log; wood, (fig., of sb.) dull; thick; ignorant"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "兵",
+                "simplified": "兵",
+                "roman": "peng",
+                "romanization": "poj",
+                "lit": "warrior; soldier"
+            }
+        ],
+        "etyNotes": "(lit.) firewood/log-head soldier",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dull, thick, or ignorant soldier",
+                    "example": "cha thau peng. 'Deadwood soldier': Hokkien. The phrase is conferred on a soldier who neither responds nor comprehends, ie a typical end-product of the present educational system.",
+                    "exampleSource": "1978, Leong Choon Cheong. Youth in the Army. p.305",
+                    "synonyms": [
+                        "kayu"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "blur sotong",
+            "bo peng yau si",
+            "peng",
+            "cha tow"
+        ],
+        "category": [
+            "ns"
+        ]
+    },
+    "chabor": {
+        "word": "chabor",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "查某",
+                "simplified": "查某",
+                "roman": "cha-bó͘ ",
+                "romanization": "poj",
+                "lit": "girl; woman"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "girl; woman",
+                    "example": "In the early days of the program, there were no chabors in the engineering department, but that is slowly starting to change now.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "ah girl",
+            "chio bu",
+            "siao cha bor",
+            "sui"
+        ],
+        "etyNotes": "The current Chinese characters, while standard and most commonly used in both Hokkien and Teochew, are a phonetic rendering with no actual semantic connection to the original word.<br>Nevertheless, the second character, 某, bó͘ , which is semantically supposed to mean \"woman; wife\", has now also been adopted as the standard character for \"wife\" in Hokkien; Teochew uses 𡚸, and 姥, \"old woman\" (in comparison to slang \"old man\" for husband) was historically also used in Min Nan orthography.<br>According to Tu (2018),  诸母/諸母, cha-bó͘  could be the original characters^{1} (although they would not normally be pronounced this way today). 母, bú is the character for \"mother, female\" - see @{bu} for more details.",
+        "references": [
+            {
+                "link": "http://www.twlls.org.tw/jtll/documents/13.2-1.pdf",
+                "name": "Tu, Chia-Lun (杜佳倫) (2018). 再論閩南, 閩東指稱男女性別的語詞來源――兼為吳守禮教授諸母, 丈夫說補證 (The Chinese Cognates of Some Words for Female and Male in Southern and Eastern Min). 《臺灣語文研究》, 13(2): 155-200."
+            }
+        ]
     }
 }

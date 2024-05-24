@@ -1210,25 +1210,29 @@
     "cert": [
         "cert"
     ],
-    "cha thau": [
-        "cha thau",
+    "cha tow": [
         "cha tow",
         "cha tao",
         "cha tau",
-        "char tow"
+        "char tow",
+        "cha thau"
     ],
-    "cha thau peng": [
-        "cha thau peng",
+    "cha tow peng": [
         "cha tow peng",
+        "cha thau peng",
         "cha tao peng",
-        "cha tau peng"
+        "cha tau peng",
+        "char tow peng"
     ],
     "chabor": [
         "chabor",
         "char bor",
         "zha bo",
         "zha bor",
-        "cha bor"
+        "cha bor",
+        "zhabor",
+        "zhabo",
+        "char bo"
     ],
     "chai poh": [
         "chai poh",
@@ -1391,6 +1395,17 @@
         "cheebye",
         "cheebai",
         "ji bai"
+    ],
+    "chee bai bin": [
+        "cb bin",
+        "chee bai bin",
+        "chee bye bin",
+        "chi bai bin",
+        "chibai bin",
+        "jibai bin",
+        "cheebye bin",
+        "cheebai bin",
+        "ji bai bin"
     ],
     "chee cheong fun": [
         "chee cheong fun",
@@ -2695,10 +2710,26 @@
         "otang"
     ],
     "i tell you": [
-        "i tell you",
-        "wa ka li kong",
+        "i tell you"
+    ],
+    "limpeh tell you": [
         "limpeh tell you",
-        "limpeh ka li kong"
+        "lim peh tell you",
+        "lin pe tell you",
+        "lin peh tell you"
+    ],
+    "limpeh ka li kong": [
+        "limpeh ka li kong",
+        "lim peh ka li kong",
+        "lin pe ka li kong",
+        "lin peh ka li kong"
+    ],
+    "wa ka li kong": [
+        "wa ka li kong"
+    ],
+    "ka li kong": [
+        "ka li kong",
+        "ga li gong"
     ],
     "ic": [
         "ic"
@@ -6681,5 +6712,15 @@
     ],
     "end up": [
         "end up"
+    ],
+    "happening": [
+        "happening"
+    ],
+    "understand": [
+        "understand"
+    ],
+    "nangka": [
+        "nangka",
+        "jackfruit"
     ]
 }

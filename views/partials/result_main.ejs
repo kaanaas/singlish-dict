@@ -36,7 +36,7 @@
                                 <% if(word.origin[i].romanization == undefined || word.origin[i].romanization == ""){ %>
                                     <% if(word.origin[i].lang.toLowerCase().includes("chinese")){ %>
                                         <p class="romanization">pinyin:</p>
-                                    <% } else if(word.origin[i].lang.toLowerCase().includes("hokkien")){ %>
+                                    <% } else if(word.origin[i].lang.toLowerCase().includes("hokkien") || word.origin[i].lang.toLowerCase().includes("min nan")){ %>
                                         <p class="romanization">poj:</p>
                                     <% } else if(word.origin[i].lang.toLowerCase().includes("cantonese")){ %>
                                         <p class="romanization">jyutping:</p>
@@ -89,7 +89,7 @@
                                         <% if(word.origin[i].romanization == undefined || word.origin[i].romanization == ""){ %>
                                             <% if(word.origin[i].lang.toLowerCase().includes("chinese")){ %>
                                                 <p class="romanization">(pinyin)</p>
-                                            <% } else if(word.origin[i].lang.toLowerCase().includes("hokkien")){ %>
+                                            <% } else if(word.origin[i].lang.toLowerCase().includes("hokkien") || word.origin[i].lang.toLowerCase().includes("min nan")){ %>
                                                 <p class="romanization">(poj)</p>
                                             <% } else if(word.origin[i].lang.toLowerCase().includes("cantonese")){ %>
                                                 <p class="romanization">(jyutping)</p>
@@ -165,7 +165,7 @@
                                             <% if(word.origin[i].etyScheme == false || word.origin[i].etyScheme == undefined || word.origin[i].etyScheme == undefined || word.origin[i].etyScheme[j] == undefined || word.origin[i].etyScheme[j] == ""){ %>
                                                 <% if(word.origin[i].etyPath[j].includes("chinese")){ %>
                                                     <p class="romanization">(pinyin)</p>
-                                                <% } else if(word.origin[i].etyPath[j].includes("hokkien")){ %>
+                                                <% } else if(word.origin[i].etyPath[j].includes("hokkien") || word.origin[i].etyPath[j].includes("min nan")){ %>
                                                     <p class="romanization">(poj)</p>
                                                 <% } else if(word.origin[i].etyPath[j].includes("cantonese")){ %>
                                                     <p class="romanization">(jyutping)</p>
@@ -224,13 +224,6 @@
                     </div>
                 <% } %>
             </div>
-
-            <div class="more-info-div">
-                <div class="ttip-ety">
-                    <i class="fa-solid fa-circle-down ety-extend" tabindex="0" onclick="swapEty('<%= variant %>')" id="ety-btn<%= variant %>"></i>
-                    <span class="tooltip-text" id="ety-tooltip<%= variant %>">Detailed etymology</span>
-                </div>
-            </div>
         </div>
 
         <!-- ety notes -->
@@ -244,13 +237,24 @@
         <% } %>
         <% } %>
     </div>
-    <hr>
+    <div class="more-info-wrapper">
+        <div class="more-info-div">
+            <div class="ttip-ety">
+                <span class="expand-text" id="expand-text<%= variant %>">details</span>
+                <i class="fa-solid fa-circle-down ety-extend" tabindex="0" onclick="swapEty('<%= variant %>')"
+                    id="ety-btn<%= variant %>"></i>
+                <span class="tooltip-text" id="ety-tooltip<%= variant %>">Detailed etymology</span>
+            </div>
+        </div>
+        <hr>
+    </div>
 </div>
 
 <script>
     function swapEty(v){
         const etyBtn = document.getElementById(`ety-btn${v}`);
         const etyTtip = document.getElementById(`ety-tooltip${v}`);
+        const etyExpandText = document.getElementById(`expand-text${v}`);
         const orthoContainer = document.getElementById(`ortho-container${v}`);
         const extContainer = document.getElementById(`ext-container${v}`);
         const etyNotes = document.getElementById(`ety-notes${v}`);
@@ -263,6 +267,7 @@
             if(etyNotes) etyNotes.style = "display: none; visibility: hidden";
             etyTtip.innerHTML = "Detailed etymology";
             etyBtn.style = "transform: rotate(0)";
+            // etyExpandText.style = "color:#6d946d";
         }
         else{
             orthoContainer.style = "display: none; visibility: hidden";
@@ -272,6 +277,7 @@
             if (etyNotes) etyNotes.style = "display: block; visibility: visible";
             etyTtip.innerHTML = "Collapse details";
             etyBtn.style = "transform: rotate(0.5turn)";
+            // etyExpandText.style = "color:#951818";
         }
     }
 
