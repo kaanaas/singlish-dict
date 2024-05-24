@@ -11,7 +11,7 @@
         <% } else { %>
             <% for(const [pos, posDet] of Object.entries(word.meanings)) { %>
             <h4><%= pos %></h4>
-            <ol type="1">
+            <ol type="1" class="defs-list">
                 <% for (let j = 0; j < posDet.length; j++) { %>
                     <!-- check if examples are given -->
                     <li class="definition"><%- formatDyno(posDet[j].definition) %></li> 

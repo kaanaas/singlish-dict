@@ -721,6 +721,10 @@ input[type=text] {
     margin: 0;
 }
 
+.defs-list {
+    margin-bottom: 1.15em;
+}
+
 .defs-leader {
     color: var(--black);
     font-size: 1.4em;
@@ -771,6 +775,7 @@ input[type=text] {
     text-align: justify;
     word-wrap: break-word;
     /* text-wrap: balance; */
+    margin-top: 0.5em;
 }
 
 .details {
