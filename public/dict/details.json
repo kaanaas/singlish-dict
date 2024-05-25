@@ -12489,8 +12489,8 @@
             ]
         }
     },
-    "hong gan": {
-        "word": "hong gan",
+    "hong kan": {
+        "word": "hong kan",
         "related": [
             "kan",
             "kan ni na"
@@ -12498,19 +12498,26 @@
         "category": [
             "vulgar"
         ],
+        "etyNotes": "#{poss} Whether 仾 is the actual origin or not is uncertain, and is not well attested.<br>人 is an alternative character for 侬/儂.",
         "origin": [
             {
                 "lang": "hokkien",
-                "traditional": "仾",
-                "simplified": "仾",
+                "traditional": "#{poss}仾",
+                "simplified": "#{poss}仾",
                 "roman": "hōng",
                 "romanization": "poj",
                 "lit": "(passive) to get (by someone)",
                 "etyPath": [
                     "hokkien"
                 ],
-                "etymology": [
-                    "予人"
+                "etyScript": [
+                    "予侬"
+                ],
+                "etyTrad": [
+                    "予儂"
+                ],
+                "etyRoman": [
+                    "hō͘-lâng"
                 ],
                 "etyLit": [
                     "by someone"
@@ -12522,16 +12529,13 @@
                 "simplified": "奸",
                 "roman": "kàn",
                 "romanization": "poj",
-                "lit": "fuck",
-                "etyPath": false,
-                "etymology": false,
-                "etyLit": false
+                "lit": "fuck"
             }
         ],
         "meanings": {
             "interjection": [
                 {
-                    "definition": "I'm/we're screwed",
+                    "definition": "(vulgar) 'I'm/we're screwed'; exclamation of despair or frustration at an unfortunate or terrible situation",
                     "example": "",
                     "exampleSource": "",
                     "synonyms": [
@@ -12562,13 +12566,7 @@
                 "simplified": "",
                 "roman": "how",
                 "romanization": "",
-                "lit": "how",
-                "etyPath": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "how"
             },
             {
                 "lang": "singlish",
@@ -17707,7 +17705,8 @@
         "category": [
             "cuisine"
         ],
-        "etyNotes": "Direct calque from Teochew or some other southern Chinese language. \"Carrot\" comes from a mistranslation of 菜头/菜頭, cai3 tao5 (\"radish\") - specifically Chinese radish or daikon, the actual starchy vegetable ingredient in the dish - to \"carrot\"."
+        "etyNotes": "Direct calque from Teochew or some other southern Chinese language. \"Carrot\" comes from a mistranslation of 菜头/菜頭, cai3 tao5 (\"radish\") - specifically Chinese radish or daikon, the actual starchy vegetable ingredient in the dish - to \"carrot\".",
+        "usage": "While \"carrot cake\" can refer to both @{chai tow kway} and the Cantonese dim sum dish, @{chai tow kway} specifically only refers to the Teochew dish and its variants."
     },
     "carry@1": {
         "word": "carry",
@@ -18237,6 +18236,287 @@
                 "link": "http://www.twlls.org.tw/jtll/documents/13.2-1.pdf",
                 "name": "Tu, Chia-Lun (杜佳倫) (2018). 再論閩南, 閩東指稱男女性別的語詞來源――兼為吳守禮教授諸母, 丈夫說補證 (The Chinese Cognates of Some Words for Female and Male in Southern and Eastern Min). 《臺灣語文研究》, 13(2): 155-200."
             }
+        ]
+    },
+    "chai poh": {
+        "word": "chai poh",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "菜脯",
+                "simplified": "菜脯",
+                "roman": "chhài-pó͘",
+                "romanization": "",
+                "lit": "(lit.) preserved / sun-dried vegetable; (fig.) dried preserved radish"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "dried preserved radish. Used as an ingredient to add an umami or salty flavour to several dishes, such as @{chai tow kway} and porridge. There are two main varieties available in Singapore - sweet and salty."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "chai sim": {
+        "word": "chai sim",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "菜心",
+                "simplified": "菜心",
+                "roman": "chhài-sim",
+                "romanization": "poj",
+                "lit": "the leafy green vegetable Brassica rapa var. parachinensis"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the leafy green vegetable <i>Brassica rapa</i> var. <i>parachinensis</i>. It has cream- to pale-yellow-coloured flowers, and grows quickly, being ready to harvest between 1.5 - 3 months after sowing. The plant is a popular ingredient in Chinese cooking, especially its shoots and young leaves.^{1}"
+                }
+            ]
+        },
+        "related": [
+            "kai lan",
+            "kang kong"
+        ],
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/5/9/5950",
+                "name": "NParks Singapore - Flora and Fauna Web - Brassica rapa Caisin Group [cai xin]"
+            }
+        ]
+    },
+    "chai tow kway": {
+        "word": "chai tow kway",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "菜頭粿",
+                "simplified": "菜头粿",
+                "roman": "cai3 tao5 guê2",
+                "romanization": "",
+                "lit": "chai tow kway; (lit.) radish/daikon steamed cake",
+                "etyPath": [
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "菜头",
+                    "粿"
+                ],
+                "etyTrad": [
+                    "菜頭",
+                    "粿"
+                ],
+                "etyRoman": [
+                    "cai3 tao5",
+                    "guê2"
+                ],
+                "etyLit": [
+                    "radish; Chinese radish; daikon",
+                    "@{kueh}"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a popular dish of Teochew origin, which uses a base of steamed radish cake made from shredded Chinese radish, rice flour, and water. The radish cake is then cut approximately into cubes (in some variations, long cuboids) with a square section of around 1 cm<sup>2</sup> (1 cm × 1 cm), and stir-fried with egg, fish sauce and/or soya sauce, @{chai poh}, finely-diced garlic, and white pepper. It can be fried with or without chilli, usually to request. It is usually then garnished with white pepper and spring onions before serving. Some hawkers may include fresh or dried prawns in the dish.<br>\r\nIf @{kicap manis} is added towards the end of the stir-frying process, the \"black\" version can be produced; if not, it is known as the \"white\" version. It is often possible to order a plate of half black and half white as well.",
+                    "example": "Later I will go downstairs and tell the chye tow kuey uncle downstairs that he is more capable than Obama because his chye tow kuey costs $3 per plate. He should really go into politics. At least he is friendly and never talks down to me. Neither does he ever claim that he sells the best chye tow kuey in Singapore.",
+                    "exampleSource": "2012 January 16, Molly Meek. In Appreciation of Chan Chun Sing. https://mollymeek.wordpress.com/2012/01/16/in-appreciation-of-chan-chun-sing/",
+                    "synonyms": [
+                        "carrot cake"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "chai poh",
+            "or ya peh ya som balik ah roti prata chai tow kway"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "usage": "While \"@{carrot cake}\" can refer to both chai tow kway and a @{Cantonese dim sum dish|carrot cake}, \"chai tow kway\" specifically only refers to the Teochew dish and its variants."
+    },
+    "cham": {
+        "word": "cham",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "慘",
+                "simplified": "惨",
+                "roman": "chhám",
+                "romanization": "",
+                "lit": "miserable; dismal; (of a loss) severe"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "awful; dismal",
+                    "synonyms": [
+                        "cui"
+                    ],
+                    "antonyms": [
+                        "upz"
+                    ]
+                },
+                {
+                    "definition": "miserable; pitiful",
+                    "antonyms": [
+                        "power"
+                    ]
+                },
+                {
+                    "definition": "(of or after a loss) severe; done for"
+                }
+            ]
+        }
+    },
+    "cham siong": {
+        "word": "cham siong",
+        "origin": [
+            {
+                "lang": "min nan / hakka",
+                "traditional": "參詳",
+                "simplified": "参详",
+                "roman": "chham-siông/siâng",
+                "romanization": "",
+                "lit": "study or examine carefully; discuss; exchange opinions"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to discuss; to exchange opinions; to negotiate",
+                    "example": "Oi! Peng yu, eh! Cham seong tam poh!",
+                    "exampleSource": "1994, C.S. Chong. NS: An Air-Level Story, p.117"
+                }
+            ]
+        },
+        "related": [
+            "agak tarik"
+        ],
+        "references": [
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/7058/",
+                "name": "教育部臺灣閩南語常用詞辭典 - 參詳"
+            }
+        ]
+    },
+    "chandu": {
+        "word": "chandu",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "candu",
+                "romanization": "",
+                "lit": "opium",
+                "etyPath": [
+                    "tamil"
+                ],
+                "etyScript": [
+                    "சாந்து"
+                ],
+                "etyRoman": [
+                    "cāntu"
+                ],
+                "etyLit": [
+                    "cement; mortar; paste"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "opium that has been prepared for smoking",
+                    "example": "Bukit Chandu, Malay for \"Opium Hill\", was the site of a last stand by Lieutenant Adnan Saidi and his platoon of 42 soldiers against the Japanese invaders during World War II. Their heroic sacrifice is commemorated with the museum and interpretive centre, <i>Reflections at Bukit Chandu</i>, located near Pasir Panjang MRT Station and just south-east of the site of the actual battle.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
+    "change parade": {
+        "word": "change parade",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "change",
+                "romanization": "",
+                "lit": "swap or replace clothing"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "parade",
+                "romanization": "",
+                "lit": "(mil.) organized procession involving soldiers marching in formation; soldiers composing the procession; general show or display of military force or drills"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a collective punishment involving a commander repeatedly sending a group of soldiers up to their bunks to change into various attires, such as full battle order or @{smart 4}, and then fall back into formation in front of the commander within an unreasonably short time.<br>After the soldiers inevitably fail to meet the impossible timings given, and trifling mistakes, imperfections, or anything unsatisfactory are found in the soldiers' dress, they are typically ordered to carry out some form of penalty (such as planks or push-ups). They are then ordered back up to change into a different set of attire. This procedure carries on until the commander exacting the punishment is satisfied or bored enough.<br>Despite the sardonic name of \"parade\", the soldiers are forced to \"march\" up and down without respite, in an affair ironically lacking any pomp or dignity whatsoever. While publicly \"banned\" since the 1990s, change parades have persisted as a popular punishment until today.",
+                    "example": "I feel change parade is the most @{bo liao} punishment. ... Failure in meeting the timing (always)would result in doing pushups (always). [sic]",
+                    "exampleSource": "2021 November 25, u/Greedy-Respond-5799. Reddit, https://www.reddit.com/r/NationalServiceSG/comments/r1kt1z/i_feel_change_parade_is_the_most_bo_liao/"
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ],
+        "etyNotes": "Would better correspond to \"<i>changing</i> parade\" in English grammar."
+    },
+    "change underwear": {
+        "word": "change underwear",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "change",
+                "romanization": "",
+                "lit": "swap or replace clothing"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "underwear",
+                "romanization": "",
+                "lit": "undergarments or underpants, such as briefs or panties"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(military) to swap an old sheet of @{telt} overlaying a map for a new one.",
+                    "example": "PS told me to change underwear because the telt was covered in various blotches, scratches, and marker smudges, and had become too cloudy to see any details on the map unerneath.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "ns",
+            "sayings"
         ]
     }
 }

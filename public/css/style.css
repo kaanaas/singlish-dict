@@ -280,7 +280,7 @@ input[type=text] {
     margin-bottom: 0.5em;
 }
 
-.word h3:not(.chinese-chars-ext, .ety-notes-leader) {
+.word h3:not(.chinese-chars-ext, .chinese-wrapper-ext, .ety-notes-leader) {
     margin-top: 0;
     margin-bottom: 0.33em;
     font-size: 2em;
@@ -438,6 +438,11 @@ input[type=text] {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+}
+
+.chinese-wrapper-ext h3 {
+    margin: 0!important;
+    margin-bottom: 0!important;
 }
 
 .chinese-chars {

@@ -15,50 +15,36 @@ for (const [word, detail] of Object.entries(details)) {
         for (let i = 0; i < detail["origin"].length; i++) {
             if (detail["origin"][i]["lang"]) {
                 // add lang to langs + term to list
-                if (langs.hasOwnProperty(detail["origin"][i]["lang"])) {
-                    let language = detail["origin"][i]["lang"].split(" / ");
-                    for (let k = 0; k < language.length; k++) {
-                        if (!sudah.includes(language[k])) {
-                            langs[language[k]]++;
-                            langTerms[language[k]].push(detail["word"]);
-                            sudah.push(language[k]);
-                        }
-                    }
+                // cases e.g. lang = "min nan / hakka"
+                let language = detail["origin"][i]["lang"].split(" / ");
 
-                } else {
-                    let language = detail["origin"][i]["lang"].split(" / ");
-                    for (let k = 0; k < language.length; k++) {
-                        if (!sudah.includes(language[k])) {
-                            langs[language[k]] = 1;
-                            langTerms[language[k]] = [detail["word"]];
-                            sudah.push(language[k]);
-                        }
+                for (let k = 0; k < language.length; k++) {
+                    if (langs.hasOwnProperty(language[k]) && !sudah.includes(language[k])) {
+                        langs[language[k]]++;
+                        langTerms[language[k]].push(detail["word"]);
+                        sudah.push(language[k]);
+                    } else if (!langs.hasOwnProperty(language[k]) && !sudah.includes(language[k])) {
+                        langs[language[k]] = 1;
+                        langTerms[language[k]] = [detail["word"]];
+                        sudah.push(language[k]);
                     }
-
                 }
             }
 
             if (detail["origin"][i]["etyPath"]) {
                 for (let j = 0; j < detail["origin"][i]["etyPath"].length; j++) {
                     // add path-lang to langs, ignore if primary is same lang + term to list
-                    if (langs.hasOwnProperty(detail["origin"][i]["etyPath"][j]) && detail["origin"][i]["etyPath"][j] != detail["origin"][i]["lang"]) {
-                        let language = detail["origin"][i]["etyPath"][j].split(" / ");
-                        for (let k = 0; k < language.length; k++) {
-                            if (!sudah.includes(language[k])) {
-                                langs[language[k]]++;
-                                langTerms[language[k]].push(detail["word"]);
-                                sudah.push(language[k]);
-                            }
-                        }
+                    let langPath = detail["origin"][i]["etyPath"][j].split(" / ");
 
-                    } else if (!langs.hasOwnProperty(detail["origin"][i]["etyPath"][j])) {
-                        let language = detail["origin"][i]["etyPath"][j].split(" / ");
-                        for (let k = 0; k < language.length; k++) {
-                            if (!sudah.includes(language[k])) {
-                                langs[language[k]] = 1;
-                                langTerms[language[k]] = [detail["word"]];
-                                sudah.push(language[k]);
-                            }
+                    for (let k = 0; k < langPath.length; k++) {
+                        if (langs.hasOwnProperty(langPath[k]) && !sudah.includes(langPath[k])) {
+                            langs[langPath[k]]++;
+                            langTerms[langPath[k]].push(detail["word"]);
+                            sudah.push(langPath[k]);
+                        } else if (!langs.hasOwnProperty(langPath[k]) && !sudah.includes(langPath[k])) {
+                            langs[langPath[k]] = 1;
+                            langTerms[langPath[k]] = [detail["word"]];
+                            sudah.push(langPath[k]);
                         }
                     }
                 }
@@ -88,6 +74,14 @@ for (let [lang, count] of Object.entries(langs)) {
             if (!langTerms["teochew"].includes(langTerms[lang][i])) {
                 langTerms["teochew"].push(langTerms[lang][i]);
                 langs["teochew"]++;
+            }
+        }
+    }
+    if (lang.toLowerCase().includes("hindi") || lang.toLowerCase().includes("urdu")) {
+        for (let i = 0; i < langTerms[lang].length; i++) {
+            if (!langTerms["hindustani"].includes(langTerms[lang][i])) {
+                langTerms["hindustani"].push(langTerms[lang][i]);
+                langs["hindustani"]++;
             }
         }
     }
@@ -132,7 +126,7 @@ for (const [lang, entries] of Object.entries(langTerms)) {
     entries.sort();
     fs.writeFile(outPath, `const langTerms = ` + JSON.stringify(entries) + `; module.exports = langTerms;`, "utf8", (err) => {
         if (err) throw err;
-        console.log(`Added -${lang}- with entries:\n`, entries);
+        // console.log(`Added -${lang}- with entries:\n`, entries);
     });
 }
 
