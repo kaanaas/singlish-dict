@@ -31,7 +31,8 @@
                                     stroke-dasharray="<%= dashArray[i] %>, <%= 2*Math.PI*radius - dashArray[i] %>"
                                     stroke-dashoffset="<%= offset %>"
                                     stroke="<%= colourArray[i] %>"
-                                    ondblclick="location.href = './langs?l=<%= langsArray[i] %>'"
+                                    onclick="focusThis(event)"
+                                    
                                 />
                                 <text class="percent-text not-selectable" x="50%" y="50%"><%= +(100* dashArray[i] / (2*Math.PI*radius)).toFixed(2) %>%</text>
                                 <text class="lang-name-text not-selectable" x="50%" y="96%"><%= langsArray[i] %></text>
@@ -56,6 +57,17 @@
                 <div class="button-row"><button class="home-button" onclick="location.href='/';">Home</button></div>
             </div>
         </div>
+
+        <script>
+            function focusThis(e) {
+                const active = document.getElementsByClassName("is-active");
+                if(active.length > 0) active[0].classList.toggle("is-active");
+
+                e.target.addEventListener("click", function(e) {
+                    e.target.parentElement.classList.toggle("is-active");
+                });
+            }
+        </script>
     </body>
 
     <%- include("./partials/footer") %>
