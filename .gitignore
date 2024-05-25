@@ -9,7 +9,6 @@ public/css/styles_insert.css
 public/dict/dict_simple.json
 public/dict/dict*copy.json
 public/dict/details*copy.json
-categories.js
 
 # fonts
 public/css/fonts/NSimSun.ttf
