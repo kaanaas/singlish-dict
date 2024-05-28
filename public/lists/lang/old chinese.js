@@ -1,0 +1,1 @@
+const langTerms = ["cheena"]; module.exports = langTerms;

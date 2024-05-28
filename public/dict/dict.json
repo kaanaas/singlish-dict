@@ -1526,26 +1526,28 @@
         "chia",
         "jia"
     ],
-    "chiah bo liau": [
-        "chiah bo liau",
+    "chiah bo liao": [
         "chiah bo liao",
+        "chiah bo liau",
         "jiak bo liao",
         "jiak bo liau",
         "chia bo liau"
     ],
-    "chiah boe liau": [
+    "chiah buay liao": [
+        "chiah buay liao",
         "chiah boe liau",
+        "chiah buey liao",
         "chiah buey liau",
         "jiak buey liao",
         "jiak buay liao",
         "chiah buay liau"
     ],
-    "chiah buey lok": [
+    "chiah buay lok": [
+        "chiah buay lok",
         "chiah buey lok",
         "chiah boe lok",
         "jiak buay lok",
         "jiak buey lok",
-        "chiah buay lok",
         "chia bue loh"
     ],
     "chiah chao": [
@@ -1566,15 +1568,25 @@
     "chiah hi": [
         "chiah hi",
         "chiah her",
+        "chiah he",
         "chiah hir",
         "jiak hi",
         "jiak her",
+        "jiak he",
+        "jiak hir",
         "chia hi"
     ],
     "chiah hong": [
         "chiah hong",
         "jiak hong",
         "chia hong"
+    ],
+    "chiah hong chu": [
+        "chiah hong chu",
+        "jiak hong chu",
+        "chia hong chu",
+        "jiak hong choo",
+        "chia hong choo"
     ],
     "chiah kentang": [
         "chiah kentang",
@@ -1586,7 +1598,7 @@
     "chiah kiu": [
         "chiah kiu",
         "chia kiu",
-        "chiah giu,",
+        "chiah giu",
         "jiak kiu",
         "jiak giu",
         "chia giu"
@@ -4839,6 +4851,14 @@
         "pai se",
         "ps"
     ],
+    "paiseh piece": [
+        "paiseh piece",
+        "pai seh piece",
+        "pai sey piece",
+        "phai se piece",
+        "pai se piece",
+        "ps piece"
+    ],
     "pak chiu cheng": [
         "pak chiu cheng",
         "pah chiu cheng",
@@ -4971,7 +4991,9 @@
     ],
     "pau chiah": [
         "pau chiah",
+        "bao chiak",
         "pau jiak",
+        "bao jiak",
         "pau chia",
         "pau chiak"
     ],
@@ -6331,6 +6353,7 @@
         "than chiah",
         "than jiak",
         "than chiak",
+        "tan chiak",
         "tan jiak"
     ],
     "than chiah peng": [
@@ -6843,5 +6866,14 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "kopi lui": [
+        "kopi lui"
+    ],
+    "makan ular": [
+        "makan ular"
+    ],
+    "makan angin": [
+        "makan angin"
     ]
 }

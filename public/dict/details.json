@@ -7702,7 +7702,9 @@
         "word": "banana",
         "related": [
             "chinese helicopter",
-            "coconut"
+            "coconut",
+            "chiah kentang",
+            "kentang"
         ],
         "etyNotes": "So called because a banana is yellow on the outside, but white on the inside. Term may have existed independently in English before being translated in from Hokkien.",
         "origin": [
@@ -7750,8 +7752,7 @@
                     "exampleSource": "@comm",
                     "synonyms": [
                         "orang cina bukan cina",
-                        "ang moh pai",
-                        "chiah kentang"
+                        "ang moh pai"
                     ],
                     "antonyms": false
                 }
@@ -11512,11 +11513,12 @@
         "meanings": {
             "adjective": [
                 {
-                    "definition": "broke; penniless; to have no money",
+                    "definition": "broke; penniless; having no money",
                     "example": "Visiting the casino is a surefire way to go from \"@{huat} ah\" to bo lui overnight.",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "pok kai"
+                        "pok kai",
+                        "chiah chao"
                     ],
                     "antonyms": false
                 }
@@ -13920,7 +13922,7 @@
         "category": [
             "sayings"
         ],
-        "etyNotes": "#{likely} Likely a translation from the Hokkien idiom, shortened to ‘讲别人，讲家己’ (‘say (other) people, say yourself’).",
+        "etyNotes": "#{likely} Likely a translation from the Hokkien idiom, shortened to '讲别人，讲家己' (\"say (other) people, say yourself\").<br>Other similar idioms exist in Min Nan with the general meaning of 'pointing out shortcomings in others while lacking the self-awareness to recognise faults in oneself', such as '龟笑鳖无尾，鳖笑龟粗皮', ku chhiò pih bô-bóe, pih chhiò ku chho͘-phôe (\"The turtle laughs at the soft-shelled turtle for having no tail; the soft-shelled turtle laughs at the turtle for its rough skin\").",
         "origin": [
             {
                 "lang": "hokkien",
@@ -13996,7 +13998,13 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "references": [
+            {
+                "link": "http://www.cgan.com.hk/html/100.html",
+                "name": "林和安. cgan.com - 龟笑鳖无尾，鳖笑龟粗皮"
+            }
+        ]
     },
     "sia": {
         "word": "sia",
@@ -20667,5 +20675,1032 @@
         "category": [
             "cuisine"
         ]
+    },
+    "chengal": {
+        "word": "chengal",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cengal",
+                "romanization": "",
+                "lit": "Neobalanocarpus heimii, a tree native to Singapore"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>Neobalanocarpus heimii</i>, a tree native to Singapore that grows up to 60 m tall. It was historically important as a good source of high quality timber and resin, for uses such as boatbuilding.^{1} It is believed that Changi (the location) takes its name either from this tree, or from <i>Hopea sangal</i>, also known as \"chengal pasir\" or \"chengal mata kucing\".^{2}"
+                }
+            ]
+        },
+        "category": [
+            "nature"
+        ],
+        "phonetics": "/t͡ʃəŋal/",
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/FloraFaunaWeb/Flora/3/0/3040",
+                "name": "NParks Singapore - Flora and Fauna Web - Neobalanocarpus heimii"
+            },
+            {
+                "link": "https://habitatnews.nus.edu.sg/heritage/changi/changitrees/hopeasangal.html",
+                "name": "Joseph Lai, Angie Ng, Chuah Ai Lin, Marilyn Cheng. NUS Habitat News. \"Tree of Time\"."
+            }
+        ]
+    },
+    "cher": {
+        "word": "cher",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "teacher",
+                "romanization": "",
+                "lit": "sb. who teaches, esp. in a school"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(informal) term of address for a teacher",
+                    "example": "Cher, if till the end of the year still got virus means no more exams right? Yayyyy!!",
+                    "exampleSource": "2020 May 27, Ow Yeong Wai Kit (quoting his student). Today Online, \"‘Cher, stay at home boring leh’ — a teacher’s response to 3 common messages from students\". https://www.todayonline.com/commentary/cher-stay-at-home-boring-leh-teachers-messages-students-class-Covid-19"
+                },
+                {
+                    "definition": "(informal) a teacher; someone who teaches in a school",
+                    "example": "We spend most of our waking moments (weekdays at least) with teachers during our formative years.<br>So, it makes sense that Teacher's Day is celebrated with gusto — many students are taking to TikTok to show their gratitude to their 'chers.",
+                    "exampleSource": "2021 September 3, Amierul Rashid. Asiaone, \"Thank you 'cher: These Teacher's Day TikTok videos hit us right in the feels\". https://www.asiaone.com/singapore/thank-you-cher-these-teachers-day-tiktok-videos-hit-us-right-feels"
+                }
+            ]
+        },
+        "category": [
+            "terms of address"
+        ],
+        "etyNotes": "Clipping of English \"<i>teacher</i>\".",
+        "phonetics": "[ˈt͡ʃə]"
+    },
+    "chey": {
+        "word": "chey",
+        "origin": [
+            {
+                "lang": "cantonese / hokkien",
+                "traditional": "唓",
+                "simplified": "𪠳",
+                "roman": "ce2",
+                "romanization": "jyutping",
+                "lit": "exp. of disappointment, dismissal, or disdain at unmet expectations"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'no wonder'; 'bah!'; 'pffft'; 'humph'; expression of disappointment, dismissal, or disdain at something not meeting expectations",
+                    "example": "Chey, that's all meh? I thought the work would be more."
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://words.hk/zidin/%E5%94%93",
+                "name": "唓 - 廣東話解釋 | 粵典"
+            }
+        ]
+    },
+    "chhek": {
+        "word": "chhek",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "尺",
+                "simplified": "尺",
+                "roman": "chhek",
+                "romanization": "",
+                "lit": "'Chinese foot' (traditional unit of length)"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an old Chinese unit of length equal to 10 @{chhun}, standardized as 14 <sup>3</sup>&frasl;<sub>4</sub> inches or 37.4650 cm."
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "",
+                "name": "1985. The Statutes of the Republic of Singapore: Weights and Measures Act (Chapter 349), Act 51 of 1975. p.46"
+            }
+        ],
+        "related": [
+            "chhun"
+        ]
+    },
+    "chhun": {
+        "word": "chhun",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "寸",
+                "simplified": "寸",
+                "roman": "chhùn",
+                "romanization": "",
+                "lit": "'Chinese inch' (traditional unit of length)"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an old Chinese unit of length equal to <sup>1</sup>&frasl;<sub>10</sub> @{chhek}, standardized as  1 <sup>19</sup>&frasl;<sub>40</sub> inches or 37.4650 mm."
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "",
+                "name": "1985. The Statutes of the Republic of Singapore: Weights and Measures Act (Chapter 349), Act 51 of 1975. p.46"
+            }
+        ],
+        "related": [
+            "chhek"
+        ]
+    },
+    "chi bo eng": {
+        "word": "chi bo eng",
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "飼無用",
+                "simplified": "饲无用",
+                "roman": "chhī-bô-ēng",
+                "romanization": "",
+                "lit": "useless; unfilial, (lit. was useless to raise)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "饲",
+                    "无用"
+                ],
+                "etyTrad": [
+                    "飼",
+                    "無用"
+                ],
+                "etyRoman": [
+                    "chhī",
+                    "bô-ēng"
+                ],
+                "etyLit": [
+                    "raise; rear; feed",
+                    "useless"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of a child) useless; unfilial; not worth raising",
+                    "example": "Their estranged son wouldn't make the time to find closure and make things up to his mother, even on her deathbed. Chi bo eng.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chi wu eng"
+                    ]
+                }
+            ]
+        }
+    },
+    "chi wu eng": {
+        "word": "chi wu eng",
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "飼有用",
+                "simplified": "饲有用",
+                "roman": "chhī-ū-ēng",
+                "romanization": "",
+                "lit": "loving; filial; devoted, (lit. was worth it to raise)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "饲",
+                    "无用"
+                ],
+                "etyTrad": [
+                    "飼",
+                    "無用"
+                ],
+                "etyRoman": [
+                    "chhī",
+                    "bô-ēng"
+                ],
+                "etyLit": [
+                    "raise; rear; feed",
+                    "useful; have a purpose"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of a child) dutiful; loving; filial; devoted; worth raising",
+                    "example": "Kenny always lights up his mother's day with his bubbly antics and loving nature. Chi wu eng.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chi bo eng"
+                    ]
+                }
+            ]
+        }
+    },
+    "chi fan": {
+        "word": "chi fan",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "吃飯",
+                "simplified": "吃饭",
+                "roman": "chī fàn",
+                "romanization": "",
+                "lit": "eat"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to eat; to dine",
+                    "example": "@{Lai} lai, chi fan. @{Lim peh} hungry already.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chiah",
+                        "makan"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "phrase or exclamation to announce the start of a meal, or to invite others to begin dining.",
+                    "example": "Chi fan! No need @{pai seh}, later the fish get cold.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
+    "chiah": {
+        "word": "chiah",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to eat",
+                    "synonyms": [
+                        "makan",
+                        "chi fan"
+                    ]
+                },
+                {
+                    "definition": "(used in compounds) to eat, accept, take, consume, etc."
+                }
+            ]
+        },
+        "related": [
+            "ho chiah",
+            "pau chiah",
+            "than chiah"
+        ]
+    },
+    "chiah bo liao": {
+        "word": "chiah bo liao",
+        "category": [
+            "sayings"
+        ],
+        "related": [
+            "chiah"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "無",
+                "simplified": "无",
+                "roman": "bô",
+                "romanization": "poj",
+                "lit": "no; not; don't"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "了",
+                "simplified": "了",
+                "roman": "liáu",
+                "romanization": "",
+                "lit": "finish; complete"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to be unable to finish some food or meal",
+                    "example": "Wah still got dessert ah? I chiah bo liao already.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chiah buay liao",
+                        "chiah buay lok"
+                    ]
+                },
+                {
+                    "definition": "(fig., of things) cannot be finished; unable to be completed",
+                    "example": "I old already; even if strike @{4D}, so much money chit si lang also chiah bo liao.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chiah buay liao"
+                    ]
+                }
+            ]
+        },
+        "usage": "Figurative meaning especially common when referring to coming into a great fortune, but may also be used to refer to a great misfortune or inconvenience, such as an incompletable pile of work."
+    },
+    "chiah buay liao": {
+        "word": "chiah buay liao",
+        "category": [
+            "sayings"
+        ],
+        "related": [
+            "chiah"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐",
+                "simplified": "𫧃",
+                "roman": "bōe/bē",
+                "romanization": "poj",
+                "lit": "not; cannot; unable to"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "了",
+                "simplified": "了",
+                "roman": "liáu",
+                "romanization": "",
+                "lit": "finish; complete"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to be unable to finish some food or meal",
+                    "example": "Wah still got dessert ah? I chiah buay liao already.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chiah bo liao",
+                        "chiah buay lok"
+                    ]
+                },
+                {
+                    "definition": "(fig., of things) cannot be finished; unable to be completed",
+                    "example": "I old already; even if strike @{4D}, so much money chit si lang also chiah buay liao.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chiah bo liao"
+                    ]
+                }
+            ]
+        },
+        "usage": "Figurative meaning especially common when referring to coming into a great fortune, but may also be used to refer to a great misfortune or inconvenience, such as an incompletable pile of work."
+    },
+    "chiah buay lok": {
+        "word": "chiah buay lok",
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐",
+                "simplified": "𫧃",
+                "roman": "bōe/bē",
+                "romanization": "poj",
+                "lit": "not; cannot; unable to"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "落",
+                "simplified": "落",
+                "roman": "lo̍k",
+                "romanization": "",
+                "lit": "down"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to be unable to finish some food or meal",
+                    "example": "Just now you say dinner chiah buay lok, then so soon already want @{chendol}.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chiah bo liao",
+                        "chiah buay liao"
+                    ]
+                }
+            ]
+        }
+    },
+    "chiah chao@1": {
+        "word": "chiah chao",
+        "related": [
+            "chiah"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "草",
+                "simplified": "草",
+                "roman": "chháu",
+                "romanization": "poj",
+                "lit": "grass; weeds"
+            }
+        ],
+        "etyNotes": "(lit.) 'eat grass; herbivore'",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to be or to go broke; to be unable to afford even food or daily necessities",
+                    "example": "Lim Seng went into severe debt when his businesses all failed in one fell swoop due to Covid. He was only spared from having to chiah chao because of the help and support of his old friends and neighbours.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "pok kai"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "broke; penniless; impoverished; desperate",
+                    "example": "Despite how infamously rich Singapore is, let's not forget the many unfortunate chiah chao people who have fallen through the cracks in our society.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bo lui",
+                        "pok kai"
+                    ]
+                }
+            ]
+        }
+    },
+    "chiah chao@2": {
+        "word": "chiah chao",
+        "related": [
+            "chiah"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "min nan",
+                "traditional": "臭",
+                "simplified": "臭",
+                "roman": "chhàu",
+                "romanization": "",
+                "lit": "repulsive; dirty; detestable"
+            }
+        ],
+        "etyNotes": "(lit.) 'eat detestable/dirty'",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to play foul; to cheat; to play dirty",
+                    "example": "The other team all chiah chao but the @{referee kayu}, never do anything...",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
+    "chiah chua": {
+        "word": "chiah chua",
+        "related": [
+            "chiah",
+            "keng",
+            "take cover",
+            "snake"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "食蛇",
+                "simplified": "食蛇",
+                "roman": "chia̍h-chôa",
+                "romanization": "",
+                "lit": "slack off; skive; play truant; take time off work",
+                "etyPath": [
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyTrad": [
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyRoman": [
+                    "chia̍h-chōa",
+                    "thau-chia̍h-chōa",
+                    "thau-chia̍h",
+                    "chōa"
+                ],
+                "etyLit": [
+                    "clipping of 偷食迣",
+                    "(lit.) slyly take trips or runs; (fig.) skive; sneakily slack off; slyly take time off work",
+                    "slyly eat; sneakily take (food, etc.)",
+                    "(measure word) trips; runs; frequency of occurrences"
+                ]
+            }
+        ],
+        "etyNotes": "(lit.) 'eat snake'.<br>The original term, \"偷食迣\", means either to slyly or secretly take a trip, or to sneakily or lazily 'eat' away at (i.e. reduce) the number of work or steps one has to actually do; 迣, chōa is a measure word for trips or journeys, and also for frequency of repeated occurrences, especially of runs (the rough equivalent is 趟, tàng in Mandarin).^{1}^{2} '逝' has also been suggested as an alternative character for 'chua'.^{3} Since '蛇' and '迣' sound very similar in Hokkien, and as the imagery of literally 'eating a snake' is less abstract and more memorable, the phrase got passed down as the version with a 'snake', instead of the original term.^{2} In Cantonese, snakes are also associated with laziness, which may have reinforced the saying.^{3}",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to slack off; to skive; to take time off work; to play truant",
+                    "example": "Despite his tendency to chiah zua, he somehow managed to meet all his deadlines.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "tuang",
+                        "eat snake",
+                        "makan ular"
+                    ]
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://core.ac.uk/download/pdf/15641431.pdf",
+                "name": "邱湘雲 (2012). 閩南語和客家話的「量詞」－與國語1比較. 玄奘人文社會學院."
+            },
+            {
+                "link": "https://www.mewatch.sg/watch/Fun-with-SINGnese-E4-71650",
+                "name": "Mediacorp Channel 8. Fun with SINGnese (新语研究所), S01E02, 28:00"
+            },
+            {
+                "link": "https://www.languagecouncils.sg/mandarin/ch/learning-resources/singaporean-mandarin-database/terms/skiving-off-colloquially-known-as-jiak-tsua",
+                "name": "languagecouncils.sg. 吃蛇; skiving off (colloquially known as jiak tsua)"
+            }
+        ]
+    },
+    "makan ular": {
+        "word": "makan ular",
+        "related": [
+            "makan",
+            "snake"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "makan",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ular",
+                "romanization": "",
+                "lit": "snake"
+            },
+            {
+                "lang": "min nan",
+                "traditional": "食蛇",
+                "simplified": "食蛇",
+                "roman": "chia̍h-chôa",
+                "romanization": "",
+                "lit": "slack off; skive; play truant; take time off work",
+                "etyPath": [
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyTrad": [
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyRoman": [
+                    "chia̍h-chōa",
+                    "thau-chia̍h-chōa",
+                    "thau-chia̍h",
+                    "chōa"
+                ],
+                "etyLit": [
+                    "clipping of 偷食迣",
+                    "(lit.) slyly take trips or runs; (fig.) skive; sneakily slack off; slyly take time off work",
+                    "slyly eat; sneakily take (food, etc.)",
+                    "(measure word) trips; runs; frequency of occurrences"
+                ]
+            }
+        ],
+        "etyNotes": "Direct calque of Hokkien 食蛇, chia̍h-chôa.^{1} See @{chiah chua} for further details.",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to slack off; to skive; to take time off work; to play truant",
+                    "example": "The new intern didn't last long after being caught trying to makan ular several times.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "tuang",
+                        "eat snake",
+                        "chiah chua"
+                    ]
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.languagecouncils.sg/mandarin/ch/learning-resources/singaporean-mandarin-database/terms/skiving-off-colloquially-known-as-jiak-tsua",
+                "name": "languagecouncils.sg. 吃蛇; skiving off (colloquially known as jiak tsua)"
+            }
+        ]
+    },
+    "eat snake": {
+        "word": "eat snake",
+        "related": [
+            "snake"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "食蛇",
+                "simplified": "食蛇",
+                "roman": "chia̍h-chôa",
+                "romanization": "",
+                "lit": "slack off; skive; play truant; take time off work",
+                "etyPath": [
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyTrad": [
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyRoman": [
+                    "chia̍h-chōa",
+                    "thau-chia̍h-chōa",
+                    "thau-chia̍h",
+                    "chōa"
+                ],
+                "etyLit": [
+                    "clipping of 偷食迣",
+                    "(lit.) slyly take trips or runs; (fig.) skive; sneakily slack off; slyly take time off work",
+                    "slyly eat; sneakily take (food, etc.)",
+                    "(measure word) trips; runs; frequency of occurrences"
+                ]
+            }
+        ],
+        "etyNotes": "Direct calque of Hokkien 食蛇, chia̍h-chôa.^{1} See @{chiah chua} for further details.",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to slack off; to skive; to take time off work; to play truant",
+                    "example": "She often tried to eat snake at work, but her boss always noticed.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "tuang",
+                        "makan ular",
+                        "chiah chua"
+                    ]
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.languagecouncils.sg/mandarin/ch/learning-resources/singaporean-mandarin-database/terms/skiving-off-colloquially-known-as-jiak-tsua",
+                "name": "languagecouncils.sg. 吃蛇; skiving off (colloquially known as jiak tsua)"
+            }
+        ]
+    },
+    "chiah hi": {
+        "word": "chiah hi",
+        "related": [
+            "chiah"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "魚",
+                "simplified": "鱼",
+                "roman": "hî/hîr",
+                "romanization": "",
+                "lit": "fish"
+            }
+        ],
+        "etyNotes": "(lit.) 'eat fish'",
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of a person) extremely strict",
+                    "example": "My boss is so chiah hi. He needs to @{chiah} a chill pill and let us @{chiah chua} every once in a while.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ngiao"
+                    ]
+                }
+            ]
+        }
+    },
+    "chiah hong": {
+        "word": "chiah hong",
+        "related": [
+            "chiah",
+            "lau hong",
+            "makan angin"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食風",
+                "simplified": "食风",
+                "roman": "chia̍h-hong",
+                "romanization": "",
+                "lit": "eat wind",
+                "etyPath": [
+                    "malay",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "or"
+                ],
+                "etyScript": [
+                    "",
+                    "食风"
+                ],
+                "etyTrad": [
+                    "",
+                    "食風"
+                ],
+                "etyRoman": [
+                    "makan angin",
+                    "sik6 fung1"
+                ],
+                "etyLit": [
+                    "(lit.) eat wind; (fig.) take a walk to get some fresh air; sit around silently passing the time",
+                    "(lit.) eat wind; (fig.) go on holiday; gallivant; go for a joyride; live in luxury"
+                ]
+            }
+        ],
+        "etyNotes": "The term comes from the sense of going to the seaside and 'eating' or enjoying the sea breeze while relaxing.<br>It is unknown whether it came from Malay and was calqued into Cantonese, or the other way round from Cantonese to Malay, although some Cantonese dictionaries suggest it is originally Malay.^{1} Its use as a common Cantonese slang term by the 19th century is attested in a poem by Huang Zunxian, a Consul-General working in Singapore for the Qing Dynasty, though it is not clear whether this is a term borrowed by local Cantonese people from the Malay phrase, or a term that had already existed in Guangdong Cantonese.^{2}^{3} There is also the general Chinese term 兜風/兜风, dōu fēng (\"to catch the wind; to go for a joyride; to go for a spin to get some fresh air\"), which has a very similar meaning and appears to be a native Chinese term.^{3} <br>The term also exists separately in Cantonese, as a short form of 食西北風/食西北风, sik6 sai1 bak1 fung1, (\"to eat the western and northern winds\") which means to have nothing to eat but the wind (i.e. to be starving) - though this does not seem to have anything to do with the current meaning of 'chiah hong'.^{2}",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to go on holiday; to gallivant; to go for a joyride",
+                    "example": "She felt the need to clear her mind that night, so she went to {chiah hong} in her new convertible along the coastal expressway.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "to live in luxury",
+                    "example": "After winning @{4D}, he could finally @{chiah hong} and travel the world in style.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(used in compounds) of or relating to holidaying, going on a ride for fun, or living in luxury. See @{chiah hong chu}.",
+                    "example": "The @{towkay} rented a big chiah hong chu for a night in Changi to celebrate his retirement and thank his employees for their work at the company over the years.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/words/15681/",
+                "name": "CantoDict - 食風. www.cantonese.sheik.co.uk"
+            },
+            {
+                "link": "https://www.mewatch.sg/watch/Fun-with-SINGnese-E13-Finale-63724",
+                "name": "Mediacorp Channel 8. Fun with SINGnese (新语研究所), S01E13, 38:00"
+            },
+            {
+                "link": "https://www.zdic.net/hans/%E9%A3%9F%E9%A2%A8",
+                "name": "zdic.net. 食風的解释|食風的意思|汉典\"食風\"词语的解释"
+            }
+        ]
+    },
+    "chiah hong chu": {
+        "word": "chiah hong chu",
+        "related": [
+            "chiah",
+            "bungalow",
+            "makan angin",
+            "chap lau chu"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食風",
+                "simplified": "食风",
+                "roman": "chia̍h-hong",
+                "romanization": "",
+                "lit": "eat wind",
+                "etyPath": [
+                    "malay",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "or"
+                ],
+                "etyScript": [
+                    "",
+                    "食风"
+                ],
+                "etyTrad": [
+                    "",
+                    "食風"
+                ],
+                "etyRoman": [
+                    "makan angin",
+                    "sik6 fung1"
+                ],
+                "etyLit": [
+                    "(lit.) eat wind; (fig.) take a walk to get some fresh air; sit around silently passing the time",
+                    "(lit.) eat wind; (fig.) go on holiday; gallivant; go for a joyride; live in luxury"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "厝",
+                "simplified": "厝",
+                "roman": "chhù",
+                "romanization": "",
+                "lit": "house; building"
+            }
+        ],
+        "etyNotes": "See @{chiah hong} for further details.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a holiday home or bungalow by the seaside; a beachfront villa",
+                    "example": "The friends decided to go rent a jiak hong chu to jiak hong and celebrate their graduation.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
+    "chiah kentang": {
+        "word": "chiah kentang",
+        "related": [
+            "chiah",
+            "chinese helicopter",
+            "banana",
+            "orang cina bukan cina",
+            "coconut"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "romanization": "",
+                "lit": "eat"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "kentang",
+                "romanization": "",
+                "lit": "potato"
+            }
+        ],
+        "etyNotes": "(lit.) 'eat potato'. Refers to how Westernized people supposedly prefer eating potatoes, a staple in Western cuisine, to native Asian staples like rice.",
+        "usage": "Also borrowed into both Hokkien and Teochew as 𫈉砃/蕳砃, kan-tang, and so 'kentang' is commonly pronounced as 'kan-tang' by many Chinese people - this is not a mispronunciation, as many Malay speakers believe, but rather the actual word for 'potato' in Hokkien or Teochew.",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(pejorative) to act or behave like a Westerner; to be westernized",
+                    "example": "And 我知，你想我是@{红毛派|ang moh pai}<br>逐日<b>食蕳砃</b> (chiah kantang), burger @{makan} apple pie<br>But now you know 我的福建真的@{袂歹|buay pai}<br>I can fly to Taiwan, 共@{查某|cha bor}倾偈<br>(tr.: And I know, you think I'm an @{ang moh pai} / chiah kantang every day, burger @{makan} apple pie / But now you know my Hokkien is really @{buay pai} / I can fly to Taiwan, and chat up the @{cha bors})",
+                    "exampleSource": "2014, ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick."
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(pejorative) westernized",
+                    "example": "I was your quintessential Anglo-Chinese School Chiak Kantang Kengchio Kia (potato-eating @{banana} child)...",
+                    "exampleSource": "2004 December 12, Colin Goh. The Sunday Times (LifeStyle). L14",
+                    "synonyms": [
+                        "ang moh pai",
+                        "kentang"
+                    ]
+                }
+            ]
+        }
     }
 }

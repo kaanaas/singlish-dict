@@ -1,1 +1,1 @@
-const langTerms = ["ah","ah ma","ah nia","ah pui","already","ang mo kio","ang moh kui","catch no ball","cb leaf","cb plant","chabor","cham siong"]; module.exports = langTerms;
+const langTerms = ["ah","ah ma","ah nia","ah pui","already","ang mo kio","ang moh kui","catch no ball","cb leaf","cb plant","chabor","cham siong","chao","chao chee bai","chao keng","chao khang","chao kuan","chao mugger","chao private","chao recruit","chao ta","chiah chao","chiah chua","eat snake","makan ular"]; module.exports = langTerms;

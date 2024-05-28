@@ -1,1 +1,1 @@
-const cat = ["4d", "5-10", "block catching", "bottlecaps", "catching"]; module.exports = cat;
+const cat = ["4d","5-10","block catching","bottlecaps","capteh","catching","chap ji ki"]; module.exports = cat;

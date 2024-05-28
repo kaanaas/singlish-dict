@@ -1,1 +1,1 @@
-const cat = ["ang ko li","ang mo kio","ang moh liu lian","assam","attap chee","ayam","batang","bayam","bittergourd","black fungus","blue ginger","buah duku","buah keluak","buah susu","buaya","calamansi"]; module.exports = cat;
+const cat = ["ang ko li","ang mo kio","ang moh liu lian","assam","attap chee","ayam","batang","bayam","bittergourd","black fungus","blue ginger","buah duku","buah keluak","buah susu","buaya","calamansi","cb leaf","cb plant","cempedak","chai sim","chengal"]; module.exports = cat;
