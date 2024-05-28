@@ -4654,7 +4654,7 @@
                 {
                     "definition": "a planning area and residential town to the north of central Singapore, first redeveloped by the HDB in 1973.^{1}",
                     "example": "The name Ang Mo Kio in Hokkien literally translates to “red-haired man’s bridge”, where ang mo is a colloquial term for a Caucasian person.",
-                    "exampleSource": "2020, Cornelius, Vernon. NLB - Singapore Infopedia. https://www.nlb.gov.sg/main/article-detail?cmsuuid=af89bff4-ffa3-4786-967b-8b8719069624",
+                    "exampleSource": "2020, Cornelius, Vernon. NLB. Singapore Infopedia - Ang Mo Kio. https://www.nlb.gov.sg/main/article-detail?cmsuuid=af89bff4-ffa3-4786-967b-8b8719069624",
                     "synonyms": false,
                     "antonyms": false
                 }
@@ -4719,7 +4719,7 @@
         "references": [
             {
                 "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=af89bff4-ffa3-4786-967b-8b8719069624",
-                "name": "Singapore Infopedia (NLB): Ang Mo Kio"
+                "name": "2020, Vernon Cornelius. NLB. Singapore Infopedia - Ang Mo Kio"
             }
         ]
     },
@@ -5663,7 +5663,7 @@
                 {
                     "definition": "curry favour with; get along well with; get into one's good books",
                     "example": "So if you ar with the IC... you can @{chiah chua} a bit.",
-                    "exampleSource": "1978, Leong Choon Cheong (quoting Tay Poh Hock). <i>Youth in the Army</i>, p.53",
+                    "exampleSource": "1978, Leong Choon Cheong (quoting Tay Poh Hock). Youth in the Army. p.53",
                     "synonyms": [
                         "angkat bola",
                         "angkat",
@@ -7012,7 +7012,7 @@
         "references": [
             {
                 "link": "",
-                "name": "2007, Tan Chee-Beng. Food and Foodways in Asia, Routledge. ISBN: 9780203947128"
+                "name": "2007, Tan Chee-Beng. \"Food and Foodways in Asia\", Routledge. ISBN: 9780203947128"
             }
         ]
     },
@@ -7124,8 +7124,8 @@
             "noun": [
                 {
                     "definition": "eyes",
-                    "example": "看什物看？看你的目睭 (khòaⁿ sím-mi̍h khòaⁿ?\r\nkhòaⁿ lí ê ba̍k-chiu)<br>\r\n我的目睭死爸细, so I can't even see you! (óa-ê ba̍k-chiu sí-pē sòe)<br>(tr.: @{See what see}? See your eyes;<br>My eyes are so damn small, so I can't even see you!)",
-                    "exampleSource": "2014, ShiGGa Shay - \"<i>LimPeh</i>\". <i>LimPeh - EP</i>, Ginette Chittick.",
+                    "example": "看什物看？看你的<b>目睭</b> (khòaⁿ sím-mi̍h khòaⁿ?\r\nkhòaⁿ lí ê <b>ba̍k-chiu)</b><br>\r\n我的<b>目睭</b>死爸细, so I can't even see you! (óa-ê <b>ba̍k-chiu</b> sí-pē sòe)<br>(tr.: @{See what see}? See your eyes;<br>My eyes are so damn small, so I can't even see you!)",
+                    "exampleSource": "2014, ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick.",
                     "synonyms": false,
                     "antonyms": false
                 }
@@ -10271,6 +10271,22 @@
                     "synonyms": false,
                     "antonyms": false
                 }
+            ],
+            "verb": [
+                {
+                    "definition": "(vulgar, lit.) to have no testicles",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(vulgar, fig.) to be cowardly",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
             ]
         }
     },
@@ -12280,6 +12296,7 @@
                 "etyLit": false
             }
         ],
+        "etyNotes": "Alteration of English <i>handsome</i>.",
         "meanings": {
             "adjective": [
                 {
@@ -12410,7 +12427,7 @@
         "meanings": {
             "interjection": [
                 {
-                    "definition": "(hyperbolic) expression of sadness or disappointment in response to an unfortunate or pitiable situation",
+                    "definition": "(hyperbole) expression of sadness or disappointment in response to an unfortunate or pitiable situation",
                     "example": "",
                     "exampleSource": "",
                     "synonyms": false,
@@ -12419,7 +12436,7 @@
             ],
             "adjective": [
                 {
-                    "definition": "sad or disappointed in response to an unfortunate or pitiable situation",
+                    "definition": "(hyperbole) sad or disappointed in response to an unfortunate or pitiable situation",
                     "example": "Wah, see my bank account balance go down really heart pain one.",
                     "exampleSource": "@comm",
                     "synonyms": false,
@@ -13164,8 +13181,8 @@
                 },
                 {
                     "definition": "term of address for a young gentleman",
-                    "example": "Even hardened gangsters teasingly addressed him as leng zai or 'pretty boy' and told him to marry their daughters so they would have grandchildren as cute as he was.",
-                    "exampleSource": "2019 June 27, Ovidia Yu, The Paper Bark Tree Mystery, Constable",
+                    "example": "每个女孩 acting like they seen Psy<br>So I gotta sing mine<br>Don't like me? Your girl still call me 'leng zai'",
+                    "exampleSource": "2015, ShiGGa Shay - \"<i>Tapau</i>\". <i>3688</i>.",
                     "synonyms": [
                         "yandao",
                         "hamsum"
@@ -13250,7 +13267,7 @@
                 {
                     "definition": "(condescending or humorous) I; me",
                     "example": "恁爸是我; 我是恁爸！(Limpeh is me; I am Limpeh!)",
-                    "exampleSource": "2014, ShiGGa Shay - \"<i>LimPeh</i>\". <i>LimPeh - EP</i>, Ginette Chittick.",
+                    "exampleSource": "2014, ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick.",
                     "synonyms": [
                         "lin lao peh"
                     ],
@@ -17389,6 +17406,13 @@
                     "example": "This week OT like @{siao}; Tuesday I nearly sleep overnight at work. @{Shag} until can die!",
                     "exampleSource": "@comm"
                 }
+            ],
+            "adjective": [
+                {
+                    "definition": "(hyperbole) describing something so extremely unpleasant or uncomfortable that experiencing it is supposedly bad enough to cause death",
+                    "example": "@{Last time} Singapore River was so polluted and filthy, @{chao} until can die one.",
+                    "exampleSource": "@comm"
+                }
             ]
         },
         "related": [
@@ -18517,6 +18541,2131 @@
         "category": [
             "ns",
             "sayings"
+        ]
+    },
+    "chao": {
+        "word": "chao",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "臭",
+                "simplified": "臭",
+                "roman": "chhàu",
+                "romanization": "",
+                "lit": "smelly; repulsive; bad; detestable"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "smelly; repulsive",
+                    "example": "我坐 (Óa chē) MRT, man I can’t even breathe<br>\r\n<b>臭</b>到欲会死，敢若你@{阿妈|ah ma}@{放屁|pang pui} (Chhàu kàu beh ē sí, káⁿ-ná lí a-má pàng-phuì)<br>\r\n(tr.: I take the MRT, man I can't even breathe<br><b>Chao</b> until I want to die, as if your grandma farted)",
+                    "exampleSource": "2014, ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick."
+                },
+                {
+                    "definition": "bad; detestable; undesirable; derisible"
+                }
+            ]
+        }
+    },
+    "chao chee bai": {
+        "word": "chao chee bai",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "臭膣屄",
+                "simplified": "臭膣屄",
+                "roman": "chhàu-chi-bai",
+                "romanization": "",
+                "lit": "(vulgar, offensive) smelly cunt",
+                "etyPath": [
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "臭",
+                    "膣屄"
+                ],
+                "etyTrad": [
+                    "臭",
+                    "膣屄"
+                ],
+                "etyRoman": [
+                    "chhàu",
+                    "chi-bai"
+                ],
+                "etyLit": [
+                    "smelly; repulsive; bad; detestable",
+                    "(vulgar) cunt; vagina; vulva"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar, offensive) smelly cunt; bitch",
+                    "example": "i think last time more @{chor lor} (slang for uncouth) we say one time chee bai one @{lan jiao} last time they will say <b>chao chee bai</b> or your @{lan lan} jiao..they will add some more words in..^{scbok} [sic]",
+                    "exampleSource": "Bok, S. C. (2012). Not so \"chee bai\" anymore: a look at Hokkien swear words in Singapore and how they have changed over time. NTU. p.74"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(vulgar, offensive) exclamation of anger, displeasure, frustration, or contempt; 'fuck!'",
+                    "example": "Chao chi bai, @{kena} SOL again!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "chee bai"
+        ],
+        "category": [
+            "vulgar",
+            "abbreviations"
+        ],
+        "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words."
+    },
+    "chee bai": {
+        "word": "chee bai",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "膣屄",
+                "simplified": "膣屄",
+                "roman": "chi-bai",
+                "romanization": "",
+                "lit": "(vulgar, offensive) cunt; vagina; vulva"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar, offensive) cunt; bitch; fucker",
+                    "example": "I use it on both guys and girls..Chee bai is for all [sic]",
+                    "exampleSource": "Bok, S. C. (quoting respondent G3-F) (2012). Not so \"chee bai\" anymore: a look at Hokkien swear words in Singapore and how they have changed over time. NTU. p.38"
+                },
+                {
+                    "definition": "(vulgar, offensive) vagina; vulva",
+                    "example": "If you steal or borrow money later you cannot pay, obviously you got to sacrifice your chee bai. Meaning you have to sell chee bai.",
+                    "exampleSource": "2018, Ngau Jin Chai. Facebook. https://www.facebook.com/NajibRazakMustGo/posts/2441750752531971/?comment_id=2441995379174175&comment_tracking=%7B%22tn%22%3A%22R%22%7D&_rdr",
+                    "synonyms": [
+                        "puki"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(vulgar, offensive) exclamation of anger, displeasure, frustration, or contempt; 'fuck!'",
+                    "example": "Chee bye! What is this nonsense?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "knnbccb",
+            "ccb"
+        ],
+        "category": [
+            "vulgar",
+            "abbreviations"
+        ],
+        "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words.<br>Bok (2012) suggests that the term, as a term of insult or abuse, used to be gender-specific, and that \"chee bai\" (\"cunt\") would be used to scold women while \"@{lan jiao}\" (\"penis\") would be used to scold men. However, this distinction is lost in current times, and \"chee bai\" is now usually used with no regard for the gender of the opposing party.^{1}",
+        "references": [
+            {
+                "link": "https://www.ntu.edu.sg/docs/librariesprovider120/lms/sample-students-work/lms_ssw_ay2012-samanthacatherinebokshiyun.pdf?sfvrsn=d28ed5d6_2",
+                "name": "Bok, S. C. (2012). Not so \"chee bai\" anymore: a look at Hokkien swear words in Singapore and how they have changed over time. NTU. p.38"
+            }
+        ]
+    },
+    "chee bai bin": {
+        "word": "chee bai bin",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "膣屄",
+                "simplified": "膣屄",
+                "roman": "chi-bai",
+                "romanization": "",
+                "lit": "(vulgar, offensive) cunt; vagina; vulva"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "面",
+                "simplified": "面",
+                "roman": "bīn",
+                "romanization": "",
+                "lit": "face"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar, offensive) 'cunt face'; 'pussy face'; term of abuse or insult"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(vulgar, offensive) cunt-faced",
+                    "example": "That chee bai bin warrant pisses me off. Really @{khiam pah}.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "chee bai",
+            "lj bin"
+        ],
+        "category": [
+            "vulgar",
+            "abbreviations"
+        ]
+    },
+    "lor sor": {
+        "word": "lor sor",
+        "origin": [
+            {
+                "lang": "cantonese / hokkien",
+                "traditional": "囉嗦",
+                "simplified": "啰嗦",
+                "roman": "lo1 so1",
+                "romanization": "jyutping",
+                "lit": "long-winded; verbose, troublesome; hasslesome"
+            }
+        ],
+        "etyNotes": "As the characters are a phonetic transcription of a slang term of unknown origin, it may be written in other ways, such as 啰唆/囉唆.^{1}<br>#{poss} Possibly borrowed into Hokkien from Cantonese.",
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "long-winded; verbose",
+                    "example": "Her reputation for being so lor sor meant that few people actually read her emails in full.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "troublesome; hasslesome",
+                    "example": "This maths homework @{sibeh} lor sor sia... exact same shit 30 times over. I @{no mood} to finish, want dota?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ma fan"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to go on and on; to talk without end (especially soporifically)",
+                    "example": "Can don't always lor sor please... just get to the point man!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/words/2631/",
+                "name": "CantoDict - 囉唆. www.cantonese.sheik.co.uk"
+            }
+        ]
+    },
+    "chor lor": {
+        "word": "chor lor",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "粗魯",
+                "simplified": "粗鲁",
+                "roman": "chho͘-ló͘",
+                "romanization": "",
+                "lit": "vulgar; crass; coarse; rude; uncouth",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "粗",
+                    "鲁"
+                ],
+                "etyTrad": [
+                    "粗",
+                    "魯"
+                ],
+                "etyRoman": [
+                    "chho͘",
+                    "ló͘"
+                ],
+                "etyLit": [
+                    "crude; vulgar; rude",
+                    "vulgar; rough; unrefined"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "vulgar; crass; coarse; rude; uncouth",
+                    "example": "Most would expect him to be more chor lor, given his @{Ah Seng} fashion sense and mannerisms, but he was actually quite a polite and eloquent young man.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        }
+    },
+    "chao khang": {
+        "word": "chao khang",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "臭空",
+                "simplified": "臭空",
+                "roman": "chhàu-khang",
+                "romanization": "",
+                "lit": "mean; nasty",
+                "etyPath": [
+                    "min nan",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "臭",
+                    "空"
+                ],
+                "etyTrad": [
+                    "臭",
+                    "空"
+                ],
+                "etyRoman": [
+                    "chhàu",
+                    "khang"
+                ],
+                "etyLit": [
+                    "smelly; repulsive; bad; detestable",
+                    "hole; cavity"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "mean; nasty"
+                }
+            ]
+        },
+        "related": [
+            "chao"
+        ],
+        "usage": "Rare in modern parlance. Only attested in one source.^{jlee}",
+        "etyNotes": "(lit.) 'smelly/disgusting hole'. Compare Hokkien phrase 揬臭空, tu̍h-chhàu-khang (\"to dig up dirt on someone; to rake up or expose someone's old faults or shortcomings\")."
+    },
+    "chao keng": {
+        "word": "chao keng",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "臭",
+                "simplified": "臭",
+                "roman": "cao3",
+                "romanization": "peng'im",
+                "lit": "smelly; repulsive; bad; detestable"
+            },
+            {
+                "lang": "teochew",
+                "traditional": "經",
+                "simplified": "经",
+                "roman": "gêng1",
+                "romanization": "peng'im",
+                "lit": "to evade; to shift responsibility; to shirk"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to malinger; to feign sickness or injury",
+                    "example": "All you need to do is look to Reddit and forum threads, where many seek advice on how to \"chao keng\" or \"down-PES\" without having an actual medical condition. These guys only worsen the problem.",
+                    "exampleSource": "2018 May 3, Benjamin Lim. \"To Prevent More Deaths Like Pte Dave Lee’s, Chao Keng Culture Must End\", https://sg.style.yahoo.com/prevent-more-deaths-pte-dave-090709699.html",
+                    "synonyms": [
+                        "keng"
+                    ]
+                },
+                {
+                    "definition": "(fig.) to shirk responsibility by giving excuses",
+                    "example": "I'm willing to bet all of us have tried to chao keng our way out of work sometime in the past, myself included.",
+                    "exampleSource": "2017 September 19, Samantha Tay. Vulcan Post. Asia One, \"If you're too sick for work, this startup lets you get your MC online\". (now removed; archived at https://web.archive.org/web/20171027054026/https://www.asiaone.com/business/if-youre-too-sick-work-startup-lets-you-get-your-mc-online.)",
+                    "synonyms": [
+                        "keng",
+                        "siam"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "of malingering; of skiving or shirking responsibility; of being wont to malinger or shirk responsibility",
+                    "example": "For most NSFs, the reality is that the very nature of military conscription fosters chao keng culture.<br>Apart from that one \"xiao on\", hyper-patriotic platoon mate who firmly believes in serving the nation and unconditionally bleeding for the flag, everyone else is wearing the uniform against his will. At some point during NS, we've all slacked a little because there's little point to giving our fullest when we didn't ask to put on the uniform in the first place.",
+                    "exampleSource": "2018 May 3, Benjamin Lim. \"To Prevent More Deaths Like Pte Dave Lee’s, Chao Keng Culture Must End\", https://sg.style.yahoo.com/prevent-more-deaths-pte-dave-090709699.html",
+                    "synonyms": [
+                        "keng"
+                    ],
+                    "antonyms": [
+                        "on",
+                        "siao on"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "kengster",
+            "keng king",
+            "keng ka liao"
+        ],
+        "category": [
+            "ns"
+        ],
+        "etyNotes": "Teochew origin of 经/經, gêng1 is suggested by both 《潮州方言词汇》 and 《潮·普双言语词典》.^{1}^{2}<br>#{poss} Most folk sources seem to claim \"keng\" is an originally Hokkien term, which is quite possible given that the two languages are very closely related, but this has not been found to be attested in any Hokkien dictionary so far. It could also have developed in both languages from a common root meaning of 经/經 that has been lost or never developed in other Chinese languages.<br>The full term probably originated in, or at least was popularized in, the military, to describe malingering soldiers.",
+        "references": [
+            {
+                "link": "",
+                "name": "1991, 蔡俊明 and 張雙慶. 《潮州方言词汇》, 香港中文大學中國文化研究所吳多泰中國語文研究中心. ISBN: 9789627330028"
+            },
+            {
+                "link": "",
+                "name": "2010, 陈恩泉. 《潮 · 普双言语词典》, 国际文化出版公司. ISBN: 9787512500242"
+            }
+        ],
+        "credits": [
+            "Justin R. Leung (etymology research)"
+        ]
+    },
+    "chao kuan": {
+        "word": "chao kuan",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "臭",
+                "simplified": "臭",
+                "roman": "chhàu",
+                "romanization": "",
+                "lit": "smelly; repulsive; bad; detestable"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "款",
+                "simplified": "款",
+                "roman": "khoán",
+                "romanization": "",
+                "lit": "type; kind; sort; ilk"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "unscrupulous; underhanded",
+                    "example": "'Chao' means'smelly/bad', and 'kuan' means 'habit'. Together, the phrase refers to someone who does not play fair and uses underhand means to get what they want, literally with bad behaviour. For the awful Singaporean. [sic]",
+                    "exampleSource": "Independent Market - \"CHAO KUAN T-SHIRT\", https://www.independentmarket.sg/products/chao-kuan-t-shirt"
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "chiah chao"
+        ],
+        "etyNotes": "(lit.) '(of people) detestable type; respulsive sort'."
+    },
+    "khiam pah": {
+        "word": "khiam pah",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "欠拍",
+                "simplified": "欠拍",
+                "roman": "khiàm-phah",
+                "romanization": "poj",
+                "lit": "need a beating"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(intransitive) to need a beating; to deserve to be hit",
+                    "example": "This @{cockanathan} always @{act cute buay cute}. Really khiam phah; someone needs to make him @{wake up his idea}.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "pah",
+            "pak"
+        ]
+    },
+    "chao mao": {
+        "word": "chao mao",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "抄貓",
+                "simplified": "抄猫",
+                "roman": "chāo māo",
+                "romanization": "",
+                "lit": "copycat",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin",
+                    "english"
+                ],
+                "etyType": [
+                    "+",
+                    "c"
+                ],
+                "etyScript": [
+                    "抄",
+                    "猫",
+                    ""
+                ],
+                "etyTrad": [
+                    "抄",
+                    "貓",
+                    ""
+                ],
+                "etyRoman": [
+                    "chāo",
+                    "māo",
+                    "copycat"
+                ],
+                "etyScheme": [
+                    "pinyin",
+                    "pinyin",
+                    ""
+                ],
+                "etyLit": [
+                    "copy; plagiarize",
+                    "cat",
+                    "sb. who plagiarizes or imitates another"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a copycat; someone who plagiarizes another's work, or imitates their actions."
+                }
+            ]
+        },
+        "etyNotes": "Mandarin term is a direct calque from English."
+    },
+    "chao mugger": {
+        "word": "chao mugger",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "臭",
+                "simplified": "臭",
+                "roman": "chhàu",
+                "romanization": "",
+                "lit": "smelly; repulsive; bad; detestable"
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "mugger",
+                "romanization": "",
+                "lit": "sb. who studies intensely or all the time; crammer",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "mug",
+                    "-er"
+                ],
+                "etyLit": [
+                    "(slang) cram; study intensely in preparation for an exam",
+                    "suffix used to form a noun which performs the action of the root verb"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derisive) a crammer; somebody who studies way too much, way too hard, or all the time.",
+                    "example": "The problem with many exams as a benchmark of educational standards for schools or systems is that they don't test which one produces the most educated students, but rather which culture produces the most chao muggers.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "mugger"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "mug"
+        ],
+        "etyNotes": "(lit.) 'detestable @{mugger}'."
+    },
+    "mugger": {
+        "word": "mugger",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "mug",
+                "romanization": "",
+                "lit": "(slang) cram; study intensely in preparation for an exam"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-er",
+                "romanization": "",
+                "lit": "suffix used to form a noun which performs the action of the root verb"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "someone who studies intensely or all the time, especially in preparation for an exam; a crammer",
+                    "example": "The IP (integrated programme) kids typically saw those who joined from the O-Level streams as muggers, since throughout the IP there was neither much incentive nor need to study as hard for their examinations.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chao mugger"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "mug"
+        ],
+        "etyNotes": "English slang use of \"<i>mug</i>\" as meaning \"to cram for an exam\" also exists in other dialects, such as UK and Australian English."
+    },
+    "mug": {
+        "word": "mug",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "mug",
+                "romanization": "",
+                "lit": "(slang) cram; study intensely in preparation for an exam"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to cram for an exam; to study intensely in preparation for an exam",
+                    "example": "As he grew up, Fred's naive view of libraries as wondrous catalogues of stories and knowledge became sullied as mere places for students to mug in, or pretend that they are mugging.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chao mugger"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "chao mugger"
+        ],
+        "etyNotes": "English slang use of \"<i>mug</i>\" as meaning \"to cram for an exam\" also exists in other dialects, such as UK and Australian English."
+    },
+    "chao private": {
+        "word": "chao private",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "臭",
+                "simplified": "臭",
+                "roman": "chhàu",
+                "romanization": "",
+                "lit": "smelly; repulsive; bad; detestable"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "private",
+                "romanization": "",
+                "lit": "(mil.) lowest rank in the army, besides recruit; a soldier holding that rank",
+                "etyPath": [
+                    "latin"
+                ],
+                "etyRoman": [
+                    "prīvātus"
+                ],
+                "etyLit": [
+                    "not belonging to the state; personal"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military, derisive) a soldier holding the rank of private",
+                    "example": "As mere chao privates, we had to take orders from the commanders, which unfortunately also involved a lot of @{dropping|drop} 20 and other random punishments whenever we did anything that made them @{buey song}.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "(military, derisive) term of address for a soldier holding the rank of private",
+                    "example": "Oei, chao private! Where is your @{berry}? Go run, touch that tree, and come back 10 times!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "chao recruit",
+            "occifer"
+        ],
+        "category": [
+            "ns",
+            "terms of address"
+        ],
+        "etyNotes": "(lit.) 'smelly/detestable private'."
+    },
+    "chao recruit": {
+        "word": "chao recruit",
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "臭",
+                "simplified": "臭",
+                "roman": "chhàu",
+                "romanization": "",
+                "lit": "smelly; repulsive; bad; detestable"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "private",
+                "romanization": "",
+                "lit": "(mil.) a newly enlisted soldier; the rank held by such a soldier",
+                "etyPath": [
+                    "french"
+                ],
+                "etyRoman": [
+                    "recruter"
+                ],
+                "etyLit": [
+                    "recruit"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military, derisive) a soldier holding the rank of recruit",
+                    "example": "Ironically, one group of Singaporeans who deserve the reserved seats on public transport the most are invariably the ones too reluctant or afraid to use them, for fear of being publicly shamed and derided as unsightly, disgusting, selfish, entitled, chao recruits by keyboard warriors and @{kay poh}s who never had to serve.",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "(military, derisive) term of address for a soldier holding the rank of recruit",
+                    "example": "- Chao recruit! What are the 8 SAF core value?<br>- Err... care for soldiers, safety...<br>- @{Chee bai}! Try to smoke me isit? Bloody @{knock it down}!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "chao recruit",
+            "occifer"
+        ],
+        "category": [
+            "ns",
+            "terms of address"
+        ],
+        "etyNotes": "(lit.) 'smelly/detestable recruit'."
+    },
+    "chao ta": {
+        "word": "chao ta",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "臭焦",
+                "simplified": "臭焦",
+                "roman": "chhàu-ta",
+                "romanization": "",
+                "lit": "burnt, esp. from overcooking",
+                "etyPath": [
+                    "min nan",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "臭",
+                    "焦"
+                ],
+                "etyTrad": [
+                    "臭",
+                    "焦"
+                ],
+                "etyRoman": [
+                    "chhàu",
+                    "ta"
+                ],
+                "etyLit": [
+                    "smelly; repulsive; bad; detestable",
+                    "burnt; dry; coke (fuel)"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "burnt, especially (but not always from) overcooking",
+                    "example": "There is a big difference between delicious @{wok hei} sears and inedibly chao ta, but it always manages to be a fine line with this stall.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "ta"
+        ]
+    },
+    "chap cheng kia": {
+        "word": "chap cheng kia",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "雜種",
+                "simplified": "杂种",
+                "roman": "cha̍p-chéng",
+                "romanization": "",
+                "lit": "(derog.) bastard; mongrel; half-breed",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "杂",
+                    "种"
+                ],
+                "etyTrad": [
+                    "雜",
+                    "種"
+                ],
+                "etyRoman": [
+                    "cha̍p",
+                    "chéng"
+                ],
+                "etyLit": [
+                    "mixed; all kinds",
+                    "ethnicity; breed; kind; sort"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "十種",
+                "simplified": "十种",
+                "roman": "cha̍p-chéng",
+                "romanization": "",
+                "lit": "hybrid; crossbreed, (derog.) bastard",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "十",
+                    "种"
+                ],
+                "etyTrad": [
+                    "十",
+                    "種"
+                ],
+                "etyRoman": [
+                    "cha̍p",
+                    "chéng"
+                ],
+                "etyLit": [
+                    "ten",
+                    "ethnicity; breed; kind; sort"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "囝",
+                "simplified": "囝",
+                "roman": "kiáⁿ",
+                "romanization": "",
+                "lit": "kid; child"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) bastard; a person born out of an affair, or out of wedlock; term of abuse for a bastard or mixed-race person",
+                    "example": "Many migrant Chinese viewed the peranakan as a community of 'culturally-bastardised Chinese'. Derogatory terms such as chap cheng kia (or bastard) were used liberally to describe the peranakan, and were flashpoints in public spaces.",
+                    "exampleSource": "Koh, E. (2007). \"Singapore Stories - Language and Class in Singapore: An investigation into the socio-economic implications of English literacy as a life chance among the ethnic Chinese of Singapore from 1945 to 2000\" [Ph.D thesis, U. W. Aust.]. p.69"
+                },
+                {
+                    "definition": "(sometimes derogatory) a person of mixed ethnic heritage",
+                    "example": "She loved the idea of having children, children of her own one day. How beautiful a mixed-blood baby would be. But the fear that her children would be labelled 'chap cheng kia' or 'bastards' sent shivers down her spine.",
+                    "exampleSource": "2013, Alex Ling. \"Golden Dreams of Borneo\", Xlibris Corporation. ISBN: 9781479791699. p.398",
+                    "synonyms": [
+                        "rojak",
+                        "chapalang"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "basket",
+            "kia"
+        ],
+        "category": [
+            "vulgar"
+        ],
+        "etyNotes": "杂种/雜種 was probably the original term, but 雜/杂 became conflated with 十 since they are full homophones (both <i>cha̍p</i>) and the term makes sense with either word in Hokkien.",
+        "references": [
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/12721/",
+                "name": "教育部臺灣閩南語常用詞辭典 - 雜種仔囝"
+            }
+        ]
+    },
+    "chap chye": {
+        "word": "chap chye",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "雜菜",
+                "simplified": "杂菜",
+                "roman": "cha̍p-chhài",
+                "romanization": "",
+                "lit": "mixed vegetables",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "杂",
+                    "菜"
+                ],
+                "etyTrad": [
+                    "雜",
+                    "菜"
+                ],
+                "etyRoman": [
+                    "cha̍p",
+                    "chhài"
+                ],
+                "etyLit": [
+                    "mixed; assorted",
+                    "vegetables"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a stew of mixed vegetables, such as cabbage, mushrooms, and @{black fungus} in broth, and often tossed with other ingredients such as strips of @{tau kee}, carrot, @{tang hoon}, and garlic."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "chap go mei": {
+        "word": "chap go mei",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "十五暝",
+                "simplified": "十五暝",
+                "roman": "cha̍p-gō͘-mêe/mê/mî",
+                "romanization": "",
+                "lit": "15th night (of Chinese New Year), also known as Lantern Festival",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "十五",
+                    "暝"
+                ],
+                "etyTrad": [
+                    "十五",
+                    "暝"
+                ],
+                "etyRoman": [
+                    "cha̍p-gō͘",
+                    "mêe/mê/mî"
+                ],
+                "etyLit": [
+                    "fifteen",
+                    "night"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the 15th night of Chinese New Year, also known as Lantern Festival. Some families may celebrate this with a second reunion dinner, with oranges and lanterns playing a prominent role in the celebrations. It is also known as the \"Chinese Valentine's Day\", and it is a chap goh mei tradition for single ladies to line up to throw oranges and other small fruits into the Singapore River (or other significant local bodies of water in other cities, such as the sea by the Esplanade in Penang) to wish for husbands.^{1}",
+                    "example": "Chinese New Year is coming to an end, which means it’s time for single ladies to look for their Mr Right on Chap Goh Meh today.<br>While many people still practice the centuries-old ritual to toss mandarin oranges into lakes or rivers, feng shui master Jessie Lee doesn’t really recommend it in this day and age.",
+                    "exampleSource": "2022 February 15, Milad Hassandarvish. Malaymail.com: \"Feng shui master: Don’t waste oranges on Chap Goh Meh, use social media to find ‘Mr Right’\". https://www.malaymail.com/news/life/2022/02/15/feng-shui-master-dont-waste-oranges-on-chap-goh-meh-use-social-media-to-fin/2041702"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=64b992e6-bc61-4950-95c3-5faaf841c3f6#:~:text=Fifteenth%20day",
+                "name": "2018 July, Bonny Tan. NLB. Singapore Infopedia - Chinese New Year customs in Singapore."
+            }
+        ]
+    },
+    "chap ji ki": {
+        "word": "chap ji ki",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "十二支",
+                "simplified": "十二支",
+                "roman": "cha̍p-jī-ki",
+                "romanization": "",
+                "lit": "a gambling game played with 12 cards or game pieces",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "十二",
+                    "支"
+                ],
+                "etyTrad": [
+                    "十二",
+                    "支"
+                ],
+                "etyRoman": [
+                    "cha̍p-jī",
+                    "ki"
+                ],
+                "etyLit": [
+                    "twelve",
+                    "measure word or classifier for long,thin objects"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an illegal gambling game played in Singapore until the late 1960s, when stricter law enforcement and mass arrests of operators from various syndicates caused a decline in its popularity. It is believed to have originated in Johor in the early 1890s.<br>The game involves a player guessing two numbers from a set of twelve (sometimes represented using cards, but originally based on the twelve pieces in Chinese chess - hence the name).^{1}"
+                }
+            ]
+        },
+        "etyNotes": "(lit.) twelve pieces/sticks",
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=a2557ca6-1db5-4ad2-b72d-1d66084c8a7c",
+                "name": "2012, Alvin Chua. NLB. Singapore Infopedia - Chap ji kee "
+            }
+        ],
+        "category": [
+            "games"
+        ]
+    },
+    "chap lau chu": {
+        "word": "chap lau chu",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "十樓厝",
+                "simplified": "十楼厝",
+                "roman": "cha̍p-lâu-chhù",
+                "romanization": "",
+                "lit": "ten-storey house/building",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "十",
+                    "楼",
+                    "厝"
+                ],
+                "etyTrad": [
+                    "十",
+                    "樓",
+                    "厝"
+                ],
+                "etyRoman": [
+                    "cha̍p",
+                    "lâu",
+                    "chhù"
+                ],
+                "etyLit": [
+                    "ten",
+                    "storey; floor",
+                    "house; building"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "one of the original ten-storey HDB flats built by the HDB in the early 1960s.",
+                    "example": "Singapore's first 10-storey flats, colloquially known as \"chap lau chu\" in Hokkien, are seven blocks of brown and beige-coloured flats in Commonwealth Drive.<br>\r\nBuilt in the early 1960s, this pioneering \"mini estate\" introduced Singaporeans to the concept of a self-contained \"public housing precinct\" with several tall housing blocks next to a food centre.<br>\r\nDecades later, the once-bustling neighbourhood lies vacant.",
+                    "exampleSource": "2015 August 20, Janice Tai and Aw Cheng Wei. The Straits Times. \"Pioneer estate now a ghost town\"."
+                }
+            ]
+        },
+        "usage": "Often used as a metonym or symbol to recall the early days of nation-building in Singapore (the period around the 1960s) and the perceived quintessentially-Singaporean HDB estate life.",
+        "phonetics": "[t͡säp̚˩ lɑʊ˩ t͡sʰuˑ˩]"
+    },
+    "chapalang": {
+        "word": "chapalang",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "雜崩冷",
+                "simplified": "杂崩冷",
+                "roman": "zaap6 bang1 lang1",
+                "romanization": "",
+                "lit": "(slang) mixed; miscellaneous; assorted; having all kinds of random things"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "mixed; miscellaneous; assorted; having all kinds of random things",
+                    "example": "A mixture of ideas, beauty and craft, mostly at random, or you can say chapalang.",
+                    "exampleSource": "Chapalang店. https://chapalangdian.carteapp.io/",
+                    "synonyms": [
+                        "rojak"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(sometimes derogatory) a person of mixed ethnic heritage",
+                    "synonyms": [
+                        "rojak",
+                        "chap cheng kia"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "杂/雜, zaap6 means \"mixed; assorted\".<br>#{poss} The phrase seems to come from (likely Hong Kong) Cantonese, but the second and third characters do not seem to have any relevant meaning, and so it may be a phonetic transliteration of some phrase from another language - possibly Teochew or Hokkien. Its use to describe mixed-race people is likely also influenced by back-attribution to some Hokkien phrase that sounds similar, such as 杂仔侬/雜仔儂, cha̍p--á-lâng (\"mixed person\") - see @{chap cheng kia}.\r\n<br>#{dubious} Some sources also guess that it may come from Hokkien 食饱侬/食飽儂 chia̍h-pá-lâng, meaning \"someone who has eaten their fill\", which developed the meaning \"someone who wanders or drifts aimlessly after a heavy meal or drinking session\", then somehow later evolved again to mean \"a random, chaotic assortment or mixture\", but this sequence of developments is not properly attested.",
+        "phonetics": "/ˈtʃɑpɑlɑŋ/"
+    },
+    "char kway teow": {
+        "word": "char kway teow",
+        "origin": [
+            {
+                "lang": "hokkien / teochew",
+                "traditional": "炒粿條",
+                "simplified": "炒粿条",
+                "roman": "chhá-kóe-tiâu",
+                "romanization": "",
+                "lit": "char kway teow, a stir-fried noodle dish",
+                "etyPath": [
+                    "hokkien / teochew",
+                    "hokkien / teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "炒",
+                    "粿条"
+                ],
+                "etyTrad": [
+                    "炒",
+                    "粿條"
+                ],
+                "etyRoman": [
+                    "chhá",
+                    "kóe-tiâu"
+                ],
+                "etyLit": [
+                    "stir-fry",
+                    "@{kway teow},a type of flat rice noodle"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a stir-fried noodle dish with origins in the cuisine of southern Chinese immigrants in maritime South-East Asia, likely those from Teochew background.^{1}^{2} It consists of @{kway teow} (flat rice noodles) stir-fried with soya sauce, garlic, egg, lard, @{hum} (cockles), chilli, prawns, @{tau geh} (beansprouts), and/or other ingredients.^{2}<br>A good plate of char kway teow is, amongst other factors, judged by whether it possesses the right amount of @{wok hei}, which imparts a delicious, smoky flavour to the noodles.^{1}<br>Char kway teow is one of the most famous dishes of the Singaporean-Malaysian culinary continuum, known in and exported to numerous countries all across the world, and is a common symbol of Singapore's hawker culture of cheap, delicious, but not necessarily healthy food.",
+                    "example": "If you want a taste of this shop's famous char kway teow, then be prepared to queue because patrons are aplenty and daily business hours are short. Flocked to by old gourmets, the char kway teow here comes with an intense flavour — packed with wok hey, and bursting with ingredients such as shallots, eggs, beansprouts, cockles, sausages, and more.",
+                    "exampleSource": "2023 December 13. Michelin Guide - \"Singapore's Best Char Kway Teow & Kway Chap\", https://guide.michelin.com/sg/en/best-of/best-char-kway-teow-kway-chap-singapore"
+                }
+            ]
+        },
+        "related": [
+            "or ya peh ya som balik ah roti prata char kway teow",
+            "wok hei"
+        ],
+        "etyNotes": "While the dish probably originated from Teochew cuisine, the common name is taken from the Hokkien pronunciation, instead of the Teochew ca2 guê2 diou5.^{2}",
+        "phonetics": "/ˌt͡ʃɑː ˌkweɪ ˈtjaʊ/",
+        "references": [
+            {
+                "link": "https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/fried-kway-teow/",
+                "name": "Visit Singapore - Fried Kway Teow. https://www.visitsingapore.com/dining-drinks-singapore/local-dishes/fried-kway-teow/"
+            },
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=454718c4-5100-447a-b96a-237a9cf7cc6e",
+                "name": "2015 July 28, Bonny Tan. NLB. Singapore Infopedia - Char kway teow"
+            }
+        ],
+        "category": [
+            "cuisine"
+        ]
+    },
+    "char siew": {
+        "word": "char siew",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "叉燒",
+                "simplified": "叉烧",
+                "roman": "caa1 siu1",
+                "romanization": "",
+                "lit": "Cantonese barbecued pork",
+                "etyPath": [
+                    "hokkien / teochew",
+                    "hokkien / teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "叉",
+                    "烧"
+                ],
+                "etyTrad": [
+                    "叉",
+                    "燒"
+                ],
+                "etyRoman": [
+                    "caa1",
+                    "siu1"
+                ],
+                "etyLit": [
+                    "fork",
+                    "roast; grill"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Cantonese barbecued pork, typically made from a slab of boneless pork shoulder, loin, belly, or some other cut. The meat is glazed with 'char siew sauce', which is a mixture of five-spice powder, honey or some other sweetener, fermented bean paste, hoisin sauce, and soya sauce, and traditionally coloured red with some form of food colouring. It is then skewered and barbecued or roasted, which is commercially done in a large rotisserie oven. The final product can be sliced and eaten on its own, or used as an ingredient or accompaniment to other foods, such as in @{char siew pau} or @{char siew rice}.",
+                    "example": "Watch Daddy Lau teach us how to make char siu! Also known as Chinese BBQ Pork, this is a classic Cantonese dish that's extremely popular. If you’re new to char siu, it’s an extremely juicy, sweet, and savory pork dish, and it’s a popular entree on its own - and a pleasant addition to many different types of noodles, rice dishes, and pastries like cha siu bao.",
+                    "exampleSource": "2021 February 26, Made With Lau (Youtube). \"😋 Char Siu (叉燒) - My dad's recipe for Chinese BBQ Pork!\". https://www.youtube.com/watch?v=zkCoAKTbHpQ&ab_channel=MadeWithLau"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "describing meat or another condiment prepared in a similar way or with similar flavours and sauce as traditional Cantonese char siew, such as in \"<i>char siew chicken</i>\"."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "/t͡ʃɑ siu̯/"
+    },
+    "char siew pau": {
+        "word": "char siew pau",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "叉燒包",
+                "simplified": "叉烧包",
+                "roman": "caa1 siu1 baau1",
+                "romanization": "",
+                "lit": "@{pau} (soft bun) filled with @{char siew}",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "叉烧",
+                    "包"
+                ],
+                "etyTrad": [
+                    "叉燒",
+                    "包"
+                ],
+                "etyRoman": [
+                    "caa1 siu1",
+                    "baau1"
+                ],
+                "etyLit": [
+                    "@{char siew} (Cantonese barbecued pork)",
+                    "@{pau} (soft bun)"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a soft, fluffy steamed bun (@{pau}) filled with @{char siew}, popular as a snack, dim sum dish, or breakfast food. It has origins in Cantonese cuisine. It is white and roughly dome-shaped in appearance, with either an \"X\" mark cut into the top which opens as it steams and puffs (like a @{huat kueh}), or a red dot made with food colouring on top to mark that it contains char siew. The filling usually is pork, but may be made of another condiment - for example, chicken char siew for a halal version.<br>May also refer to the baked version, which is brown and has a crispy exterior, almost like a @{char siew soh}.",
+                    "example": "Although I didn’t grow up in a family that made or ate chasiu, we always bought chasiubao from Chinese bakeries. ... Sweet, airy bakery-made chasiubao were a treat—we couldn’t often make it up to Chinatown from the ‘burbs.",
+                    "exampleSource": "2023 February 07, Kathy Yuan. The Mala Market - \"Chasiubao (叉烧包) BBQ Pork Buns: From Scratch\". https://blog.themalamarket.com/cha-siu-bao/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "char siew rice": {
+        "word": "char siew rice",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "叉燒",
+                "simplified": "叉烧",
+                "roman": "caa1 siu1",
+                "romanization": "",
+                "lit": "Cantonese barbecued pork",
+                "etyPath": [
+                    "hokkien / teochew",
+                    "hokkien / teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "叉",
+                    "烧"
+                ],
+                "etyTrad": [
+                    "叉",
+                    "燒"
+                ],
+                "etyRoman": [
+                    "caa1",
+                    "siu1"
+                ],
+                "etyLit": [
+                    "fork",
+                    "roast; grill"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "rice",
+                "romanization": "",
+                "lit": "edible seeds, used as a food grain, of the Oryza sativa cereal crop"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a popular dish of Cantonese origin, consisting of slices of @{char siew} laid over steamed rice, typically with a side vegetable and some sauce, typically based on dark soya sauce, slathered on top. It can be ordered at most roast meat stalls and some chicken rice stalls.",
+                    "example": "Fu Shi in Marsiling has its fair share of regular customers. They offer three types of cut: a leaner pork shoulder, fatty pork belly and a tender underarm cut. Their Char Siew Rice costs $3.50, but we heartily recommend that you top-up $1 for some roasted pork.",
+                    "exampleSource": "2021 March 18, Tris Marlis. Eatbook.sg - \"13 Char Siew Rice In Singapore As “Hou Sek” As Hong Kong Char Siu Fan\". https://eatbook.sg/char-siew-rice/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "The alternate name \"char siew fan/fun\" is a full transliteration of the Cantonese name, with 饭/飯, faan6 (\"rice\")."
+    },
+    "char siew soh": {
+        "word": "char siew soh",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "叉燒酥",
+                "simplified": "叉烧酥",
+                "roman": "caa1 siu1 sou1",
+                "romanization": "",
+                "lit": "Cantonese barbecued pork puff",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "叉烧",
+                    "酥"
+                ],
+                "etyTrad": [
+                    "叉燒",
+                    "酥"
+                ],
+                "etyRoman": [
+                    "caa1 siu1",
+                    "sou1"
+                ],
+                "etyLit": [
+                    "@{char siew} (Cantonese barbecued pork)",
+                    "flaky pastry; crispy"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a baked pastry of Cantonese origin with a buttery, flaky, and crispy crust, filled with @{char siew}. It is a popular dish at dim sum restaurants, but can often also be found as a snack at local bakeries. It is usually somewhat tubular in shape, with flattened ends where the pastry skin is closed to seal in the contents. The top of the pastry is usually decorated with sesame seeds.",
+                    "example": "Ever since I first tried the Char Siew Sou at Yanting Restaurant four years ago, I’ve been on a hunt for the best in Singapore. Sadly, most places serve mediocre Baked BBQ Pork Puffs that aren’t worth the calories.",
+                    "exampleSource": "2012 March 10, LADYIRONCHEF. ladyironchef.com - \"Best Char Siew Sou in Singapore\". https://www.ladyironchef.com/2012/03/best-char-siew-sou-singapore/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "zao peng": {
+        "word": "zao peng",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "走",
+                "simplified": "走",
+                "roman": "cháu",
+                "romanization": "",
+                "lit": "run; flee"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "兵",
+                "simplified": "兵",
+                "roman": "peng",
+                "romanization": "",
+                "lit": "soldier; army"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a deserter; a soldier who goes AWOL (absent without official leave)"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to desert the army; to go AWOL",
+                    "example": "Soldiers who chau peng tend to be privates and low in IQ and educational profile. By contrast, more intelligent and better-educated men and officers tend not to chau peng or go AWOL: but they skive or @{chiah chua}.",
+                    "exampleSource": "1978, Leong Choon Cheong. Youth in the Army. p.305"
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ]
+    },
+    "cheapo": {
+        "word": "cheapo",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cheapo",
+                "romanization": "",
+                "lit": "(slang) cheapskate; miser; niggard, goods of questionable quality produced at low cost",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "cheap",
+                    "-o"
+                ],
+                "etyLit": [
+                    "affordable; inexpensive,(inf.) stingy; overly frugal; niggardly",
+                    "colloquializing suffix"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a cheapskate; a miser",
+                    "example": "What is the right way to wear perfume? ... Technically speaking, the old-fashioned way is that you spritz the scent a few times into the air using an atomiser and then walk into the mist. The whole idea is that you are covered evenly in the heavenly scent. Of course, the cheapos among us would say the surroundings – not you – end up smelling lovely.",
+                    "exampleSource": "2005 September 29, Lionel Seah. The Straits Times (Urban) (from Straits Times Interactive)"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "miserly; stingy; niggardly",
+                    "synonyms": [
+                        "ngiau"
+                    ]
+                },
+                {
+                    "definition": "produced at low cost or costing little, but probably of questionable quality ",
+                    "example": "Hannah doesn't trust those 'cheapo copies' from AliExpress or Taobao, but doesn't realise that many of the branded goods she buys are the exact same products, just with a famous label and its clout slapped onto them.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "cheena"
+        ]
+    },
+    "chee cheong fun": {
+        "word": "chee cheong fun",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "豬腸粉",
+                "simplified": "猪肠粉",
+                "roman": "zyu1 coeng4 fan2",
+                "romanization": "",
+                "lit": "chee cheong fun",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "猪肠",
+                    "粉"
+                ],
+                "etyTrad": [
+                    "豬腸",
+                    "粉"
+                ],
+                "etyRoman": [
+                    "zyu1 coeng4",
+                    "fan2"
+                ],
+                "etyLit": [
+                    "pig intestines",
+                    "starch or flour noodles"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Cantonese dish made of some condiment, such as prawn, scallop, or char siew, rolled in a thin sheet of rice noodle and cut or scored into bite-sized segments. The sheets are made from a mixture of rice flour, tapioca starch, and glutinous rice flour, giving them a desirably elastic and springy texture. It is usually served soaked in a gravy of mostly soy sauce and sesame oil, and sometimes with chilli or sambal on the side, for flavour. It can also be served with dark soy sauce and topped with sesame seeds. It is a popular breakfast food and dim sum dish in Singapore.",
+                    "example": "Despite its popularity as a local breakfast staple, I’ve never been a big fan of chee cheong fun. Those slick, flat rice sheets have a hard time keeping up with my gluttonous appetite and I find myself needing more food after every CCF meal.",
+                    "exampleSource": "2024 May 19, Zheng Yuan. SethLui.com - \"King of Cheong Fun: Silky CCF loaded with prawn, char siew & mushrooms with house-made sauce\""
+                }
+            ]
+        },
+        "category": [
+            "cuisine",
+            "abbreviations"
+        ],
+        "usage": "While chee cheong fun technically refers to a type of cheong fun with little or no filling and more tightly rolled noodle sheets, most Singaporeans use it as a general term for all variations of cheong fun.",
+        "phonetics": "[ˈt͡ʃʰiː˦ ˈt͡ʃʰjɔŋ˨˩ ˈfan˨˦], [- ˈt͡ʃʰɔŋ˨˩ -]"
+    },
+    "chee sin": {
+        "word": "chee sin",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "黐線",
+                "simplified": "黐线",
+                "roman": "ci1 sin3",
+                "romanization": "",
+                "lit": "crazy; mad; insane",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "黐",
+                    "线"
+                ],
+                "etyTrad": [
+                    "黐",
+                    "線"
+                ],
+                "etyRoman": [
+                    "ci1",
+                    "sin3"
+                ],
+                "etyLit": [
+                    "glue; stick to",
+                    "wire; thread"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "crazy; mad; insane",
+                    "synonyms": [
+                        "siao",
+                        "gila"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'crazy!'; expression indicating opinion that someone or something is crazy",
+                    "synonyms": [
+                        "siao"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "(lit.) 'glued/stuck wires'; likely in the sense of something going wrong in the brain's neurons.\r\n<br>\"<i>Chee</i>\" may alternatively be written as 癡 or 痴.",
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/words/644/",
+                "name": "CantoDict - 黐線. www.cantonese.sheik.co.uk"
+            }
+        ]
+    },
+    "cheeko": {
+        "word": "cheeko",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "痴哥",
+                "simplified": "痴哥",
+                "roman": "chhi-ko",
+                "romanization": "",
+                "lit": "pervert; lecher; perverted",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "痴",
+                    "哥"
+                ],
+                "etyTrad": [
+                    "痴",
+                    "哥"
+                ],
+                "etyRoman": [
+                    "chhi",
+                    "ko"
+                ],
+                "etyLit": [
+                    "crazy about; infatuated; foolish; deluded",
+                    "elder brother"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a pervert; a lecher",
+                    "example": "then u think me unrehabiltated cheeko let loose from remand on innocent char bor..u think i chase every skirt including yours.... [sic]",
+                    "exampleSource": "2004 September 4, Ah Lau. Singapore Expats Forum, \"Single Woman\". https://forum.singaporeexpats.com/viewtopic.php?t=4345&start=20&sid=14f06bf1c3c043c12a9e391bdbb86de1",
+                    "synonyms": [
+                        "ti ko",
+                        "ti ko pek",
+                        "cheekopek",
+                        "buaya"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "perverted; lecherous",
+                    "example": "And of course, the Raja is very cheeko, very lusty. So the actor is Masturah, who then breaks out of character to say “I can't do this”, or “is this it”, and the rest of the cast members come on stage and say, “but he’s that character”, and they break into a small discussion, because the interns are disturbed by it.",
+                    "exampleSource": "2023 November, Alvin Tan. Parallel Universes in Wayang Peranakan: Adapting, Updating and Renovating ‘Mari Kita Main Wayang’ (Podcast). https://open.spotify.com/episode/7cWsN0YtQtZsVpiy0XsMEk?go=1&sp_cid=5c8cc6fe1b81b4a1157c7e2cb9ce046e&nd=1&dlsi=df178679e3ec4db9",
+                    "synonyms": [
+                        "ti ko",
+                        "ham sap",
+                        "ti ko pek",
+                        "cheeko pek"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(fig.) to act lecherously; to be perverted; to skirt-chase",
+                    "synonyms": [
+                        "buaya",
+                        "ti ko",
+                        "ham sap"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "kor"
+        ]
+    },
+    "ti ko": {
+        "word": "ti ko",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "豬哥",
+                "simplified": "猪哥",
+                "roman": "ti-ko",
+                "romanization": "",
+                "lit": "pervert; lecher; perverted",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "猪",
+                    "哥"
+                ],
+                "etyTrad": [
+                    "豬",
+                    "哥"
+                ],
+                "etyRoman": [
+                    "ti",
+                    "ko"
+                ],
+                "etyLit": [
+                    "pig",
+                    "elder brother"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a pervert; a lecher",
+                    "synonyms": [
+                        "cheeko",
+                        "ti ko pek",
+                        "cheeko pek",
+                        "buaya"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "perverted; lecherous",
+                    "example": ".....wow...many tiko uncles kena questioned by spf when caught visiting 'happy ending' massage parlours at parklane mall..... [sic]",
+                    "exampleSource": "2024 April 4, 11.11.. Hardwarezone, \".....wow...many tiko uncles kena questioned by spf when caught visiting 'happy ending' massage parlours at parklane mall.....\". https://forums.hardwarezone.com.sg/threads/wow-many-tiko-uncles-kena-questioned-by-spf-when-caught-visiting-happy-ending-massage-parlours-at-parklane-mall.7016435/",
+                    "synonyms": [
+                        "cheeko",
+                        "ham sap",
+                        "ti ko pek",
+                        "cheeko pek"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(fig.) to act lecherously; to be perverted; to skirt-chase",
+                    "example": "[Influencer complain liao!!] BBFA don't keep ogle and tiko girl wearing sport bra and yoga pant hor!!",
+                    "exampleSource": "2023 August 25, soulblader_89. Hardwarezone, \"[Influencer complain liao!!] BBFA don't keep ogle and tiko girl wearing sport bra and yoga pant hor!!\". https://forums.hardwarezone.com.sg/threads/influencer-complain-liao-bbfa-dont-keep-ogle-and-tiko-girl-wearing-sport-bra-and-yoga-pant-hor.6940685/",
+                    "synonyms": [
+                        "buaya",
+                        "cheeko",
+                        "ham sap"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "kor"
+        ]
+    },
+    "cheeko pek": {
+        "word": "cheeko pek",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "痴哥伯",
+                "simplified": "痴哥伯",
+                "roman": "chhi-ko-peh",
+                "romanization": "",
+                "lit": "pervert; lecher",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "痴哥",
+                    "伯"
+                ],
+                "etyTrad": [
+                    "痴哥",
+                    "伯"
+                ],
+                "etyRoman": [
+                    "chhi-ko",
+                    "peh"
+                ],
+                "etyLit": [
+                    "pervert; lecher; perverted",
+                    "@{uncle}"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a pervert; a lecher",
+                    "example": "@{Tiagong} some companies have female hiring policies due to \"diversity and inclusion\", and the chi ko pek rather hire @{syt} to look at instead of another male [sic]",
+                    "exampleSource": "2022 April 18, fearhimwhofearsnothing. Hardwarezone, \"Discrimination against males for office jobs?\". https://forums.hardwarezone.com.sg/threads/discrimination-against-males-for-office-jobs.6734209/page-2",
+                    "synonyms": [
+                        "ti ko",
+                        "ti ko pek",
+                        "cheeko",
+                        "buaya"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "perverted; lecherous",
+                    "example": "I reached there was only one guy before me. but the stupid cheeko pek @{ah pek} hog the @{chio} girl for 1 hour. in the end i was served by some fat @{aunty} [sic]",
+                    "exampleSource": "2022 October 3, dork32. Hardwarezone, \"RHB High Yields Savings account\". https://forums.hardwarezone.com.sg/threads/rhb-high-yields-savings-account.5809822/page-115#post-144129651",
+                    "synonyms": [
+                        "ti ko",
+                        "cheeko",
+                        "ham sap",
+                        "ti ko pek"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "ah pek",
+            "kor"
+        ]
+    },
+    "ti ko pek": {
+        "word": "ti ko pek",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "豬哥伯",
+                "simplified": "猪哥伯",
+                "roman": "ti-ko-pek",
+                "romanization": "",
+                "lit": "pervert; lecher; perverted",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "猪哥",
+                    "伯"
+                ],
+                "etyTrad": [
+                    "豬哥",
+                    "伯"
+                ],
+                "etyRoman": [
+                    "ti-ko",
+                    "pek"
+                ],
+                "etyLit": [
+                    "pervert; lecher; perverted",
+                    "@{uncle}"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a pervert; a lecher",
+                    "example": "His look already so 'ti ko pek', wonder why in the first the panel of interviewers granted his scholarship years ago.<br>This panel of interviewers didn't have long term vision.",
+                    "exampleSource": "2012 June 7, friendship. KiasuParents, \"Former SCDF and CNB chiefs arrested\". https://kiasuparents.com/kiasu/forum/viewtopic.php?f=1&t=31252&start=310",
+                    "synonyms": [
+                        "cheeko",
+                        "ti ko",
+                        "cheeko pek",
+                        "buaya"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "perverted; lecherous",
+                    "example": "",
+                    "exampleSource": "2024 April 4, 11.11.. Hardwarezone, \".....wow...many tiko uncles kena questioned by spf when caught visiting 'happy ending' massage parlours at parklane mall.....\". https://forums.hardwarezone.com.sg/threads/wow-many-tiko-uncles-kena-questioned-by-spf-when-caught-visiting-happy-ending-massage-parlours-at-parklane-mall.7016435/",
+                    "synonyms": [
+                        "cheeko",
+                        "ham sap",
+                        "ti ko",
+                        "cheeko pek"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "ah pek",
+            "kor"
+        ]
+    },
+    "beo": {
+        "word": "beo",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "瞄",
+                "simplified": "瞄",
+                "roman": "biô",
+                "romanization": "",
+                "lit": "peek at; peep"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to peep at; to ogle surreptitiously. May carry a lewd or perverted connotation.",
+                    "example": "I am saying I tactically beo. Even when you thought why I never beo @{zhar bo}.",
+                    "exampleSource": "2023 August 25, Ender. Mycarforum, \"BREAKING: Senior Minister Tharman Shanmugaratnam announces intention to run for Singapore's presidency.\". https://www.mycarforum.com/forums/topic/2722957-breaking-senior-minister-tharman-shanmugaratnam-announces-intention-to-run-for-singapores-presidency/page/81/"
+                }
+            ]
+        },
+        "related": [
+            "khua"
+        ]
+    },
+    "ham sap": {
+        "word": "ham sap",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "鹹濕",
+                "simplified": "咸湿",
+                "roman": "haam4 sap1",
+                "romanization": "",
+                "lit": "lecherous; perverted; lewd; dirty"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "lecherous; perverted; lewd",
+                    "synonyms": [
+                        "cheeko",
+                        "ti ko",
+                        "cheeko pek",
+                        "ti ko pek"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to sexually harrass"
+                },
+                {
+                    "definition": "to act lecherously; to be perverted; to perform lewd acts",
+                    "synonyms": [
+                        "buaya",
+                        "cheeko",
+                        "ti ko"
+                    ]
+                }
+            ]
+        }
+    },
+    "cheena": {
+        "word": "cheena",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cina",
+                "romanization": "",
+                "lit": "Chinese (people, culture, language, etc.), not China (country)",
+                "etyPath": [
+                    "sanskrit",
+                    "old chinese"
+                ],
+                "etyType": [
+                    "",
+                    ""
+                ],
+                "etyScript": [
+                    "चीन ",
+                    "秦"
+                ],
+                "etyTrad": [
+                    "",
+                    "秦"
+                ],
+                "etyRoman": [
+                    "Cīna",
+                    "*zin"
+                ],
+                "etyScheme": [
+                    "",
+                    "zhengzhang"
+                ],
+                "etyLit": [
+                    "China",
+                    "Qin (state, dynasty)"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(derogatory, racist) of or relating excessively to China or Chinese culture, languages, or people. Carries a connotation of being gaudy, uncultured, or overly conservative."
+                }
+            ]
+        },
+        "related": [
+            "ah tiong",
+            "prc"
+        ],
+        "usage": "Considered quite racist and derogatory, especially by mainland Chinese people. Also associated with Japanese racism and imperialism against the Chinese.^{2} However, it is a much milder term in Singapore, and is often used to playfully mock things or people that are overtly or garishly 'Chinese'.",
+        "etyNotes": "Emphatic alteration of Malay <i>cina</i>. In other parts of the world, such as in Hong Kong and China itself, the term also developed from Japanese 支那, shina (\"China\", which also derives from the same Sanskrit - Old Chinese roots). It was historically used in a derogatory sense by the Japanese during the Sino-Japanese War and World War II, thus becoming associated with Japanese racism and imperialism against the Chinese, and is now considered extremely racist and derogatory by mainland Chinese people.^{1}^{2}",
+        "references": [
+            {
+                "link": "https://mothership.sg/2018/05/shina-cheena-racial-slur/",
+                "name": "2018 May 3, Kayla Wong. mothership.sg, \"Why is 'Cheena' offensive to many Chinese?\""
+            },
+            {
+                "link": "https://www.scmp.com/week-asia/opinion/article/2040978/c-word-why-hong-kong-localists-have-offended-all-chinese",
+                "name": "2016 October 30, Chow Chung-yan. SCMP, \"The C-word: why Hong Kong localists have offended all Chinese\""
+            }
+        ]
+    },
+    "chendol": {
+        "word": "chendol",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cendol",
+                "romanization": "",
+                "lit": "cendol",
+                "etyPath": [
+                    "balinese",
+                    "javanese"
+                ],
+                "etyType": [
+                    "or"
+                ],
+                "etyScript": [
+                    "ᬘᬾᬦ᭄ᬤᭀᬮ᭄ ",
+                    "ꦕꦺꦤ꧀ꦝꦺꦴꦭ꧀"
+                ],
+                "etyRoman": [
+                    "céndol",
+                    "jèndhol"
+                ],
+                "etyLit": [
+                    "drink made from sago,coconut milk and sugar",
+                    "swollen; bulge"
+                ]
+            }
+        ],
+        "etyNotes": "#{likely} Likely derives from either Balinese or Javanese, but it is not certain which one is the root word.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweet dessert or drink most likely originating from Indonesia (where it is also called <i>dawet</i>), which has various forms all across South-East Asia. In Singapore, it usually consists of 'worm-like' pieces of green pandan rice noodles or jelly (similar to @{bee tai bak}), shaved ice, and sweetened red beans in coconut milk. @{Gula melaka} is added as a sweetener. The dish is often topped with additional ingredients, such as ice cream or durian.",
+                    "example": "There was a hawker selling iced chendol drinks in front of the former Hollywood Theatre at Tg. Katong Road. I would saved my pocket money (10 cents) at the time just to savour the delicious cup of chendol drink on a hot afternoon. It was so delicious & thirst quenching!!!",
+                    "exampleSource": "2012. NLB, for \"The Singapore Story: My Heart, My Hope, My Home\" campaign. https://www.nlb.gov.sg/main/track-detail?cmsuuid=SMB-3496643f-6547-4e74-905e-79f67e927bb2"
+                }
+            ]
+        },
+        "related": [
+            "bee tai bak",
+            "ice kacang"
+        ],
+        "category": [
+            "cuisine"
+        ]
+    },
+    "cheng tng": {
+        "word": "cheng tng",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "清湯",
+                "simplified": "清汤",
+                "roman": "chheng-thng",
+                "romanization": "",
+                "lit": "sweet Chinese dessert soup",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "清",
+                    "汤"
+                ],
+                "etyTrad": [
+                    "清",
+                    "湯"
+                ],
+                "etyRoman": [
+                    "chheng",
+                    "thng"
+                ],
+                "etyLit": [
+                    "clear; pure",
+                    "soup"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweet Chinese dessert soup consisting of pearl barley grains, @{longans}, rock sugar, red dates, @{white fungus}, candied winter melon, gingko nuts, crushed ice, and/or other ingredients. ",
+                    "example": "Missing Dad plus the extreme hot weather recently, Cheng Tng seems to be a good option to combat the heat and bring me some good childhood memories.  For some of you who are not familiar with this dessert, Cheng Tng literally means clear soup. It is both light and refreshing.",
+                    "exampleSource": "Josephine Go (Mummy's Kitchen). BeyondNorm.com, \"Recipe: Cheng Tng (清汤)\". https://beyondnorm.com/2019/07/18/cheng-tng-recipe/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
         ]
     }
 }

@@ -498,7 +498,7 @@ input[type=text] {
     align-items: flex-start;
     flex-direction: column;
     justify-content: flex-end;
-    padding: 0 0.75em;
+    padding-left: 0.75em;
 }
 
 .romanization {
@@ -706,6 +706,15 @@ input[type=text] {
 .refs-leader {
     margin-top: 2em;
     color: var(--black);
+}
+
+.credits-leader {
+    color: var(--purp);
+}
+
+.credit {
+    margin: 0.25em 0!important;
+    font-size: 0.85em;
 }
 
 .nyms-list {
@@ -987,7 +996,7 @@ input[type=text] {
 
 /* prefix */
 .prefix-list {
-    margin-left: 1.5em;
+    margin-left: 0;
     list-style-type: '❧';
     list-style-position: outside;
     columns: 3;

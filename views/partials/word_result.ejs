@@ -123,7 +123,7 @@
 
     <!-- categories -->
     <% if(word.category){ %>
-        <% if(word.category.length> 0){ %>
+        <% if(word.category.length > 0){ %>
             <div class="details">
                 <h3>categories:</h3>
                 <div class="nyms-flex">
@@ -139,7 +139,7 @@
 
     <!-- references -->
     <% if(word.references){ %>
-        <% if(word.references.length> 0){ %>
+        <% if(word.references.length > 0){ %>
             <div class="details">
                 <h3 name="refs-leader" class="nyms-leader refs-leader">references:</h3>
                 <div class="nyms-flex">
@@ -159,6 +159,20 @@
                         </div>
                     <% } %>
                 </div>
+                </div>
+            </div>
+        <% } %>
+    <% } %>
+
+    <!-- credits -->
+    <% if(word.credits){ %>
+        <% if(word.credits.length > 0){ %>
+            <div class="details">
+                <h3 class="nyms-leader credits-leader">other credits:</h3>
+                <div class="nyms-flex">
+                    <% for(let i=0; i < word.credits.length; i++){ %>
+                        <p class="credit nolinkref"><%= word.credits[i] %></p>
+                    <% } %>
                 </div>
             </div>
         <% } %>
