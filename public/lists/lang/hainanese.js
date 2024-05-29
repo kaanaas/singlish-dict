@@ -1,1 +1,1 @@
-const langTerms = ["art buah"]; module.exports = langTerms;
+const langTerms = ["art buah","chicken rice","chicken rice ball","kui png"]; module.exports = langTerms;

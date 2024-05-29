@@ -1605,10 +1605,12 @@
     ],
     "chiah liao bee": [
         "chiah liao bee",
+        "chiah liao bi",
         "jiak liao bee",
         "jiak liao bi",
         "chia liao bi",
-        "chiah liau bi"
+        "chiah liau bi",
+        "chiah liau bee"
     ],
     "chicken backside": [
         "chicken backside"
@@ -1616,11 +1618,11 @@
     "chicken business": [
         "chicken business"
     ],
-    "chicken feed": [
-        "chicken feed",
-        "chicken-feed",
+    "chicken feet": [
         "chicken feet",
-        "chicken-feet"
+        "chicken-feet",
+        "chicken feed",
+        "chicken-feed"
     ],
     "chicken rendang": [
         "chicken rendang",
@@ -1628,9 +1630,22 @@
     ],
     "chicken rice": [
         "chicken rice",
-        "hainanese chicken rice",
-        "koe png",
-        "kui png"
+        "hainanese chicken rice"
+    ],
+    "kui png": [
+        "kui png",
+        "kui peng",
+        "kue png",
+        "kue peng",
+        "kuay png",
+        "kuay peng",
+        "kuay perng",
+        "kuey png",
+        "kuey peng",
+        "kuey perng",
+        "kueh png",
+        "kueh peng",
+        "kueh perng"
     ],
     "chicken rice ball": [
         "chicken rice ball",
@@ -3277,7 +3292,8 @@
     ],
     "kepala butoh": [
         "kepala butoh",
-        "kepala butuh"
+        "kepala butuh",
+        "kepala buto"
     ],
     "keropok": [
         "keropok"
@@ -6875,5 +6891,24 @@
     ],
     "makan angin": [
         "makan angin"
+    ],
+    "babi": [
+        "babi"
+    ],
+    "luo han": [
+        "luo han",
+        "luohan"
+    ],
+    "luo han fish": [
+        "luo han fish",
+        "luohan fish"
+    ],
+    "luo han guo": [
+        "luo han guo",
+        "luohan guo",
+        "luohanguo"
+    ],
+    "capsicum": [
+        "capsicum"
     ]
 }
