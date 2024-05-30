@@ -18,11 +18,14 @@
                     }) %>
                 <% } else { %>
                     <div class="result" id="not-found">
-                        <div class="not-found" style="justify-content: center;">
+                        <div class="not-found">
                             <h3><%= searchInput %></h3>
                             <p>cannot find.</p>
                             <span style="font-size: 1.75em;">😿</span>
                         </div>
+                    </div>
+                    <div class="result">
+                        <p class="not-found not-found-msg">Perhaps try a different spelling - your search may be listed under something else!</p>
                     </div>
                 <% } %>
             </div>

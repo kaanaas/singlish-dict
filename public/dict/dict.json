@@ -8,6 +8,9 @@
     "1211": [
         "1211"
     ],
+    "4896": [
+        "4896"
+    ],
     "11b": [
         "11b",
         "11-b",
@@ -252,14 +255,17 @@
     "ai pi ai chee": [
         "ai pi ai chee",
         "ai pi ai chi",
+        "ai pi ai qi",
         "ai pee ai chee"
     ],
     "ai pi ai chee ai tua liap ni": [
         "ai pi ai chee ai tua liap ni",
+        "ai pee ai chee ai tua liap ni",
         "ai pi ai chi ai tua liap ni",
-        "ai pee ai chee ai tua liap nee",
+        "ai pi ai qi ai tua liap nee",
         "ai pi ai chee ai dua liap ni",
-        "ai pee ai chee ai dua liap nee"
+        "ai pee ai chee ai dua liap nee",
+        "ai pi ai qi ai dua liap ni"
     ],
     "ai si": [
         "ai si",
@@ -429,6 +435,12 @@
         "amdk",
         "amtk"
     ],
+    "ang moh tua liap": [
+        "ang moh tua liap",
+        "ang moh dua liap",
+        "amdl",
+        "amtl"
+    ],
     "ang pau": [
         "ang pau",
         "angpau",
@@ -496,11 +508,12 @@
         "ak ka chiew ji",
         "ar ka chiew ji"
     ],
-    "ar ka liau": [
-        "ar ka liau",
-        "ak ka liau",
+    "ar ka liao": [
         "ar ka liao",
-        "ak kah liao"
+        "ak ka liau",
+        "ar ka liau",
+        "ak kah liao",
+        "ak ka liao"
     ],
     "ar lip bo ar chut": [
         "ar lip bo ar chut",
@@ -568,6 +581,9 @@
     "ayam sio": [
         "ayam sio",
         "ayam sioh"
+    ],
+    "babi": [
+        "babi"
     ],
     "babi pongteh": [
         "babi pongteh",
@@ -647,6 +663,12 @@
     ],
     "bang balls": [
         "bang balls"
+    ],
+    "bangkuang": [
+        "bangkuang",
+        "bang kwang",
+        "sengkuang",
+        "bang kuang"
     ],
     "bangla": [
         "bangla"
@@ -736,6 +758,10 @@
     "bengkok": [
         "bengkok"
     ],
+    "beo": [
+        "beo",
+        "bio"
+    ],
     "berak": [
         "berak"
     ],
@@ -757,12 +783,12 @@
         "bayee",
         "bai"
     ],
+    "bian tai": [
+        "bian tai",
+        "biantai"
+    ],
     "big fuck": [
         "big fuck"
-    ],
-    "beo": [
-        "beo",
-        "bio"
     ],
     "bird bird": [
         "bird bird"
@@ -927,7 +953,8 @@
         "bo ta bo lampa",
         "bo ta bo lan pa",
         "bo ta bo lanpa",
-        "bo ta bo lam pha"
+        "bo ta bo lam pha",
+        "ta liao superstar"
     ],
     "bo tao bo beh": [
         "bo tao bo beh",
@@ -1160,6 +1187,9 @@
     "cannot": [
         "cannot"
     ],
+    "capsicum": [
+        "capsicum"
+    ],
     "capteh": [
         "capteh",
         "chapteh",
@@ -1337,6 +1367,11 @@
         "chao recruit",
         "chao recroot"
     ],
+    "chao sng": [
+        "chao sng",
+        "chau sng",
+        "chow sng"
+    ],
     "chao ta": [
         "chao ta",
         "chaotah",
@@ -1380,6 +1415,16 @@
         "char siew",
         "char siu",
         "cha siu"
+    ],
+    "char siew more use than you": [
+        "char siew more use than you",
+        "char siew got more use than you",
+        "char siew better than you",
+        "char siew is better than you",
+        "char siu more use than you",
+        "char siu got more use than you",
+        "char siu better than you",
+        "char siu is better than you"
     ],
     "char siew pau": [
         "char siew pau",
@@ -1632,21 +1677,6 @@
         "chicken rice",
         "hainanese chicken rice"
     ],
-    "kui png": [
-        "kui png",
-        "kui peng",
-        "kue png",
-        "kue peng",
-        "kuay png",
-        "kuay peng",
-        "kuay perng",
-        "kuey png",
-        "kuey peng",
-        "kuey perng",
-        "kueh png",
-        "kueh peng",
-        "kueh perng"
-    ],
     "chicken rice ball": [
         "chicken rice ball",
         "chicken rice balls"
@@ -1685,6 +1715,7 @@
     ],
     "chiminology": [
         "chiminology",
+        "chimology",
         "cheemology",
         "cheeminology"
     ],
@@ -1694,17 +1725,19 @@
         "cheemness",
         "cheem-ness"
     ],
-    "chin chow": [
-        "chin chow",
-        "chinchow",
-        "chin chau"
-    ],
-    "chinchai": [
+    "chin chai": [
+        "chin chai",
         "chinchai",
         "cincai",
         "chin-chai",
-        "chin chai",
         "chin chye"
+    ],
+    "chin chow": [
+        "chin chow",
+        "chinchow",
+        "chin chao",
+        "chinchao",
+        "chin chau"
     ],
     "chindian": [
         "chindian"
@@ -1712,28 +1745,25 @@
     "chinese helicopter": [
         "chinese helicopter"
     ],
-    "ching ming": [
-        "ching ming",
-        "qing ming",
-        "ching ming festival",
-        "qing ming festival"
-    ],
     "chingay": [
         "chingay"
     ],
     "chio": [
         "chio",
+        "cheo",
         "chhio"
     ],
-    "chio kau peng": [
-        "chio kau peng",
+    "chio bu": [
+        "chio bu",
+        "chiobu"
+    ],
+    "chio ka peng": [
+        "chio ka peng",
         "chio gao peng",
         "chio kao peng",
-        "chio ka peng"
-    ],
-    "chiobu": [
-        "chiobu",
-        "chio bu"
+        "cheo kao peng",
+        "chio kau peng",
+        "cheo ka peng"
     ],
     "chiong": [
         "chiong"
@@ -1754,12 +1784,6 @@
         "chiu kana kha, kha kana lan pha",
         "chiu kana kah, kah kana lan pa",
         "chiu kana kah, kah kana lanpa"
-    ],
-    "cho pai lang": [
-        "cho pai lang",
-        "cho phai lang",
-        "zho pai nang",
-        "zho pai lang"
     ],
     "chocolate bar": [
         "chocolate bar"
@@ -1887,6 +1911,9 @@
     "commando": [
         "commando"
     ],
+    "compo": [
+        "compo"
+    ],
     "condemned": [
         "condemned"
     ],
@@ -1922,6 +1949,9 @@
     ],
     "cowboy": [
         "cowboy"
+    ],
+    "coy": [
+        "coy"
     ],
     "crab": [
         "crab"
@@ -2067,8 +2097,18 @@
         "buah duku-langsat",
         "buah duku langsat"
     ],
+    "dum bai": [
+        "dum bai",
+        "dam bai",
+        "dumbai",
+        "dambai"
+    ],
     "dum briyani": [
         "dum briyani"
+    ],
+    "dun": [
+        "dun",
+        "don"
     ],
     "dunnid": [
         "dunnid"
@@ -2942,6 +2982,21 @@
         "jio",
         "chio"
     ],
+    "jiu hu": [
+        "jiu hu",
+        "chiu hu",
+        "jiuhu",
+        "jh"
+    ],
+    "jiu hu char": [
+        "jiu hu char",
+        "jiu hu cha",
+        "jiuhu char",
+        "jiu hi char",
+        "jiu he char",
+        "jiu her char",
+        "chiu hu char"
+    ],
     "jolly well": [
         "jolly well"
     ],
@@ -3522,6 +3577,9 @@
         "kopi licence",
         "kopi license"
     ],
+    "kopi lui": [
+        "kopi lui"
+    ],
     "kopi money": [
         "kopi money"
     ],
@@ -3676,6 +3734,21 @@
     "kueh wajik": [
         "kueh wajik",
         "kuih wajik"
+    ],
+    "kui png": [
+        "kui png",
+        "kui peng",
+        "kue png",
+        "kue peng",
+        "kuay png",
+        "kuay peng",
+        "kuay perng",
+        "kuey png",
+        "kuey peng",
+        "kuey perng",
+        "kueh png",
+        "kueh peng",
+        "kueh perng"
     ],
     "kuku": [
         "kuku"
@@ -3848,6 +3921,9 @@
     "lau peng": [
         "lau peng",
         "lao peng"
+    ],
+    "laugh die me": [
+        "laugh die me"
     ],
     "le": [
         "le",
@@ -4102,6 +4178,19 @@
     "lun zun": [
         "lun zun"
     ],
+    "luo han": [
+        "luo han",
+        "luohan"
+    ],
+    "luo han fish": [
+        "luo han fish",
+        "luohan fish"
+    ],
+    "luo han guo": [
+        "luo han guo",
+        "luohan guo",
+        "luohanguo"
+    ],
     "lup cheong": [
         "lup cheong",
         "lupcheong",
@@ -4171,8 +4260,14 @@
     "makan": [
         "makan"
     ],
+    "makan angin": [
+        "makan angin"
+    ],
     "makan session": [
         "makan session"
+    ],
+    "makan ular": [
+        "makan ular"
     ],
     "makcik": [
         "makcik"
@@ -5253,6 +5348,10 @@
         "puah sio",
         "pua sio"
     ],
+    "pubor": [
+        "pubor",
+        "pu bor"
+    ],
     "pui": [
         "pui",
         "bui",
@@ -5299,6 +5398,12 @@
     "putu piring": [
         "putu piring",
         "puttu piring"
+    ],
+    "qing ming": [
+        "qing ming",
+        "ching ming",
+        "ching ming festival",
+        "qing ming festival"
     ],
     "qq": [
         "qq",
@@ -5979,6 +6084,12 @@
     ],
     "stone": [
         "stone"
+    ],
+    "storemando": [
+        "storemando",
+        "storemmando",
+        "stormmando",
+        "stormando"
     ],
     "strawberry": [
         "strawberry"
@@ -6720,6 +6831,9 @@
     "what": [
         "what"
     ],
+    "what talking you": [
+        "what talking you"
+    ],
     "what time already": [
         "what time already"
     ],
@@ -6747,6 +6861,12 @@
     "why you so liddat": [
         "why you so liddat",
         "why you so like that"
+    ],
+    "win liao lor": [
+        "win liao lor",
+        "win liao loh",
+        "win liao lo",
+        "win liau lor"
     ],
     "wind": [
         "wind"
@@ -6781,6 +6901,11 @@
         "yantau",
         "yantao",
         "yan tao"
+    ],
+    "yao siu": [
+        "yao siu",
+        "yau siu",
+        "yao siew"
     ],
     "yaya": [
         "yaya",
@@ -6869,6 +6994,16 @@
         "zha",
         "zhat"
     ],
+    "zho pai lang": [
+        "cho pai lang",
+        "cho phai lang",
+        "zho pai nang",
+        "zho pai lang",
+        "tzo pai nang",
+        "tzo pai lang",
+        "zo pai nang",
+        "zo pai lang"
+    ],
     "zhun": [
         "zhun",
         "zun",
@@ -6882,33 +7017,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "kopi lui": [
-        "kopi lui"
-    ],
-    "makan ular": [
-        "makan ular"
-    ],
-    "makan angin": [
-        "makan angin"
-    ],
-    "babi": [
-        "babi"
-    ],
-    "luo han": [
-        "luo han",
-        "luohan"
-    ],
-    "luo han fish": [
-        "luo han fish",
-        "luohan fish"
-    ],
-    "luo han guo": [
-        "luo han guo",
-        "luohan guo",
-        "luohanguo"
-    ],
-    "capsicum": [
-        "capsicum"
     ]
 }

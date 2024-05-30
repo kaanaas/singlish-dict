@@ -53,6 +53,16 @@
         "name": "A Dictionary of Singlish and Singapore English",
         "id": "6"
     },
+    "stoh": {
+        "type": "book",
+        "link": "",
+        "title": "The Complete Eh, Goondu!",
+        "author": "Sylvia Toh Paik Choo",
+        "publisher": "Marshall Cavendish Editions",
+        "year": "2024",
+        "isbn": "9789815218626",
+        "id": "20"
+    },
     "apete": {
         "type": "web",
         "link": "https://www.aussiepete.com/2008/05/singlish-language-guide-for-foreigners.html",

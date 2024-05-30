@@ -1049,8 +1049,19 @@ li::marker {
 .not-found {
     display: flex;
     align-items: baseline;
-    justify-content: left;
+    justify-content: center;
     gap: .5em;
+}
+
+.not-found-msg {
+    font-family: "Crimson Text";
+    font-size: 1em;
+    color: var(--grey-green);
+    font-style: italic;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .not-found p {
