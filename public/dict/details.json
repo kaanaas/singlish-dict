@@ -14970,6 +14970,9 @@
     },
     "carrot cake": {
         "word": "carrot cake",
+        "related": [
+            "chop carrot head"
+        ],
         "origin": [
             {
                 "lang": "teochew",
@@ -16327,7 +16330,7 @@
                 "lang": "english",
                 "traditional": "",
                 "simplified": "",
-                "roman": "private",
+                "roman": "recruit",
                 "romanization": "",
                 "lit": "(mil.) a newly enlisted soldier; the rank held by such a soldier",
                 "etyPath": [
@@ -16337,7 +16340,7 @@
                     "recruter"
                 ],
                 "etyLit": [
-                    "recruit"
+                    "to recruit"
                 ]
             }
         ],
@@ -23877,6 +23880,16 @@
                         "luan"
                     ]
                 }
+            ],
+            "interjection": [
+                {
+                    "definition": "'awesome'; 'nice!'; 'beautiful'",
+                    "example": "Swee lah! My application got approved.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "cantik"
+                    ]
+                }
             ]
         }
     },
@@ -24783,5 +24796,329 @@
                 "name": "CantoDict - 啜. www.cantonese.sheik.co.uk"
             }
         ]
+    },
+    "cantik": {
+        "word": "cantik",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cantik",
+                "romanization": "",
+                "lit": "pretty; beautiful; good-looking"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "pretty; beautiful; good-looking",
+                    "synonyms": [
+                        "sui",
+                        "chio",
+                        "jude"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'awesome'; 'nice!'",
+                    "example": "What a goal man! Cantik!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "sui"
+                    ]
+                }
+            ]
+        }
+    },
+    "chop": {
+        "word": "chop",
+        "origin": [
+            {
+                "lang": "hindi",
+                "traditional": "",
+                "simplified": "छाप",
+                "roman": "chāp",
+                "romanization": "",
+                "lit": "stamp; mark; impression"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to stamp; to seal; to place a mark indicating origin or authenticity",
+                    "example": "Make sure the immigration officer got chop your passport. @{Tia kong} got people kena detained or fined or other horror story when coming back cos the fella @{suka suka} never chop.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a stamp or seal; a mark indicating e.g. origin, brand, or authenticity"
+                },
+                {
+                    "definition": "a stamp or other tool used to leave a mark or imprint on something ",
+                    "example": "My dad has an old chop from the days where they used to stamp the date on documents.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "confirm plus chop"
+        ],
+        "etyNotes": "Also used in other Asian Englishes. Probably from Hindi, but if not, it could have come from the same word in other North Indian languages like Bengali. Compare Malay <i>cap</i>, <i>cop</i> (\"stamp; seal\"), of the same origin."
+    },
+    "chop carrot head": {
+        "word": "chop carrot head",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "砍菜頭",
+                "simplified": "砍菜头",
+                "roman": "kǎn cài tóu",
+                "romanization": "pinyin",
+                "lit": "get scammed; pay an exorbitant price for sth.",
+                "etyPath": [
+                    "general chinese",
+                    "min nan / hakka / min dong"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "砍",
+                    "菜头"
+                ],
+                "etyTrad": [
+                    "砍",
+                    "菜頭"
+                ],
+                "etyRoman": [
+                    "kǎn",
+                    "chhài-thâu"
+                ],
+                "etyScheme": [
+                    "pinyin",
+                    "poj"
+                ],
+                "etyLit": [
+                    "chop; hack",
+                    "radish; Chinese radish; daikon"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(metaphor) to get scammed; to be fleeced; to be strung along for one's money; to pay an exorbitant or inflated price for goods or products",
+                    "example": "I was charged like RM4 for 2 kosong ... Its kinda expensive for JB pricing. Could anyone confirm if i @{tio} chop carrot head? [sic]",
+                    "exampleSource": "2015 January 12, blurpandasg2014. Hardwarezone, \"Did i get chop carrot head :(\". https://forums.hardwarezone.com.sg/threads/did-i-get-chop-carrot-head.4936613/"
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "related": [
+            "carrot cake"
+        ],
+        "etyNotes": "(lit.) 'chop daikon/radish', where the word for 'daikon/radish' in Min, Hakka, and some other language families, 菜头/菜頭, is literally 'vegetable head'. Mistranslation of this word to English 'carrot' is very common - see @{carrot cake}.<br>\r\n#{poss} Apparently comes about due to how vegetables are not very tough, so even a dull knife can chop through them; thus signifying someone who is easy to take advantage of.",
+        "references": [
+            {
+                "link": "https://navalants.blogspot.com/2021/04/blog-post_9.html",
+                "name": "2021 March 5, '.......'. 从夜暮到黎明 From dusk to dawn, \"砍菜头\"."
+            }
+        ]
+    },
+    "chop chop": {
+        "word": "chop chop",
+        "origin": [
+            {
+                "lang": "chinese pidgin english",
+                "traditional": "速速",
+                "simplified": "速速",
+                "roman": "chop-chop*",
+                "romanization": "*see notes",
+                "lit": "quick; quickly; 'hurry up'",
+                "etyPath": [
+                    "cantonese"
+                ],
+                "etyTrad": [
+                    "速速"
+                ],
+                "etyScript": [
+                    "速速"
+                ],
+                "etyRoman": [
+                    "cuk1 cuk1"
+                ],
+                "etyLit": [
+                    "quick; rapid; quickly"
+                ]
+            }
+        ],
+        "etyNotes": "* CPE had no standard written form or writing system.<br>'Chop chop' has also entered standard English in several countries via CPE.",
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "quickly; hurriedly",
+                    "example": "Can you guys chop-chop finish your lunch, then come back and continue on this?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "faster"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'hurry up'; expression urging someone to make haste",
+                    "example": "Chop chop! No time already, need to leave in 5 minutes eh.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "faster"
+                    ]
+                }
+            ]
+        }
+    },
+    "faster": {
+        "word": "faster",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "faster",
+                "romanization": "",
+                "lit": "more fast; quicker; more quickly"
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "quickly; hurriedly",
+                    "example": "Faster come, if not they will sold out already.",
+                    "synonyms": [
+                        "chop chop"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'hurry up'; expression urging someone to make haste",
+                    "example": "Faster! @{Chao recruit}, my grandma like got more energy than you.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chop chop"
+                    ]
+                }
+            ]
+        },
+        "particles": [
+            {
+                "particle": "leh",
+                "meaning": "could you please hurry up!",
+                "example": "Faster leh! I not allowed to park here!",
+                "exampleSource": "@comm",
+                "effect": "impatience; protest"
+            }
+        ]
+    },
+    "chop chop kali pok": {
+        "word": "chop chop kali pok",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "chop chop",
+                "romanization": "",
+                "lit": "quickly; hurriedly; 'hurry up'",
+                "etyPath": [
+                    "chinese pidgin english",
+                    "cantonese"
+                ],
+                "etyScript": [
+                    "速速",
+                    "速速"
+                ],
+                "etyTrad": [
+                    "速速",
+                    "速速"
+                ],
+                "etyRoman": [
+                    "chop-chop*",
+                    "cuk1 cuk1"
+                ],
+                "etyScheme": [
+                    "*see notes",
+                    "jyutping"
+                ],
+                "etyLit": [
+                    "quick; quickly; 'hurry up'",
+                    "quick; rapid; quickly"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "kali pok",
+                "romanization": "",
+                "lit": "curry puff",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "malay"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    "or"
+                ],
+                "etyScript": [
+                    "咖喱卜",
+                    "咖喱",
+                    "卜",
+                    ""
+                ],
+                "etyTrad": [
+                    "咖喱卜",
+                    "咖喱",
+                    "卜",
+                    ""
+                ],
+                "etyRoman": [
+                    "ka-lí-pok",
+                    "ka-lí",
+                    "pok",
+                    "epok-epok"
+                ],
+                "etyLit": [
+                    "curry puff",
+                    "curry",
+                    "to divine; (archaic) pop; crack",
+                    "@{epok-epok} (a Malay variant of curry puff)"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "'hurry up'; 'quickly'; expression urging someone to make haste, or referring to hastiness and hurriedness"
+                }
+            ]
+        },
+        "related": [
+            "chop chop",
+            "faster",
+            "kali pok"
+        ],
+        "category": [
+            "rhyming slang",
+            "sayings"
+        ],
+        "etyNotes": "Combination of two Singlish expressions. \"Kali pok\" is meaningless in this phrase; it was probably just chosen for the rhyme, and is an example of Singlish rhyming slang and constructions.\r\n<br>#{poss}卜 is likely onomatopoeic in origin, and historically had the meaning \"to burst; to pop\". The meaning of \"divination\" comes from the ancient practice of throwing oracle bones into a fire so they would crack or 'pop', with the cracks supposedly pointing towards the fates or fortunes that would come about.<br>See @{kali pok} for more detail."
     }
 }

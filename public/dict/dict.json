@@ -7085,5 +7085,15 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "cos": [
+        "cos",
+        "'cos",
+        "cause",
+        "'cause",
+        "coz"
+    ],
+    "faster": [
+        "faster"
     ]
 }
