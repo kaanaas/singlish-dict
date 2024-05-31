@@ -1000,8 +1000,7 @@
         "word": "act cute buay cute",
         "usage": "Sometimes abbreviated as <i>ACBC</i>.",
         "category": [
-            "sayings",
-            "abbreviations"
+            "insults"
         ],
         "origin": [
             {
@@ -3977,7 +3976,7 @@
     "ak kha ak chiu": {
         "word": "ak kha ak chiu",
         "category": [
-            "sayings"
+            "insults"
         ],
         "origin": [
             {
@@ -4319,8 +4318,7 @@
             "action"
         ],
         "category": [
-            "vulgar",
-            "sayings"
+            "insults"
         ],
         "etyNotes": "This idiom originates somewhere in English, but the exact origin is unknown. Equivalent to expressions such as <i>all bark and no bite</i>, <i>all hat and no cattle</i>, or <i>all mouth and trousers</i> in other English dialects.",
         "origin": [
@@ -4549,7 +4547,9 @@
                     "definition": "how's it going; what's up",
                     "example": "",
                     "exampleSource": "",
-                    "synonyms": false,
+                    "synonyms": [
+                        "an zua"
+                    ],
                     "antonyms": false
                 }
             ]
@@ -4564,14 +4564,7 @@
                 "simplified": "按怎",
                 "roman": "án-chóaⁿ",
                 "romanization": "poj",
-                "lit": "how; why",
-                "etyPath": false,
-                "etyType": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "how; why"
             }
         ],
         "meanings": {
@@ -4580,7 +4573,9 @@
                     "definition": "what's the matter; what's up",
                     "example": "",
                     "exampleSource": "",
-                    "synonyms": false,
+                    "synonyms": [
+                        "amacam"
+                    ],
                     "antonyms": false
                 }
             ]
@@ -4955,7 +4950,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "ang moh liu lian": {
         "word": "ang moh liu lian",
@@ -5077,7 +5075,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "ang moh tua kee": {
         "word": "ang moh tua kee",
@@ -5086,8 +5087,7 @@
             "sinkie"
         ],
         "category": [
-            "abbreviations",
-            "vulgar"
+            "insults"
         ],
         "origin": [
             {
@@ -5161,8 +5161,7 @@
             "sinkie"
         ],
         "category": [
-            "abbreviations",
-            "vulgar"
+            "insults"
         ],
         "origin": [
             {
@@ -5370,8 +5369,7 @@
         ],
         "usage": "While the term itself is not strictly racist, and can be well-meaning or endearing, it is often used in a derogatory and demeaning way by non-Indians to refer to Indians. Thus, flagrant use of the term without understanding is discouraged.",
         "category": [
-            "terms of address",
-            "vulgar"
+            "insults"
         ],
         "etyNotes": "The pronunciation \"anneh\" stems from the informal Tamil pronunciation.\r\n<br><br>The spelling \"ah neh\" and its variations are due to conflation with the common diminutive prefix \"@{ah}\" (Hokkien: 阿, a), as in @{ah beng}, @{ah ma}, etc; it may also have been influenced by (or influenced the development of) the racist and derogatory term @{apu neh neh}.",
         "origin": [
@@ -5789,7 +5787,7 @@
         ],
         "usage": "#{red}#{warn} The term is considered extremely offensive and racist, and should not be used.",
         "category": [
-            "vulgar"
+            "insults"
         ],
         "etyNotes": "#{dubious}Actual etymology is unknown. Likely a nonsense word based off racist and stereotypical impressions of the sound of the Tamil language; @{anneh} or its Hokkien pronunciation @{ah neh} likely influenced the development of the slur.",
         "origin": [
@@ -7434,7 +7432,7 @@
             "no eye see"
         ],
         "category": [
-            "sayings"
+            "insults"
         ],
         "etyNotes": "(lit.) having stamps pasted over one's eyes.",
         "origin": [
@@ -8330,7 +8328,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bapok": {
         "word": "bapok",
@@ -8371,7 +8372,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "barang-barang": {
         "word": "barang-barang",
@@ -8566,8 +8570,7 @@
         ],
         "usage": "Common on Internet forums such as Reddit.",
         "category": [
-            "abbreviations",
-            "sayings"
+            "insults"
         ],
         "etyNotes": "Initialism of '<i>bui bui</i>' (Hokkien, reduplication of '<i>fat</i>') + <i>forever alone</i>.",
         "origin": [
@@ -9557,7 +9560,10 @@
                 }
             ]
         },
-        "etyNotes": "Pronounced almost the same in Hokkien as it is in Mandarin, albeit with a different tone (piàn-thài)."
+        "etyNotes": "Pronounced almost the same in Hokkien as it is in Mandarin, albeit with a different tone (piàn-thài).",
+        "category": [
+            "insults"
+        ]
     },
     "big fuck": {
         "word": "big fuck",
@@ -9568,7 +9574,7 @@
             "yaya"
         ],
         "category": [
-            "vulgar"
+            "insults"
         ],
         "etyNotes": "Possibly in part a clipping of, and comparable to, English \"<i>big fucking deal</i>\".",
         "origin": [
@@ -9848,18 +9854,22 @@
                     "example": "",
                     "exampleSource": "",
                     "synonyms": [
-                        "blur"
+                        "blur",
+                        "mong cha cha"
                     ],
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "blank file": {
         "word": "blank file",
         "usage": "As the SAF uses a three-rank arrangement, there can only be either one or two blank files when referring to the military sense. Unfortunately for those with missing teeth out there, the maximum limit is nowhere near as low for blank files along the gums.",
         "category": [
-            "ns"
+            "insults"
         ],
         "origin": [
             {
@@ -10169,18 +10179,21 @@
                     "example": "I am really blur about geography and used to fail the subject in school. ... I’m so blur, I didn’t know they existed.",
                     "exampleSource": "2001 January 9, Magdalene Lum (quoting Mark Lee). The Straits Times (Life!), p.8",
                     "synonyms": [
-                        "blank"
+                        "blank",
+                        "mong cha cha"
                     ],
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "blur cock": {
         "word": "blur cock",
         "category": [
-            "vulgar",
-            "ns"
+            "insults"
         ],
         "etyNotes": "Likely originated in the military.",
         "origin": [
@@ -10301,7 +10314,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "blur like sotong": {
         "word": "blur like sotong",
@@ -10312,7 +10328,7 @@
             "blur sotong"
         ],
         "category": [
-            "sayings"
+            "insults"
         ],
         "etyNotes": "The connection between squids and blurness is not precisely known.",
         "origin": [
@@ -10374,7 +10390,11 @@
                     "definition": "(simile) to be confused, oblivious, or slow to think",
                     "example": "He was so confused by all the technical jargon during the meeting, that by the end, his face was completely blur like sotong.",
                     "exampleSource": "@comm",
-                    "synonyms": false,
+                    "synonyms": [
+                        "blur",
+                        "blank",
+                        "mong cha cha"
+                    ],
                     "antonyms": false
                 }
             ]
@@ -10434,7 +10454,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bo": {
         "word": "bo",
@@ -10679,7 +10702,7 @@
             "lam pa"
         ],
         "category": [
-            "vulgar"
+            "insults"
         ],
         "etyNotes": "'子' is a common euphemistic ellipsis of the full phrase '𡳞脬子' in Hokkien.",
         "origin": [
@@ -10930,7 +10953,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bo gay": {
         "word": "bo gay",
@@ -10940,7 +10966,7 @@
             "blank file"
         ],
         "category": [
-            "terms of address"
+            "insults"
         ],
         "origin": [
             {
@@ -11260,7 +11286,10 @@
                     "definition": "no idea; no clue; expression of ignorance"
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bo jio": {
         "word": "bo jio",
@@ -11701,7 +11730,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bo peng yau si": {
         "word": "bo peng yau si",
@@ -11883,7 +11915,10 @@
                     ]
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bo sui": {
         "word": "bo sui",
@@ -11954,7 +11989,10 @@
                     "definition": "biased"
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bo ta bo lam pa": {
         "word": "bo ta bo lam pa",
@@ -12220,8 +12258,7 @@
             "bobo king"
         ],
         "category": [
-            "ns",
-            "abbreviations"
+            "insults"
         ],
         "usage": "\"Bobo\" is becoming more common than \"wowo\" in modern parlance.",
         "etyNotes": "#{poss} Transformation of the pronunciation from \"WOWO\" to \"bobo\" may have been influenced by the Hokkien pronunciation of 无/無, bô (\"no, not\"; see @{bo}), referring to repeated misses or \"no-hits\"."
@@ -12275,8 +12312,7 @@
             "bobo shooter"
         ],
         "category": [
-            "ns",
-            "abbreviations"
+            "insults"
         ],
         "usage": "\"Bobo\" is becoming more common than \"wowo\" in modern parlance.",
         "etyNotes": "See @{bobo} for further detail."
@@ -12325,8 +12361,7 @@
             "bobo shooter"
         ],
         "category": [
-            "ns",
-            "abbreviations"
+            "insults"
         ],
         "usage": "\"Bobo\" is becoming more common than \"wowo\" in modern parlance.",
         "etyNotes": "See @{bobo} for further detail."
@@ -12362,7 +12397,10 @@
                     ]
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "boleh": {
         "word": "boleh",
@@ -12478,11 +12516,13 @@
                     "example": "Can I borrow your phone for a minute?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "borrow"
+                        "borrow",
+                        "pinjam"
                     ],
                     "antonyms": [
                         "lend",
-                        "borrow"
+                        "borrow",
+                        "pinjam"
                     ]
                 },
                 {
@@ -12490,11 +12530,13 @@
                     "example": "Can borrow me your portable charger?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "borrow"
+                        "borrow",
+                        "pinjam"
                     ],
                     "antonyms": [
                         "lend",
-                        "borrow"
+                        "borrow",
+                        "pinjam"
                     ]
                 }
             ]
@@ -12530,7 +12572,10 @@
                     "exampleSource": "@comm"
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "bottlecaps": {
         "word": "bottlecaps",
@@ -13083,7 +13128,7 @@
             ]
         },
         "category": [
-            "sayings"
+            "insults"
         ],
         "etyNotes": "(lit.) to not know disappointment or difficulty; not understand \"bad\""
     },
@@ -13138,6 +13183,9 @@
         "related": [
             "act blur",
             "buat bodoh"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "buay lin chu": {
@@ -13430,7 +13478,10 @@
                     ]
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "buay tahan": {
         "word": "buay tahan",
@@ -13469,10 +13520,18 @@
                     "example": "That @{cendol} looks so good; I buay tahan, we have to get one.",
                     "exampleSource": "@comm"
                 }
+            ],
+            "adjective": [
+                {
+                    "definition": "unbearable; intolerable"
+                }
             ]
         },
         "related": [
             "tahan"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "buay zai": {
@@ -13527,6 +13586,9 @@
         },
         "related": [
             "buay steady"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "buaya": {
@@ -13571,14 +13633,21 @@
             ],
             "verb": [
                 {
-                    "definition": "(of a man) flirt; skirt-chase; womanize"
+                    "definition": "(of a man) flirt; skirt-chase; womanize",
+                    "synonyms": [
+                        "cheeko",
+                        "ti ko",
+                        "ham sap"
+                    ]
                 }
             ]
         },
         "related": [
             "pai kia",
             "ti ko",
-            "ti ko pek"
+            "ti ko pek",
+            "cheeko",
+            "cheeko pek"
         ],
         "category": [
             "nature"
@@ -13841,7 +13910,7 @@
             ]
         },
         "category": [
-            "vulgar"
+            "insults"
         ],
         "usage": "While \"butuh\"/\"membutuh\" just means \"to need\" in Indonesian, it is quite a bit ruder in Malay - so if you want your friends to come and help with something, don't tell them \"butuh kau\"."
     },
@@ -15070,7 +15139,10 @@
                 {
                     "definition": "to be almost singlehandedly responsible for the success of a larger group or effort; to bring a group, team, or effort to success through a largely individual effort",
                     "example": "When classes went online during Covid and the quality of teaching fell off a cliff, Youtube videos carried many a student through their degrees.",
-                    "exampleSource": "@comm"
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "one leg kick"
+                    ]
                 }
             ],
             "noun": [
@@ -15444,6 +15516,9 @@
         },
         "related": [
             "blur"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "cha tow peng": {
@@ -15486,7 +15561,7 @@
             "cha tow"
         ],
         "category": [
-            "ns"
+            "insults"
         ]
     },
     "chabor": {
@@ -15670,7 +15745,10 @@
                     "definition": "(of or after a loss) severe; done for"
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "cham siong": {
         "word": "cham siong",
@@ -15807,6 +15885,9 @@
     },
     "chao": {
         "word": "chao",
+        "related": [
+            "chao sng"
+        ],
         "origin": [
             {
                 "lang": "min nan",
@@ -15822,13 +15903,19 @@
                 {
                     "definition": "smelly; repulsive",
                     "example": "我坐 (Óa chē) MRT, man I can’t even breathe<br>\r\n<b>臭</b>到欲会死，敢若你@{阿妈|ah ma}@{放屁|pang pui} (Chhàu kàu beh ē sí, káⁿ-ná lí a-má pàng-phuì)<br>\r\n(tr.: I take the MRT, man I can't even breathe<br><b>Chao</b> until I want to die, as if your grandma farted)",
-                    "exampleSource": "2014, ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick."
+                    "exampleSource": "2014, ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick.",
+                    "synonyms": [
+                        "busuk"
+                    ]
                 },
                 {
                     "definition": "bad; detestable; undesirable; derisible"
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "chao chee bai": {
         "word": "chao chee bai",
@@ -15886,8 +15973,7 @@
             "chee bai"
         ],
         "category": [
-            "vulgar",
-            "abbreviations"
+            "insults"
         ],
         "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words."
     },
@@ -15953,7 +16039,7 @@
             "keng ka liao"
         ],
         "category": [
-            "ns"
+            "insults"
         ],
         "etyNotes": "Teochew origin of 经/經, gêng1 is suggested by both 《潮州方言词汇》 and 《潮·普双言语词典》.^{1}^{2}<br>#{poss} Most folk sources seem to claim \"keng\" is an originally Hokkien term, which is quite possible given that the two languages are very closely related, but this has not been found to be attested in any Hokkien dictionary so far. It could also have developed in both languages from a common root meaning of 经/經 that has been lost or never developed in other Chinese languages.<br>The full term probably originated in, or at least was popularized in, the military, to describe malingering soldiers.",
         "references": [
@@ -16016,7 +16102,10 @@
             "chao"
         ],
         "usage": "Rare in modern parlance. Only attested in one source.^{jlee}",
-        "etyNotes": "(lit.) 'smelly/disgusting hole'. Compare Hokkien phrase 揬臭空, tu̍h-chhàu-khang (\"to dig up dirt on someone; to rake up or expose someone's old faults or shortcomings\")."
+        "etyNotes": "(lit.) 'smelly/disgusting hole'. Compare Hokkien phrase 揬臭空, tu̍h-chhàu-khang (\"to dig up dirt on someone; to rake up or expose someone's old faults or shortcomings\").",
+        "category": [
+            "insults"
+        ]
     },
     "chao kuan": {
         "word": "chao kuan",
@@ -16051,7 +16140,10 @@
             "chao",
             "chiah chao"
         ],
-        "etyNotes": "(lit.) '(of people) detestable type; respulsive sort'."
+        "etyNotes": "(lit.) '(of people) detestable type; respulsive sort'.",
+        "category": [
+            "insults"
+        ]
     },
     "chao mao": {
         "word": "chao mao",
@@ -16106,7 +16198,10 @@
                 }
             ]
         },
-        "etyNotes": "Mandarin term is a direct calque from English."
+        "etyNotes": "Mandarin term is a direct calque from English.",
+        "category": [
+            "insults"
+        ]
     },
     "chao mugger": {
         "word": "chao mugger",
@@ -16159,7 +16254,10 @@
             "chao",
             "mug"
         ],
-        "etyNotes": "(lit.) 'detestable @{mugger}'."
+        "etyNotes": "(lit.) 'detestable @{mugger}'.",
+        "category": [
+            "insults"
+        ]
     },
     "chao private": {
         "word": "chao private",
@@ -16210,8 +16308,7 @@
             "occifer"
         ],
         "category": [
-            "ns",
-            "terms of address"
+            "insults"
         ],
         "etyNotes": "(lit.) 'smelly/detestable private'."
     },
@@ -16264,8 +16361,7 @@
             "occifer"
         ],
         "category": [
-            "ns",
-            "terms of address"
+            "insults"
         ],
         "etyNotes": "(lit.) 'smelly/detestable recruit'."
     },
@@ -16453,7 +16549,7 @@
             "kia"
         ],
         "category": [
-            "vulgar"
+            "insults"
         ],
         "etyNotes": "杂种/雜種 was probably the original term, but 雜/杂 became conflated with 十 since they are full homophones (both <i>cha̍p</i>) and the term makes sense with either word in Hokkien.",
         "references": [
@@ -16700,7 +16796,10 @@
             ]
         },
         "etyNotes": "杂/雜, zaap6 means \"mixed; assorted\".<br>#{poss} The phrase seems to come from (likely Hong Kong) Cantonese, but the second and third characters do not seem to have any relevant meaning, and so it may be a phonetic transliteration of some phrase from another language - possibly Teochew or Hokkien. Its use to describe mixed-race people is likely also influenced by back-attribution to some Hokkien phrase that sounds similar, such as 杂仔侬/雜仔儂, cha̍p--á-lâng (\"mixed person\") - see @{chap cheng kia}.\r\n<br>#{dubious} Some sources also guess that it may come from Hokkien 食饱侬/食飽儂 chia̍h-pá-lâng, meaning \"someone who has eaten their fill\", which developed the meaning \"someone who wanders or drifts aimlessly after a heavy meal or drinking session\", then somehow later evolved again to mean \"a random, chaotic assortment or mixture\", but this sequence of developments is not properly attested.",
-        "phonetics": "/ˈtʃɑpɑlɑŋ/"
+        "phonetics": "/ˈtʃɑpɑlɑŋ/",
+        "category": [
+            "insults"
+        ]
     },
     "char kway teow": {
         "word": "char kway teow",
@@ -17024,6 +17123,9 @@
         },
         "related": [
             "cheena"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "chee bai": {
@@ -17067,8 +17169,7 @@
             "ccb"
         ],
         "category": [
-            "vulgar",
-            "abbreviations"
+            "insults"
         ],
         "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words.<br>Bok (2012) suggests that the term, as a term of insult or abuse, used to be gender-specific, and that \"chee bai\" (\"cunt\") would be used to scold women while \"@{lan jiao}\" (\"penis\") would be used to scold men. However, this distinction is lost in current times, and \"chee bai\" is now usually used with no regard for the gender of the opposing party.^{1}",
         "references": [
@@ -17117,8 +17218,7 @@
             "lj bin"
         ],
         "category": [
-            "vulgar",
-            "abbreviations"
+            "insults"
         ]
     },
     "chee cheong fun": {
@@ -17232,6 +17332,9 @@
                 "link": "https://www.cantonese.sheik.co.uk/dictionary/words/644/",
                 "name": "CantoDict - 黐線. www.cantonese.sheik.co.uk"
             }
+        ],
+        "category": [
+            "insults"
         ]
     },
     "cheeko": {
@@ -17311,6 +17414,9 @@
         },
         "related": [
             "kor"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "cheeko pek": {
@@ -17381,6 +17487,9 @@
         "related": [
             "ah pek",
             "kor"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "cheena": {
@@ -17445,6 +17554,9 @@
                 "link": "https://www.scmp.com/week-asia/opinion/article/2040978/c-word-why-hong-kong-localists-have-offended-all-chinese",
                 "name": "2016 October 30, Chow Chung-yan. SCMP, \"The C-word: why Hong Kong localists have offended all Chinese\""
             }
+        ],
+        "category": [
+            "insults"
         ]
     },
     "chendol": {
@@ -17699,7 +17811,7 @@
     "chi bo eng": {
         "word": "chi bo eng",
         "category": [
-            "sayings"
+            "insults"
         ],
         "origin": [
             {
@@ -17742,6 +17854,9 @@
                     "exampleSource": "@comm",
                     "synonyms": [
                         "chi wu eng"
+                    ],
+                    "antonyms": [
+                        "char siew more use than you"
                     ]
                 }
             ]
@@ -17822,10 +17937,11 @@
             "adjective": [
                 {
                     "definition": "(of a child) dutiful; loving; filial; devoted; worth raising",
-                    "example": "Kenny always lights up his mother's day with his bubbly antics and loving nature. Chi wu eng.",
+                    "example": "Kenneth always lights up his mother's day with his bubbly antics and loving nature. Chi wu eng.",
                     "exampleSource": "@comm",
-                    "synonyms": [
-                        "chi bo eng"
+                    "antonyms": [
+                        "chi bo eng",
+                        "char siew more use than you"
                     ]
                 }
             ]
@@ -18409,7 +18525,10 @@
                     ]
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "chiah kiu": {
         "word": "chiah kiu",
@@ -18460,7 +18579,7 @@
             "fuck spider"
         ],
         "category": [
-            "sayings"
+            "insults"
         ],
         "origin": [
             {
@@ -18513,7 +18632,7 @@
             ]
         },
         "category": [
-            "ns"
+            "insults"
         ]
     },
     "chicken business": {
@@ -19393,6 +19512,9 @@
                 "link": "https://www.bbc.com/news/world-asia-36283670",
                 "name": "2016 May 13, Heather Chen. BBC News, \"'Chinese helicopter': Singlish OED entry baffles Singaporeans\"."
             }
+        ],
+        "category": [
+            "insults"
         ]
     },
     "chingay": {
@@ -19617,9 +19739,13 @@
                     "exampleSource": "@comm",
                     "synonyms": [
                         "sui",
-                        "cantik"
+                        "cantik",
+                        "jude"
                     ],
-                    "antonyms": false
+                    "antonyms": [
+                        "cui",
+                        "bo sui"
+                    ]
                 }
             ]
         }
@@ -19861,8 +19987,7 @@
             ]
         },
         "category": [
-            "vulgar",
-            "sayings"
+            "insults"
         ]
     },
     "chocolate bar": {
@@ -20530,7 +20655,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "ham sap": {
         "word": "ham sap",
@@ -21320,7 +21448,7 @@
             ]
         },
         "category": [
-            "vulgar"
+            "insults"
         ]
     },
     "kha kana chiu, chiu kana kha": {
@@ -21367,7 +21495,7 @@
             ]
         },
         "category": [
-            "sayings"
+            "insults"
         ]
     },
     "khiam pah": {
@@ -21394,6 +21522,9 @@
         "related": [
             "pah",
             "pak"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "kia stead": {
@@ -21876,11 +22007,13 @@
                     "example": "Can lend me your portable charger?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "borrow"
+                        "borrow",
+                        "pinjam"
                     ],
                     "antonyms": [
                         "borrow",
-                        "lend"
+                        "lend",
+                        "pinjam"
                     ]
                 },
                 {
@@ -21888,11 +22021,13 @@
                     "example": "Can I lend your phone for a minute?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "borrow"
+                        "borrow",
+                        "pinjam"
                     ],
                     "antonyms": [
                         "borrow",
-                        "lend"
+                        "lend",
+                        "pinjam"
                     ]
                 }
             ]
@@ -23634,7 +23769,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "strawberry generation": {
         "word": "strawberry generation",
@@ -23642,7 +23780,7 @@
             "strawberry"
         ],
         "category": [
-            "sayings"
+            "insults"
         ],
         "etyNotes": "Direct calque of Mandarin term.",
         "origin": [
@@ -23701,10 +23839,12 @@
                     "exampleSource": "@comm",
                     "synonyms": [
                         "chio",
-                        "bo sui"
+                        "cantik",
+                        "jude"
                     ],
                     "antonyms": [
-                        "cui"
+                        "cui",
+                        "bo sui"
                     ]
                 },
                 {
@@ -23848,6 +23988,9 @@
         },
         "related": [
             "kor"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "ti ko pek": {
@@ -23918,6 +24061,9 @@
         "related": [
             "ah pek",
             "kor"
+        ],
+        "category": [
+            "insults"
         ]
     },
     "wa": {
@@ -24281,6 +24427,361 @@
         },
         "category": [
             "ns"
+        ]
+    },
+    "dum bai": {
+        "word": "dum bai",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "髧眉",
+                "simplified": "髧眉",
+                "roman": "dam3 bhai7",
+                "romanization": "",
+                "lit": "(lit.) long, drooping eyebrows, (fig.) idiotic; useless; weak"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(pejorative, of a person) idiotic; useless; weak",
+                    "example": "What are the dum bai upper management thinking? This software is just going to make our lives harder.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bo idea",
+                        "bodoh",
+                        "buay kan"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(pejorative) fool; idiot; retard; clown",
+                    "example": "She felt like a dum bai when she forgot her lines on stage in front of a packed audience of uncles and aunties.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bodoh",
+                        "butoh",
+                        "cockanathan"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "vulgar",
+            "insults"
+        ],
+        "etyNotes": "Supposedly derived from the character of the \"clown/fool\" in classic Chinese opera, whose costume often included a pair of long, sagging eyebrows.^{1}",
+        "references": [
+            {
+                "link": "https://www.learndialect.sg/singapore-teochew-swear-words-vulgarities/",
+                "name": "2021 October 4, LearnDialect.sg. \"Teochew Swear Words: 7 Words & Phrases You Should Know (Better)\""
+            }
+        ]
+    },
+    "char siew more use than you": {
+        "word": "char siew more use than you",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "生嚿叉燒好過生你",
+                "simplified": "生嚿叉烧好过生你",
+                "roman": "saang1 gau6 caa1 siu1 hou2 gwo3 saang1 nei5",
+                "romanization": "",
+                "lit": "expression used to curse one's child as useless; good-for-nothing",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese",
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "生",
+                    "嚿",
+                    "叉烧",
+                    "好过",
+                    "你"
+                ],
+                "etyTrad": [
+                    "生",
+                    "嚿",
+                    "叉燒",
+                    "好過",
+                    "你"
+                ],
+                "etyRoman": [
+                    "saang1",
+                    "gau6",
+                    "caa1 siu1",
+                    "hou2 gwo3",
+                    "nei5"
+                ],
+                "etyLit": [
+                    "give birth",
+                    "(classifier) piece; chunk",
+                    "@{char siew}",
+                    "better than; rather; might as well",
+                    "you"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "expression used to scold one's child as useless, especially by mothers; insult for a good-for-nothing child",
+                    "example": "Only know how to spend my money, still say I @{sia suay} you. Give birth to char siew more use than you!",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chi bo eng"
+                    ],
+                    "antonyms": [
+                        "chi wu eng"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "(lit.) 'better to have given birth to a piece of @{char siew} than you'",
+        "references": [
+            {
+                "link": "https://words.hk/zidin/%E7%94%9F%E5%9A%BF%E5%8F%89%E7%87%92%E5%A5%BD%E9%81%8E%E7%94%9F%E4%BD%A0",
+                "name": "生嚿叉燒好過生你 - 廣東話解釋 | 粵典"
+            }
+        ]
+    },
+    "keh yan": {
+        "word": "keh yan",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "過癮",
+                "simplified": "过瘾",
+                "roman": "kè-giàn",
+                "romanization": "",
+                "lit": "satisfy a craving; enjoy oneself fully; get a kick out of sth."
+            },
+            {
+                "lang": "cantonese",
+                "traditional": "有癮",
+                "simplified": "有瘾",
+                "roman": "jau5 jan5",
+                "romanization": "",
+                "lit": "satisfy a craving; enjoy oneself fully; get a kick out of sth."
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "very interesting; to have a kick"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to satisfy a craving; to enjoy oneself fully; to get a kick out of"
+                }
+            ]
+        },
+        "etyNotes": "Pronunciation appears to be a mix between Cantonese and Hokkien."
+    },
+    "busuk": {
+        "word": "busuk",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "busuk",
+                "romanization": "",
+                "lit": "smelly; rotten; bad; evil"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "smelly; rotten",
+                    "example": "Alamak, what's that smell? Something died ah? Busuk sial...",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chao"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ],
+        "related": [
+            "chao sng"
+        ]
+    },
+    "one leg kick": {
+        "word": "one leg kick",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "一腳踢",
+                "simplified": "一脚踢",
+                "roman": "jat1 goek3 tek3",
+                "romanization": "to handle sth. entirely by oneself",
+                "lit": ""
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to handle or do something entirely by oneself",
+                    "example": "Don't try to one leg kick and @{chiong} everything by today. Let me help with the calculations lah.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "carry"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "#{likely} Likely derives from the longer idiom '铁拐李踢足球, 一脚踢' ('Li Tieguai kicks a football; he kicks it with one leg'), referring to the deity Li Tieguai (\"Iron Walking-Stick Lee\") who is depicted as a man with an iron walking stick or crutch due to his one lame leg. Hence, when playing football, he could only use one leg to kick it."
+    },
+    "zhut": {
+        "word": "zhut",
+        "related": [
+            "zhut zhut",
+            "jude"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "啜",
+                "simplified": "啜",
+                "roman": "zyut3",
+                "romanization": "",
+                "lit": "kiss; suck; (onomatopoeic) kissing or sucking noise"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to kiss",
+                    "synonyms": [
+                        "chim"
+                    ]
+                },
+                {
+                    "definition": "to suck"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(onomatopoeic) a kissing or sucking sound"
+                }
+            ]
+        },
+        "usage": "Sometimes used in a lewd or suggestive context.",
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/characters/7734/",
+                "name": "CantoDict - 啜. www.cantonese.sheik.co.uk"
+            }
+        ]
+    },
+    "zhut zhut": {
+        "word": "zhut zhut",
+        "related": [
+            "zhut",
+            "jude",
+            "buaya",
+            "cheeko",
+            "ti ko"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "啜啜",
+                "simplified": "啜啜",
+                "roman": "zyut3 zyut3",
+                "romanization": "",
+                "lit": "kiss; suck (reduplicated), (onomatopoeic) kissing or sucking noise"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to kiss",
+                    "example": "The two young lovebirds met at the staircase after school to zhut-zhut and fool around.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "chim chim"
+                    ]
+                },
+                {
+                    "definition": "to suck"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(onomatopoeic) a kissing or sucking sound"
+                }
+            ]
+        },
+        "usage": "Often used in a lewd or suggestive context.",
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/characters/7734/",
+                "name": "CantoDict - 啜. www.cantonese.sheik.co.uk"
+            }
+        ]
+    },
+    "jude": {
+        "word": "jude",
+        "related": [
+            "zhut zhut",
+            "zhut"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "#{poss}啜",
+                "simplified": "#{poss}啜",
+                "roman": "zyut3",
+                "romanization": "",
+                "lit": "kiss; suck, (onomatopoeic) kissing or sucking noise"
+            }
+        ],
+        "etyNotes": "#{poss} Actual origin is unknown. Most likely came from the same root word as @{zhut}, or adjectification of it, due to the two terms usually being used in similar contexts.",
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(usually of a young girl or woman) good-looking; attractive; pretty; sexy",
+                    "example": "Ooi Ah Seng!! Look there!! You see that girl walking across the Atrium. Wah-lau damn jude man!!!!",
+                    "exampleSource": "1998 August 14, Mr Brown. mrbrown.com, \"The Great Singlish/Singapore Dialect Dictionary\". https://www.mrbrown.com/blog/1998/08/the_great_singl.html",
+                    "synonyms": [
+                        "chio",
+                        "sui",
+                        "cantik"
+                    ],
+                    "antonyms": [
+                        "bo sui",
+                        "cui"
+                    ]
+                }
+            ]
+        },
+        "usage": "Sometimes used in a lewd or lecherous manner.",
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/characters/7734/",
+                "name": "CantoDict - 啜. www.cantonese.sheik.co.uk"
+            }
         ]
     }
 }

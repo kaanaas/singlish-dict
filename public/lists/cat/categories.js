@@ -7,7 +7,8 @@ let cats = ["cuisine",
     "locations",
     "terms of address",
     "games",
-    "drinks"
+    "drinks",
+    "insults"
 ];
 
 module.exports = cats;

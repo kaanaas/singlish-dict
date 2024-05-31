@@ -1130,6 +1130,10 @@
     "bungkus": [
         "bungkus"
     ],
+    "busuk": [
+        "busuk",
+        "busoh"
+    ],
     "butoh": [
         "butoh",
         "buto",
@@ -1186,6 +1190,9 @@
     ],
     "cannot": [
         "cannot"
+    ],
+    "cantik": [
+        "cantik"
     ],
     "capsicum": [
         "capsicum"
@@ -1795,6 +1802,10 @@
     "chop": [
         "chop"
     ],
+    "chop carrot head": [
+        "chop carrot head",
+        "chop carrothead"
+    ],
     "chop chop": [
         "chop chop",
         "chop-chop"
@@ -2376,6 +2387,12 @@
     "glam": [
         "glam"
     ],
+    "goblok": [
+        "goblok",
+        "goblock",
+        "goblog",
+        "gorblock"
+    ],
     "godzilla": [
         "godzilla"
     ],
@@ -2398,6 +2415,9 @@
     ],
     "goondu": [
         "goondu"
+    ],
+    "goot": [
+        "goot"
     ],
     "gor chiam tua kuay gu chia leng": [
         "gor chiam tua kuay gu chia leng",
@@ -3007,6 +3027,9 @@
         "jube",
         "jut"
     ],
+    "jude": [
+        "jude"
+    ],
     "just whack": [
         "just whack"
     ],
@@ -3304,6 +3327,13 @@
         "geh geh",
         "kay kay",
         "gey gey"
+    ],
+    "keh yan": [
+        "keh yan",
+        "geh yan",
+        "gei yan",
+        "kuay yan",
+        "kueh yan"
     ],
     "keling": [
         "keling",
@@ -4747,6 +4777,15 @@
     "one kind": [
         "one kind"
     ],
+    "one leg kick": [
+        "one leg kick"
+    ],
+    "one times": [
+        "one times",
+        "1x",
+        "1 x",
+        "one time"
+    ],
     "one times good one": [
         "one times good one",
         "one time good one",
@@ -5006,6 +5045,9 @@
         "ban mee",
         "banmee"
     ],
+    "pancit": [
+        "pancit"
+    ],
     "pang chance": [
         "pang chance",
         "pang chan"
@@ -5211,6 +5253,9 @@
     ],
     "pikachu": [
         "pikachu"
+    ],
+    "pinjam": [
+        "pinjam"
     ],
     "pink ic": [
         "pink ic"
@@ -6568,6 +6613,11 @@
         "tikam-tikam",
         "tikam tikam"
     ],
+    "times": [
+        "times",
+        "time",
+        "x"
+    ],
     "tingkat": [
         "tingkat"
     ],
@@ -6624,6 +6674,12 @@
     "tong chye": [
         "tong chye",
         "tong chai"
+    ],
+    "tongkat": [
+        "tongkat"
+    ],
+    "tongkat ali": [
+        "tongkat ali"
     ],
     "toot": [
         "toot"
@@ -7009,6 +7065,18 @@
         "zun",
         "tzun",
         "tzhun"
+    ],
+    "zhut": [
+        "zhut",
+        "zut",
+        "chut"
+    ],
+    "zhut zhut": [
+        "zhut zhut",
+        "zhut-zhut",
+        "zut zut",
+        "zut-zut",
+        "chut chut"
     ],
     "zi char": [
         "tze char",
