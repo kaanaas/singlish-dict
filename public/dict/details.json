@@ -6109,7 +6109,8 @@
         "related": [
             "angkat bola",
             "ar",
-            "cari point"
+            "cari point",
+            "chut"
         ],
         "category": [
             "sayings"
@@ -24872,33 +24873,33 @@
         "word": "chop carrot head",
         "origin": [
             {
-                "lang": "general chinese",
-                "traditional": "砍菜頭",
-                "simplified": "砍菜头",
-                "roman": "kǎn cài tóu",
+                "lang": "min nan / hakka",
+                "traditional": "斲菜頭",
+                "simplified": "斫菜头",
+                "roman": "tok chhài-thâu",
                 "romanization": "pinyin",
                 "lit": "get scammed; pay an exorbitant price for sth.",
                 "etyPath": [
-                    "general chinese",
+                    "min nan / hakka",
                     "min nan / hakka / min dong"
                 ],
                 "etyType": [
                     "+"
                 ],
                 "etyScript": [
-                    "砍",
+                    "斫",
                     "菜头"
                 ],
                 "etyTrad": [
-                    "砍",
+                    "斲",
                     "菜頭"
                 ],
                 "etyRoman": [
-                    "kǎn",
+                    "tok",
                     "chhài-thâu"
                 ],
                 "etyScheme": [
-                    "pinyin",
+                    "poj",
                     "poj"
                 ],
                 "etyLit": [
@@ -24922,7 +24923,7 @@
         "related": [
             "carrot cake"
         ],
-        "etyNotes": "(lit.) 'chop daikon/radish', where the word for 'daikon/radish' in Min, Hakka, and some other language families, 菜头/菜頭, is literally 'vegetable head'. Mistranslation of this word to English 'carrot' is very common - see @{carrot cake}.<br>\r\n#{poss} Apparently comes about due to how vegetables are not very tough, so even a dull knife can chop through them; thus signifying someone who is easy to take advantage of.",
+        "etyNotes": "(lit.) 'chop daikon/radish', where the word for 'daikon/radish' in Min, Hakka, and some other language families, 菜头/菜頭, is literally 'vegetable head'. Mistranslation of this word to English 'carrot' is very common - see @{carrot cake}. 砍 and 剁 are sometimes used as synonyms for 斫, 'chop'.<br>\r\n#{poss} Apparently comes about due to how vegetables are not very tough, so even a dull knife can chop through them; thus signifying someone who is easy to take advantage of.",
         "references": [
             {
                 "link": "https://navalants.blogspot.com/2021/04/blog-post_9.html",
@@ -24932,6 +24933,9 @@
     },
     "chop chop": {
         "word": "chop chop",
+        "related": [
+            "chopsticks"
+        ],
         "origin": [
             {
                 "lang": "chinese pidgin english",
@@ -25120,5 +25124,524 @@
             "sayings"
         ],
         "etyNotes": "Combination of two Singlish expressions. \"Kali pok\" is meaningless in this phrase; it was probably just chosen for the rhyme, and is an example of Singlish rhyming slang and constructions.\r\n<br>#{poss}卜 is likely onomatopoeic in origin, and historically had the meaning \"to burst; to pop\". The meaning of \"divination\" comes from the ancient practice of throwing oracle bones into a fire so they would crack or 'pop', with the cracks supposedly pointing towards the fates or fortunes that would come about.<br>See @{kali pok} for more detail."
+    },
+    "cui": {
+        "word": "cui",
+        "related": [
+            "rabak"
+        ],
+        "usage": "If etymological origin is accurate, originally pronounced /t͡sʰu̯i (approximately rhyming with English '<i>wee</i>'), but due to the influence of Mandarin Pinyin reading and pronunciation, is also often pronounced /t͡sʰu̯e/ (approximately rhyming with English '<i>way</i>').",
+        "category": [
+            "insults"
+        ],
+        "phonetics": "/t͡sʰu̯i/, /t͡sʰu̯e/",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "#{poss}碎",
+                "simplified": "#{poss}碎",
+                "roman": "chhùi",
+                "romanization": "",
+                "lit": "broken; shattered"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "lousy; bad",
+                    "example": "You got 12/40 for the @{compo}? Your English so cui ah?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "lan",
+                        "rabak"
+                    ],
+                    "antonyms": [
+                        "sui",
+                        "power"
+                    ]
+                },
+                {
+                    "definition": "ugly",
+                    "example": "Wah I look damn cui in this picture sia. @{Macam} face @{kena} @{langgar} by lorry.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "bo sui",
+                        "rabak"
+                    ],
+                    "antonyms": [
+                        "sui",
+                        "chio",
+                        "hamsum",
+                        "yan tau"
+                    ]
+                },
+                {
+                    "definition": "broken; spoiled",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "lan"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "rabak": {
+        "word": "rabak",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "rabak",
+                "romanization": "",
+                "lit": "torn; in tatters; ripped"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "messed up; gone out of hand; in a state of havoc"
+                },
+                {
+                    "definition": "terrible; poor; bad",
+                    "example": "Walao eh, the weather getting more and more rabak nowadays sia.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "cui"
+                    ],
+                    "antonyms": [
+                        "sui"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ],
+        "phonetics": "/ˈɹabak/"
+    },
+    "kali pok": {
+        "word": "kali pok",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "咖喱卜",
+                "simplified": "咖喱卜",
+                "roman": "ka-lí-pok",
+                "romanization": "",
+                "lit": "curry puff",
+                "etyPath": [
+                    "hokkien",
+                    "english",
+                    "tamil",
+                    "hokkien",
+                    "malay"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+",
+                    "or"
+                ],
+                "etyScript": [
+                    "咖喱",
+                    "",
+                    "கறி",
+                    "卜",
+                    ""
+                ],
+                "etyTrad": [
+                    "咖喱",
+                    "",
+                    "",
+                    "卜",
+                    ""
+                ],
+                "etyRoman": [
+                    "ka-lí",
+                    "curry",
+                    "kaṟi",
+                    "pok",
+                    "epok-epok"
+                ],
+                "etyLit": [
+                    "curry",
+                    "type of Indian dish typically featuring various ingredients in a spiced gravy",
+                    "curry; thick sauce; meat; pepper",
+                    "to divine; (arch.) pop; crack; burst",
+                    "@{epok-epok} (a Malay variant of curry puff)"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a @{curry puff}, a fried pastry snack likely ultimately originating in the Spanish and Portuguese empanada, the Cornish pasty, or the Indian samosa.",
+                    "synonyms": [
+                        "curry puff"
+                    ]
+                },
+                {
+                    "definition": "a quiff hairstyle, so named because the puffy, thick hair on top is reminiscent of a curry puff"
+                }
+            ]
+        },
+        "related": [
+            "chop chop",
+            "faster",
+            "chop chop kali pok",
+            "karipap",
+            "epok-epok"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "#{poss}卜 is likely onomatopoeic in origin, and historically had the meaning \"to burst; to pop\". The meaning of \"divination\" comes from the ancient practice of throwing oracle bones into a fire so they would crack or 'pop', with the cracks supposedly pointing towards the fates or fortunes that would come about.<br>It is also possible that it comes from a phonetic borrowing of Malay @{epok-epok}; Hokkien often omits the repetition in originally-reduplicated Malay borrowings, such as in <i>mata-mata</i> → @{mata} or <i>otah-otah</i> → @{otah}.<br>Finally, it could simply be a phonetic approximation of English <i>puff</i>.",
+        "usage": "Similar to, and sometimes used synonymously for, the @{karipap} and the @{epok-epok}. Despite what many sources claim, <i>kali pok</i> is not a mispronunciation of '<i>curry puff</i>' stemming from broken English, but rather the actual Hokkien term for the food."
+    },
+    "curry puff": {
+        "word": "curry puff",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "curry",
+                "romanization": "",
+                "lit": "type of Indian dish typically featuring various ingredients in a spiced gravy",
+                "etyPath": [
+                    "tamil"
+                ],
+                "etyType": [
+                    ""
+                ],
+                "etyScript": [
+                    "கறி"
+                ],
+                "etyTrad": [
+                    ""
+                ],
+                "etyRoman": [
+                    "kaṟi"
+                ],
+                "etyLit": [
+                    "curry; thick sauce; meat; pepper"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "puff",
+                "romanization": "",
+                "lit": "light pastry filled with a filling"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a fried pastry snack likely ultimately originating in the Spanish and Portuguese empanada, the Cornish pasty, or the Indian samosa. It usually consists of a pastry shell filled with a dry curry (such that curry sauce does not spill out when the pastry is bitten into), which may be made from potatoes, meat, fish, egg, and curry spices.<br>Despite the name, some variations may not actually include curry or even curry powder, and the shell is more often (though not always) made of a more shortcrust-like pastry instead of puff pastry.",
+                    "synonyms": [
+                        "kali pok"
+                    ]
+                },
+                {
+                    "definition": "a quiff hairstyle, so named because the puffy, thick hair on top is reminiscent of a curry puff"
+                }
+            ]
+        },
+        "related": [
+            "chop chop",
+            "faster",
+            "chop chop kali pok",
+            "karipap",
+            "epok-epok"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "",
+        "usage": "Sometimes used as a general term for all similar snacks in the same family, such as @{karipap} and @{epok-epok}."
+    },
+    "member": {
+        "word": "member",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "remember",
+                "romanization": "",
+                "lit": "recall"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to remember",
+                    "example": "Last time we tried food here we all @{lao sai} non-stop for a week, member @{anot}?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "etyNotes": "Clipping of English <i>remember</i>."
+    },
+    "chope": {
+        "word": "chope",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cup / chup",
+                "romanization": "",
+                "lit": "excl. requesting a stop or halt; excl. to hush or call for silence",
+                "etyPath": [
+                    "hindi"
+                ],
+                "etyScript": [
+                    "#{poss}चुप"
+                ],
+                "etyRoman": [
+                    "cup"
+                ],
+                "etyLit": [
+                    "'shut up'; 'shush'; 'quiet!'"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to reserve; to 'call dibs' on, especially a table or seat. It is usually customary accompany this by leaving a small personal object behind as a marker of reservation, such as a packet of tissue paper.",
+                    "example": "Can help me chope my space, I go toilet quickly.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "exclamation made to announce that one is making a reservation of something, especially a table or seat.",
+                    "example": "Chope! Sorry, first come first serve!",
+                    "exampleSource": "@comm"
+                },
+                {
+                    "definition": "'hold up'; 'hold on a minute'; exclamation made to call for a pause or halt, or otherwise draw attention to something",
+                    "example": "Chope! Why are we packing this up? We still need it for later.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "usage": "The Malay interjection is usually accompanied by the action of holding up one hand with all five fingertips touching each other. The Singlish use (in the sense of 'hold up; hold on a minute') does not have any such prescribed action.<br>\r\nWhen reserving e.g. a table or seat, however, it is customary to leave a small personal object behind as a marker of reservation.",
+        "etyNotes": "#{poss} Possibly a borrowing from the Hindi (or other North Indian) interjection चुप, cup; Mauritian Creole has a similar expression, <i>'chup'</i> derived from it.<br>",
+        "phonetics": "/t͡ʃəʊp/"
+    },
+    "chopsticks": {
+        "word": "chopsticks",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "chopsticks",
+                "romanization": "",
+                "lit": "plural of 'chopstick'",
+                "etyPath": [
+                    "english",
+                    "chinese pidgin english",
+                    "general chinese",
+                    "general chinese",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "速",
+                    "筷子",
+                    "快",
+                    ""
+                ],
+                "etyTrad": [
+                    "",
+                    "速",
+                    "筷子",
+                    "快",
+                    ""
+                ],
+                "etyRoman": [
+                    "chopstick",
+                    "chop*",
+                    "kuài zi",
+                    "kuài",
+                    "stick"
+                ],
+                "etyLit": [
+                    "East Asian eating utensil consisting of two sticks",
+                    "quickly; fast",
+                    "chopsticks,(lit.) 'little quick ones'",
+                    "quick; fast",
+                    "long, thin, roughly cylindrical piece of material, esp. wood"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a finger game played with the goal of knocking both the opponent's hands out of play. It is commonly played by children. Each player starts with one outstretched finger on each hand, and by striking any other hand with one of their hands, adds the striking hand's number of fingers to the stuck hand. A hand is eliminated when the number of fingers would equal or exceed 5. Various other rules are included, such as a \"clap\" or \"split\" where a player can \"revive\" their own previously-eliminated hand by clapping if their other hand has two or more fingers raised, thereby distributing the count across both hands in any way they desire.<br>It is a mathematically solved game, meaning that any outcome can be achieved with perfect play."
+                }
+            ]
+        },
+        "related": [
+            "chop chop"
+        ],
+        "category": [
+            "games"
+        ],
+        "etyNotes": "* CPE had no standard written form or writing system. '<i>Chop</i>' (see @{chop chop}) is a direct CPE calque of 筷子, kuài zi, in the sense of 快, kuài (\"quick; fast\") in several Chinese languages / language families (e.g. Mandarin, Yue, Hakka, Wu, Xiang, and Jin)."
+    },
+    "chuan": {
+        "word": "chuan",
+        "origin": [
+            {
+                "lang": "hokkien / mandarin",
+                "traditional": "喘",
+                "simplified": "喘",
+                "roman": "chhoán",
+                "romanization": "poj",
+                "lit": "breathe; pant; gasp"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "out of breath; exhausted",
+                    "example": "Forget 2.4 bro. I walk upstairs to my HDB already chuan.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "shag"
+                    ]
+                }
+            ]
+        }
+    },
+    "chut": {
+        "word": "chut",
+        "origin": [
+            {
+                "lang": "hokkien / cantonese / hakka",
+                "traditional": "出",
+                "simplified": "出",
+                "roman": "chhut",
+                "romanization": "poj",
+                "lit": "come out with; appear; go out; outside"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to come out or up with; to produce; to appear",
+                    "example": "This phone always chut problem. Methinks is time to get a new one.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(usually in compounds) out; outside",
+                    "example": "That company's management is a bunch of nepos, only want to @{ar lip bo ar chut}.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "ar lip bo ar chut",
+            "chut pattern"
+        ]
+    },
+    "chut pattern": {
+        "word": "chut pattern",
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien / cantonese / hakka",
+                "traditional": "出",
+                "simplified": "出",
+                "roman": "chhut",
+                "romanization": "poj",
+                "lit": "come out with; appear; go out; outside"
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pattern",
+                "romanization": "",
+                "lit": "wont or habit to cause an annoyance or bother; antics; trouble, or characteristically troublesome behaviour",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": [
+                    ""
+                ],
+                "etyScript": [
+                    ""
+                ],
+                "etyTrad": [
+                    ""
+                ],
+                "etyRoman": [
+                    "pattern"
+                ],
+                "etyLit": [
+                    "characteristic sequence, arrangement, method, or set of behaviours"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to cause an annoyance or bother; to be full of antics; to create trouble, or exhibit troublesome behaviour",
+                    "example": "\"If Dr Chee says he is second when it comes to 'chut pattern', no one else would dare to claim first.\"",
+                    "exampleSource": "2016 January 20, Ong Hwee Hwee (quoting Sim Ann). The Straits Times, \"GE2015: PAP does not have 'a tradition of backstabbing our mentors', says Vivian Balakrishnan\". https://www.straitstimes.com/politics/ge2015-pap-does-not-have-a-tradition-of-backstabbing-our-mentors-says-vivian-balakrishnan"
+                }
+            ]
+        },
+        "related": [
+            "chut",
+            "pattern"
+        ]
+    },
+    "pattern": {
+        "word": "pattern",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pattern",
+                "romanization": "",
+                "lit": "characteristic sequence, arrangement, method, or set of behaviours"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a wont or habit to cause an annoyance or bother; antics; trouble, or characteristically troublesome behaviour",
+                    "example": "Be careful with that girl's pattern ah, at first she will seem like @{ar} with you but got problem straight away will @{pau toh}.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "chut pattern"
+        ]
     }
 }

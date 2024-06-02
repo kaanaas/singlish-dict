@@ -1826,12 +1826,13 @@
         "chorlor",
         "chor-lor"
     ],
-    "chua": [
-        "chua",
-        "chuan"
+    "chuan": [
+        "chuan",
+        "chua"
     ],
-    "chuppie": [
-        "chuppie"
+    "chut": [
+        "chut",
+        "choot"
     ],
     "chut pattern": [
         "chut pattern",
@@ -5135,7 +5136,12 @@
         "pattern zuay kuay badminton",
         "pattern zuey kuey badminton",
         "pattern choe koe badminton",
-        "pattern zui gui badminton"
+        "pattern chuay kuay badminton",
+        "pattern chuey kuey badminton",
+        "pattern chuay kueh badminton",
+        "pattern zui gui badminton",
+        "pattern zui kuey badminton",
+        "pattern zui kueh badminton"
     ],
     "pau": [
         "pau",
@@ -5167,9 +5173,9 @@
         "pau thao"
     ],
     "pau toh": [
+        "pau toh",
         "bao toh",
         "baotoh",
-        "pau toh",
         "pautoh",
         "pao toh",
         "paotoh"
@@ -7095,5 +7101,9 @@
     ],
     "faster": [
         "faster"
+    ],
+    "member": [
+        "member",
+        "'member"
     ]
 }
