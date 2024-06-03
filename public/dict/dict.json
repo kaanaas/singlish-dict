@@ -1841,20 +1841,24 @@
     "chwee kueh": [
         "chwee kueh",
         "chwee kuih",
+        "zwee gway",
+        "chwee kway",
         "chui kueh"
     ],
     "cik": [
         "cik",
         "cek"
     ],
-    "cincaluk": [
-        "cincaluk",
+    "cincalok": [
         "cincalok",
+        "cincaluk",
+        "cencaluk",
         "chinchalok",
         "chenchalok"
     ],
     "cino": [
         "cino",
+        "-cino",
         "-ccino",
         "-chino",
         "ccino",
@@ -1868,7 +1872,9 @@
         "clown"
     ],
     "cmi": [
-        "cmi",
+        "cmi"
+    ],
+    "cannot make it": [
         "cannot make it"
     ],
     "co ok": [
@@ -3620,6 +3626,9 @@
     "kopiccino": [
         "kopiccino",
         "kopichino",
+        "kopicino",
+        "kopi cino",
+        "kopi-cino",
         "kopi-chino"
     ],
     "kopitiam": [
@@ -4468,6 +4477,9 @@
     "miloccino": [
         "miloccino",
         "milo-chino",
+        "milo-cino",
+        "milo cino",
+        "milocino",
         "milochino"
     ],
     "min chiang kueh": [
@@ -6487,6 +6499,8 @@
     ],
     "tehccino": [
         "tehccino",
+        "teh cino",
+        "teh-cino",
         "teh-chino",
         "tehchino"
     ],

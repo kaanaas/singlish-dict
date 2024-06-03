@@ -1813,6 +1813,8 @@
             "ah pek",
             "ah so",
             "auntie",
+            "cik",
+            "encik",
             "uncle"
         ],
         "category": [
@@ -7210,7 +7212,9 @@
                     "definition": "(vulgar, offensive) term of insult or abuse for a contemptible person",
                     "example": "Idiot babi! Don’t know how to drive @{isit}?",
                     "exampleSource": "@comm",
-                    "synonyms": false,
+                    "synonyms": [
+                        "cock"
+                    ],
                     "antonyms": false
                 }
             ],
@@ -11279,7 +11283,11 @@
         "meanings": {
             "adjective": [
                 {
-                    "definition": "stupid; clueless; brainless; idiotic"
+                    "definition": "stupid; clueless; brainless; idiotic",
+                    "synonyms": [
+                        "dum bai",
+                        "bodoh"
+                    ]
                 }
             ],
             "interjection": [
@@ -12386,7 +12394,9 @@
                     "example": "Bodoh lah you, don't know how to use brain to think @{isit}?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "goondu"
+                        "goondu",
+                        "dum bai",
+                        "bo idea"
                     ]
                 }
             ],
@@ -12394,6 +12404,9 @@
                 {
                     "definition": "idiot; ignoramus; fool",
                     "synonyms": [
+                        "dum bai",
+                        "cock",
+                        "clown",
                         "goondu"
                     ]
                 }
@@ -13904,9 +13917,15 @@
                     ]
                 },
                 {
-                    "definition": "(vulgar, pejorative) general term of insult or abuse",
+                    "definition": "(vulgar, pejorative) idiot; general term of insult or abuse",
                     "example": "Butoh lah kau. @{Go fuck spider}!",
-                    "exampleSource": "@comm"
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "cock",
+                        "bodoh",
+                        "kepala butoh",
+                        "dum bai"
+                    ]
                 }
             ]
         },
@@ -24476,7 +24495,9 @@
                     "synonyms": [
                         "bodoh",
                         "butoh",
-                        "cockanathan"
+                        "cockanathan",
+                        "clown",
+                        "cock"
                     ]
                 }
             ]
@@ -25642,6 +25663,518 @@
         },
         "related": [
             "chut pattern"
+        ]
+    },
+    "chwee kueh": {
+        "word": "chwee kueh",
+        "origin": [
+            {
+                "lang": "teochew",
+                "traditional": "水粿",
+                "simplified": "水粿",
+                "roman": "zui2 guê2",
+                "romanization": "",
+                "lit": "steamed rice cake with @{chye por}"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a steamed rice cake dish originating in Teochew cuisine. The cakes are usually inverted conic frustums around 5cm in diameter, and come topped with @{chye por} and served with chilli (as they would be tasteless otherwise)."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "cik": {
+        "word": "cik",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cik",
+                "romanization": "",
+                "lit": "Ms; Miss",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyType": [
+                    ""
+                ],
+                "etyScript": [
+                    "#{poss}引叔"
+                ],
+                "etyTrad": [
+                    "#{poss}引叔"
+                ],
+                "etyRoman": [
+                    "ín-chek"
+                ],
+                "etyLit": [
+                    "dear uncle"
+                ]
+            }
+        ],
+        "etyNotes": "See @{encik}, which is almost definitely from Hokkien 引叔. However, it is also possible that the term is etymologically unrelated and just happened to sound the same via convergent evolution, just like English 'female' and 'male'.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Miss; term of address for an unmarried woman"
+                },
+                {
+                    "definition": "Ms; general term of address for a woman"
+                },
+                {
+                    "definition": "(military) term of address for a female warrant officer"
+                }
+            ]
+        },
+        "related": [
+            "ah chek"
+        ],
+        "category": [
+            "terms of address"
+        ],
+        "usage": "Female equivalent of @{encik}."
+    },
+    "encik": {
+        "word": "encik",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cik",
+                "romanization": "",
+                "lit": "Ms; Miss",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "引叔",
+                    "引",
+                    "叔"
+                ],
+                "etyTrad": [
+                    "引叔",
+                    "引",
+                    "叔"
+                ],
+                "etyRoman": [
+                    "ín-chek",
+                    "ín",
+                    "chek"
+                ],
+                "etyLit": [
+                    "dear uncle",
+                    "dear; honorific prefix",
+                    "uncle; father's younger brother"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Mister; general honorific or term of address for a man"
+                },
+                {
+                    "definition": "(military) term of address for a male warrant officer"
+                }
+            ]
+        },
+        "related": [
+            "ah chek"
+        ],
+        "category": [
+            "terms of address"
+        ],
+        "usage": "Male equivalent of @{cik}.",
+        "references": [
+            {
+                "link": "",
+                "name": "2018 (originally published 1626-1642 by the Dominican Order of Preachers), \"Dictionario Hispánico-Sinicum\" or \"Hokkien Spanish Historical Document Series I: Dictionario Hispanico Sinicum\". 李毓中, 陳宗仁, José, Regalado Trota, Caño, José Luis Ortigosa, editors. Republished by Hsinchu: National Tsing Hua University Press. pp.170/151 & 522/497. ISBN 9866116743"
+            }
+        ]
+    },
+    "cincalok": {
+        "word": "cincalok",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cincalok",
+                "romanization": "",
+                "lit": "a fermented shrimp chilli condiment",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyScript": [
+                    ""
+                ],
+                "etyTrad": [
+                    ""
+                ],
+                "etyRoman": [
+                    "#{likely} cencang"
+                ],
+                "etyLit": [
+                    "mince; chop"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a condiment or dip comprised of fermented shrimp, chilli, shallots, and lime juice, with origins in Melaka."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Further etymology unknown."
+    },
+    "cino": {
+        "word": "cino",
+        "origin": [
+            {
+                "lang": "italian",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cappuccino",
+                "romanization": "",
+                "lit": "espresso coffee with steamed or frothed milk, so named due to dark brown colour resembling Capuchin monks' habits",
+                "etyPath": [
+                    "german",
+                    "italian",
+                    "italian",
+                    "italian"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "Kapuziner",
+                    "frate cappuccino",
+                    "cappuccio",
+                    "-ino"
+                ],
+                "etyLit": [
+                    "Capuchin (monk of the Capuchin order)",
+                    "Capuchin (monk of the Capuchin order)",
+                    "hood; monk's cowl",
+                    "suffix used to indicate a profession or form a diminutive"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) made with a base of milk, or condensed milk and water, with the preceding drink layered on top",
+                    "example": "Auntie, one @{teh cino} @{kah dai} and one @{miloccino} please.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "kepala"
+        ],
+        "category": [
+            "drinks"
+        ],
+        "etyNotes": "Shortening of <i>cappuccino</i>. Likely from the same ultimate etymological root as Malay @{kepala}."
+    },
+    "climb on top": {
+        "word": "climb on top",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "climb",
+                "romanization": "",
+                "lit": "scale; ascend"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "on top of",
+                "romanization": "",
+                "lit": "atop; to the highest point"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to take advantage of somebody",
+                    "example": "Don't think that just because he very @{argable} that you can try climb on top of him.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "sayings",
+            "ns"
+        ],
+        "etyNotes": "Likely originated in military slang."
+    },
+    "clown": {
+        "word": "clown",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "clown",
+                "romanization": "",
+                "lit": "fool; joker; sb. who behaves in a silly or stupid manner"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(pejorative) a fool; a joker; someone who behaves in a stupid manner",
+                    "example": "This clown thinks he is Mediacorp actor ah, can @{keng} and nobody notice.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "cock",
+                        "cockanathan"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ]
+    },
+    "cmi": {
+        "word": "cmi",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cannot make it",
+                "romanization": "",
+                "lit": "unsatisfactory; not competent enough; hopeless"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "unsatisfactory; not competent enough; hopeless",
+                    "example": "This @{bak chor mee} cmi leh. How come can get Michelin star?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "abbreviations",
+            "insults"
+        ],
+        "etyNotes": "Initialism of <i>cannot make it</i>."
+    },
+    "cannot make it": {
+        "word": "cannot make it",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cannot",
+                "romanization": "",
+                "lit": "unable to"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "make it",
+                "romanization": "",
+                "lit": "succeed at"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "unsatisfactory; not competent enough; hopeless",
+                    "example": "I wish I could encourage him more sincerely, but deep down I know he really cannot make it one.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ]
+    },
+    "co ok": {
+        "word": "co ok",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cook",
+                "romanization": "",
+                "lit": "sb. who cooks or prepares food"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "CO",
+                "romanization": "",
+                "lit": "(mil.) abbreviation of 'commanding officer'"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "OK",
+                "romanization": "",
+                "lit": "alright; satisfactory; approve; confirm"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(rare, dated, military) a cook, particularly one serving as one as their vocation in the military."
+                }
+            ]
+        },
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "usage": "Dated, largely because cooking is no longer an NS vocation, and is now outsourced to contractors such as SATS."
+    },
+    "cock": {
+        "word": "cock",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock",
+                "romanization": "",
+                "lit": "(vulgar) idiot; contemptible person"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar) an idiot; a contemptible person",
+                    "example": "Walao eh. My new buddy is such a cock. He always forget this forget that, end up getting both of us in trouble.",
+                    "exampleSource": "#comm",
+                    "synonyms": [
+                        "clown",
+                        "dum bai",
+                        "bodoh",
+                        "butoh"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "blur cock",
+            "cock fella",
+            "cock up",
+            "cockanathan",
+            "cockster",
+            "talk cock"
+        ],
+        "category": [
+            "vulgar",
+            "insults"
+        ]
+    },
+    "cock fella": {
+        "word": "cock fella",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock",
+                "romanization": "",
+                "lit": "(vulgar) idiot; contemptible person",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "cock"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(vulgar) idiot; contemptible person"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "fella",
+                "romanization": "",
+                "lit": "eye dialect spelling of 'fellow'",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": false,
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "fellow"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "person; dude; chap; bloke"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar) an idiot; a stupid, useless person; term of abuse for a contemptible person",
+                    "example": "Can you not act like such a cock fella around the clients?",
+                    "exampleSource": "#comm",
+                    "synonyms": [
+                        "cock",
+                        "cockanathan",
+                        "clown",
+                        "dum bai",
+                        "bodoh",
+                        "butoh"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "cock",
+            "blur cock",
+            "cock up",
+            "cockster",
+            "talk cock"
+        ],
+        "category": [
+            "vulgar",
+            "insults"
         ]
     }
 }
