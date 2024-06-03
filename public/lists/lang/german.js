@@ -1,0 +1,1 @@
+const langTerms = ["cino"]; module.exports = langTerms;

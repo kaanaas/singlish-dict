@@ -1,0 +1,1 @@
+const langTerms = ["chop chop","chop chop kali pok","chopsticks"]; module.exports = langTerms;

@@ -1,0 +1,1 @@
+const langTerms = ["chop carrot head"]; module.exports = langTerms;

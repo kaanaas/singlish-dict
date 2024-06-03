@@ -1,1 +1,1 @@
-const langTerms = ["bian tai","cai fan","chao mao","chi fan","gu niang","qing ming","strawberry","strawberry generation","wa kao"]; module.exports = langTerms;
+const langTerms = ["bian tai","cai fan","chao mao","chi fan","chuan","gu niang","qing ming","strawberry","strawberry generation","wa kao"]; module.exports = langTerms;

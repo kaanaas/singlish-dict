@@ -1,1 +1,1 @@
-const langTerms = ["aiyah","aiyoh","aiyoyo","anneh","apam balik","appam","apu neh neh","borrow","chandu","chitty melaka","dei","lend"]; module.exports = langTerms;
+const langTerms = ["aiyah","aiyoh","aiyoyo","anneh","apam balik","appam","apu neh neh","borrow","chandu","chitty melaka","curry puff","dei","kali pok","lend"]; module.exports = langTerms;
