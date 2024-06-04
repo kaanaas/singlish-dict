@@ -1,1 +1,1 @@
-const cat = ["bandung","c","cino"]; module.exports = cat;
+const cat = ["bandung","c","cino","pau"]; module.exports = cat;
