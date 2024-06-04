@@ -17175,7 +17175,8 @@
                     "example": "If you steal or borrow money later you cannot pay, obviously you got to sacrifice your chee bai. Meaning you have to sell chee bai.",
                     "exampleSource": "2018, Ngau Jin Chai. Facebook. https://www.facebook.com/NajibRazakMustGo/posts/2441750752531971/?comment_id=2441995379174175&comment_tracking=%7B%22tn%22%3A%22R%22%7D&_rdr",
                     "synonyms": [
-                        "puki"
+                        "puki",
+                        "pantat"
                     ]
                 }
             ],
@@ -26175,6 +26176,320 @@
         "category": [
             "vulgar",
             "insults"
+        ]
+    },
+    "pau@2": {
+        "word": "pau",
+        "related": [],
+        "usage": "",
+        "category": [
+            "drinks"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "包",
+                "simplified": "包",
+                "roman": "pau",
+                "romanization": "poj",
+                "lit": "bag; wrap"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of food or drink) packed for takeaway",
+                    "example": "Ah boy, chi de bao de?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "ta pau",
+                        "bungkus"
+                    ],
+                    "antonyms": [
+                        "makan"
+                    ]
+                },
+                {
+                    "definition": "(drink ordering) contained in a plastic drawstring baggie for takeaway, usually with a straw included for convenience",
+                    "example": "One teh peng pau please, no need straw.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to pack food or drink for takeaway; short for @{tapau}",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ta pau",
+                        "bungkus"
+                    ],
+                    "antonyms": [
+                        "makan"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a plastic drawstring baggie used to contain a serving of a drink",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "pau@1": {
+        "word": "pau",
+        "related": [
+            "char siew pau",
+            "khong bak pau"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "包",
+                "simplified": "包",
+                "roman": "pau",
+                "romanization": "poj",
+                "lit": "soft Chinese bun or bread, often with filling"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a soft Chinese bun or bread, usually steamed, and containing some kind of filling such as @{tau sar}, @{char siew}, etc.",
+                    "example": "The streets of Chinatown are filled with a plethora of Chinese street food vendors, prominently stalls selling paus, mantous and fried pancakes.",
+                    "exampleSource": "2023 October 15, Celest Teo. SethLui.com (via Yahoo! News), \"Dough Magic: Chinese street food stall sells over 20 types of mantous & paus in flavours like Matcha Red Bean, Black Sesame & Sweet Potato\". https://sg.news.yahoo.com/style/dough-magic-chinatown-chinese-street-080039553.html",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "cucuk": {
+        "word": "cucuk",
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cucuk/cocok",
+                "romanization": "",
+                "lit": "thorn; stab; pierce"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to annoy; to disturb",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "kacau"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "to instigate; to stir trouble",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "cock-up": {
+        "word": "cock-up",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock-up",
+                "romanization": "",
+                "lit": "(likely mil., vulgar) deverbal of 'cock up'",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "cock up"
+                ],
+                "etyLit": [
+                    "(likely mil., vulgar) screw up; mess up; make a terrible blunder or bungle of a situation"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a terrible mistake or blunder; a bungling of a situation; a screw-up"
+                },
+                {
+                    "definition": "a person who is always making disasters of situations; someone screwed up"
+                }
+            ]
+        },
+        "related": [
+            "cock up",
+            "cocked-up"
+        ],
+        "etyNotes": "Likely in the same vein as 'mess up', 'screw up', or 'fuck up'. Alternative etymologies have been suggested, but are much more unlikely.",
+        "category": [
+            "vulgar"
+        ]
+    },
+    "cock up": {
+        "word": "cock up",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock up",
+                "romanization": "",
+                "lit": "(likely mil., vulgar) screw up; mess up; make a terrible blunder or bungle of a situation"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to make a terrible mistake or blunder; to bungle of a situation; to screw up; to mess up"
+                }
+            ]
+        },
+        "related": [
+            "cock-up",
+            "cocked-up"
+        ],
+        "etyNotes": "Likely in the same vein as 'mess up', 'screw up', or 'fuck up'. Alternative etymologies have been suggested, but are much more unlikely.",
+        "category": [
+            "vulgar"
+        ]
+    },
+    "cocked-up": {
+        "word": "cocked-up",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cocked-up",
+                "romanization": "",
+                "lit": "(likely mil., vulgar) past participle of 'cock up' (screw up; mess up; make a terrible blunder or bungle of a situation)"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of a situation, activity, etc.) screwed up; messed up; bungled"
+                },
+                {
+                    "definition": "broken; spoiled; not working correctly",
+                    "synonyms": [
+                        "lan",
+                        "cui"
+                    ]
+                },
+                {
+                    "definition": "(of a person) screwed up; incompetent; useless; blundering",
+                    "synonyms": [
+                        "buay kan",
+                        "bo idea"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "cock-up",
+            "cock up"
+        ],
+        "etyNotes": "Likely in the same vein as 'mess up', 'screw up', or 'fuck up'. Alternative etymologies have been suggested, but are much more unlikely.",
+        "category": [
+            "vulgar"
+        ]
+    },
+    "cockanathan": {
+        "word": "cockanathan",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock",
+                "romanization": "",
+                "lit": "(vulgar) idiot; contemptible person"
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "நாதன்",
+                "roman": "naathan",
+                "romanization": "",
+                "lit": "king; leader; lord; god",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "नाथ"
+                ],
+                "etyRoman": [
+                    "nāthá"
+                ],
+                "etyLit": [
+                    "protector; guardian; lord"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(slightly vulgar) an idiot; a fool; a bumbling moron; a screwed-up fellow",
+                    "example": "Ur husband is a cockanaathan\t- he deserves to be shouted at for such a stupid suggestion. This kinda husband buay tahan. Basket. Men these days have their pantat for their brains.",
+                    "exampleSource": "2016, Regina Lim. Comment on \"My husband wants to name our future daughter after his high school sweetheart. Her name is Catherine. Is that creepy? What should I do?\". https://community.theasianparent.com/q/husband-wants-name-future-daughter-after-high-school-sweetheart-name-catherine-that-creepy-what-should-i/15579",
+                    "synonyms": [
+                        "cockster",
+                        "cock fella",
+                        "cock-up",
+                        "bodoh",
+                        "dum bai",
+                        "blur king",
+                        "butoh"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults",
+            "vulgar"
+        ],
+        "usage": "Considered slightly less vulgar than other 'cock' words due to its often humorous nature.",
+        "etyNotes": "According to Gwee (2022), the word was \"@{anyhowly} concocted\".^{1} #{poss} It possibly came about in the same vein as \"<i>x</i> @{king}\" constructions, such as @{blur king} or @{gabra king}, since நாதன், naathan means \"king; leader; lord\" in Tamil. Hence, one could interpret it as '<i>cock king</i>' or '<i>cocklord</i>', i.e. the epitome of @{cocks|cock}. It could also just have been, as Gwee suggests, anyhowly coined as a funny word with the '<i>naathan</i>' having no significance otherwise.",
+        "references": [
+            {
+                "link": " ",
+                "name": "2022, Gwee Li Sui. The Leeter Spiaking Singlish: BOOK 2 (Idioms). ISBN: 9789815009613"
+            }
         ]
     }
 }

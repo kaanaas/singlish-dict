@@ -1191,6 +1191,9 @@
     "cannot": [
         "cannot"
     ],
+    "cannot make it": [
+        "cannot make it"
+    ],
     "cantik": [
         "cantik"
     ],
@@ -1874,9 +1877,6 @@
     "cmi": [
         "cmi"
     ],
-    "cannot make it": [
-        "cannot make it"
-    ],
     "co ok": [
         "co ok"
     ],
@@ -1894,15 +1894,20 @@
         "cock steam",
         "cocksteam"
     ],
+    "cock up": [
+        "cock up"
+    ],
     "cock-up": [
         "cock-up",
-        "cock up",
-        "cockup",
-        "cocked-up"
+        "cockup"
     ],
     "cockanathan": [
         "cockanathan",
         "cockanaathan"
+    ],
+    "cocked-up": [
+        "cocked-up",
+        "cocked up"
     ],
     "cockster": [
         "cockster"
@@ -1964,6 +1969,13 @@
     ],
     "corright": [
         "corright"
+    ],
+    "cos": [
+        "cos",
+        "'cos",
+        "cause",
+        "'cause",
+        "coz"
     ],
     "cowboy": [
         "cowboy"
@@ -2252,6 +2264,9 @@
         "fan choy",
         "fan choi",
         "fanchoy"
+    ],
+    "faster": [
+        "faster"
     ],
     "fatty bom bom": [
         "fatty bom bom",
@@ -4459,6 +4474,10 @@
     "mei cai kou rou": [
         "mei cai kou rou"
     ],
+    "member": [
+        "member",
+        "'member"
+    ],
     "merepek": [
         "merepek"
     ],
@@ -5112,6 +5131,9 @@
     ],
     "pantang": [
         "pantang"
+    ],
+    "pantat": [
+        "pantat"
     ],
     "paper prata": [
         "paper prata"
@@ -7105,19 +7127,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "cos": [
-        "cos",
-        "'cos",
-        "cause",
-        "'cause",
-        "coz"
-    ],
-    "faster": [
-        "faster"
-    ],
-    "member": [
-        "member",
-        "'member"
     ]
 }
