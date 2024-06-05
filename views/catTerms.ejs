@@ -20,7 +20,7 @@
                 <hr>
                 <div class="result">
                     <ul class="prefix-list">
-                    <% catTerms = catTerms.sort(); %>
+                    <!-- <% catTerms = catTerms.sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' })); %> -->
                     <% for(let i = 0; i < catTerms.length; i++){ %>    
                         <li><a href="/?q=<%= catTerms[i] %>"><%= catTerms[i] %></a></li>
                     <% } %>

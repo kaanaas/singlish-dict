@@ -1,1 +1,1 @@
-const cat = ["11B","1206","1211","15A","302","4896","4D","5Cs","BGR","BTO","C","CB leaf","CB plant","CO OK","act cute buay cute","aircon","chao chee bai","chee bai","chee cheong fun","cmi"]; module.exports = cat;
+const cat = ["11B","1206","1211","15A","302","4896","4D","5Cs","act cute buay cute","aircon","BGR","BTO","C","CB leaf","CB plant","chao chee bai","chee bai","chee cheong fun","cmi","CO OK"]; module.exports = cat;
