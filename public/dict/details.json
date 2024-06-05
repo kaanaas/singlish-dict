@@ -186,7 +186,7 @@
         "etyNotes": "Pun based on how 'sí-pē kàu-la̍t' sounds similar to the numbers 4896 when read out, 'sì poeh káu la̍k'."
     },
     "11b": {
-        "word": "11b",
+        "word": "11B",
         "related": [
             "mindef",
             "1206",
@@ -239,7 +239,7 @@
         }
     },
     "15a": {
-        "word": "15a",
+        "word": "15A",
         "related": [
             "11b",
             "1206"
@@ -291,7 +291,7 @@
         ]
     },
     "4d": {
-        "word": "4d",
+        "word": "4D",
         "related": [
             "toto"
         ],
@@ -376,7 +376,7 @@
         }
     },
     "5cs": {
-        "word": "5cs",
+        "word": "5Cs",
         "category": [
             "abbreviations"
         ],
@@ -879,7 +879,6 @@
             "buat bodoh"
         ],
         "category": [
-            "abbreviations",
             "sayings"
         ],
         "origin": [
@@ -1000,6 +999,7 @@
         "word": "act cute buay cute",
         "usage": "Sometimes abbreviated as <i>ACBC</i>.",
         "category": [
+            "abbreviations",
             "insults"
         ],
         "origin": [
@@ -4260,7 +4260,7 @@
         }
     },
     "ali baba bag": {
-        "word": "ali baba bag",
+        "word": "Ali Baba bag",
         "category": [
             "ns"
         ],
@@ -6642,10 +6642,10 @@
         }
     },
     "attend b": {
-        "word": "attend b",
+        "word": "attend B",
         "related": [
-            "attend c",
-            "mc",
+            "attend C",
+            "MC",
             "keng",
             "chao keng",
             "pai kha pai chiu",
@@ -6723,10 +6723,10 @@
         }
     },
     "attend c": {
-        "word": "attend c",
+        "word": "attend C",
         "related": [
-            "attend b",
-            "mc",
+            "attend B",
+            "MC",
             "keng",
             "chao keng",
             "pai kha pai chiu",
@@ -9408,7 +9408,7 @@
         }
     },
     "bgr": {
-        "word": "bgr",
+        "word": "BGR",
         "related": [
             "pak tor"
         ],
@@ -12674,7 +12674,7 @@
         "etyNotes": "Alteration / eye dialect spelling of <i>brother</i>."
     },
     "bto": {
-        "word": "bto",
+        "word": "BTO",
         "origin": [
             {
                 "lang": "english",
@@ -13946,7 +13946,7 @@
         "usage": "While \"butuh\"/\"membutuh\" just means \"to need\" in Indonesian, it is quite a bit ruder in Malay - so if you want your friends to come and help with something, don't tell them \"butuh kau\"."
     },
     "c": {
-        "word": "c",
+        "word": "C",
         "origin": [
             {
                 "lang": "english",
@@ -15315,7 +15315,7 @@
         }
     },
     "cb leaf": {
-        "word": "cb leaf",
+        "word": "CB leaf",
         "origin": [
             {
                 "lang": "singlish",
@@ -15378,7 +15378,7 @@
         ]
     },
     "cb plant": {
-        "word": "cb plant",
+        "word": "CB plant",
         "origin": [
             {
                 "lang": "singlish",
@@ -16007,7 +16007,9 @@
             "chee bai"
         ],
         "category": [
-            "insults"
+            "insults",
+            "vulgar",
+            "abbreviations"
         ],
         "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words."
     },
@@ -17204,7 +17206,9 @@
             "ccb"
         ],
         "category": [
-            "insults"
+            "insults",
+            "vulgar",
+            "abbreviations"
         ],
         "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words.<br>Bok (2012) suggests that the term, as a term of insult or abuse, used to be gender-specific, and that \"chee bai\" (\"cunt\") would be used to scold women while \"@{lan jiao}\" (\"penis\") would be used to scold men. However, this distinction is lost in current times, and \"chee bai\" is now usually used with no regard for the gender of the opposing party.^{1}",
         "references": [
@@ -26034,7 +26038,7 @@
         ]
     },
     "co ok": {
-        "word": "co ok",
+        "word": "CO OK",
         "origin": [
             {
                 "lang": "english",
