@@ -1121,6 +1121,10 @@
         "bubur pulut hitam",
         "pulut hitam"
     ],
+    "buff lord": [
+        "buff lord",
+        "bufflord"
+    ],
     "bulat": [
         "bulat"
     ],
@@ -1928,8 +1932,12 @@
         "-colour",
         "-color"
     ],
+    "come": [
+        "come"
+    ],
     "come i clap for you": [
-        "come i clap for you"
+        "come i clap for you",
+        "come, i clap for you"
     ],
     "commando": [
         "commando"
@@ -2264,6 +2272,9 @@
         "fan choy",
         "fan choi",
         "fanchoy"
+    ],
+    "farmer": [
+        "farmer"
     ],
     "faster": [
         "faster"
@@ -6609,6 +6620,9 @@
         "three-stripe general",
         "3 stripe general"
     ],
+    "throw paper": [
+        "throw paper"
+    ],
     "thumb fight": [
         "thumb fight"
     ],
@@ -7127,5 +7141,8 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "sol": [
+        "sol"
     ]
 }

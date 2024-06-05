@@ -1,1 +1,1 @@
-const langTerms = ["5-10","ah","ah then","ah tiong","aiyah","aiyoh","bittergourd","blue ginger","borrow","chicken business","chicken rice","chicken rice ball","chopsticks","colour","heart pain","lend","pau","pau"]; module.exports = langTerms;
+const langTerms = ["5-10","ah","ah then","ah tiong","aiyah","aiyoh","bittergourd","blue ginger","borrow","chicken business","chicken rice","chicken rice ball","chopsticks","colour","come","come I clap for you","heart pain","lend","pau","pau"]; module.exports = langTerms;

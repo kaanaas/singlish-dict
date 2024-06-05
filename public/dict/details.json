@@ -1087,7 +1087,8 @@
                         "aksi",
                         "buay hiao bai",
                         "sia lan",
-                        "lao lan"
+                        "lao lan",
+                        "cockster"
                     ],
                     "antonyms": false
                 }
@@ -4161,7 +4162,8 @@
                         "action",
                         "yaya",
                         "sia lan",
-                        "lao lan"
+                        "lao lan",
+                        "cockster"
                     ],
                     "antonyms": false
                 }
@@ -4222,7 +4224,8 @@
                         "yaya",
                         "action",
                         "sia lan",
-                        "lao lan"
+                        "lao lan",
+                        "cockster"
                     ],
                     "antonyms": false
                 }
@@ -8004,6 +8007,7 @@
             "kentang"
         ],
         "etyNotes": "So called because a banana is yellow on the outside, but white on the inside. Term may have existed independently in English before being translated in from Hokkien.",
+        "usage": "Equivalent of @{coconut} for a Chinese person.",
         "origin": [
             {
                 "lang": "english",
@@ -8056,7 +8060,10 @@
                     ]
                 }
             ]
-        }
+        },
+        "category": [
+            "insults"
+        ]
     },
     "banana money": {
         "word": "banana money",
@@ -10946,7 +10953,8 @@
                     "example": "",
                     "exampleSource": "",
                     "synonyms": [
-                        "bo pakai"
+                        "bo pakai",
+                        "condemned"
                     ],
                     "antonyms": false
                 },
@@ -11727,7 +11735,8 @@
                     "example": "",
                     "exampleSource": "",
                     "synonyms": [
-                        "bo eng"
+                        "bo eng",
+                        "condemned"
                     ],
                     "antonyms": false
                 },
@@ -13136,7 +13145,8 @@
                         "yaya",
                         "aksi",
                         "sia lan",
-                        "lao lan"
+                        "lao lan",
+                        "cockster"
                     ]
                 }
             ]
@@ -13196,7 +13206,8 @@
         },
         "related": [
             "act blur",
-            "buat bodoh"
+            "buat bodoh",
+            "condemned"
         ],
         "category": [
             "insults"
@@ -26465,8 +26476,8 @@
             "noun": [
                 {
                     "definition": "(slightly vulgar) an idiot; a fool; a bumbling moron; a screwed-up fellow",
-                    "example": "Ur husband is a cockanaathan\t- he deserves to be shouted at for such a stupid suggestion. This kinda husband buay tahan. Basket. Men these days have their pantat for their brains.",
-                    "exampleSource": "2016, Regina Lim. Comment on \"My husband wants to name our future daughter after his high school sweetheart. Her name is Catherine. Is that creepy? What should I do?\". https://community.theasianparent.com/q/husband-wants-name-future-daughter-after-high-school-sweetheart-name-catherine-that-creepy-what-should-i/15579",
+                    "example": "Cockanathan trying to be a @{cock}. A total @{cockup} la!",
+                    "exampleSource": "2018 December 27, Ben Lee. Facebook comment on All Singapore Stuff's post. https://www.facebook.com/allsgstuff/photos/what-the-cock-is-thisreader-contribution-by-kheng/2843993669074677/?paipv=0&eav=AfZGAGW124SKqCR5Cly81DOu1t44MD8HLNtwPqnHZDJjtQp7G4iRn3oXhvNfvPkL1Rg&_rdr.",
                     "synonyms": [
                         "cockster",
                         "cock fella",
@@ -26484,12 +26495,1067 @@
             "vulgar"
         ],
         "usage": "Considered slightly less vulgar than other 'cock' words due to its often humorous nature.",
-        "etyNotes": "According to Gwee (2022), the word was \"@{anyhowly} concocted\".^{1} #{poss} It possibly came about in the same vein as \"<i>x</i> @{king}\" constructions, such as @{blur king} or @{gabra king}, since நாதன், naathan means \"king; leader; lord\" in Tamil. Hence, one could interpret it as '<i>cock king</i>' or '<i>cocklord</i>', i.e. the epitome of @{cocks|cock}. It could also just have been, as Gwee suggests, anyhowly coined as a funny word with the '<i>naathan</i>' having no significance otherwise.",
+        "etyNotes": "According to Gwee (2022), the word was \"@{anyhowly} concocted\".^{1} #{poss} While நாதன், <i>naathan</i> is mostly just used as a common Tamil name, it also means \"king; leader; lord\" in Tamil. Hence, the term possibly came about in the same vein as \"<i>x</i> @{king}\" constructions (such as @{blur king} or @{gabra king}), and one could interpret it as '<i>cock king</i>' or '<i>cocklord</i>' - i.e., the 'epitome of @{cocks|cock}'. It could also just have been, as Gwee suggests, anyhowly coined as a funny word with the '<i>naathan</i>' having no significance otherwise.",
         "references": [
             {
-                "link": " ",
+                "link": "",
                 "name": "2022, Gwee Li Sui. The Leeter Spiaking Singlish: BOOK 2 (Idioms). ISBN: 9789815009613"
             }
+        ]
+    },
+    "pantat": {
+        "word": "pantat",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pantat",
+                "romanization": "",
+                "lit": "(vulgar) ass; buttocks; female genitalia"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(slightly vulgar) ass; buttocks; arse",
+                    "example": "Ur husband is a @{cockanaathan} - he deserves to be shouted at for such a stupid suggestion. This kinda husband @{buay tahan}. @{Basket}. Men these days have their pantat for their brains.",
+                    "exampleSource": "2016, Regina Lim. Comment on \"My husband wants to name our future daughter after his high school sweetheart. Her name is Catherine. Is that creepy? What should I do?\". https://community.theasianparent.com/q/husband-wants-name-future-daughter-after-high-school-sweetheart-name-catherine-that-creepy-what-should-i/15579"
+                },
+                {
+                    "definition": "(vulgar) vagina; vulva; female genitalia",
+                    "synonyms": [
+                        "chee bai",
+                        "puki",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "puki"
+        ],
+        "category": [
+            "vulgar"
+        ]
+    },
+    "cockster": {
+        "word": "cockster",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cockster",
+                "romanization": "",
+                "lit": "",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyRoman": [
+                    "cocky",
+                    "-ster"
+                ],
+                "etyLit": [
+                    "arrogant; prideful; boastful",
+                    "sb. who does or is associated with sth."
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cock",
+                "romanization": "",
+                "lit": "(vulgar) idiot; contemptible person"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-ster",
+                "romanization": "",
+                "lit": "sb. who does or is associated with sth."
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar) an idiot; a confused fool; someone who screws up all the time",
+                    "example": "That cockster has gone and ordered 100 of the wrong item again...",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "cock fella",
+                        "cock",
+                        "cockanathan",
+                        "clown",
+                        "bodoh"
+                    ]
+                },
+                {
+                    "definition": "an arrogant, braggardly, and cocky person",
+                    "synonyms": [
+                        "yaya papaya",
+                        "action",
+                        "yaya",
+                        "aksi",
+                        "sia lan",
+                        "lao lan",
+                        "cockster"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "arrogant; shameless; braggardly",
+                    "example": "What is the most cockster message your upper study(ies) has ever send right before they leave a group chat",
+                    "exampleSource": "2022 November 13, u/OkSwordboi. Reddit, https://www.reddit.com/r/NationalServiceSG/comments/ytsllu/what_is_the_most_cockster_message_your_upper/"
+                }
+            ]
+        },
+        "related": [
+            "cock"
+        ],
+        "category": [
+            "vulgar",
+            "insults"
+        ],
+        "usage": "Often carries a more endearing tone than similar terms, such as @{cock} and @{cock fella}.",
+        "etyNotes": "While the rare word 'cockster' exists in English, the way it is used in Singlish is semantically closer to the use of 'cock' in Singlish, and is therefore likely either an independent construction or diverged from the original English meaning due to association with Singlish 'cock'."
+    },
+    "coconut": {
+        "word": "coconut",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "coconut",
+                "romanization": "",
+                "lit": "fruit of the Cocos nucifera palm, (slur) a black, Hispanic, or other dark-skinned person who has assimilated to white culture"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a person of Malay descent who speaks English well but has poor skills in the Malay language, is only in touch with Western culture, and lives a Western lifestyle.",
+                    "example": "Taufiq is such a coconut, cannot even speak Melayu sia.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "ang moh pai",
+            "banana",
+            "chiah kentang"
+        ],
+        "usage": "Equivalent of @{banana} for a Malay person.",
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "Refers to how coconuts are brown on the outside and white on the inside."
+    },
+    "coffee shop": {
+        "word": "coffee shop",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "咖啡店",
+                "simplified": "咖啡店",
+                "roman": "ko-pi-tiàm",
+                "romanization": "",
+                "lit": "a type of local food centre with multiple stalls selling various foods and drinks",
+                "etyPath": [
+                    "malay",
+                    "dutch",
+                    "italian",
+                    "ottoman turkish",
+                    "arabic",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "",
+                    "قهوه",
+                    "قَهْوَة",
+                    "店"
+                ],
+                "etyTrad": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "店"
+                ],
+                "etyRoman": [
+                    "kopi",
+                    "koffie",
+                    "caffè",
+                    "kahve",
+                    "qahwa",
+                    "tiàm"
+                ],
+                "etyLit": [
+                    "coffee",
+                    "coffee",
+                    "coffee",
+                    "coffee",
+                    "coffee",
+                    "shop; store"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of local food centre with multiple stalls selling various foods and drinks, commonly found in Singapore and Malaysia. Distinct from a hawker centre in that it is usually privately owned and smaller, with only around 3 - 12 stalls in a single L- or U-shaped arrangement. However, the term is sometimes extended to refer to much larger establishments, such as food courts.",
+                    "example": "Two key coffee shop associations have backed the “@{siu dai} by default” movement, which encourages food and beverage (F&B) operators here to make in-house beverages with less sugar the norm.",
+                    "exampleSource": "2023 March 1, Christie Chiu. The Straits Times, \"Two coffee shop associations back ‘siu dai by default’ movement\". https://www.straitstimes.com/singapore/two-coffee-shop-associations-back-siew-dai-by-default-movement-hpb",
+                    "synonyms": [
+                        "kopitiam"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "hawker centre"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "usage": "Distinct from English '<i>coffee shop</i>', which refers to a café or a shop which mainly sells coffee.",
+        "etyNotes": "#{likely} The term '<i>kopi</i>' likely came from Malay to Hokkien, but could have been independently adopted through another path. As the two languages have been in contact and shared and exchanged words for centuries, '<i>kopitiam</i>' is also a Malay word."
+    },
+    "coin prata": {
+        "word": "coin prata",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "coin",
+                "romanization": "",
+                "lit": "round piece of metal or other such token used as currency",
+                "etyPath": [
+                    "old french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "coigne",
+                    "cuneus"
+                ],
+                "etyLit": [
+                    "cornerstone; wedge; die",
+                    "wedge"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "prata",
+                "romanization": "",
+                "lit": "type of local flatbread with influence from Indian paratha",
+                "etyPath": [
+                    "tamil"
+                ],
+                "etyScript": [
+                    "பரோட்டா"
+                ],
+                "etyRoman": [
+                    "parōṭṭā"
+                ],
+                "etyLit": [
+                    "paratha; type of Indian flatbread"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a variant of @{roti prata} that is smaller (around half to a third the diameter), thicker, usually flakier, more buttery, and crispy.",
+                    "example": "Actually, scratch the cinnamon roll comparison. After tasting, the buttery-sweet flavour and the multi-layered crisp flakiness reminded me of something else – if a regular prata and a Danish pastry had a crispy-fried love child, it would be coin prata.",
+                    "exampleSource": "2020 February 27, Denise Tan / Gold 905. CNA Lifestyle, \"Best eats: Coin prata as crisp and flaky as Danish pastry at Sin Ming Road\". https://cnalifestyle.channelnewsasia.com/dining/best-local-food-roti-prata-sin-ming-road-256296"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "prata",
+            "roti prata"
+        ]
+    },
+    "prata": {
+        "word": "prata",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "பரோட்டா",
+                "roman": "parōṭṭā",
+                "romanization": "",
+                "lit": "paratha; type of Indian flatbread"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a shorter name for @{roti prata}, a type of local flatbread with influence from Indian paratha",
+                    "example": "A recent job advertisement promising a monthly pay of RM5,000 (S$1,420) for a Malaysian prata chef in Singapore has sparked debate on the wages of prata cooks.",
+                    "exampleSource": "2024 April 30, Vihanya Rakshika. The Straits Times, \"Singapore job offering ‘high’ salary for Malaysian prata chef sparks debate\". https://www.straitstimes.com/singapore/flipping-prata-singapore-job-offering-high-salary-for-malaysian-prata-chef-sparks-debate"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "coin prata",
+            "roti prata"
+        ],
+        "usage": "While influenced by South Indian paratha, it is quite a distinct dish from it, and was created and developed in South-East Asia."
+    },
+    "roti prata": {
+        "word": "roti prata",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "ரொட்டி",
+                "roman": "roṭṭi",
+                "romanization": "",
+                "lit": "bread",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "रोटिका"
+                ],
+                "etyRoman": [
+                    "roṭikā"
+                ],
+                "etyLit": [
+                    "bread"
+                ]
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "பரோட்டா",
+                "roman": "parōṭṭā",
+                "romanization": "",
+                "lit": "paratha; type of Indian flatbread"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of local flatbread with influence from Indian paratha. It is usually served with curry, sugar, or dhal.",
+                    "example": "What are you guys waiting for? Grease your palms with ghee and get to flippin’ today! The workshop is also applicable for those of you who have always aspired to open up your very own roti prata joint but never knew how to go about doing so.",
+                    "exampleSource": "2021 September 23, Sonia Lourdes. SethLui.com, \"Get yourself a certificate in flippin’ roti prata by Casuarina Curry\". https://sethlui.com/casuarina-curry-roti-prata-making-workshop-sep-2021/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "prata"
+        ],
+        "usage": "While influenced by South Indian paratha, it is quite a distinct dish from it, and was created and developed in South-East Asia. Known as @{roti canai} in Malaysia."
+    },
+    "roti canai": {
+        "word": "roti canai",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "ரொட்டி",
+                "roman": "roṭṭi",
+                "romanization": "",
+                "lit": "bread",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "रोटिका"
+                ],
+                "etyRoman": [
+                    "roṭikā"
+                ],
+                "etyLit": [
+                    "bread"
+                ]
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "canai",
+                "romanization": "",
+                "lit": "to roll, stretch, or sculpt e.g. dough or pastry"
+            }
+        ],
+        "etyNotes": "#{poss} The origin of '<i>canai</i>' is contentious; while the Malay origin is the most probable, other theories ascribe it to <i>chana</i>, a type of dhal that was supposedly eaten with roti canai, or even Chennai, the captial city of Tamil Nadu.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Malaysian term for @{roti prata}, a type of local flatbread with influence from Indian paratha.",
+                    "example": "Despite being considered as a variation of the paratha, the dish does not exist in India; the closest to roti canai is believed to be the Malabar or Kerala paratha.",
+                    "exampleSource": "2020 February 29, Lynnett Yip. South China Morning Post (Style), \"What is roti canai, and why can’t people in Southeast Asia get enough of it?\". https://www.scmp.com/magazines/style/leisure/article/3052878/what-roti-canai-and-why-cant-people-southeast-asia-get"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "prata",
+            "roti prata"
+        ],
+        "usage": "While influenced by South Indian paratha, it is quite a distinct dish from it, and was created and developed in South-East Asia. Known as @{roti prata} in Singapore."
+    },
+    "come i clap for you": {
+        "word": "come I clap for you",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "come",
+                "romanization": "",
+                "lit": "used before a statement to draw a listener's attention",
+                "etyPath": [
+                    "general chinese"
+                ],
+                "etyScript": [
+                    "来"
+                ],
+                "etyTrad": [
+                    "來"
+                ],
+                "etyRoman": [
+                    "lái"
+                ],
+                "etyScheme": [
+                    "pinyin"
+                ],
+                "etyLit": [
+                    "come; intj. used before a statement to draw a listener's attention"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "I",
+                "romanization": "",
+                "lit": "first-person sing.pronoun"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "clap",
+                "romanization": "",
+                "lit": "applaud; bring one's palms together to create a sharp noise"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "for",
+                "romanization": "",
+                "lit": "directed at; in honor or gratification of"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "you",
+                "romanization": "",
+                "lit": "second-person sing. or pl. pronoun"
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "used to sarcastically congratulate another person on an achievement, especially one that they are proud of or have bragged about. Implies that the speaker either finds the blustering tasteless and arrogant, or the achievement quite underwhelming, uninteresting, and nothing out of the ordinary.",
+                    "example": "- My daughter got into RI, such a clever and hardworking girl!<br>\r\n- Come, I clap for you.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "ah then",
+            "big fuck"
+        ],
+        "category": [
+            "sayings"
+        ]
+    },
+    "come": {
+        "word": "come",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "來",
+                "simplified": "来",
+                "roman": "lái",
+                "romanization": "pinyin",
+                "lit": "come; intj. used before a statement to draw a listener's attention"
+            }
+        ],
+        "etyNotes": "Direct calque of general Chinese interjection 来/來, lái, and used in the same way.",
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "used before a statement to draw a listener's attention",
+                    "example": "Come, last man can hear me? All those never do IPPT yet @{kee chiu}.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "lai"
+                    ]
+                }
+            ]
+        }
+    },
+    "commando": {
+        "word": "commando",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "commando",
+                "romanization": "",
+                "lit": "specially-trained force of soldiers; (mil.) a soldier in the Commando division"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) an extremely fit soldier"
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ],
+        "related": [
+            "buff lord"
+        ]
+    },
+    "buff lord": {
+        "word": "buff lord",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buff",
+                "romanization": "",
+                "lit": "extremely muscular; big, fit, and strong"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "lord",
+                "romanization": "",
+                "lit": "master; a master of sth.; leader; a superior in the nobility"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a person who is extremely muscular or strong",
+                    "example": "Aiseh, buff lord sia! Look at him carrying 10 chairs at once!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "commando"
+        ]
+    },
+    "condemned": {
+        "word": "condemned",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "condemned",
+                "romanization": "",
+                "lit": "marked for destruction or punishment; cursed"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "broken down; useless",
+                    "synonyms": [
+                        "bo eng",
+                        "bo pakai"
+                    ]
+                },
+                {
+                    "definition": "(military) having no prospects of career advancement or promotion",
+                    "example": "Although everyone knew he was basically condemned, he was nonetheless satisfied with his life being a low-level Artillery @{farmer}.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "hentak kaki",
+                        "sampai tua"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(military) to have marked someone for no further career advancements or promotions",
+                    "example": "He @{tio} condemned, how long already still Staff... might as well @{throw paper} sooner rather than later.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ]
+    },
+    "confine": {
+        "word": "confine",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "confine",
+                "romanization": "",
+                "lit": "restrict; imprison; detain"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(military) to punish a soldier who has committed an offence by strictly controlling their movement and disallowing them from leaving camp."
+                }
+            ]
+        },
+        "related": [
+            "SOL",
+            "sign extra"
+        ],
+        "category": [
+            "ns"
+        ]
+    },
+    "confinement": {
+        "word": "confinement",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "confinement",
+                "romanization": "",
+                "lit": "state of being confined; act of confining sb. or sth."
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) an instance of being @{confined|confine}",
+                    "example": "Confinement was so boring... whole day @{nua} in bunk play phone while everyone else book out and enjoy the weekend.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "SOL"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "sign extra"
+        ],
+        "category": [
+            "ns"
+        ]
+    },
+    "confirm": {
+        "word": "confirm",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "confirm",
+                "romanization": "",
+                "lit": "ensure the truth or accuracy of a statement"
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "for sure; indubitably; certainly",
+                    "example": "The guy who cook the @{char kway teow} is confirm not the same as yesterday. Actually got @{wok hei} this time sia.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "confirm plus chop"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to be sure; to guarantee",
+                    "example": "So good meh, half price? You confirm anot?",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "sure; guaranteed",
+                    "example": "This stock is a confirm good one bro. Trust me, buy now hor!",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "confirm plus guarantee got chop",
+            "double confirm"
+        ],
+        "particles": [
+            {
+                "particle": "one",
+                "meaning": "It's confirmed for sure.",
+                "example": "",
+                "exampleSource": "",
+                "effect": "emphasis; confidence; reassurance"
+            },
+            {
+                "particle": "lah",
+                "meaning": "Don't worry, it's confirmed.",
+                "example": "",
+                "exampleSource": "",
+                "effect": "assurance"
+            },
+            {
+                "particle": "meh",
+                "meaning": "You sure? I doubt it.",
+                "example": "",
+                "exampleSource": "",
+                "effect": "doubt; questioning"
+            },
+            {
+                "particle": "bo",
+                "meaning": "Oh really? You sure it's confirmed?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "questioning; doubt"
+            },
+            {
+                "particle": "anot",
+                "meaning": "You sure it's confirmed?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "questioning; doubt"
+            },
+            {
+                "particle": "sia",
+                "meaning": "Yeah, it's confirmed, man!",
+                "example": "",
+                "exampleSource": "",
+                "effect": "emphasis; confirmation"
+            },
+            {
+                "particle": "ah?",
+                "meaning": "You guarantee it, right?; It's ok, right?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "questioning; asking for confirmation"
+            },
+            {
+                "particle": "hor",
+                "meaning": "Don't be so doubtful, it's confirmed",
+                "example": "",
+                "exampleSource": "",
+                "effect": "assurance"
+            }
+        ]
+    },
+    "confirm plus chop": {
+        "word": "confirm plus chop",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "confirm",
+                "romanization": "",
+                "lit": "for sure; guarantee",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "confirm"
+                ],
+                "etyLit": [
+                    "ensure the truth or accuracy of a statement"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "plus",
+                "romanization": "",
+                "lit": "additionally; on top of sth."
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "chop",
+                "romanization": "",
+                "lit": "stamp or seal; mark indicating e.g. origin, brand, or authenticity",
+                "etyPath": [
+                    "hindi"
+                ],
+                "etyScript": [
+                    "छाप"
+                ],
+                "etyRoman": [
+                    "chāp"
+                ],
+                "etyLit": [
+                    "stamp; mark; impression"
+                ]
+            }
+        ],
+        "etyNotes": "The 'chop' signifies a mark or seal of guarantee.",
+        "usage": "More intense and with more certainty than simply @{confirm}.",
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "for sure; indubitably; absolutely",
+                    "example": "No joke, wherever you reside in Singapore, confirm plus chop you'll be in close proximity to at least one dino-themed space, whether it's in Yishun, the National University of Singapore, or at the airport.",
+                    "exampleSource": "2022 December 3, Ng Kai and Sim Ding En. AsiaOne Lifestyle, \"Can there ever be enough dinosaur-themed places in Singapore? Apparently not!\". https://www.asiaone.com/lifestyle/can-there-ever-be-enough-dinosaur-themed-places-singapore-apparently-not",
+                    "synonyms": [
+                        "confirm plus guarantee got chop",
+                        "confirm"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to be absolutely sure; to guarantee",
+                    "example": "I can confirm plus chop, the @{chilli} @{pan mee} here is @{bo beh zao}.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "confirm plus guarantee got chop",
+                        "double confirm"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "confirm",
+            "double confirm"
+        ],
+        "category": [
+            "sayings"
+        ]
+    },
+    "confirm plus guarantee got chop": {
+        "word": "confirm plus guarantee got chop",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "confirm",
+                "romanization": "",
+                "lit": "for sure; guarantee",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "confirm"
+                ],
+                "etyLit": [
+                    "ensure the truth or accuracy of a statement"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "plus",
+                "romanization": "",
+                "lit": "additionally; on top of sth."
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "guarantee",
+                "romanization": "",
+                "lit": "additionally; on top of sth.",
+                "etyPath": [
+                    "french"
+                ],
+                "etyRoman": [
+                    "guarantie"
+                ],
+                "etyLit": [
+                    "assure; guarantee; promise"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "got",
+                "romanization": "",
+                "lit": "have; there is; completive aspect marker (action has been done)"
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "chop",
+                "romanization": "",
+                "lit": "stamp or seal; mark indicating e.g. origin, brand, or authenticity",
+                "etyPath": [
+                    "hindi"
+                ],
+                "etyScript": [
+                    "छाप"
+                ],
+                "etyRoman": [
+                    "chāp"
+                ],
+                "etyLit": [
+                    "stamp; mark; impression"
+                ]
+            }
+        ],
+        "etyNotes": "The 'chop' signifies a mark or seal of guarantee.",
+        "usage": "More intense and with more certainty than simply @{confirm}.",
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "for sure; indubitably; absolutely",
+                    "synonyms": [
+                        "confirm plus chop",
+                        "confirm"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to be absolutely sure; to guarantee",
+                    "synonyms": [
+                        "confirm plus chop",
+                        "double confirm"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "confirm",
+            "double confirm"
+        ],
+        "category": [
+            "sayings"
+        ]
+    },
+    "double confirm": {
+        "word": "double confirm",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "double",
+                "romanization": "",
+                "lit": "twice the number; two times; twofold",
+                "etyPath": [
+                    "old french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "doble",
+                    "duplus"
+                ],
+                "etyLit": [
+                    "double; twofold",
+                    "double; twofold"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "confirm",
+                "romanization": "",
+                "lit": "for sure; guarantee",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "confirm"
+                ],
+                "etyLit": [
+                    "ensure the truth or accuracy of a statement"
+                ]
+            }
+        ],
+        "usage": "More intense and with more certainty implied than simply @{confirm}.",
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "for sure; indubitably; absolutely",
+                    "example": "Trust me, I double confirm don't want more already.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "confirm plus guarantee got chop",
+                        "confirm plus chop",
+                        "confirm"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to make absolutely sure; to guarantee",
+                    "synonyms": [
+                        "confirm plus chop",
+                        "confirm plus guarantee got chop"
+                    ]
+                },
+                {
+                    "definition": "to check a second time in order to ensure something",
+                    "example": "Can double confirm the dates for me again?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "confirm",
+            "double confirm"
+        ],
+        "category": [
+            "sayings"
         ]
     }
 }
