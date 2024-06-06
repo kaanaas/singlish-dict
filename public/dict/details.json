@@ -27561,5 +27561,307 @@
         "category": [
             "sayings"
         ]
+    },
+    "curry devil": {
+        "word": "curry devil",
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "Conflated with English ‘devil’, which is also used in dishes from other origins that are particularly noted for being spicy — likely due to association with burning, heat, and fire.",
+        "origin": [
+            {
+                "lang": "kristang",
+                "traditional": "",
+                "simplified": "",
+                "roman": "curry Debal",
+                "romanization": "",
+                "lit": "a spicy curry traditionally made with Christmas leftovers",
+                "etyPath": [
+                    "tamil",
+                    "kristang"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "கறி",
+                    ""
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "kaṟi",
+                    "debal"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "curry",
+                    "leftover"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "devil",
+                "romanization": "",
+                "lit": "(lit.) evil creature; demon from Hell, (cooking) prepare food with a lot of spice"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a spicy curry of Kristang (Portuguese-Eurasian) origin, traditionally made from Christmas leftovers cooked together with mustard seeds, galangal, candlenut, vinegar, and other ingredients. It is typically eaten within a few days after Christmas.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "devil curry"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "cooling": {
+        "word": "cooling",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cooling",
+                "romanization": "",
+                "lit": "tending to cool or reduce temperature"
+            },
+            {
+                "lang": "general chinese",
+                "traditional": "涼",
+                "simplified": "凉",
+                "roman": "liáng",
+                "romanization": "pinyin",
+                "lit": "(TCM) cooling to the body"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(TCM) serving to cool or calm the body",
+                    "example": "</i>Liang cha<i> is a popular drink in hot and humid Singapore, due to its perceived cooling effects.",
+                    "exampleSource": "@comm",
+                    "antonyms": [
+                        "heaty"
+                    ]
+                }
+            ]
+        }
+    },
+    "corlick": {
+        "word": "corlick",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "colleague",
+                "romanization": "",
+                "lit": "coworker; associate",
+                "etyPath": [
+                    "middle french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "collegue",
+                    "collēga"
+                ],
+                "etyLit": [
+                    "coworker; colleague",
+                    "work partner; colleague; associate"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a colleague; a coworker",
+                    "example": "Martin went out for lunch on the first day of work with his new corlicks to get to know them better.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "etyNotes": "Alteration of English <i>colleague</i>. Possibly influenced by the spelling of <i>Horlicks</i>, a British malted milk drink that is popular as a breakfast drink in Singapore."
+    },
+    "corright": {
+        "word": "corright",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "correct",
+                "romanization": "",
+                "lit": "true; accurate; appropriate"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "right",
+                "romanization": "",
+                "lit": "correct; true; appropriate"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "correct; right; righter than right",
+                    "synonyms": [
+                        "tioh"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "used in response to a statement indicating that it is correct",
+                    "example": "- I'm a patient man. And a patient boss. Corright?<br>- Corright.",
+                    "exampleSource": "\r\n2023 February 6, SkillsFutureSG. Youtube, \"The Caring Mob Boss - SkillsFuture Work-Study Programme\". https://www.youtube.com/watch?v=HBbnzsoLdkc",
+                    "synonyms": [
+                        "tioh"
+                    ]
+                }
+            ]
+        },
+        "usage": "Sometimes used to emphasize that something is very correct, or 'more correct than correct'.",
+        "etyNotes": "Humorous portmanteau of two English words for correctness."
+    },
+    "cos": {
+        "word": "cos",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "'cause",
+                "romanization": "",
+                "lit": "aphesis of 'because'",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "because"
+                ],
+                "etyLit": [
+                    "for the reason of; due to"
+                ]
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "due to; for the reason of",
+                    "example": "Cos you don't want, I give the cat eat lor.",
+                    "exampleSource": "@comm"
+                }
+            ],
+            "conjunction": [
+                {
+                    "definition": "due to; since; on account of",
+                    "example": "I on aircon today cos damn hot.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "abbreviations"
+        ]
+    },
+    "cowboy": {
+        "word": "cowboy",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "cowboy",
+                "romanization": "",
+                "lit": "sb. who works w. cattle, or identifies w. the subculture of associated with it, (inf.) sb. reckless; showoff"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(dated, military) a soldier who is wearing their pants or belt very low"
+                }
+            ]
+        },
+        "usage": "Dated and rare.",
+        "category": [
+            "ns"
+        ]
+    },
+    "coy": {
+        "word": "coy",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "company",
+                "romanization": "",
+                "lit": "(mil.) unit of around 100 soldiers",
+                "etyPath": [
+                    "old french"
+                ],
+                "etyRoman": [
+                    "compaignie"
+                ],
+                "etyLit": [
+                    "companionship"
+                ]
+            }
+        ],
+        "etyNotes": "Abbreviated form of English <i>company</i>.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a company (a unit on the order of around 100 soldiers, usually made up of around 3 - 4 platoons)",
+                    "example": "Shih Min used to queue up for bubble tea at the Koi near school every day, but now in the army he found himself standing at the back of a very different Coy line.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "ns",
+            "abbreviations"
+        ]
+    },
+    "crab": {
+        "word": "crab",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "crab",
+                "romanization": "",
+                "lit": "decapod crustacean of the infraorder Brachyura, characterized by having a carapace and the front two legs specialized into claws"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) the coat of arms of Singapore, so named because its shape vaguely resembles a crab when seen on a rank epaulette in a Singaporean military uniform."
+                },
+                {
+                    "definition": "(military, with either 1, 2, or 3 preceding) a military rank, with 'one crab' referring to a Major, 'two crab' a Lieutenant Colonel, and 'three crab' a full Colonel, corresponding to their rank insignias of one, two, and three Singaporean coats of arms in a column respectively.",
+                    "example": "First time the recruits saw a three crab, they were so @{stunned like vegetable} they forgot to @{diam}.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ]
     }
 }

@@ -85,6 +85,14 @@ for (let [lang, count] of Object.entries(langs)) {
             }
         }
     }
+    if (lang.toLowerCase().includes("french")) {
+        for (let i = 0; i < langTerms[lang].length; i++) {
+            if (!langTerms["french"].includes(langTerms[lang][i])) {
+                langTerms["french"].push(langTerms[lang][i]);
+                langs["french"]++;
+            }
+        }
+    }
 }
 
 // sort
