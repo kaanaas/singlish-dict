@@ -19,6 +19,11 @@
         "link": "https://words.hk/zidin/",
         "name": "粵典 words.hk"
     },
+    "ccc": {
+        "type": "web",
+        "link": "https://cantonese.org/",
+        "name": "CC-Canto"
+    },
     "prpm": {
         "type": "web",
         "link": "https://prpm.dbp.gov.my/",

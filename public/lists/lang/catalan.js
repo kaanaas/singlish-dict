@@ -1,0 +1,1 @@
+const langTerms = ["DB"]; module.exports = langTerms;

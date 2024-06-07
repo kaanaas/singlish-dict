@@ -4323,7 +4323,8 @@
             "action"
         ],
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ],
         "etyNotes": "This idiom originates somewhere in English, but the exact origin is unknown. Equivalent to expressions such as <i>all bark and no bite</i>, <i>all hat and no cattle</i>, or <i>all mouth and trousers</i> in other English dialects.",
         "origin": [
@@ -6575,7 +6576,8 @@
                     "synonyms": [
                         "yaya",
                         "sia lan",
-                        "lao lan"
+                        "lao lan",
+                        "dao"
                     ],
                     "antonyms": false
                 }
@@ -9586,7 +9588,8 @@
             "yaya"
         ],
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ],
         "etyNotes": "Possibly in part a clipping of, and comparable to, English \"<i>big fucking deal</i>\".",
         "origin": [
@@ -10205,7 +10208,8 @@
     "blur cock": {
         "word": "blur cock",
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ],
         "etyNotes": "Likely originated in the military.",
         "origin": [
@@ -10714,7 +10718,8 @@
             "lam pa"
         ],
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ],
         "etyNotes": "'子' is a common euphemistic ellipsis of the full phrase '𡳞脬子' in Hokkien.",
         "origin": [
@@ -13941,7 +13946,8 @@
             ]
         },
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ],
         "usage": "While \"butuh\"/\"membutuh\" just means \"to need\" in Indonesian, it is quite a bit ruder in Malay - so if you want your friends to come and help with something, don't tell them \"butuh kau\"."
     },
@@ -17257,7 +17263,8 @@
             "lj bin"
         ],
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ]
     },
     "chee cheong fun": {
@@ -20026,7 +20033,8 @@
             ]
         },
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ]
     },
     "chocolate bar": {
@@ -21487,7 +21495,8 @@
             ]
         },
         "category": [
-            "insults"
+            "insults",
+            "vulgar"
         ]
     },
     "kha kana chiu, chiu kana kha": {
@@ -24438,7 +24447,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "terms of address"
+        ]
     },
     "zao peng": {
         "word": "zao peng",
@@ -26530,8 +26542,7 @@
                     "definition": "(vulgar) vagina; vulva; female genitalia",
                     "synonyms": [
                         "chee bai",
-                        "puki",
-                        ""
+                        "puki"
                     ]
                 }
             ]
@@ -27159,7 +27170,8 @@
         },
         "related": [
             "SOL",
-            "sign extra"
+            "sign extra",
+            "DB"
         ],
         "category": [
             "ns"
@@ -27190,7 +27202,8 @@
             ]
         },
         "related": [
-            "sign extra"
+            "sign extra",
+            "DB"
         ],
         "category": [
             "ns"
@@ -27862,6 +27875,511 @@
         },
         "category": [
             "ns"
+        ]
+    },
+    "dendeng": {
+        "word": "dendeng",
+        "related": [
+            "bak kwa"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "dendeng",
+                "romanization": "",
+                "lit": "thinly-sliced, dried meat"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional Malay and Indonesian snack of thinly-sliced, spiced, dried, jerky-like slices of meat (usually beef), originating in Minangkabau cuisine",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "d&d": {
+        "word": "D&D",
+        "related": [],
+        "usage": "",
+        "category": [
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "Abbreviation of English '<i>dinner and dance</i>'",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "dinner",
+                "romanization": "",
+                "lit": "evening meal; formal meal for an event or occassion",
+                "etyPath": [
+                    "old french"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "disner"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "lunch; breakfast"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "dance",
+                "romanization": "",
+                "lit": "rhythmic movement of the body, usually in accompaniment with music",
+                "etyPath": [
+                    "anglo-norman"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "dauncer"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "dance"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a large event or gala, usually hosted by a society, company, or other organisation for its members or employees, taking place over dinner and typically involving speeches and award ceremonies. Despite the name, it need not have anything to do with dancing.",
+                    "example": "Although many people were looking forward to the company’s annual D&D, and many weeks had been put in by the event committee in planning it months ahead, the  whole affair unfortunately had to be given the no-go because of COVID.",
+                    "exampleSource": "@comm",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "damn": {
+        "word": "damn",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "damn",
+                "romanization": "",
+                "lit": "condemn; (vulgar) bloody; exp. of annoyance, frustration, irritation, etc.",
+                "etyPath": [
+                    "old french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "damner",
+                    "damnāre"
+                ],
+                "etyLit": [
+                    "to damn",
+                    "condemn; cause loss to"
+                ]
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "(slightly vulgar) extremely; very",
+                    "example": "Finally get to sleep in... damn @{shiok}!"
+                }
+            ]
+        },
+        "category": [
+            "vulgar"
+        ],
+        "usage": "Due to how commonly and wantonly it is used, it is less vulgar than when used in English.",
+        "particles": [
+            {
+                "particle": "sia",
+                "meaning": "Whoa, damn!",
+                "example": "",
+                "exampleSource": "",
+                "effect": "interjectification; awe"
+            }
+        ]
+    },
+    "dao": {
+        "word": "dao",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "高竇",
+                "simplified": "高窦",
+                "roman": "gou1 dau3",
+                "romanization": "",
+                "lit": "arrogant; snobbish; stuck-up"
+            }
+        ],
+        "etyNotes": "Clipping of Cantonese slang term.",
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "arrogant; snobbish; stuck-up; conceited",
+                    "example": "Wah very dao ah you. Got big job big car already, then makan with your old @{kakis} very @{sia suay} meh.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "yaya",
+                        "xia lan",
+                        "lao lan",
+                        "aksi",
+                        "cockster",
+                        "hao lian"
+                    ]
+                },
+                {
+                    "definition": "(usually of a woman) aloof; cold and distant; proud; supercilious",
+                    "example": "She damn dao leh. Try to talk to her she act like never hear.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "yaya",
+                        "hao lian"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to ignore; to give no response; to ghost",
+                    "example": "Every time I ask something in the group chat, I get nothing but blue ticks! Can y'all don't dao me please?",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://words.hk/zidin/%E9%AB%98%E7%AB%87",
+                "name": "高竇 - 廣東話解釋 | 粵典"
+            },
+            {
+                "link": "https://shyyp.net/hant/phrase/%E9%AB%98%E7%AB%87",
+                "name": "'高竇'在粵語廣東話係咩意思(什麼意思)  - 粵語在線發音字典-羊羊粵語，舊名粵K粵愛"
+            }
+        ]
+    },
+    "db": {
+        "word": "DB",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "detention barracks",
+                "romanization": "",
+                "lit": "(mil.) military prison",
+                "etyPath": [
+                    "english",
+                    "middle french",
+                    "latin",
+                    "english",
+                    "french",
+                    "catalan"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+",
+                    "",
+                    ""
+                ],
+                "etyRoman": [
+                    "detention",
+                    "détention",
+                    "dētentiō",
+                    "barracks",
+                    "baraque",
+                    "barraca"
+                ],
+                "etyLit": [
+                    "confinement; custody; detainment",
+                    "detention; possession",
+                    "detention",
+                    "(mil.) a building for accommodation of soldiers",
+                    "hut; shack",
+                    "hut; tent; shed"
+                ]
+            }
+        ],
+        "etyNotes": "Initialism of <i>detention barracks</i>.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a military prison where soldiers who have committed crimes, such as going AWOL, are held and punished",
+                    "example": "Heard in DB they every day 0530 reveille and carry sand bags route march until lunchtime.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ]
+    },
+    "deepavali": {
+        "word": "Deepavali",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "தீபாவளி",
+                "roman": "tīpāvaḷi",
+                "romanization": "",
+                "lit": "Deepavali, the Hindu 'festival of light'",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "दीपावलि"
+                ],
+                "etyRoman": [
+                    "dīpāvali"
+                ],
+                "etyLit": [
+                    "row of lights"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Hindu 'festival of lights', celebrated from around mid-October to mid-November, depending on the Tamil calendar; it is a public holiday for one assigned day a year in Singapore. Celebrations usually involve traditions such as decorating with lights and candles, the wearing of new clothes, eating traditional food and snacks such as muruku and <i>athi resam</i>, and decorating the entrance of homes with rangoli (colourful patterns made from coloured rice)."
+                }
+            ]
+        },
+        "category": [
+            "cultural"
+        ],
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=0a84fe1a-1222-4701-be17-1735a8a9af27",
+                "name": "2019 October, Stephanie Ho. NLB. Singapore Infopedia - Deepavali"
+            }
+        ],
+        "usage": "Alternatively known as <i>Diwali</i> in much of the North Indian diaspora."
+    },
+    "dhoby": {
+        "word": "dhoby",
+        "origin": [
+            {
+                "lang": "hindi",
+                "traditional": "",
+                "simplified": "धोबी",
+                "roman": "dhobī",
+                "romanization": "",
+                "lit": "washerman; laundryman (or woman)",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "धाव्"
+                ],
+                "etyRoman": [
+                    "dhāv"
+                ],
+                "etyLit": [
+                    "clean; cleanse; rinse"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a washerman; a laundryman (or woman)",
+                    "example": "Back in the 1930s, Narayanan Narayanan’s parents paid around Rs 5 to a washerman, or dhobi, in Singapore for doing their laundry. ... Narayanan uses a laundry service now, but still chooses to use the word dhobi.",
+                    "exampleSource": "2018 July 9, Garima Garg. Scroll, \"How on Earth did a glitzy part of Singapore get the name Dhoby Ghaut?\". https://scroll.in/magazine/880679/how-on-earth-did-a-glitzy-part-of-singapore-get-the-name-dhoby-ghaut"
+                },
+                {
+                    "definition": "short form for @{Dhoby Ghaut}",
+                    "example": "I stay around dhoby there. Quite central lah.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "Dhoby Ghaut"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "locations"
+        ],
+        "etyNotes": "Also has cognates in other local Indian languages, such as Punjabi and Gujarati. The first dhobis brought over by the British came from either Uttar Pradesh or Bihar.^{2} The former is a primarily Hindi-speaking region, while the latter speaks several local languages and dialects in a family closely related to Hindi; hence, it is most likely that the term came from Hindi, or a closely related language or dialect. In either case, the word had already been adopted into British English as well by this time.",
+        "phonetics": "/ˈdəʊbi/",
+        "references": [
+            {
+                "link": "https://www.roots.gov.sg/places/places-landing/Places/landmarks/orchard-heritage-trail/dhoby-ghaut#:~:text=This%20garrison%20included%20Indian%20washermen,used%20for%20bathing%20or%20washing.",
+                "name": "Roots.sg - Dhoby Ghaut"
+            },
+            {
+                "link": "https://scroll.in/magazine/880679/how-on-earth-did-a-glitzy-part-of-singapore-get-the-name-dhoby-ghaut",
+                "name": "2018 July 9, Garima Garg. Scroll, \"How on Earth did a glitzy part of Singapore get the name Dhoby Ghaut?\""
+            }
+        ]
+    },
+    "dhoby ghaut": {
+        "word": "Dhoby Ghaut",
+        "origin": [
+            {
+                "lang": "hindi",
+                "traditional": "",
+                "simplified": "धोबी",
+                "roman": "dhobī",
+                "romanization": "",
+                "lit": "washerman; laundryman (or woman)",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "धाव्"
+                ],
+                "etyRoman": [
+                    "dhāv"
+                ],
+                "etyLit": [
+                    "clean; cleanse; rinse"
+                ]
+            },
+            {
+                "lang": "hindi",
+                "traditional": "",
+                "simplified": "घाट",
+                "roman": "ghāṭ",
+                "romanization": "",
+                "lit": "pier; wharf; area beside a river for washing clothes",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "घट्ट"
+                ],
+                "etyRoman": [
+                    "ghaṭṭa"
+                ],
+                "etyLit": [
+                    "pier; wharf; washing-place"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a place in central Singapore, most well known from its MRT station, where dhobis (Indian washermen) historically used to ply their trade",
+                    "example": "And yet the dhobis left an impression on their new country in a way that many other servicemen didn't. When an underground station for the Mass Rapid Transportation system was built in Singapore, it was named as Dhoby Ghaut.",
+                    "exampleSource": "2018 July 9, Garima Garg. Scroll, \"How on Earth did a glitzy part of Singapore get the name Dhoby Ghaut?\". https://scroll.in/magazine/880679/how-on-earth-did-a-glitzy-part-of-singapore-get-the-name-dhoby-ghaut",
+                    "synonyms": [
+                        "dhoby"
+                    ]
+                },
+                {
+                    "definition": "the MRT station in the Dhoby Ghaut region, which is a major and central interchange along the Red (North-South), Purple (North-East), and Orange (Circle) lines.",
+                    "synonyms": [
+                        "dhoby"
+                    ]
+                },
+                {
+                    "definition": "(lit., archaic) an area beside a river where laundrymen (or women) wash clothes"
+                }
+            ]
+        },
+        "category": [
+            "locations"
+        ],
+        "etyNotes": "'<i>Dhoby</i>' also has cognates in other local Indian languages, such as Punjabi and Gujarati. The first dhobis brought over by the British came from either Uttar Pradesh or Bihar.^{2} The former is a primarily Hindi-speaking region, while the latter speaks several local languages and dialects in a family closely related to Hindi; hence, it is most likely that the term came from Hindi, or a closely related language or dialect. In either case, the word had already been adopted into British English as well by this time.<br>The Sanskrit term घट्ट, ghaṭṭa is derived from an unknown Dravidian term.^{3}<br>The place was known as <i>Vannan Theruvu</i>, \"Street of the Dhobis\", in Tamil.^{1}",
+        "phonetics": "/ˈdəʊbi/",
+        "references": [
+            {
+                "link": "https://www.roots.gov.sg/places/places-landing/Places/landmarks/orchard-heritage-trail/dhoby-ghaut#:~:text=This%20garrison%20included%20Indian%20washermen,used%20for%20bathing%20or%20washing.",
+                "name": "Roots.sg - Dhoby Ghaut"
+            },
+            {
+                "link": "https://scroll.in/magazine/880679/how-on-earth-did-a-glitzy-part-of-singapore-get-the-name-dhoby-ghaut",
+                "name": "2018 July 9, Garima Garg. Scroll, \"How on Earth did a glitzy part of Singapore get the name Dhoby Ghaut?\""
+            },
+            {
+                "link": "",
+                "name": "Burrow, T., Emeneau, M. B. (1984). A Dravidian Etymological Dictionary, 2nd edition, Oxford University Press. ch.1147. ISBN: 0198643268"
+            }
+        ]
+    },
+    "dhoby mark": {
+        "word": "dhoby mark",
+        "origin": [
+            {
+                "lang": "hindi",
+                "traditional": "",
+                "simplified": "धोबी",
+                "roman": "dhobī",
+                "romanization": "",
+                "lit": "washerman; laundryman (or woman)",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "धाव्"
+                ],
+                "etyRoman": [
+                    "dhāv"
+                ],
+                "etyLit": [
+                    "clean; cleanse; rinse"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "mark",
+                "romanization": "",
+                "lit": "sign; stain; charactersistic brand or impression"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(dated) an unobtrusive stain made by @{dhobis|dhoby} on clients' laundry, in order to identify who the clothes belonged to. It was traditionally done using the nut of the <i>Semecarpus anacardium</i>, a plant in the cashew family, which leaves a water-insoluble mark on cloth.",
+                    "example": "Senkottan is an unusual word among the urban readership for it is the name of a seed used to etch dhoby marks in bygone days.",
+                    "exampleSource": "2014 April 27, Sunday Observer"
+                },
+                {
+                    "definition": "(fig.) a signature; an indelible mark",
+                    "example": "Our present education system is out of date and focus. Every education minister on his way to becoming a prime minister, (whether he succeeds at this or not is another matter) will put his racially-slanted 'dhoby mark' on the education system and disappear for his successor to do damage control.",
+                    "exampleSource": "2010 January 22, quote by Ahmad Iqhbal. MalaysiaKini, \"Surau attacks the 'work of cowards'\". https://www.malaysiakini.com/news/122537"
+                }
+            ]
+        },
+        "etyNotes": "'<i>Dhoby</i>' also has cognates in other local Indian languages, such as Punjabi and Gujarati. The first dhobis brought over by the British came from either Uttar Pradesh or Bihar.^{2} The former is a primarily Hindi-speaking region, while the latter speaks several local languages and dialects in a family closely related to Hindi; hence, it is most likely that the term came from Hindi, or a closely related language or dialect. In either case, the word had already been adopted into British English as well by this time.",
+        "phonetics": "/ˈdəʊbi/",
+        "references": [
+            {
+                "link": "https://www.roots.gov.sg/places/places-landing/Places/landmarks/orchard-heritage-trail/dhoby-ghaut#:~:text=This%20garrison%20included%20Indian%20washermen,used%20for%20bathing%20or%20washing.",
+                "name": "Roots.sg - Dhoby Ghaut"
+            },
+            {
+                "link": "https://scroll.in/magazine/880679/how-on-earth-did-a-glitzy-part-of-singapore-get-the-name-dhoby-ghaut",
+                "name": "2018 July 9, Garima Garg. Scroll, \"How on Earth did a glitzy part of Singapore get the name Dhoby Ghaut?\""
+            },
+            {
+                "link": "",
+                "name": "Burrow, T., Emeneau, M. B. (1984). A Dravidian Etymological Dictionary, 2nd edition, Oxford University Press. ch.1147. ISBN: 0198643268"
+            }
         ]
     }
 }

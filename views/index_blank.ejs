@@ -3,9 +3,8 @@
     <%- include("./partials/head") %>
 
     <body>
-        <div class="content banner">
-            <h1><a href="./" class="title">Chimbridge Singlish Dictionary</a></h1>
-        </div>
+        <%- include("./partials/banner") %>
+
         <div class="content">
             <div class="def-box">
                 <!-- search -->
@@ -22,11 +21,11 @@
             // functions
             searchBar.addEventListener("input", () => {
                 let searchInput = document.getElementById("search-input").value;
-                if(/[^a-zA-Z0-9 ']/.test(searchInput)){
-                    alert("Only alphanumeric characters, spaces, and apostrophes are allowed.");
-                    searchBar.value = searchInput.replace(/[^a-zA-Z0-9 ']/g, '');
+                if(/[^a-zA-Z0-9 ,'\-$&]/.test(searchInput)){
+                    alert("Only alphanumeric characters, spaces, hyphens, apostrophes, and certain limited special characters are allowed.");
+                    searchBar.value = searchInput.replace(/[^a-zA-Z0-9 ,'\-$&]/g, '');
                 }
-            })
+            });
 
             whack.addEventListener("click", () => {
                 fetch("dict/dict.json")

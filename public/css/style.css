@@ -9,6 +9,7 @@
     --purp: #6b3488;
     --subh: #b99725;
     --subh-lighter: #d8be8a;
+    --subh-lightest: #f0daaf;
     --subh-darker: #997705;
     --grey-green: #6d946d;
     --grey-red: #b46d8d;
@@ -152,6 +153,31 @@ br {
     margin-top: 10px;
     margin-bottom: 30px;
     font-size: 0.95em;
+    flex-direction: column;
+    text-shadow: 0 2px 4px var(--bg-shadow-solid);
+    transition: .5s;
+}
+
+.banner:hover {
+    text-shadow: 0 4px 8px var(--bg-shadow-solid);
+}
+
+.banner h2 {
+    font-size: 1em;
+}
+
+.banner h2 a {
+    color: var(--subh);
+}
+
+.banner span {
+    font-size: inherit;
+    color: inherit;
+    font-family: inherit;
+}
+
+.banner .stark {
+    color: var(--subh-lightest);
 }
 
 .title {

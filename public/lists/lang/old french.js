@@ -1,1 +1,1 @@
-const langTerms = ["CB plant","agaration","chocolate bar","coin prata","coy","double confirm"]; module.exports = langTerms;
+const langTerms = ["CB plant","D&D","agaration","chocolate bar","coin prata","coy","damn","double confirm"]; module.exports = langTerms;
