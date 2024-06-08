@@ -1,1 +1,1 @@
-const langTerms = ["bo idea","capsicum","dinobu"]; module.exports = langTerms;
+const langTerms = ["bo idea","capsicum","dinobu","dinosaur"]; module.exports = langTerms;
