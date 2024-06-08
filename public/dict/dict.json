@@ -2069,21 +2069,25 @@
     ],
     "die die": [
         "die die",
-        "die-die"
+        "die-die",
+        "die, die"
     ],
     "die die must": [
         "die die must",
         "die-die must",
-        "die-die-must"
+        "die-die-must",
+        "die, die must"
     ],
     "die die must have": [
         "die die must have",
-        "die-die must have"
+        "die-die must have",
+        "die, die must have"
     ],
     "die die must try": [
         "die die must try",
         "die-die must try",
-        "die-die-must-try"
+        "die-die-must-try",
+        "die, die must try"
     ],
     "ding dong": [
         "ding dong",
@@ -2093,7 +2097,8 @@
         "dinobu"
     ],
     "dinosaur": [
-        "dinosaur"
+        "dinosaur",
+        "-dinosaur"
     ],
     "dirty": [
         "dirty"
@@ -7166,5 +7171,22 @@
     "god in heaven": [
         "god in heaven",
         "got in heaven"
+    ],
+    "suck thumb": [
+        "suck thumb"
+    ],
+    "siam diu": [
+        "siam diu",
+        "siamdiu",
+        "siam tiu",
+        "siamtiu"
+    ],
+    "siam bu": [
+        "siam bu",
+        "siambu"
+    ],
+    "king kong": [
+        "king kong",
+        "-king-kong"
     ]
 }

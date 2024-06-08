@@ -12765,7 +12765,10 @@
                     "definition": "mother; also used in phrases such as @{limbu} and @{lin lao bu}."
                 },
                 {
-                    "definition": "a woman in general; used in phrases such as @{chio bu}."
+                    "definition": "a woman in general; used in phrases such as @{chio bu} or @{siam bu}.",
+                    "synonyms": [
+                        "chabor"
+                    ]
                 }
             ],
             "adjective": [
@@ -21692,7 +21695,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "vulgar"
+        ]
     },
     "ku ku jiao": {
         "word": "ku ku jiao",
@@ -21755,7 +21761,10 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "category": [
+            "vulgar"
+        ]
     },
     "kueh pie tee": {
         "word": "kueh pie tee",
@@ -28379,6 +28388,470 @@
             {
                 "link": "",
                 "name": "Burrow, T., Emeneau, M. B. (1984). A Dravidian Etymological Dictionary, 2nd edition, Oxford University Press. ch.1147. ISBN: 0198643268"
+            }
+        ]
+    },
+    "diam": {
+        "word": "diam",
+        "origin": [
+            {
+                "lang": "min nan / hakka",
+                "traditional": "恬",
+                "simplified": "恬",
+                "roman": "tiām",
+                "romanization": "poj",
+                "lit": "silent; quiet; calm; 'shut up'"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "diam",
+                "romanization": "",
+                "lit": "silent; quiet; to become silent"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'shut up!'; 'keep quiet'; 'shh!'",
+                    "example": "Oei, tiam! You're gonna scare away the kingfisher lah."
+                },
+                {
+                    "definition": "(military) a command given to soldiers to freeze where they are, keep silent, and not move until given a command to be at ease.",
+                    "example": "Company, DIAM! ... Good morning Sir! Permission to carry on Sir!"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to keep quiet; to be silent",
+                    "example": "Just go @{guai} @{guai} tiam one corner @{suck thumb} lor."
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "(usually reduplicated) quietly; silently",
+                    "example": "Just tiam tiam sit there and don't cause trouble."
+                }
+            ]
+        },
+        "etyNotes": "The word seems to have appeared independently in both Malayo-Polynesian languages and Min languages and Hakka, coincidentally having almost the same form.<br>Though it could have been a loanword from Malay into Min Nan (due to the extensive linguistic contact between speakers throughout the past few centuries), the word is also used in dialects of Hokkien such as Taiwanese dialects. As those notably have almost no Malay loanwords compared to South-East Asian Hokkien, this suggests it is probably a native Chinese term as well.",
+        "particles": [
+            {
+                "particle": "lah",
+                "meaning": "Just shut it, man.",
+                "example": "",
+                "exampleSource": "",
+                "effect": "dismissiveness"
+            }
+        ]
+    },
+    "diao hua": {
+        "word": "diao hua",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "吊花",
+                "simplified": "吊花",
+                "roman": "diào huā",
+                "romanization": "",
+                "lit": "hang flowers",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "吊",
+                    "花"
+                ],
+                "etyTrad": [
+                    "吊",
+                    "花"
+                ],
+                "etyRoman": [
+                    "diào",
+                    "huā"
+                ],
+                "etyLit": [
+                    "hang",
+                    "flower"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the practice at @{siam dius|siam diu} of paying for a 'flower garland', which is often a coloured sash with an amount of money written on it, to be given to a desired hostess or 'flower girl' to wear in exchange for her spending some time talking, drinking, or playing games with the payer and any others at their table.",
+                    "example": "In debt from buying flower garlands for female singers at \"Diao Hua\" clubs, a man forged documents to sell his mother's two cars to a car dealer.",
+                    "exampleSource": "2024 March 27, Lydia Lam. CNA, \"Man forged mother's signature to sell her Rolls Royce to settle debts from gifting flower garlands at clubs\". https://www.channelnewsasia.com/singapore/man-forged-mother-signature-sell-rolls-royce-debt-diao-hua-hang-flower-garland-4224766"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to pay for a 'flower garland' or sash to be given to a hostess or 'flower girl' in exchange for their time",
+                    "example": "It’s common to see the mama-san walk around the area with garlands and sashes around her whole body. She’ll approach you to ask if you’re interested to diao hua, especially if she sees you eyeing a certain girl on stage. Diao hua isn’t limited to the guys — girls can do so as well.",
+                    "exampleSource": "2023 August 17, Nicole Yong. Zula, \"A Guide To Siam Diu Etiquette – How To Diao Hua, Talking To Siam Bus & What Gong Tao Means\". https://zula.sg/siam-diu-guide/"
+                }
+            ]
+        },
+        "related": [
+            "siam diu",
+            "siam bu"
+        ]
+    },
+    "die die": {
+        "word": "die die",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "die",
+                "romanization": "",
+                "lit": "become dead; stop living; pass away"
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "absolutely; no matter what; even at the cost of one's life",
+                    "example": "Us Singaporeans are a competitive bunch. We everything also die die need to win. That's because we are @{kiasu}.",
+                    "exampleSource": "CapitaLand, \"7 Must-Know Singlish Words to get around Singapore\". https://www.capitaland.com/en/about-capitaland/newsroom/inside/2019/aug/must-know-singlish-words.html"
+                }
+            ]
+        },
+        "related": [
+            "can die",
+            "die"
+        ],
+        "usage": "Always placed before the verb phrase it modifies, e.g. 'die die must see'.",
+        "etyNotes": "Reduplication of English <i>die</i>.",
+        "phonetics": "/ˈdaɪ˦ ˈdaɪ˦/"
+    },
+    "die die must": {
+        "word": "die die must",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "die die",
+                "romanization": "",
+                "lit": "absolutely; no matter what; even at the cost of one's life",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "die"
+                ],
+                "etyLit": [
+                    "become dead; stop living"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "must",
+                "romanization": "",
+                "lit": "to be required to"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(auxiliary) to absolutely have to; to need to matter what, even at the cost of one's life",
+                    "example": "Your previous phones still quite new what, how come every time got new model die die must buy?",
+                    "exampleSource": ""
+                }
+            ]
+        },
+        "related": [
+            "die",
+            "kiasu"
+        ],
+        "usage": "Always placed before the verb phrase it modifies, e.g. 'die die must say'. Other modifiers may come between 'die die' and 'must', such as in 'die die also must watch'.",
+        "etyNotes": "Reduplication of English <i>die</i> + <i>must</i>.",
+        "phonetics": "/ˈdaɪ˦ ˈdaɪ˦ mʌs/"
+    },
+    "die die must have": {
+        "word": "die die must have",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "die die",
+                "romanization": "",
+                "lit": "absolutely; no matter what; even at the cost of one's life",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "die"
+                ],
+                "etyLit": [
+                    "become dead; stop living"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "must",
+                "romanization": "",
+                "lit": "to be required to"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "have",
+                "romanization": "",
+                "lit": "to be required to"
+            }
+        ],
+        "meanings": {
+            "adj": [
+                {
+                    "definition": "to absolutely have to have; to need matter what, even at the cost of one's life",
+                    "example": "Apple CarPlay also meant I could use Waze to navigate, a die-die-must-have feature for driving in Malaysia.",
+                    "exampleSource": "2022 June 30, Aiden Chong. Motorist.sg, \"What Happened On Our Road Trip To Sepang In The Volkswagen Tiguan?\". https://www.motorist.sg/article/1545/what-happened-on-our-road-trip-to-sepang-in-the-volkswagen-tiguan"
+                }
+            ]
+        },
+        "related": [
+            "die",
+            "die die must",
+            "kiasu"
+        ],
+        "phonetics": "/ˈdaɪ˦ ˈdaɪ˦ mʌs hæf/"
+    },
+    "die die must try": {
+        "word": "die die must try",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "die die",
+                "romanization": "",
+                "lit": "absolutely; no matter what; even at the cost of one's life",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "die"
+                ],
+                "etyLit": [
+                    "become dead; stop living"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "must",
+                "romanization": "",
+                "lit": "to be required to"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "try",
+                "romanization": "",
+                "lit": "sample; taste; attempt"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(usually of food) describing a dish one absolutely has to taste, even at the cost of one's life",
+                    "example": "\"Die Die Must Try\" Recommendations by Famous Singapore Foodies: Fellow foodies share their favorite die die must try dishes.",
+                    "exampleSource": "2012 August 16, Jalean Wong. BK. https://bk.asia-city.com/restaurants/article/die-die-must-try-recommendations-famous-singapore-foodies"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(usually of food) to absolutely have to taste; to need to sample matter what, even at the cost of one's life"
+                }
+            ]
+        },
+        "related": [
+            "die",
+            "die die must",
+            "kiasu"
+        ],
+        "phonetics": "/ˈdaɪ˦ ˈdaɪ˦ mʌs t͡ʃɹaɪ̯/"
+    },
+    "ding dong": {
+        "word": "ding dong",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ding-dong",
+                "romanization": "",
+                "lit": "onomatopeia for a bell's chiming; (slang) penis"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(euphemistic, vulgar) testicles; balls",
+                    "example": "Why are we as a society still so prudish when it comes to ding-dongs and vajay-jays?",
+                    "exampleSource": "2009 February 20, Phin Wong. Today. p.35",
+                    "synonyms": [
+                        "lam pa"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "angkat bola",
+            "ar ka chiu ji",
+            "balls drop",
+            "balls shrink",
+            "bo ji",
+            "carry balls"
+        ],
+        "category": [
+            "vulgar"
+        ],
+        "etyNotes": "Possibly related to the pendulous nature of the testicles, resembling the clapper of a swinging bell. Compare English slang, which instead means 'penis', via <i>thing</i> → <i>ding</i> (also 'ding' or similar in other Germanic languages)."
+    },
+    "dinobu": {
+        "word": "dinobu",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "dinosaur",
+                "romanization": "",
+                "lit": "(technically) any member of the clade Dinosauria; (colloq.) only the large, extinct animals extinct living around 230 - 65 mya, incl. those not in the clade Dinosauria",
+                "etyPath": [
+                    "ancient greek",
+                    "ancient greek"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "δεινός",
+                    "σαῦρος"
+                ],
+                "etyRoman": [
+                    "deinós",
+                    "saûros"
+                ],
+                "etyLit": [
+                    "terrible; fearful; marvelous",
+                    "lizard"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bu",
+                "romanization": "",
+                "lit": "woman",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "母"
+                ],
+                "etyTrad": [
+                    "母"
+                ],
+                "etyRoman": [
+                    "bú"
+                ],
+                "etyLit": [
+                    "mother; female; woman in general"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a very fat woman",
+                    "example": "with covid, ukraine war, inflations, people are already depressed enough, seeing dinobu with yoga pants is the last thing a edmw @{bbfa} needs when he steps out of his house every morning for work.",
+                    "exampleSource": "2022 October 31, Zangief. Hardwaresone, \"is it morally wrong for dinobu to wear yoga pants\". https://forums.hardwarezone.com.sg/threads/is-it-morally-wrong-for-dinobu-to-wear-yoga-pants.6829592/"
+                }
+            ]
+        },
+        "related": [
+            "ah pui",
+            "bbfa",
+            "bu",
+            "pui"
+        ],
+        "category": [
+            "insults"
+        ],
+        "usage": "Use mostly limited to the Internet and certain circles.",
+        "phonetics": "/ˈdaɪnoʊbuː/"
+    },
+    "dinosaur": {
+        "word": "dinosaur",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "dinosaur",
+                "romanization": "",
+                "lit": "(technically) any member of the clade Dinosauria; (colloq.) only the large, extinct animals extinct living around 230 - 65 mya, incl. those not in the clade Dinosauria",
+                "etyPath": [
+                    "ancient greek",
+                    "ancient greek"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "δεινός",
+                    "σαῦρος"
+                ],
+                "etyRoman": [
+                    "deinós",
+                    "saûros"
+                ],
+                "etyLit": [
+                    "terrible; fearful; marvelous",
+                    "lizard"
+                ]
+            }
+        ],
+        "etyNotes": "The term 'dinosaur' was apparently invented in the mid-1990s in Singaporean Indian-Muslim open-air restaurants, such as A&A Muslim Restaurant and Al-Azhar Eating Restaurant (who all claim to have been the first to create it). A very similar Malaysian creation called the 'Milo shake', using a scoop of Milo powder on an iced Milo, became popular around the same time, and could possibly have influenced the Singaporean drink.^{1}<br>The term 'dinosaur' appears to simply have been used for marketing purposes, possibly to evoke something bombastic, awesome, terrifying, and powerful, due to the popularity of monster movies involving dinosaurs and kaijus in 1990's to 2000's popular culture (e.g. with the release of <i>Jurassic Park</i> (1993), <i>The Lost World</i> (1997), and <i>Jurassic Park III</i> (2001)).^{1} Compare the similar @{Godzilla} and @{King Kong}.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(drink ordering) iced, with a scoop of the drink's (usually either @{Milo} or @{Horlicks}) powder on top"
+                }
+            ]
+        },
+        "category": [
+            "drinks"
+        ],
+        "related": [
+            "Godzilla",
+            "King Kong"
+        ],
+        "usage": "",
+        "phonetics": "/ˈdaɪnoʊsɔː/",
+        "references": [
+            {
+                "link": "https://www.iseas.edu.sg/wp-content/uploads/pdfs/ISEAS_Perspective_2019_89.pdf",
+                "name": "2019 October 24. Yusof Issak Institute. Milo Dinosaur: When Southeast Asia's Cultural Heritage Meets Nestlé. Perspective, 2009, issue 89."
             }
         ]
     }

@@ -5,6 +5,7 @@ const details = require("./public/dict/details.json");
 
 // structures for output
 let langs = {};
+let langsExclPie = {};  // exclude duplicates from pie chart
 let langTerms = {};
 let sudah = [];
 
@@ -62,6 +63,7 @@ for (let [lang, count] of Object.entries(langs)) {
             if (!langTerms["latin"].includes(langTerms[lang][i])) {
                 langTerms["latin"].push(langTerms[lang][i]);
                 langs["latin"]++;
+                (langsExclPie[lang] == null) ? langsExclPie[lang] = 0 : langsExclPie[lang]++;
             }
         }
     }
@@ -75,6 +77,7 @@ for (let [lang, count] of Object.entries(langs)) {
                 langTerms["teochew"].push(langTerms[lang][i]);
                 langs["teochew"]++;
             }
+            (langsExclPie[lang] == null) ? langsExclPie[lang] = 0 : langsExclPie[lang]++;
         }
     }
     if (lang.toLowerCase().includes("hindi") || lang.toLowerCase().includes("urdu")) {
@@ -82,6 +85,7 @@ for (let [lang, count] of Object.entries(langs)) {
             if (!langTerms["hindustani"].includes(langTerms[lang][i])) {
                 langTerms["hindustani"].push(langTerms[lang][i]);
                 langs["hindustani"]++;
+                (langsExclPie["hindustani"] == null) ? langsExclPie["hindustani"] = 0 : langsExclPie["hindustani"]++;
             }
         }
     }
@@ -90,12 +94,32 @@ for (let [lang, count] of Object.entries(langs)) {
             if (!langTerms["french"].includes(langTerms[lang][i])) {
                 langTerms["french"].push(langTerms[lang][i]);
                 langs["french"]++;
+                (langsExclPie[lang] == null) ? langsExclPie[lang] = 0 : langsExclPie[lang]++;
+            }
+        }
+    }
+    if (lang.toLowerCase().includes("greek")) {
+        for (let i = 0; i < langTerms[lang].length; i++) {
+            if (!langTerms["greek"].includes(langTerms[lang][i])) {
+                langTerms["greek"].push(langTerms[lang][i]);
+                langs["greek"]++;
+                (langsExclPie[lang] == null) ? langsExclPie[lang] = 0 : langsExclPie[lang]++;
+            }
+        }
+    }
+    if (lang.toLowerCase().includes("chinese")) {
+        for (let i = 0; i < langTerms[lang].length; i++) {
+            if (!langTerms["general chinese"].includes(langTerms[lang][i])) {
+                langTerms["general chinese"].push(langTerms[lang][i]);
+                langs["general chinese"]++;
+                (langsExclPie["general chinese"] == null) ? langsExclPie["general chinese"] = 0 : langsExclPie["general chinese"]++;
             }
         }
     }
 }
 
 // sort
+// ... by alphabetical
 const alphaSortedLangs = Object.keys(langs).sort().reduce(
     (obj, key) => {
         obj[key] = langs[key];
@@ -103,7 +127,7 @@ const alphaSortedLangs = Object.keys(langs).sort().reduce(
     },
     {}
 );
-
+// ... by count
 const sortedLangs = Object.fromEntries(
     Object.entries(alphaSortedLangs).sort(([, a], [, b]) => b - a)
 );
@@ -137,6 +161,13 @@ for (const [lang, entries] of Object.entries(langTerms)) {
         // console.log(`Added -${lang}- with entries:\n`, entries);
     });
 }
+
+// langs-excl-pie list
+const outPathExclPie = `./public/lists/lang/langsExclPie.json`;
+fs.writeFile(outPathExclPie, JSON.stringify(langsExclPie), "utf8", (err) => {
+    if (err) throw err;
+    console.log(`Created langs-excl-pie list.\n`);
+});
 
 
 

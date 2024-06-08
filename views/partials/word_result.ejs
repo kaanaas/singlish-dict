@@ -18,11 +18,13 @@
                     <% if(posDet[j].example && posDet[j].example.length != 0){ %>
                         <p class="word-example"><%- formatDyno(posDet[j].example) %></p>
                         <% if (posDet[j].exampleSource && posDet[j].exampleSource.length > 0) { %>
-                            <% if(posDet[j].exampleSource=="@comm" ){ %>
-                            <p class="word-example-src">— Community contribution</p>
+                            <% if(posDet[j].exampleSource == "@comm" || posDet[j].exampleSource == ""){ %>
+                            <p class="word-example-src"></p>
                             <% } else { %>
                             <p class="word-example-src">— <%- posDet[j].exampleSource %></p>
                             <% } %>
+                        <% } else { %>
+                            <p class="word-example-src"></p>
                         <% } %>  
                     <% } %>
                     <!-- syno/antonyms -->

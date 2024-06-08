@@ -13,6 +13,53 @@ app.set("views", path.join(__dirname, "/views"));
 
 // Import langs lists
 const langs = require("../public/lists/lang/langs.json");
+const langsExclPie = require("../public/lists/lang/langsExclPie.json");
+let langsPie = Object.assign({}, langs);
+
+// calculate pie chart info
+let totalCount = 0;
+let totalCountExcl = 0;
+let langsArray = [];
+let dashArray = [];
+let colourArray = [];
+let goldenAngle = 137.508;
+
+for (const [lang, count] of Object.entries(langs)) {
+    totalCount += count;
+}
+for (const [lang, count] of Object.entries(langsExclPie)) {
+    totalCountExcl += count;
+    langsPie[lang] -= count;
+}
+
+// resort pie langs
+const alphaSortedLangsPie = Object.keys(langsPie).sort().reduce(
+    (obj, key) => {
+        obj[key] = langsPie[key];
+        return obj;
+    },
+    {}
+);
+const sortedLangsPie = Object.fromEntries(
+    Object.entries(alphaSortedLangsPie).sort(([, a], [, b]) => b - a)
+);
+langsPie = sortedLangsPie;
+// console.log(langsPie);
+// console.log(langs);
+
+// calculate pie angles
+const radius = 13;
+const cf = 2 * Math.PI * radius;
+let i = 0;
+// const strokeOffset = cf / 4;
+for (const [lang, count] of Object.entries(langsPie)) {
+    let angle = count / (totalCount - totalCountExcl);
+    // console.log(lang, angle);
+    langsArray.push(lang);
+    dashArray.push(angle * cf);
+    colourArray.push(`hsl(${i * goldenAngle}, 72%, 34%)`);
+    i++;
+}
 
 
 router.get("/langs", async (req, res) => {
@@ -42,33 +89,10 @@ router.get("/langs", async (req, res) => {
         }
     } else {
         // generate main lang page
-        // calculate pie chart info
-        let totalCount = 0;
-        let langsArray = [];
-        let dashArray = [];
-        let colourArray = [];
-        let goldenAngle = 137.508;
-
-        for (const [lang, count] of Object.entries(langs)) {
-            totalCount += count;
-        }
-
-        const radius = 13;
-        const cf = 2 * Math.PI * radius;
-        let i = 0;
-        // const strokeOffset = cf / 4;
-        for (const [lang, count] of Object.entries(langs)) {
-            let angle = count / totalCount;
-            // console.log(lang, angle);
-            langsArray.push(lang);
-            dashArray.push(angle * cf);
-            colourArray.push(`hsl(${i * goldenAngle}, 72%, 34%)`);
-            i++;
-        }
-
         // render page
         res.render("./langs", {
             langs: langs,
+            langsPie: langsPie,
 
             // for pie chart only
             radius: radius,
