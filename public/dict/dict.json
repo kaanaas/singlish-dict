@@ -4511,10 +4511,16 @@
         "milo"
     ],
     "milo dinosaur": [
-        "milo dinosaur"
+        "milo dinosaur",
+        "milo-dinosaur"
     ],
     "milo godzilla": [
-        "milo godzilla"
+        "milo godzilla",
+        "milo-godzilla"
+    ],
+    "milo king kong": [
+        "milo king kong",
+        "milo-king-kong"
     ],
     "miloccino": [
         "miloccino",
