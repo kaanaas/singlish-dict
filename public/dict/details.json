@@ -31824,5 +31824,259 @@
                 }
             ]
         }
+    },
+    "finger splitting game": {
+        "word": "finger splitting game",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "finger",
+                "romanization": "",
+                "lit": "one of the digits on the human hand"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "splitting",
+                "romanization": "",
+                "lit": "dividing; separating"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "game",
+                "romanization": "",
+                "lit": "activity played for amusement or competition"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a children's game played between two players, who each clasp their hands with both index fingers extended and pressed together, then take turns holding out their hands in this position while the other smashes their own index fingers into their opponent's using a downward overhead swing. The first person to cause the other's fingers to split (such that the index fingertips are no longer touching each other) is deemed the winner, irrespective of whether they were the one hitting or were bracing against their opponent's hit."
+                }
+            ]
+        },
+        "category": [
+            "games"
+        ]
+    },
+    "five stones": {
+        "word": "five stones",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "five stones",
+                "romanization": "",
+                "lit": "traditional ancient game played using 5 stones or other small items",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "five",
+                    "stones"
+                ],
+                "etyLit": [
+                    "the number 5",
+                    "small rocks"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional game involving sets of variously throwing, catching, and picking up five pebble-sized stones according to a set of game rules. The stones may be substituted for any other small, weighted items, such as beanbags or small bones. It is known in other countries as jacks, jackstones, knucklebones, chackstones, and many other names, and has been played by humans since antiquity."
+                }
+            ]
+        },
+        "category": [
+            "games"
+        ],
+        "references": [
+            {
+                "link": "https://www.britannica.com/topic/jacks",
+                "name": "Encyclopedia Britannica - Jacks"
+            }
+        ]
+    },
+    "fly aeroplane": {
+        "word": "fly aeroplane",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "放飛機",
+                "simplified": "放飞机",
+                "roman": "daa2 fei1 gei1",
+                "romanization": "",
+                "lit": "stand sb. up; miss an appointment",
+                "etyScript": [
+                    "放",
+                    "飞机"
+                ],
+                "etyTrad": [
+                    "放",
+                    "飛機"
+                ],
+                "etyRoman": [
+                    "daa2",
+                    "fei1 gei1"
+                ],
+                "etyLit": [
+                    "put; release",
+                    "aeroplane"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to stand someone up",
+                    "example": "I had a movie date with this girl but she fly me aeroplane. Since I go the cinema already, might as well watch alone lor.",
+                    "synonyms": [
+                        "pang seh"
+                    ]
+                },
+                {
+                    "definition": "to miss an agreed appointment, often deliberately and at short notice",
+                    "example": "Ryan is always flaking. Last time we tried to meet for soccer, he flew us aeroplane to hang out with some girl.",
+                    "synonyms": [
+                        "pang seh"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "fly kite",
+            "pang",
+            "beat aeroplane"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Direct calque from Cantonese phrase, whose literal meaning is \"to release/fly an aeroplane\". It has also become a common phrase in Singaporean Mandarin, as <i>fàng fēi jī</i>. Supposedly originated in Hong Kong Cantonese, then spread to Malaysia and Singapore.^{1}",
+        "references": [
+            {
+                "link": "https://baike.baidu.com/item/%E6%94%BE%E9%A3%9E%E6%9C%BA/2899918#:~:text=%E6%94%BE%E9%A3%9E%E6%9C%BA%E6%8B%BC%E9%9F%B3%E6%98%AFf%C3%A0ng,%E6%B2%A1%E6%9C%89%E6%89%A7%E8%A1%8C%E7%9B%B8%E5%BA%94%E7%9A%84%E7%A8%8B%E5%BA%8F%E3%80%82",
+                "name": "Baidu - 放飞机"
+            }
+        ]
+    },
+    "beat aeroplane": {
+        "word": "beat aeroplane",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "打飛機",
+                "simplified": "打飞机",
+                "roman": "fong3 fei1 gei1",
+                "romanization": "",
+                "lit": "(lit.) fight/beat aeroplane; (slang, of a male) jerk off; wank",
+                "etyScript": [
+                    "打",
+                    "飞机"
+                ],
+                "etyTrad": [
+                    "打",
+                    "飛機"
+                ],
+                "etyRoman": [
+                    "daa2",
+                    "fei1 gei1"
+                ],
+                "etyLit": [
+                    "hit; fight; beat",
+                    "aeroplane"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(of a male) to masturbate; to jerk off; to wank",
+                    "synonyms": [
+                        "pak chiu cheng",
+                        "hit aeroplane"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "fly aeroplane"
+        ],
+        "category": [
+            "sayings",
+            "vulgar"
+        ],
+        "etyNotes": "Direct calque from Cantonese phrase, whose literal meaning is \"to beat/hit/fight an aeroplane\". It has also become a commonly understood phrase in Singaporean Mandarin and other Mandarin dialects, as <i>dǎ fēi jī</i>. Supposedly originated in Hong Kong Cantonese.^{1}",
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/words/1034/",
+                "name": "CantoDict - 打飛機. www.cantonese.sheik.co.uk"
+            }
+        ]
+    },
+    "hit aeroplane": {
+        "word": "hit aeroplane",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "打飛機",
+                "simplified": "打飞机",
+                "roman": "fong3 fei1 gei1",
+                "romanization": "",
+                "lit": "(lit.) fight/beat aeroplane; (slang, of a male) jerk off; wank",
+                "etyScript": [
+                    "打",
+                    "飞机"
+                ],
+                "etyTrad": [
+                    "打",
+                    "飛機"
+                ],
+                "etyRoman": [
+                    "daa2",
+                    "fei1 gei1"
+                ],
+                "etyLit": [
+                    "hit; fight; beat",
+                    "aeroplane"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(of a male) to masturbate; to jerk off; to wank",
+                    "synonyms": [
+                        "beat aeroplane",
+                        "pak chiu cheng"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "fly aeroplane"
+        ],
+        "category": [
+            "sayings",
+            "vulgar"
+        ],
+        "usage": "Less common form of @{beat aeroplane}.",
+        "etyNotes": "Direct calque from Cantonese phrase, whose literal meaning is \"to beat/hit/fight an aeroplane\". It has also become a commonly understood phrase in Singaporean Mandarin and other Mandarin dialects, as <i>dǎ fēi jī</i>. Supposedly originated in Hong Kong Cantonese.^{1}",
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/words/1034/",
+                "name": "CantoDict - 打飛機. www.cantonese.sheik.co.uk"
+            }
+        ]
     }
 }

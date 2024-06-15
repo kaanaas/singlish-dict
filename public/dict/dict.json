@@ -707,6 +707,10 @@
         "bui bui forever alone",
         "pui pui forever alone"
     ],
+    "beat aeroplane": [
+        "beat aeroplane",
+        "beat airplane"
+    ],
     "bedek": [
         "bedek"
     ],
@@ -2333,7 +2337,9 @@
     ],
     "fly aeroplane": [
         "fly aeroplane",
-        "fly me aeroplane"
+        "fly me aeroplane",
+        "fly airplane",
+        "fly me airplane"
     ],
     "fly kite": [
         "fly kite",
@@ -2822,6 +2828,10 @@
         "heong pneah",
         "heong piah",
         "heong peng"
+    ],
+    "hit aeroplane": [
+        "hit aeroplane",
+        "hit airplane"
     ],
     "ho": [
         "ho"
@@ -5179,7 +5189,9 @@
     ],
     "pang seh": [
         "pang seh",
-        "pangseh"
+        "pangseh",
+        "pang se",
+        "pang sei"
     ],
     "panggang": [
         "panggang"
@@ -6132,6 +6144,9 @@
     "snowskin": [
         "snowskin",
         "snow skin"
+    ],
+    "so": [
+        "so"
     ],
     "so si": [
         "so si",
@@ -7230,8 +7245,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "so": [
-        "so"
     ]
 }
