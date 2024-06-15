@@ -2985,8 +2985,8 @@
     "indian rojak": [
         "indian rojak"
     ],
-    "ini macan": [
-        "ini macan"
+    "ini macam": [
+        "ini macam"
     ],
     "ipoh hor fun": [
         "ipoh hor fun"
@@ -7230,5 +7230,8 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "so": [
+        "so"
     ]
 }

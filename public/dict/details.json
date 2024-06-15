@@ -31731,5 +31731,98 @@
         "category": [
             "ns"
         ]
+    },
+    "so": {
+        "word": "so",
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "so",
+                "romanization": "",
+                "lit": "to the extent that; very"
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "very; placed before a noun to make a strong comparison or equivalence between it and someone or something else; adjectifier for any noun",
+                    "example": "He's so @{uncle} and she's so @{auntie}, it's like they met each other at @{Whatapps} University.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "damn"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "goondu": {
+        "word": "goondu",
+        "related": [
+            "fatty bom bom"
+        ],
+        "usage": "",
+        "category": [
+            "insults"
+        ],
+        "phonetics": "",
+        "etyNotes": "Compare Indian English <i>gandu</i>, \"(vulgar) idiot; dumbass; asshole; sodomizer\", from Hindustani गांडू, gāṇḍū.",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "குண்டு",
+                "roman": "kuṇṭu",
+                "romanization": "",
+                "lit": "fat; fat person"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an idiot; a moron",
+                    "example": "Can you tell that goondu to keep it down? I cannot sleep lah.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "bodoh",
+                        "dum bai",
+                        "cock",
+                        "clown"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "stupid; idiotic",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "bodoh",
+                        "bo idea",
+                        "dum bai",
+                        "stupiak"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(rarer) fat; obese",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "gemuk",
+                        "pui"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
     }
 }
