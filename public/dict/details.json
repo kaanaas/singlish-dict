@@ -31915,9 +31915,16 @@
                 "lang": "cantonese",
                 "traditional": "放飛機",
                 "simplified": "放飞机",
-                "roman": "daa2 fei1 gei1",
+                "roman": "fong3 fei1 gei1",
                 "romanization": "",
                 "lit": "stand sb. up; miss an appointment",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
                 "etyScript": [
                     "放",
                     "飞机"
@@ -31927,7 +31934,7 @@
                     "飛機"
                 ],
                 "etyRoman": [
-                    "daa2",
+                    "fong3",
                     "fei1 gei1"
                 ],
                 "etyLit": [
@@ -31977,9 +31984,16 @@
                 "lang": "cantonese",
                 "traditional": "打飛機",
                 "simplified": "打飞机",
-                "roman": "fong3 fei1 gei1",
+                "roman": "daa2 fei1 gei1",
                 "romanization": "",
                 "lit": "(lit.) fight/beat aeroplane; (slang, of a male) jerk off; wank",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
                 "etyScript": [
                     "打",
                     "飞机"
@@ -32016,7 +32030,7 @@
             "sayings",
             "vulgar"
         ],
-        "etyNotes": "Direct calque from Cantonese phrase, whose literal meaning is \"to beat/hit/fight an aeroplane\". It has also become a commonly understood phrase in Singaporean Mandarin and other Mandarin dialects, as <i>dǎ fēi jī</i>. Supposedly originated in Hong Kong Cantonese.^{1}",
+        "etyNotes": "Direct calque from Cantonese phrase, whose literal meaning is \"to beat/hit/fight an aeroplane\". It has also become a commonly understood phrase in Singaporean Mandarin and other Mandarin dialects, as <i>dǎ fēi jī</i>. Supposedly originated in Hong Kong Cantonese.^{1}<br>The female equivalent in Hong Kong Cantonese, which would be something like <i>beat submarine</i>, has not entered Singlish.",
         "references": [
             {
                 "link": "https://www.cantonese.sheik.co.uk/dictionary/words/1034/",
@@ -32031,9 +32045,16 @@
                 "lang": "cantonese",
                 "traditional": "打飛機",
                 "simplified": "打飞机",
-                "roman": "fong3 fei1 gei1",
+                "roman": "daa2 fei1 gei1",
                 "romanization": "",
                 "lit": "(lit.) fight/beat aeroplane; (slang, of a male) jerk off; wank",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
                 "etyScript": [
                     "打",
                     "飞机"
