@@ -394,6 +394,10 @@ input[type=text] {
     font-weight: normal!important;
 }
 
+.non-chinese {
+    font-size: 1.75em!important;
+}
+
 .ortho-box h4 {
     font-size: 1.5em;
     margin: 0;

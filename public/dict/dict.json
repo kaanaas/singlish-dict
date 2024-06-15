@@ -219,6 +219,7 @@
     ],
     "ah nia": [
         "ah nia",
+        "ah ngia",
         "ahnia"
     ],
     "ah pek": [
@@ -993,6 +994,10 @@
     "boleh": [
         "boleh"
     ],
+    "bom bom": [
+        "bom bom",
+        "bombom"
+    ],
     "boomz": [
         "boomz"
     ],
@@ -1005,6 +1010,11 @@
     "bottlecaps": [
         "bottlecaps",
         "bottle caps"
+    ],
+    "briyani": [
+        "briyani",
+        "beriani",
+        "biriyani"
     ],
     "brudder": [
         "brudder"
@@ -1081,6 +1091,17 @@
     "buay pai": [
         "buay pai",
         "buey pai"
+    ],
+    "buay paiseh": [
+        "buay paiseh",
+        "buey paiseh",
+        "buay pai seh",
+        "buey pai seh",
+        "bue paiseh",
+        "be paiseh",
+        "buay pai sey",
+        "buay phai se",
+        "buay pai se"
     ],
     "buay sai": [
         "buay sai",
@@ -1790,6 +1811,10 @@
         "chiong sua",
         "chiongsua"
     ],
+    "chiongster": [
+        "chiongster",
+        "cheongster"
+    ],
     "chitty melaka": [
         "chitty melaka",
         "chitty malacca"
@@ -2007,6 +2032,13 @@
         "cui",
         "chui"
     ],
+    "curry devil": [
+        "curry devil",
+        "devil curry",
+        "devil's curry",
+        "kari debal",
+        "curry debal"
+    ],
     "curry puff": [
         "curry puff",
         "currypuff"
@@ -2037,13 +2069,6 @@
     ],
     "dendeng": [
         "dendeng"
-    ],
-    "curry devil": [
-        "curry devil",
-        "devil curry",
-        "devil's curry",
-        "kari debal",
-        "curry debal"
     ],
     "dhoby": [
         "dhoby",
@@ -2103,15 +2128,12 @@
     "dirty": [
         "dirty"
     ],
-    "dodol": [
-        "dodol",
-        "kueh dodol",
-        "kuih dodol"
-    ],
     "don't play play": [
         "don't play play",
         "don't play-play",
-        "don't pray pray"
+        "dun play-play",
+        "don't pray pray",
+        "dun pray pray"
     ],
     "doneded": [
         "doneded"
@@ -2124,10 +2146,10 @@
         "double confirm",
         "double-confirm"
     ],
-    "double-up": [
-        "double-up",
+    "double up": [
+        "double up",
         "double",
-        "double up"
+        "double-up"
     ],
     "drama": [
         "drama"
@@ -2169,24 +2191,14 @@
     "earpiece": [
         "earpiece"
     ],
-    "eat salt": [
-        "eat salt"
-    ],
     "eat snake": [
         "eat snake"
     ],
     "ee": [
         "ee",
-        "eee"
-    ],
-    "ee fu noodles": [
-        "ee fu noodles",
-        "ee fu meen",
-        "yi fu noodles",
-        "ee meen",
-        "ee fu",
-        "ee foo",
-        "eefu"
+        "eee",
+        "eeee",
+        "eeeee"
     ],
     "eeyer": [
         "eeyer",
@@ -2220,12 +2232,8 @@
     "eh sai bo": [
         "eh sai bo",
         "e sai bo",
+        "ey sai bo",
         "eh sai boh"
-    ],
-    "elephant": [
-        "elephant",
-        "elephant's egg",
-        "elephant egg"
     ],
     "else what": [
         "else what"
@@ -2267,10 +2275,7 @@
     ],
     "fa cai": [
         "fa cai",
-        "facai",
-        "fat choy",
-        "fatt choy",
-        "fat choi"
+        "facai"
     ],
     "face": [
         "face"
@@ -2290,6 +2295,11 @@
     ],
     "faster": [
         "faster"
+    ],
+    "fat choy": [
+        "fat choy",
+        "fatt choy",
+        "fat choi"
     ],
     "fatty bom bom": [
         "fatty bom bom",
@@ -2437,6 +2447,10 @@
         "goblock",
         "goblog",
         "gorblock"
+    ],
+    "god in heaven": [
+        "god in heaven",
+        "got in heaven"
     ],
     "godzilla": [
         "godzilla"
@@ -2663,6 +2677,16 @@
     "hang flower": [
         "hang flower"
     ],
+    "hanna": [
+        "hanna",
+        "han na",
+        "ha na",
+        "hana",
+        "hannah",
+        "hanah",
+        "ha nah",
+        "han-na"
+    ],
     "hao lian": [
         "hao lian",
         "haolian",
@@ -2885,6 +2909,11 @@
     ],
     "huat": [
         "huat"
+    ],
+    "huat chai": [
+        "huat chai",
+        "huat chye",
+        "huat cai"
     ],
     "huat kueh": [
         "huat kueh",
@@ -3606,6 +3635,10 @@
     ],
     "king": [
         "king"
+    ],
+    "king kong": [
+        "king kong",
+        "-king-kong"
     ],
     "kiv": [
         "kiv"
@@ -4621,8 +4654,8 @@
     ],
     "nasi briyani": [
         "nasi briyani",
-        "briyani",
-        "nasi beriani"
+        "nasi beriani",
+        "nasi biriyani"
     ],
     "nasi campur": [
         "nasi campur"
@@ -5059,8 +5092,7 @@
         "paiseh",
         "pai seh",
         "phai se",
-        "pai se",
-        "ps"
+        "pai se"
     ],
     "paiseh piece": [
         "paiseh piece",
@@ -5454,6 +5486,10 @@
     ],
     "pro": [
         "pro"
+    ],
+    "ps": [
+        "ps",
+        "p.s."
     ],
     "puah liap": [
         "puah liap"
@@ -5890,6 +5926,9 @@
     "shiok": [
         "shiok"
     ],
+    "show face": [
+        "show face"
+    ],
     "show half ball": [
         "show half ball"
     ],
@@ -5961,6 +6000,16 @@
     ],
     "siam": [
         "siam"
+    ],
+    "siam bu": [
+        "siam bu",
+        "siambu"
+    ],
+    "siam diu": [
+        "siam diu",
+        "siamdiu",
+        "siam tiu",
+        "siamtiu"
     ],
     "siam one corner": [
         "siam one corner"
@@ -6096,6 +6145,9 @@
     "sohai": [
         "sohai",
         "so hai"
+    ],
+    "sol": [
+        "sol"
     ],
     "solid": [
         "solid"
@@ -6257,6 +6309,9 @@
         "soe",
         "sue",
         "sueh"
+    ],
+    "suck thumb": [
+        "suck thumb"
     ],
     "sudah": [
         "sudah"
@@ -6648,6 +6703,13 @@
     "thunder tea rice": [
         "thunder tea rice"
     ],
+    "ti": [
+        "ti",
+        "tie",
+        "'ti",
+        "'ty",
+        "'tie"
+    ],
     "ti gu": [
         "ti gu",
         "di gu",
@@ -6669,13 +6731,18 @@
         "teeko pek",
         "tiko pek"
     ],
-    "tiao her": [
-        "tiao her",
+    "tiao he": [
         "tiao he",
+        "tiao her",
         "tiao hi",
+        "tiao hir",
         "diao her",
         "diao he",
-        "tio hoo"
+        "tio hoo",
+        "tio he",
+        "tio her",
+        "tio hir",
+        "tio hu"
     ],
     "tiger show": [
         "tiger show",
@@ -6769,9 +6836,9 @@
         "thau kay"
     ],
     "tu lan": [
-        "du lan",
-        "dulan",
         "tu lan",
+        "dulan",
+        "du lan",
         "tulan"
     ],
     "tua kee": [
@@ -7096,6 +7163,9 @@
         "yu sheng",
         "yusheng"
     ],
+    "yucks": [
+        "yucks"
+    ],
     "zai": [
         "zai",
         "tzai",
@@ -7160,39 +7230,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "sol": [
-        "sol"
-    ],
-    "hanna": [
-        "hanna",
-        "han na",
-        "ha na",
-        "hana",
-        "hannah",
-        "hanah",
-        "ha nah",
-        "han-na"
-    ],
-    "god in heaven": [
-        "god in heaven",
-        "got in heaven"
-    ],
-    "suck thumb": [
-        "suck thumb"
-    ],
-    "siam diu": [
-        "siam diu",
-        "siamdiu",
-        "siam tiu",
-        "siamtiu"
-    ],
-    "siam bu": [
-        "siam bu",
-        "siambu"
-    ],
-    "king kong": [
-        "king kong",
-        "-king-kong"
     ]
 }

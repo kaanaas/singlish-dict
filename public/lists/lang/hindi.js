@@ -1,1 +1,1 @@
-const langTerms = ["Dhoby Ghaut","bungalow","chop","chope","confirm plus chop","confirm plus guarantee got chop","dhoby","dhoby mark"]; module.exports = langTerms;
+const langTerms = ["Dhoby Ghaut","bungalow","chop","chope","confirm plus chop","confirm plus guarantee got chop","dhoby","dhoby mark","dum briyani"]; module.exports = langTerms;

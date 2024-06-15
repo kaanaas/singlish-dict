@@ -53,7 +53,7 @@
                         <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
                             <!-- Other alt-script languages -->
                             <% if(word.origin[i].simplified != ""){ %>
-                            <h3 class="non-bold"><%- formatDyno(word.origin[i].simplified) %></h3>
+                            <h3 class="non-bold non-chinese"><%- formatDyno(word.origin[i].simplified) %></h3>
                             <div class="roman-flex">
                                 <% if(word.origin[i].romanization && word.origin[i].romanization != "") { %>
                                     <p class="romanization"><%= word.origin[i].romanization %>:</p>
@@ -62,7 +62,7 @@
                             </div>
                             <% } %>
                         <% } else if(langName.toLowerCase() == "singlish") { %>
-                            <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman.toLowerCase() %></a></h4>
+                            <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman %></a></h4>
                         <% } else { %>
                             <h4><%- formatDyno(word.origin[i].roman) %></h4>
                         <% } %>
@@ -104,7 +104,7 @@
                                     <% } %>
                                 </div>
 
-                                <% if(chineseLangs.some(l => langName.includes(l))){ %>
+                                <% if(chineseLangs.some(l => langName.includes(l)) || (langName.includes("japanese") && word.origin[i].traditional && word.origin[i].traditional != "")){ %>
                                     <!-- Chinese languages -->
                                     <div class="chinese-wrapper-ext">
                                         <div name="chinese-chars">
@@ -121,7 +121,7 @@
                                     <!-- Other alt-script languages -->
                                     <% if(word.origin[i].simplified != ""){ %>
                                     <div class="chinese-wrapper-ext">
-                                        <h3 class="non-bold"><%- formatDyno(word.origin[i].simplified) %></h3>
+                                        <h3 class="non-bold non-chinese"><%- formatDyno(word.origin[i].simplified) %></h3>
                                         <div class="roman-flex-ext">
                                             <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
                                         </div>
@@ -179,7 +179,8 @@
                                         <% } %>
                                     </div>
 
-                                    <% if(word.origin[i].etyPath[j] && chineseLangs.some(l => word.origin[i].etyPath[j].toLowerCase().includes(l))){ %>
+                                    <% if(word.origin[i].etyPath[j] && (chineseLangs.some(l => word.origin[i].etyPath[j].toLowerCase().includes(l))
+                                        || (langName.includes("japanese") && word.origin[i].etyTrad[j] && word.origin[i].etyTrad[j] != ""))){ %>
                                     <!-- Chinese languages -->
                                     <div class="chinese-wrapper-ext">
                                         <div name="chinese-chars">
@@ -196,7 +197,7 @@
                                         <!-- Other alt-script languages -->
                                         <% if(word.origin[i].etyScript[j] != ""){ %>
                                         <div class="chinese-wrapper-ext">
-                                            <h3 class="non-bold"><%- formatDyno(word.origin[i].etyScript[j]) %></h3>
+                                            <h3 class="non-bold non-chinese"><%- formatDyno(word.origin[i].etyScript[j]) %></h3>
                                             <div class="roman-flex-ext">
                                                 <p class="ortho-roman">
                                                 <% if(word.origin[i].etyScript[j] !="" ){ %>

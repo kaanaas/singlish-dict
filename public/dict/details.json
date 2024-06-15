@@ -734,7 +734,7 @@
     "abuden": {
         "word": "abuden",
         "related": [
-            "else what"
+            "ah then"
         ],
         "usage": "Tone / rhythm of dictation may convey slightly different emotions; <i>abuden?</i> said quickly is typically passive-aggressive or dismissive, whereas <i>ah-bu-den?</i> can indicate annoyance or exasperation.",
         "origin": [
@@ -760,16 +760,20 @@
             "interjection": [
                 {
                     "definition": "if not, what?",
-                    "example": "",
+                    "example": "Abuden? I ownself buy from ownself isit?",
                     "exampleSource": "",
-                    "synonyms": [],
+                    "synonyms": [
+                        "else what"
+                    ],
                     "antonyms": []
                 },
                 {
                     "definition": "duh",
-                    "example": "",
+                    "example": "- You coming with us?<br>- Abuden?",
                     "exampleSource": "",
-                    "synonyms": [],
+                    "synonyms": [
+                        "else what"
+                    ],
                     "antonyms": []
                 }
             ]
@@ -10484,14 +10488,7 @@
                 "simplified": "无",
                 "roman": "bô",
                 "romanization": "poj",
-                "lit": "no; not have; don't",
-                "etyPath": false,
-                "etyType": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "no; not have; don't"
             }
         ],
         "meanings": {
@@ -12801,7 +12798,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "the edible fruit of the Lansium domesticum tree, which are round and between 2.5 - 5.0 cm in diameter.^{1} The fruit's flesh is segmented into large segments the length of the fruit itself. The flesh has a mild flavour and is translucent-white in colour. It is a sweeter variety of the @{langsat}."
+                    "definition": "the edible fruit of a variety of the Lansium domesticum tree, which are round and between 2.5 - 5.0 cm in diameter.^{1} The fruit's flesh is segmented into large segments the length of the fruit itself. The flesh has a mild flavour and is translucent-white in colour. It is a sweeter variety of the @{langsat}. The duku tree is shorter and wider than the langsat tree."
                 },
                 {
                     "definition": "a large swelling or bruise, typically caused by an impact injury, such as on the head. So named because large ones often vaguely resemble a buah duku fruit."
@@ -12817,7 +12814,93 @@
             {
                 "link": "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2994",
                 "name": "NParks Singapore - Flora and Fauna Web - Lansium domesticum Corrêa"
+            },
+            {
+                "link": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-42.pdf",
+                "name": "2014 June, Robert E. Paull. Longkong, Duku, and Langsat: Postharvest Quality-Maintenance Guidelines. University of Hawai'i at Manoa."
             }
+        ],
+        "related": [
+            "duku langsat"
+        ]
+    },
+    "duku langsat": {
+        "word": "duku langsat",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "duku",
+                "romanization": "",
+                "lit": "edible fruit of the Lansium domesticum tree"
+            },
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "langsat",
+                "romanization": "",
+                "lit": "edible fruit of the Lansium domesticum tree"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible fruit of a hybrid of two varieties of the Lansium domesticum tree, the @{duku|buah duku} and @{langsat}, which is round and between 2.5 - 5.0 cm in diameter.^{1} It inherits properties of both varieties."
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2994",
+                "name": "NParks Singapore - Flora and Fauna Web - Lansium domesticum Corrêa"
+            },
+            {
+                "link": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-42.pdf",
+                "name": "2014 June, Robert E. Paull. Longkong, Duku, and Langsat: Postharvest Quality-Maintenance Guidelines. University of Hawai'i at Manoa."
+            }
+        ]
+    },
+    "langsat": {
+        "word": "langsat",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "langsat",
+                "romanization": "",
+                "lit": "edible fruit of the Lansium domesticum tree"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible fruit of a variety of the Lansium domesticum tree, which are ovoid and between 2.5 - 5.0 cm in diameter.^{1} The fruit's flesh is segmented into large segments the length of the fruit itself. The flesh has a mild flavour and is translucent-white in colour. It is a slightly more sour variety of the @{buah duku}. The langsat tree is taller and more slender than the duku tree."
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/2/9/2994",
+                "name": "NParks Singapore - Flora and Fauna Web - Lansium domesticum Corrêa"
+            },
+            {
+                "link": "https://www.ctahr.hawaii.edu/oc/freepubs/pdf/F_N-42.pdf",
+                "name": "2014 June, Robert E. Paull. Longkong, Duku, and Langsat: Postharvest Quality-Maintenance Guidelines. University of Hawai'i at Manoa."
+            }
+        ],
+        "related": [
+            "duku langsat"
         ]
     },
     "buah keluak": {
@@ -13148,6 +13231,7 @@
                     "example": "Not all Singapore influencers are considered buay hiao bai, but aspiring ones without anything to show for it might be. Social media comments and instant messaging have made this even more apparent these days.",
                     "exampleSource": "2024 March 11, Athirah Syamimi. 4 Underrated Singlish Expressions to Use Today. https://www.bestinsingapore.co/underrated-singlish-expressions/",
                     "synonyms": [
+                        "buay paiseh",
                         "yaya papaya",
                         "action",
                         "yaya",
@@ -14532,7 +14616,8 @@
                     "example": "The project if finish by next week can anot?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "can *{bo}"
+                        "can *{bo}",
+                        "eh sai bo"
                     ]
                 },
                 {
@@ -14540,7 +14625,8 @@
                     "example": "I put my bag here can anot?",
                     "exampleSource": "@comm",
                     "synonyms": [
-                        "can *{bo}"
+                        "can *{bo}",
+                        "eh sai bo"
                     ]
                 },
                 {
@@ -14549,7 +14635,8 @@
                     "exampleSource": "@comm",
                     "synonyms": [
                         "how can",
-                        "can *{meh}"
+                        "can *{meh}",
+                        "eh sai bo"
                     ]
                 }
             ]
@@ -18275,7 +18362,8 @@
             "chiah",
             "keng",
             "take cover",
-            "snake"
+            "snake",
+            "ponteng"
         ],
         "origin": [
             {
@@ -18322,7 +18410,7 @@
                 ]
             }
         ],
-        "etyNotes": "(lit.) 'eat snake'.<br>The original term, \"偷食迣\", means either to slyly or secretly take a trip, or to sneakily or lazily 'eat' away at (i.e. reduce) the number of work or steps one has to actually do; 迣, chōa is a measure word for trips or journeys, and also for frequency of repeated occurrences, especially of runs (the rough equivalent is 趟, tàng in Mandarin).^{1}^{2} '逝' has also been suggested as an alternative character for 'chua'.^{3} Since '蛇' and '迣' sound very similar in Hokkien, and as the imagery of literally 'eating a snake' is less abstract and more memorable, the phrase got passed down as the version with a 'snake', instead of the original term.^{2} In Cantonese, snakes are also associated with laziness, which may have reinforced the saying.^{3}",
+        "etyNotes": "(lit.) 'eat snake'.<br>The original term, \"偷食迣\", means either to slyly or secretly take a trip, or to sneakily or lazily 'eat' away at (i.e. reduce) the number of work or steps one has to actually do; 迣, chōa is a measure word for trips or journeys, and also for frequency of repeated occurrences, especially of runs (the rough equivalent is 趟, tàng in Mandarin).^{1}^{2} '逝' has also been suggested as an alternative character for 'chua'.^{3} Since '蛇' and '迣' sound very similar in Hokkien, and as the imagery of literally 'eating a snake' is less abstract and more memorable, the phrase got passed down as the version with a 'snake', instead of the original term.^{2}<br>In Cantonese, snakes are also associated with laziness, which may have reinforced the saying.^{3}",
         "meanings": {
             "verb": [
                 {
@@ -20435,12 +20523,21 @@
                 "roman": "don't",
                 "romanization": "",
                 "lit": "do not",
-                "etyPath": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "do",
+                    "not"
+                ],
+                "etyLit": [
+                    "perform; execute; syntactic marker",
+                    "adverb used to negate sth."
+                ]
             },
             {
                 "lang": "singlish",
@@ -20478,7 +20575,10 @@
     "eat snake": {
         "word": "eat snake",
         "related": [
-            "snake"
+            "snake",
+            "keng",
+            "take cover",
+            "ponteng"
         ],
         "origin": [
             {
@@ -23426,7 +23526,7 @@
                     "exampleSource": "@comm"
                 },
                 {
-                    "definition": "to evade; to escape; to avoid (especially of an uncomfortable situation or a responsibility)",
+                    "definition": "to evade; to escape; to avoid (especially of an uncomfortable situation or a responsibility); to abrogate",
                     "example": "Psst, this lecturer so @{lor sor} until I really @{buay tahan}... want siam?",
                     "exampleSource": "@comm"
                 },
@@ -25401,7 +25501,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "a fried pastry snack likely ultimately originating in the Spanish and Portuguese empanada, the Cornish pasty, or the Indian samosa. It usually consists of a pastry shell filled with a dry curry (such that curry sauce does not spill out when the pastry is bitten into), which may be made from potatoes, meat, fish, egg, and curry spices.<br>Despite the name, some variations may not actually include curry or even curry powder, and the shell is more often (though not always) made of a more shortcrust-like pastry instead of puff pastry.",
+                    "definition": "a fried pastry snack likely ultimately originating in the Spanish and Portuguese empanada, the Cornish pasty, or the Indian samosa. It usually consists of a pastry shell filled with a dry curry (such that curry sauce does not spill out when the pastry is bitten into), which may be made from potatoes, meat, fish, egg, and curry spices.<br>Despite the name, some variations may not actually include curry or even curry powder, and the shell is more often (though not always) made of a more shortcrust-like pastry or a hard, flaky pastry instead of puff pastry.",
                     "synonyms": [
                         "kali pok"
                     ]
@@ -26639,7 +26739,9 @@
             ]
         },
         "related": [
-            "cock"
+            "cock",
+            "kengster",
+            "chiongster"
         ],
         "category": [
             "vulgar",
@@ -26647,6 +26749,56 @@
         ],
         "usage": "Often carries a more endearing tone than similar terms, such as @{cock} and @{cock fella}.",
         "etyNotes": "While the rare word 'cockster' exists in English, the way it is used in Singlish is semantically closer to the use of 'cock' in Singlish, and is therefore likely either an independent construction or diverged from the original English meaning due to association with Singlish 'cock'."
+    },
+    "chiongster": {
+        "word": "chiongster",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "chiong",
+                "romanization": "",
+                "lit": "to charge; to rush; to make a dash for",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "冲"
+                ],
+                "etyTrad": [
+                    "衝"
+                ],
+                "etyRoman": [
+                    "chhiong"
+                ],
+                "etyLit": [
+                    "charge; rush; dash"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-ster",
+                "romanization": "",
+                "lit": "sb. who does or is associated with sth."
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "someone who parties, clubs, and drinks all the time; a reveller",
+                    "example": "Many of those who live the chiongster life soon have their empty wallets or their waistlines catch up with them.",
+                    "exampleSource": ""
+                }
+            ]
+        },
+        "related": [
+            "chiong",
+            "kengster",
+            "cockster"
+        ]
     },
     "coconut": {
         "word": "coconut",
@@ -28853,6 +29005,2731 @@
                 "link": "https://www.iseas.edu.sg/wp-content/uploads/pdfs/ISEAS_Perspective_2019_89.pdf",
                 "name": "2019 October 24. Yusof Issak Institute. Milo Dinosaur: When Southeast Asia's Cultural Heritage Meets Nestlé. Perspective, 2009, issue 89."
             }
+        ]
+    },
+    "godzilla": {
+        "word": "Godzilla",
+        "related": [
+            "dinosaur",
+            "King Kong"
+        ],
+        "usage": "",
+        "category": [
+            "drinks"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": false,
+                "roman": "Godzilla",
+                "romanization": "",
+                "lit": "kaiju from Godzilla (1954) and the following film series",
+                "etyPath": [
+                    "japanese",
+                    "japanese",
+                    "english",
+                    "ancient greek",
+                    "japanese"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "ゴジラ",
+                    "ゴリラ",
+                    "",
+                    "Γόριλλαι",
+                    "鯨"
+                ],
+                "etyTrad": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "クジラ"
+                ],
+                "etyRoman": [
+                    "gojira",
+                    "gorira",
+                    "gorilla",
+                    "Górillai",
+                    "kujira"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "Godzilla, a kaiju from Godzilla (1954) and the following film series",
+                    "gorilla",
+                    "gorilla",
+                    "tribe of hairy women",
+                    "whale"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(drink ordering) iced, with a scoop of ice cream or dollop of whipped cream, and topped with a scoop of the drink’s (usually Milo or Horlicks) powder. Equivalent to a @{dinosaur} with the addition of the cream or ice cream.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "king kong": {
+        "word": "King Kong",
+        "related": [
+            "dinosaur",
+            "godzilla"
+        ],
+        "usage": "",
+        "category": [
+            "drinks"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "King Kong",
+                "romanization": "",
+                "lit": "eponymous character in the 1933 film King Kong and resulting media series",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "King",
+                    "Kong"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "title given to a male monarch; ruler",
+                    "name coined for the 1933 movie King Kong"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(drink ordering) iced, with two scoops of ice cream or dollops of whipped cream, and topped with a scoop of the drink’s (usually @{Milo} or @{Horlicks}) powder. Equivalent to a @{Godzilla} or @{dinosaur} with the addition of the one or two scoops of cream or ice cream respectively.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "tiao he": {
+        "word": "tiao he",
+        "related": [
+            "teh"
+        ],
+        "usage": "While <i>tiao he</i> is a type or style of tea, it functions as the standalone name of the drink, instead of being a modifier to @{teh}.",
+        "category": [
+            "drinks"
+        ],
+        "phonetics": "",
+        "etyNotes": "So named since dipping the teabag by the string resembles the action of angling or fishing with a fishing line.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "釣魚",
+                "simplified": "钓鱼",
+                "roman": "tiò/tiàu-hîr/hî/hû",
+                "romanization": "",
+                "lit": "to fish"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(drink ordering) tea, usually Chinese tea, made with a teabag (instead of tea dust, which is the default way tea is made at a drink stall)",
+                    "example": "The uncle preferred the taste of tio he to teh, and had it daily at the @{kopitiam} downstairs.",
+                    "exampleSource": ""
+                }
+            ]
+        }
+    },
+    "dirty": {
+        "word": "dirty",
+        "related": [
+            "pantang"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Direct calque of Chinese term into English.",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "髒",
+                "simplified": "脏",
+                "roman": "zāng",
+                "romanization": "pinyin",
+                "lit": "dirty; (euph.) haunted; possessed"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(euphemistic) haunted; possessed",
+                    "example": "There’s a really scary story about a MediaCorp artiste. ... one day, this other actress was resting in the artistes’ rest room – that place is supposedly quite \"dirty\".",
+                    "exampleSource": "2010 May 24, May Seah (quoting Nat Ho). Today. p.4",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(euphemistic) of or relating to ghosts, spirits, possession, and other supernatural forces",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "drop@1": {
+        "word": "drop",
+        "related": [
+            "knock it down"
+        ],
+        "usage": "The Singlish verb in the sense of 'to do a push-up; to get in to a push-up position' is strictly transitive (<i>'drop twenty [push-ups]'</i>), in contrast to English where it is intransitive (<i>'drop and give me twenty [push-ups]'</i>).",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "drop",
+                "romanization": "",
+                "lit": "fall; fall down to the ground"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(military, transitive, followed by a number) to do a specified number of push-ups; to do a push-up; to get into a push-up position",
+                    "example": "@{Chao recruit}, this ziploc got more hole than golf course! Drop 20!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "dot dot dot": {
+        "word": "dot dot dot",
+        "related": [
+            "ah then",
+            "ok can"
+        ],
+        "usage": "",
+        "category": [
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "From pronouncing or writing out the individual 'dots' in an ellipsis (…) in English for emphatic effect, or otherwise to fill an awkward silence.",
+        "origin": [
+            {
+                "lang": "translingual",
+                "traditional": "",
+                "simplified": "",
+                "roman": "…",
+                "romanization": "",
+                "lit": "(punct. mark) ellipsis; indicates pause, sentence trailing off, etc."
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "dot",
+                "romanization": "",
+                "lit": "small round point; (punct. mark) period; full stop"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "used to indicate speechlessness or a loss for words, often in response to a statement or joke falling flat; 'crickets'",
+                    "example": "- Bread or kopi, which one is noisier?<br>- Huh?<br>- Bread Talk, Kopi @{tiam}!<br>- Dot dot dot…",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "drop@2": {
+        "word": "drop",
+        "usage": "The Singlish verb can be intransitive (<i>'I will drop here'</i>), in contrast to English where it is always transitive (<i>'You can drop me [off] here'</i>).",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "drop",
+                "romanization": "",
+                "lit": "to alight or leave at a location"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(intransitive) to alight or leave at a location",
+                    "example": "You can drop here if you want, but cannot park.",
+                    "exampleSource": ""
+                }
+            ]
+        }
+    },
+    "jin gang": {
+        "word": "jin gang",
+        "related": [],
+        "usage": "Used primarily in the phrase @{whole jin gang}.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Compare English <i>shebang</i>, which is a synonym and possibly etymologically related. See @{whole jin gang} for more details.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "jingbang/jimbang",
+                "romanization": "",
+                "lit": "(Scottish/US slang) bunch; unspecified lot of sth; shebang"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a group; a bunch of people",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "whole jin gang": {
+        "word": "whole jin gang",
+        "related": [
+            "jin gang"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "<i>Whole jingbang</i> and <i>whole jimbang</i> are the Scottish and US variants of the fixed phrase respectively, and most likely have a common origin; both are attested in literature as early as the 19th century. Compare English <i>shebang</i>, which is a synonym and possibly etymologically related. However, while the etymology of <i>shebang</i> is quite well documented, that of <i>jingbang/jimbang</i> is mostly unknown. It most likely entered Singlish via the Scottish <i>jingbang</i> (due to British colonisation).<br>It has been conflated with English <i>gang</i>, a group or company of people, which often has a connotation of criminal or delinquent activity.<br>#{dubious} The US-specific term <i>chain gang</i>, meaning a group of prisoners who have been chained together to perform some labour or work, has also been suggested as an origin due to its similar pronunciation; however, this is almost certainly not the case.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "whole jingbang/jimbang",
+                "romanization": "",
+                "lit": "(Scottish/US slang) whole bunch; unspecified entire lot of sth; shebang"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "gang",
+                "romanization": "",
+                "lit": "group or company of people; (pej.) criminal or delinquent group"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an entire group or bunch of people",
+                    "example": "Oi, I tell y’all one at a time lah, not the whole jin gang try to go at once!",
+                    "exampleSource": ""
+                }
+            ]
+        }
+    },
+    "doneded": {
+        "word": "doneded",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "done",
+                "romanization": "",
+                "lit": "finished; completed"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "-(d)ed",
+                "romanization": "",
+                "lit": "suffix used to form past tense of a verb"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(ironic, humorous) done; finished; completed",
+                    "example": "I have doneded my homework."
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(ironic, humorous) finished; completed",
+                    "example": "- Have you Paynowed me for last night dinner?<br>- Yep, doneded."
+                }
+            ]
+        },
+        "etyNotes": "An ironic addition of the English past tense suffix '<i>-ed</i>' to <i>done</i>, which is already a past participle; similar constructions may be performed on any verb, such as '<i>sented</i>' or '<i>paided</i>'.<br>In the vein of other similar constructions using 'improper' segmentation of word components (often ironically or for humorous effect) to coin new terms or effect emphasis, such as in @{chiminology} (<i>-inology</i> instead of <i>-ology</i>) and @{argable} (<i>-gable</i> instead of <i>-able</i>). The 'd' is likely used to avoid the awkward pronunciation that would result in transitioning directly between <i>done</i> and <i>-ed</i> (though <i>doned</i> would arguably suffice, but is not commonly used), just like how the 'g' in <i>argable</i> or the 'n' in the English article <i>an</i> functions."
+    },
+    "eye power": {
+        "word": "eye power",
+        "related": [
+            "action",
+            "akshen aje",
+            "chiah chua",
+            "wayang",
+            "carry",
+            "power"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "eye",
+                "romanization": "",
+                "lit": "organ used to see; look at; observe"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "power",
+                "romanization": "",
+                "lit": "physical force; strength; ability; effectiveness"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a fictive force, used when standing by by idly watching a task or effort and not helping",
+                    "example": "You helping me build this cupboard with eye power ah?",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to stand by idly watching a task or effort instead of helping or working on it",
+                    "example": "@{Whole jin gang} eye power only, help la…",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "drama mama": {
+        "word": "drama mama",
+        "related": [],
+        "usage": "Similar to English <i>drama queen</i>.",
+        "category": [
+            "rhyming slang"
+        ],
+        "phonetics": "",
+        "etyNotes": "Formed because of the rhyme between 'mama' and 'drama'.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "drama",
+                "romanization": "",
+                "lit": "acting in a manner to exaggerate or attract attention; making an excessively big deal out of something",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "ancient greek"
+                ],
+                "etyType": [
+                    "+",
+                    ""
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "δρᾶμα"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "drama",
+                    "dramatic",
+                    "drâma"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "a play, prose, movie, etc. which is acted out and tells a story; situation of intrigue or gossip",
+                    "over-acted or exaggerated, usu. to attract attention",
+                    "drama; play"
+                ]
+            },
+            {
+                "lang": "english / translingual",
+                "traditional": "",
+                "simplified": "",
+                "roman": "mama",
+                "romanization": "",
+                "lit": "mother"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "someone who acts in an exaggerated or attention-seeking manner; someone who tends to make a big deal out of nothing",
+                    "example": "Don’t be such a drama mama, Tan Kin Lian becoming President hardly means the end of the civilised world.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "acting in a manner to exaggerate or attract attention; making a big deal out of nothing",
+                    "example": "Only got a tiny bit of chilli lah. Don’t so drama mama…",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "drama",
+                        "AA",
+                        "extra"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "drama": {
+        "word": "drama",
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "An adjective with a similar meaning to the adjective '<i>dramatic</i>, but with the form of the root noun <i>drama</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "drama",
+                "romanization": "",
+                "lit": "a play, prose, movie, etc. which is acted out and tells a story; situation of intrigue or gossip"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "dramatic",
+                "romanization": "",
+                "lit": "over-acted or exaggerated, usu. to attract attention",
+                "etyPath": [
+                    "ancient greek"
+                ],
+                "etyType": [],
+                "etyScript": [
+                    "δρᾶμα"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "drâma"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "drama; play"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "acting in a manner to exaggerate or attract attention; making an excessively big deal out of something",
+                    "example": "Only a bit of drizzle @{nia}. Don’t so drama leh.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "drama mama",
+                        "AA",
+                        "extra"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "double up": {
+        "word": "double up",
+        "related": [
+            "faster"
+        ],
+        "usage": "",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "double up",
+                "romanization": "",
+                "lit": "to double sth; to increase by two times"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(military) to speed up; to hurry; to move hastily",
+                    "example": "Whole lot double up! Not interested isit? My grandmother can move faster than you!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "dry": {
+        "word": "dry",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "乾",
+                "simplified": "干",
+                "roman": "gān",
+                "romanization": "pinyin",
+                "lit": "dry"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of food, usually noodles) with soup served on the side instead of with the main dish",
+                    "example": "The @{bak chor mee} dry at the local coffee shop was recently featured in the Michelin guide.",
+                    "antonyms": [
+                        "soup",
+                        "wet"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Direct calque from Chinese."
+    },
+    "dum briyani": {
+        "word": "dum briyani",
+        "origin": [
+            {
+                "lang": "hindi",
+                "traditional": "",
+                "simplified": "दम",
+                "roman": "dam",
+                "romanization": "",
+                "lit": "stew over a slow fire; breath",
+                "etyPath": [
+                    "classical persian"
+                ],
+                "etyScript": [
+                    "دم"
+                ],
+                "etyRoman": [
+                    "dam"
+                ],
+                "etyLit": [
+                    "seam; breath"
+                ]
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "பிரியாணி",
+                "roman": "piriyani",
+                "romanization": "",
+                "lit": "dish of rice cooked with spices and meat and/or vegetables",
+                "etyPath": [
+                    "classical persian",
+                    "classical persian"
+                ],
+                "etyScript": [
+                    "بریانی",
+                    "بریان"
+                ],
+                "etyRoman": [
+                    "biryānī",
+                    "biryān"
+                ],
+                "etyLit": [
+                    "dish of rice cooked with spices and meat and/or vegetables",
+                    "roast; grilled"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a style of @{briyani} cooked over a low fire while covering and sealing the cooking vessel with dough, which causes the contents to be slowly steamed while retaining all its aromas. It is traditionally said to have developed in the Mughal Empire."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "nasi briyani": {
+        "word": "nasi briyani",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "nasi",
+                "romanization": "",
+                "lit": "cooked rice"
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "பிரியாணி",
+                "roman": "piriyani",
+                "romanization": "",
+                "lit": "dish of rice cooked with spices and meat and/or vegetables",
+                "etyPath": [
+                    "classical persian",
+                    "classical persian"
+                ],
+                "etyScript": [
+                    "بریانی",
+                    "بریان"
+                ],
+                "etyRoman": [
+                    "biryānī",
+                    "biryān"
+                ],
+                "etyLit": [
+                    "dish of rice cooked with spices and meat and/or vegetables",
+                    "roast; grilled"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the full term used for the style of @{briyani} in Singapore, which is based on the Indian biryani but has developed several differences to suit local preferences. It is typically served at Indian-Muslim eateries and stalls."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.goya.in/blog/nasi-briyani-singapores-ode-to-biryani#:~:text=Nasi%20briyani%20draws%20inspiration%20from,subcontinent%20that%20requires%20no%20introduction.",
+                "name": "2020 July 1, Pamelia Chia. GOYA.in, Nasi Briyani: Singapore's Ode to Biryani"
+            }
+        ]
+    },
+    "briyani": {
+        "word": "briyani",
+        "origin": [
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "பிரியாணி",
+                "roman": "piriyani",
+                "romanization": "",
+                "lit": "dish of rice cooked with spices and meat and/or vegetables",
+                "etyPath": [
+                    "classical persian",
+                    "classical persian"
+                ],
+                "etyScript": [
+                    "بریانی",
+                    "بریان"
+                ],
+                "etyRoman": [
+                    "biryānī",
+                    "biryān"
+                ],
+                "etyLit": [
+                    "dish of rice cooked with spices and meat and/or vegetables",
+                    "roast; grilled"
+                ]
+            }
+        ],
+        "usage": "Spelled nd pronounced as 'briyani' or 'biriyani' (as the word entered from Tamil), and never 'biryani' (as it is pronounced in other Indian languages such as Hindi), unless referring to the original Indian dish.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Singaporean and Malaysian dish which is based on the Indian biryani but has developed several differences to suit local preferences. It is typically served at Indian-Muslim eateries and stalls."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.goya.in/blog/nasi-briyani-singapores-ode-to-biryani#:~:text=Nasi%20briyani%20draws%20inspiration%20from,subcontinent%20that%20requires%20no%20introduction.",
+                "name": "2020 July 1, Pamelia Chia. GOYA.in, Nasi Briyani: Singapore's Ode to Biryani"
+            }
+        ]
+    },
+    "dun": {
+        "word": "dun",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "don't",
+                "romanization": "",
+                "lit": "do not",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "do",
+                    "not"
+                ],
+                "etyLit": [
+                    "perform; execute; syntactic marker",
+                    "adverb used to negate sth."
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "don't; do not; doesn't; does not",
+                    "example": "Dun throw away the bones, give me keep to feed my dog.",
+                    "synonyms": [
+                        "mai",
+                        "jangan",
+                        "don't"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "Alteration of English <i>don't</i>."
+    },
+    "dunnid": {
+        "word": "dunnid",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "don't",
+                "romanization": "",
+                "lit": "do not",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "do",
+                    "not"
+                ],
+                "etyLit": [
+                    "perform; execute; syntactic marker",
+                    "adverb used to negate sth."
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "need",
+                "romanization": "",
+                "lit": "require; want; be necessary"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "do not need; does not need",
+                    "example": "I dunnid tissue, thanks."
+                }
+            ]
+        },
+        "etyNotes": "Contraction of English <i>don't need</i>.",
+        "related": [
+            "dun",
+            "mai"
+        ]
+    },
+    "durian": {
+        "word": "durian",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "durian",
+                "romanization": "",
+                "lit": "the edible fruit of several trees of the genus <i>Durio</i>"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible fruit of several trees of the genus <i>Durio</i>, which grow up to 40 m tall and sport leaves with a scaly, coppery underside. It is related to similar trees like the @{nangka} (jackfruit) and @{cempedak}, and has a highly-recognizable large, spiky appearance. However, it is also infamous for its pungent, 'overripe fruit' smell, which many find repulsive, and which has earned it a ban from most public enclosed spaces such as trains and taxis. Despite the off-putting smell, the flesh is prized by many as a delicacy across the region."
+                },
+                {
+                    "definition": "a nickname for the Esplanade, an iconic building and performing arts hall in Singapore, whose shape was supposed to be modelled after a microphone, but to many Singaporeans just resembles a massive durian."
+                }
+            ]
+        },
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/ht-2007-154",
+                "name": "2021 June 24. NParks - Heritage Trees - Durian"
+            }
+        ]
+    },
+    "end up": {
+        "word": "end up",
+        "related": [],
+        "usage": "Used as a prepositional phrase, rather than merely as a verb, in Singlish.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "end up",
+                "romanization": "",
+                "lit": "end; turn out; bring to a conclusion"
+            }
+        ],
+        "meanings": {
+            "preposition": [
+                {
+                    "definition": "in the end; as it turns out",
+                    "example": "I thought going to rain, that’s why I bring umbrella… end up got slight drizzle nia.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "et": {
+        "word": "ET",
+        "related": [],
+        "usage": "Used only to describe the assembled tool; when disassembled, it is called by its separate components, even if they are together or right next to each other (e.g. 'Remember to pack your @{ET blade} and @{ET stick}').",
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "Initialism of English <i>entrenching tool</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "entrenching tool",
+                "romanization": "",
+                "lit": "(mil.) adze, spade, or hoe-like tool used for digging, usu. collapsible or modular",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english",
+                    "old french",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    "",
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "entrenching",
+                    "en-",
+                    "trench",
+                    "trenche",
+                    "tool"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "used to create a trench; excavating",
+                    "used to form a verb which means 'to make or cause' the modified word",
+                    "narrow, excavated pit or ditch",
+                    "trench",
+                    "implement or equipment for performing a specific task"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) an adze hoe (@{cangkul}) used for digging, which is assembled from an @{ET blade} (the digging head) and @{ET stick} (the shaft), and disassembled into its components for ease of transport when not in use.",
+                    "example": "The recruits swung their ETs at the hard ground for hours trying to eke out a semblance of a shell scrape, only for their efforts to be washed away by a sudden, merciless downpour.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "cangkul"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "et blade": {
+        "word": "ET blade",
+        "related": [
+            "cangkul"
+        ],
+        "usage": "",
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ET",
+                "romanization": "",
+                "lit": "(mil.) modular adze hoe used for digging",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english",
+                    "old french",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+",
+                    "",
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "entrenching tool",
+                    "entrenching",
+                    "en-",
+                    "trench",
+                    "trenche",
+                    "tool"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(mil.) adze, spade, or hoe-like tool used for digging, usu. collapsible or modular",
+                    "used to create a trench; excavating",
+                    "used to form a verb which means 'to make or cause' the modified word",
+                    "narrow, excavated pit or ditch",
+                    "trench",
+                    "implement or equipment for performing a specific task"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "blade",
+                "romanization": "",
+                "lit": "flat, sometimes sharp functional end of a weapon, tool, or other piece of equipment"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) the digging adze head of an @{ET}, which may be assembled together with an @{ET stick} (the shaft) to form the full tool, and detached therefrom and stored in a sheathing pouch for ease of transport when not in use.",
+                    "example": "Even the sharpest, shiniest ET blade gets dulled and sullied when it strikes its first pebble.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "et stick": {
+        "word": "ET stick",
+        "related": [
+            "cangkul"
+        ],
+        "usage": "",
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "ET",
+                "romanization": "",
+                "lit": "(mil.) modular adze hoe used for digging",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english",
+                    "old french",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+",
+                    "",
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "entrenching tool",
+                    "entrenching",
+                    "en-",
+                    "trench",
+                    "trenche",
+                    "tool"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(mil.) adze, spade, or hoe-like tool used for digging, usu. collapsible or modular",
+                    "used to create a trench; excavating",
+                    "used to form a verb which means 'to make or cause' the modified word",
+                    "narrow, excavated pit or ditch",
+                    "trench",
+                    "implement or equipment for performing a specific task"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "stick",
+                "romanization": "",
+                "lit": "long piece of wood or other material"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a wooden stick, around 6 cm in diameter and 40 cm long, which serves as the shaft and handle of an @{ET}. It may be assembled together with an @{ET blade} (the digging head) to form the full tool, and detached therefrom for ease of transport when not in use.",
+                    "example": "The encik scolded the privates for play-fighting while using their ET sticks as makeshift batons.",
+                    "exampleSource": ""
+                }
+            ]
+        }
+    },
+    "earpiece": {
+        "word": "earpiece",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "earpiece",
+                "romanization": "",
+                "lit": "speaker or receiver held close to the ear and used to transmit sound into it",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "ear",
+                    "piece"
+                ],
+                "etyLit": [
+                    "organ used to hear and collect sounds",
+                    "small part or item"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(synecdoche) earphones; a small device worn inside the ear and used to play sounds such as music or speech"
+                }
+            ]
+        },
+        "usage": "In Singlish, 'earpiece' (the general term for any sound device worn inside or placed near the ear) is used to mean 'earphones' specifically."
+    },
+    "ee": {
+        "word": "ee",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "咦",
+                "simplified": "咦",
+                "roman": "ji2",
+                "romanization": "",
+                "lit": "expn. of disgust"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'ew'; 'yuck'; expression of disgust",
+                    "example": "Eee! Got bird shit on this seat!",
+                    "synonyms": [
+                        "yucks",
+                        "eeyer"
+                    ]
+                }
+            ]
+        },
+        "usage": "May be expressed with more 'e's as required to fit the situation or level of disgust conveyed.",
+        "etyNotes": "Expression seems to come from Cantonese, although there is no corresponding standardized character. For example, some sources suggest 噫 instead."
+    },
+    "eeyer": {
+        "word": "eeyer",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "咦",
+                "simplified": "咦",
+                "roman": "ji2",
+                "romanization": "",
+                "lit": "expn. of disgust"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'ew'; 'yuck'; expression of disgust",
+                    "example": "Ee-yer... why is that wet?",
+                    "synonyms": [
+                        "yucks",
+                        "ee"
+                    ]
+                }
+            ]
+        },
+        "usage": "Conveys a stronger sense of disgust or repulsion than @{ee} alone.",
+        "etyNotes": "Expression seems to come from Cantonese, although there is no corresponding standardized character. For example, some sources suggest 噫 instead for 'ee'.<br>The 'yer' likely is a phonetic extension of the interjection, used for emphasis or to express a \"shuddering off\"."
+    },
+    "yucks": {
+        "word": "yucks",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "yuck",
+                "romanization": "",
+                "lit": "excl. or expn. of disgust"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'ew'; 'yuck'; expression of disgust",
+                    "example": "Yucks, your dog smells so bad when it's been out in the rain.",
+                    "synonyms": [
+                        "ee",
+                        "eeyer"
+                    ]
+                }
+            ]
+        },
+        "usage": "Far more common in Singlish than the English '<i>yuck</i>'."
+    },
+    "egg prata": {
+        "word": "egg prata",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "egg",
+                "romanization": "",
+                "lit": "round or ovoid, shelled body laid by certain animals where the embryo develops (usu. from chickens in a culinary sense)"
+            },
+            {
+                "lang": "tamil",
+                "traditional": "",
+                "simplified": "பரோட்டா",
+                "roman": "parōṭṭā",
+                "romanization": "",
+                "lit": "paratha; type of Indian flatbread"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a @{roti prata} cooked together with a chicken egg",
+                    "example": "If you prefer your prata with a chewier mouthfeel, opt for their Egg Prata ($2) or Egg Onion Prata ($2.60).",
+                    "exampleSource": "2023 October 19, Nicholas Chen. Eatbook, \"20 Best Prata Places in Singapore Worth Sacrificing Your Diet For\". https://eatbook.sg/best-prata-in-singapore/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "roti prata",
+            "prata"
+        ]
+    },
+    "eh hiao": {
+        "word": "eh hiao",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "會曉",
+                "simplified": "会晓",
+                "roman": "ē-hiáu",
+                "romanization": "poj",
+                "lit": "not know how to; unable to",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "会",
+                    "晓"
+                ],
+                "etyTrad": [
+                    "會",
+                    "曉"
+                ],
+                "etyRoman": [
+                    "ē",
+                    "hiáu"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "can; able to",
+                    "understand; get; know"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to know (how to); to be able to (for having the knowledge or learned to do so)",
+                    "example": "Orh, eh hiao already then say lah. If not Uncle waste time explain to you one.",
+                    "exampleSource": "@comm",
+                    "antonyms": [
+                        "buay hiao"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "eh sai",
+            "buay",
+            "buay sai"
+        ]
+    },
+    "eh sai": {
+        "word": "eh sai",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "會使",
+                "simplified": "会使",
+                "roman": "ē-sái",
+                "romanization": "poj",
+                "lit": "can; may; be allowed to"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "can; may; to be allowed to",
+                    "example": "- @{Paiseh}, can lend your charger for a bit?<br>- Eh sai, I steady.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "can",
+                        "boleh"
+                    ],
+                    "antonyms": [
+                        "buay",
+                        "buay sai",
+                        "cannot",
+                        "tak boleh"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "eh hiao",
+            "buay",
+            "buay hiao"
+        ]
+    },
+    "eh sai bo": {
+        "word": "eh sai bo",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "會使",
+                "simplified": "会使",
+                "roman": "ē-sái",
+                "romanization": "poj",
+                "lit": "can; may; be allowed to"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "無",
+                "simplified": "无",
+                "roman": "bô",
+                "romanization": "poj",
+                "lit": "no; not have; don't; interrogative marker to ask a question"
+            }
+        ],
+        "meanings": {
+            "interrogative": [
+                {
+                    "definition": "'can it be done or not?'; used to question if something is possible, doable, or achievable",
+                    "example": "How hungry are y'all? @{Prata} buffet eh sai bo?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "can *{bo}",
+                        "can anot"
+                    ]
+                },
+                {
+                    "definition": "'will this do?'; used to question if something is acceptable or correct",
+                    "example": "Boss, I take leave tomorrow eh sai bo?",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "can *{bo}",
+                        "can anot"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "anot",
+            "boleh",
+            "can",
+            "eh hiao",
+            "eh sai",
+            "buay sai"
+        ]
+    },
+    "eh@2": {
+        "word": "eh",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "會",
+                "simplified": "会",
+                "roman": "ē",
+                "romanization": "poj",
+                "lit": "can; able to"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "can; to be able to",
+                    "example": "Eh la. Just let me know the details and i settle for you.",
+                    "exampleSource": "",
+                    "antonyms": [
+                        "buay",
+                        "buay sai"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "eh sai",
+            "eh hiao",
+            "buay hiao"
+        ]
+    },
+    "else what": {
+        "word": "else what",
+        "related": [
+            "ah then"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "else",
+                "romanization": "",
+                "lit": "otherwise; if not"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "what",
+                "romanization": "",
+                "lit": "used to ask a question; which thing"
+            }
+        ],
+        "meanings": {
+            "interrogative": [
+                {
+                    "definition": "(sarcastic) 'duh'; 'if not, what?'; 'or?'; used to pose a rhetorical question in a situation where one feels there is a lack of reasonable alternatives or solutions",
+                    "example": "- You everyday take train to work ah?<br>- Else what? Walk ah?",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "abuden"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "england": {
+        "word": "England",
+        "related": [
+            "powderful",
+            "atas",
+            "ang moh"
+        ],
+        "usage": "Usually ironic and jocular.",
+        "category": [],
+        "phonetics": "/ˈɪŋɡlənd/",
+        "etyNotes": "From a conflation of <i>England</i> (the country) with <i>English</i> (the language from that country).",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "England",
+                "romanization": "",
+                "lit": "a country in the United Kingdom, which is its largest and most populous"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "English",
+                "romanization": "",
+                "lit": "language originating in England, now widely spoken across the world",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the English language",
+                    "example": "Huh, 'ah jit plop' si mi 'ah chit plok'. So @{chim}, your England too @{powderful} for me already!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "enthu": {
+        "word": "enthu",
+        "related": [
+            "garang"
+        ],
+        "usage": "Usually used in a disapproving or disdainful sense, suggesting that said enthusiasm or motivation is misplaced and not relatable.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Clipping of English <i>enthusiastic</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "enthusiastic",
+                "romanization": "",
+                "lit": "excited; zealous; motivated; fervent",
+                "etyPath": [
+                    "ancient greek"
+                ],
+                "etyType": [],
+                "etyScript": [
+                    "ἐνθουσιαστικός"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "enthousiastikós"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "inspired; enthusiastic"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "very enthusiastic; overzealous; overly eager or motivated",
+                    "example": "A few enthu ones fervently participated in their UGs, whereas the majority of the kids just wanted to spend their Friday afternoons on something actually enjoyable.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "siao on",
+                        "on"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "extra@2": {
+        "word": "extra",
+        "related": [
+            "confinement",
+            "SOL",
+            "DB"
+        ],
+        "usage": "",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "extra",
+                "romanization": "",
+                "lit": "beyond; additional",
+                "etyPath": [
+                    "latin"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "extrā"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "beyond; outside of"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) an additional day of duties, usually served on the weekends, levied as a punishment for a soldier who has committed a mistake or transgression but one that is not serious enough to warrant an @{SOL}.",
+                    "example": "@{Sien}, I @{kena} 3 extra for having RAI in my boot. This month can say bye bye to my weekends already.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "off"
+                    ]
+                }
+            ]
+        },
+        "particles": []
+    },
+    "extra@1": {
+        "word": "extra",
+        "related": [
+            "action",
+            "aksi",
+            "on",
+            "wayang",
+            "drama"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "extra",
+                "romanization": "",
+                "lit": "extraordinary; beyond; additional",
+                "etyPath": [
+                    "latin"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "extrā"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "beyond; outside of"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "over the top; above and beyond; doing far more than necessary, often to make oneself look better, be dramatic, or show off",
+                    "example": "Don’t so extra lah. Do until here can already.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "epok-epok": {
+        "word": "epok-epok",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "epok-epok",
+                "romanization": "",
+                "lit": "Malay variant of a curry puff",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "#{dubious} epok"
+                ],
+                "etyLit": [
+                    "pouch woven from leaves and used to hold betel nuts; hug; hold; fold"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Malay snack food similar to a curry puff, but with a more blistered and crispy skin. It often also does not include curry, with other popular fillings including sardine, rendang, and black pepper chicken. It may be derived directly from the Portuguese empanada, unlike the curry puff which likely was influenced by the Cornish pasty.^{2}"
+                }
+            ]
+        },
+        "related": [
+            "curry puff",
+            "karipap"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "usage": "Similar to, and sometimes used synonymously for, the @{karipap} and the @{curry puff} (@{kali pok}).",
+        "etyNotes": "#{dubious} The actual origin of <i>epok</i>, and explanations for how it came to be the name of the food, are uncertain at best. It is possibly from the similarity with the betel nut pouch, or how the epok-epok is folded into a 'pouch'; it may also be from the verb sense 'to hold; to hug', ^{1} referring to how the pastry holds the fillings. Some sources suggest there exists a meaning of 'to fold', but this could be a very rare colloquial use as it is not listed in dictionaries.",
+        "references": [
+            {
+                "link": "https://prpm.dbp.gov.my/cari1?keyword=epok",
+                "name": "PRPM - epok"
+            },
+            {
+                "link": "https://makansutra.com/curry-puff-and-epok-epok-are-not-the-same/",
+                "name": "2014 September 11, Thammika Songkaeo. Makansutra, \"Curry Puff and Epok epok are NOT the Same?\""
+            }
+        ]
+    },
+    "fa cai": {
+        "word": "fa cai",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "髮菜",
+                "simplified": "发菜",
+                "roman": "fǎ cài",
+                "romanization": "",
+                "lit": "the edible cyanobacterium Nostoc flagelliforme",
+                "etyScript": [
+                    "发",
+                    "菜"
+                ],
+                "etyTrad": [
+                    "髮",
+                    "菜"
+                ],
+                "etyRoman": [
+                    "fǎ/fà",
+                    "cài"
+                ],
+                "etyLit": [
+                    "hair",
+                    "vegetable"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible cyanobacterium <i>Nostoc flagelliforme</i>, used as an ingredient in Chinese cuisine. It is popular due to its near-homophony with the popular auspicious phrase 发财/發財, fā cái (\"to prosper; to become wealthy\").",
+                    "synonyms": [
+                        "fat choy",
+                        "huat chai"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "black fungus"
+        ],
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "etyNotes": "(lit.) 'hair vegetable'."
+    },
+    "fat choy": {
+        "word": "fat choy",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "traditional": "髮菜",
+                "simplified": "发菜",
+                "roman": "faat3 coi3",
+                "romanization": "",
+                "lit": "the edible cyanobacterium Nostoc flagelliforme",
+                "etyScript": [
+                    "发",
+                    "菜"
+                ],
+                "etyTrad": [
+                    "髮",
+                    "菜"
+                ],
+                "etyRoman": [
+                    "faat3",
+                    "coi3"
+                ],
+                "etyLit": [
+                    "hair",
+                    "vegetable"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Cantonese name for the edible cyanobacterium <i>Nostoc flagelliforme</i>, used as an ingredient in Chinese cuisine. It is popular due to its near-homophony with the popular auspicious phrase 发财/發財, faat3 coi4 (\"to prosper; to become wealthy\").",
+                    "synonyms": [
+                        "fa cai",
+                        "huat chai"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "black fungus"
+        ],
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "etyNotes": "(lit.) 'hair vegetable'."
+    },
+    "huat chai": {
+        "word": "huat chai",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "髮菜",
+                "simplified": "发菜",
+                "roman": "hoat-chhài",
+                "romanization": "",
+                "lit": "the edible cyanobacterium Nostoc flagelliforme",
+                "etyScript": [
+                    "发",
+                    "菜"
+                ],
+                "etyTrad": [
+                    "髮",
+                    "菜"
+                ],
+                "etyRoman": [
+                    "hoat",
+                    "chhài"
+                ],
+                "etyLit": [
+                    "hair",
+                    "vegetable"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Hokkien name for edible cyanobacterium <i>Nostoc flagelliforme</i>, used as an ingredient in Chinese cuisine. It is popular due to its near-homophony with the popular auspicious phrase 发财/發財, hoat-châi (\"to prosper; to become wealthy\").",
+                    "synonyms": [
+                        "fat choy",
+                        "fa cai"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "black fungus"
+        ],
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "etyNotes": "(lit.) 'hair vegetable'."
+    },
+    "face": {
+        "word": "face",
+        "origin": [
+            {
+                "lang": "min nan / cantonese",
+                "traditional": "面",
+                "simplified": "面",
+                "roman": "bīn/min6",
+                "romanization": "poj/jyutping",
+                "lit": "face; reputation; public image; dignity"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "reputation; public image; dignity; face",
+                    "example": "Walao, damn @{sia suay} sia. How can still go out with you? My face put where?"
+                }
+            ]
+        },
+        "related": [
+            "give face",
+            "lj bin",
+            "lose face",
+            "save face",
+            "show face"
+        ],
+        "etyNotes": "Has also made its way into English, likely through a British borrowing from Hong Kong Cantonese."
+    },
+    "falali": {
+        "word": "falali",
+        "origin": [
+            {
+                "lang": "italian",
+                "traditional": "",
+                "simplified": "",
+                "roman": "Ferrari",
+                "romanization": "",
+                "lit": "brand of Italian sports car",
+                "etyPath": [
+                    "italian",
+                    "italian",
+                    "latin"
+                ],
+                "etyType": [
+                    "",
+                    ""
+                ],
+                "etyRoman": [
+                    "Ferrari",
+                    "ferraio",
+                    "ferrārius"
+                ],
+                "etyLit": [
+                    "surname of Enzo Ferrari, the founder of Ferrari",
+                    "smith; ironworker",
+                    "of or relating to iron; blacksmith"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Ferrari, an Italian brand of sports cars"
+                },
+                {
+                    "definition": "a Ferrari car, or (less frequently) other Ferrari-branded goods",
+                    "example": "Hear say falali cost $1 million @{over} in Singapore. What kind of person can afford sia?"
+                }
+            ]
+        },
+        "etyNotes": "Alteration of Ferrari, mostly because the English 'r' sound does not exist in many Chinese languages like Hokkien and Cantonese."
+    },
+    "farmer": {
+        "word": "farmer",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "farmer",
+                "romanization": "",
+                "lit": "sb. who farms; sb. who works in agriculture"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "someone who has not received a scholarship, especially if working in government roles such as the military; a normal person. They are usually seen as being less privileged, promoted less quickly, and having a lower career ceiling than those holding prestigious scholarships.",
+                    "example": "Despite having secured a prestigious PSC scholarship, he decided his true calling was serving in the military, and so he left it all behind to sign up a farmer in the army."
+                }
+            ]
+        },
+        "usage": "Often used to describe career soldiers in the military, but also applies to those working in other government roles or jobs without a scholarship.",
+        "etyNotes": "Likely in the sense of farmers being historically seen as a job for commoners, rather than the nobility or privileged classes."
+    },
+    "lan@2": {
+        "word": "lan",
+        "related": [],
+        "category": [
+            "insults"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "爛",
+                "simplified": "烂",
+                "roman": "làn",
+                "romanization": "pinyin",
+                "lit": "lousy; rotten; spoilt"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of perishables) rotten; spoiled",
+                    "example": "Eh, all this spinach lan already! @{Kena} scam, no wonder so cheap!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "broken; spoiled",
+                    "example": "My old watch lan already, only time I know now is time to get a new one.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "cui"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "lousy; of poor quality",
+                    "example": "Your drawing skills damn lan leh… I thought your 'cat' is horse bro.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "cui"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "buang": {
+        "word": "buang",
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "buang",
+                "romanization": "",
+                "lit": "throw away; discard"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to throw away; to discard",
+                    "example": "Buangkok cos my cat is neutered so the kok @{macham} buang @{liao}",
+                    "exampleSource": "2024 June 14, u/anangrypudge. Reddit, \"Which MRT Station would you name your pet?\". https://www.reddit.com/r/askSingapore/s/whv18sII50"
+                }
+            ]
+        }
+    },
+    "lan@1": {
+        "word": "lan",
+        "related": [],
+        "usage": "",
+        "category": [
+            "vulgar"
+        ],
+        "phonetics": "",
+        "etyNotes": "More commonly written as 撚 in Cantonese.",
+        "origin": [
+            {
+                "lang": "min nan / cantonese",
+                "traditional": "𡳞",
+                "simplified": "𡳞",
+                "roman": "lān",
+                "romanization": "",
+                "lit": "(vulgar) penis; the fuck; the hell; used to express disgust"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar) penis",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "lan jiao",
+                        "ku ku jiao",
+                        "butoh",
+                        "konek",
+                        "kotek"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(vulgar, in compounds) something relating to the male genitalia",
+                    "example": "Ow… I kena knee in the lan pa…",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "(vulgar) the fuck; the hell",
+                    "example": "Huh? You talking @{si mi} lan?",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "goblok": {
+        "word": "goblok",
+        "related": [],
+        "usage": "",
+        "category": [
+            "insults"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "goblok",
+                "romanization": "",
+                "lit": "dumbass; extremely idiotic",
+                "etyPath": [
+                    "javanese"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "goblog"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "extremely idiotic"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(offensive) dumbass; moron; cretin",
+                    "example": "Bloody goblok, don't know how to drive isit?",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "bodoh",
+                        "dum bai",
+                        "cock fella",
+                        "goondu"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(offensive) extremely idiotic",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "bodoh",
+                        "dum bai",
+                        "bo idea"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "paiseh": {
+        "word": "paiseh",
+        "related": [
+            "seh",
+            "hoseh",
+            "siam",
+            "sorry no cure",
+            "sia suay",
+            "lau khui"
+        ],
+        "usage": "Often abbreviated to <i>@{ps}</i> or <i>@{PS}</i> in written form.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "歹勢",
+                "simplified": "歹势",
+                "roman": "pháiⁿ-sè",
+                "romanization": "",
+                "lit": "sorry; excuse me; embarrassed"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "sorry",
+                    "example": "Paiseh! Did I knock you? Paiseh paiseh.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "'excuse me'; 'I beg your pardon'",
+                    "example": "Paiseh hor, I come through. @{Skius}.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "scuse"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "embarrassed; shy; ashamed; sorry",
+                    "example": "@{Aiyo}… I damn paiseh to ask his name again.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "buay paiseh",
+                        "buay hiao bai",
+                        "sia lan",
+                        "lao lan"
+                    ]
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ps": {
+        "word": "ps",
+        "related": [
+            "seh",
+            "hoseh",
+            "puay paiseh"
+        ],
+        "usage": "Usually in written form. May be read as an initialism ('P. S.') or as the full word, 'paiseh'.",
+        "category": [
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "Abbreviation of @{paiseh}.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "paiseh",
+                "romanization": "",
+                "lit": "sorry; excuse me; embarrassed",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "歹势"
+                ],
+                "etyTrad": [
+                    "歹勢"
+                ],
+                "etyRoman": [
+                    "pháiⁿ-sè"
+                ],
+                "etyLit": [
+                    "sorry; excuse me; embarrassed"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "sorry",
+                    "example": "PS! Forgot to send the notes last night.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "'excuse me'; 'I beg your pardon'",
+                    "example": "ps, bother you again ah",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "scuse"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(rarer) sorry; embarrassed; shy"
+                }
+            ]
+        },
+        "particles": []
+    },
+    "paiseh piece": {
+        "word": "paiseh piece",
+        "related": [
+            "seh",
+            "hoseh",
+            "bo lang ai"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "paiseh",
+                "romanization": "",
+                "lit": "sorry; excuse me; embarrassed",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "歹势"
+                ],
+                "etyTrad": [
+                    "歹勢"
+                ],
+                "etyRoman": [
+                    "pháiⁿ-sè"
+                ],
+                "etyLit": [
+                    "sorry; embarrassed; ashamed; shy"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "piece",
+                "romanization": "",
+                "lit": "small part or item"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the final piece of food left over in a shared dish, which the people at the table are all too good-mannered, courteous, or shy to take (lest they appear greedy, overeat, deprive an eating companion who really wanted it of it, or any other number of reasons). This leads to them all sitting awkwardly and staring at the piece for a long time, while each half-wanting to eat the piece but also being half-hesitant to do so. A surprisingly common phenomenon when meals involve sharing food between a number of people.",
+                    "example": "@{Alamak}, this is why we 5 people can never go dim sum, always cannot split the number of food evenly sia. Can someone finish the paiseh piece so we can pay up?",
+                    "exampleSource": ""
+                }
+            ]
+        },
+        "particles": []
+    },
+    "buay paiseh": {
+        "word": "buay paiseh",
+        "related": [
+            "seh",
+            "hoseh",
+            "siam",
+            "sorry no cure",
+            "sia suay",
+            "lau khui"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "袂 is a common alternative character for <i>buay</i>, and has wider Unicode support (since the characters 𫧃/𣍐 do not exist in Mandarin).",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "𣍐/袂",
+                "simplified": "𫧃/袂",
+                "roman": "bōe/bē",
+                "romanization": "poj",
+                "lit": "cannot; not; won't",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "无",
+                    "会"
+                ],
+                "etyTrad": [
+                    "無",
+                    "會"
+                ],
+                "etyRoman": [
+                    "bô",
+                    "ē"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "no; not",
+                    "can; able to; will"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "歹勢",
+                "simplified": "歹势",
+                "roman": "pháiⁿ-sè",
+                "romanization": "",
+                "lit": "sorry; excuse me; embarrassed"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "shameless; unashamed",
+                    "example": "At first I was scared to leave work before the boss @{pang kang}, but now that I'm a few months in I buay paiseh leave at 6:00 sharp.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "buay hiao bai",
+                        "sia lan",
+                        "lao lan"
+                    ],
+                    "antonyms": [
+                        "paiseh"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'how shameless!'; exclamation in response to a shameless act",
+                    "example": "Wah this auntie just cut queue like that! Buay paiseh!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "eh@1": {
+        "word": "eh",
+        "related": [
+            "ah",
+            "leh",
+            "walao"
+        ],
+        "usage": "* Pronounced /'eɪʔ/ or /eɪ/, except in the sense of a particle used to express surprise, where it is most often pronounced /ɛ/.",
+        "category": [
+            "particles"
+        ],
+        "phonetics": "/'eɪʔ/, /eɪ/, /ɛ/*",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien / mandarin",
+                "traditional": "欸",
+                "simplified": "欸",
+                "roman": "—eh",
+                "romanization": "poj",
+                "lit": "used to call attention; used to express surprise or disappointment; 'hey'"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'oi!'; 'hey!'; used to call attention to the speaker or a following sentence",
+                    "example": "Eh! Can see me waving @{anot}?",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "oei",
+                        "dey"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "expression of surprise, shock, panic, etc",
+                    "example": "Eh! I think I forgot to @{off} the lights!",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "alamak",
+                        "aiyo",
+                        "aiyah"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "expression of curiosity, confusion, etc; usually precedes a question",
+                    "example": "Eh? Since when got a new bread shop here?",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "hah"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "used to express a chiding or pleading tone, disapproval, or disappointment",
+                    "example": "Eh… @{Dun} @{liddat} one leh. Can then say can, don’t @{kong wu kong bo}.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "particle": [
+                {
+                    "definition": "used to impart a pleading, annoyed, or disappointed tone, or otherwise emphasize another expression expressing such a sentiment",
+                    "example": "@{Walao} eh, these bicyclists hog the middle of the main road, really make people damn @{tu lan}",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "used at the end of a word or phrase to express surprise, or draw attention to a surprising situation or turn of events, especially when there is a contradiction or subversion of expectations (see usage notes)",
+                    "example": "Wah, actually just nice can fit eh. I thought I buy too small.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "leh",
+                        "sia"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "fan choy": {
+        "word": "fan choy",
+        "origin": [
+            {
+                "lang": "cantonese / hakka",
+                "traditional": "飯菜",
+                "simplified": "饭菜",
+                "roman": "faan6 coi3",
+                "romanization": "",
+                "lit": "(lit.) food; rice and vegetables, (Singapore) Cantonese dish of rice, char siew, egg, etc."
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Singaporean Cantonese dish of rice (sometimes glutinous rice) seasoned with soya sauce and steamed with @{char siew}. The dish is often topped with a hard-boiled egg (usually sliced in half lengthwise), and may include other condiments such as mushrooms. It is a popular breakfast food in Singapore. Similar in concept to @{lor mai gai}.",
+                    "example": "At first glance, this dish appears to be like a giant fan choy. But instead of traditionally using char siew, this hawker stall opts for chopped chicken drumsticks instead.",
+                    "exampleSource": "2019 September 3, Ariella Lim. Eatbook, \"Chong Jia Food Review: Huge Chicken Fan Choy And Lu Rou Fan Under $5 At Jurong West\". https://eatbook.sg/chong-jia-food/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "fatty bom bom": {
+        "word": "fatty bom bom",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "fatty",
+                "romanization": "",
+                "lit": "(derog.) fat person; sb. obese",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "fat",
+                    "-y"
+                ],
+                "etyLit": [
+                    "obese; overweight",
+                    "dimin. suffix"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bom bom",
+                "romanization": "",
+                "lit": "(onom.) mimicking the sound of a fat person bumbling about"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(slightly derogatory) a fat, overweight, or obese person",
+                    "example": "I hate squeezing up against fatty bom boms on the MRT, I only end up getting half a seat.",
+                    "synonyms": [
+                        "ah pui"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "gemuk",
+            "goondu",
+            "pui"
+        ],
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "Compare similar slang which has developed in other English dialects, such as Australian English '<i>fatty boombah</i>' and Caribbean English '<i>fatty bum bum</i>'. The latter has entered Multicultural London English, primarily through Jamaican English - as well as South African pop culture, due to Die Antwoord's <i>Fatty Boom Boom</i>, which takes its chorus from Jamaican reggae singer Carl Malcolm's song <i>Fattie Bum Bum</i>.",
+        "phonetics": "/ˈfɛti(˦) ˌbɔm(˨) ˌbɔm(˨˦)/, -/ˌbɔm/"
+    },
+    "bom bom": {
+        "word": "bom bom",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": "",
+                "simplified": "",
+                "roman": "bom bom",
+                "romanization": "",
+                "lit": "(onom.) mimicking the sound of a fat person bumbling about"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(onomatopoeic) mimicking the sound of a fat person walking or bumbling about"
+                }
+            ]
+        },
+        "related": [
+            "gemuk",
+            "goondu",
+            "pui"
+        ],
+        "category": [
+            "insults"
+        ],
+        "usage": "Primarily used in the phrase @{fatty bom bom}.",
+        "etyNotes": "See @{fatty bom bom} for more details.",
+        "phonetics": "/ˌbɔm(˨) ˌbɔm(˨˦)/, -/ˌbɔm/"
+    },
+    "fever high": {
+        "word": "fever high",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "fever",
+                "romanization": "",
+                "lit": "state of heightened excitement; higher-than-normal body temperature"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "high",
+                "romanization": "",
+                "lit": "state of euphoria or excitement"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military, dated) the state of heightened excitement, an indifferent mood, and a lackadaisical approach to military duties of a soldier who is about to @{ORD}",
+                    "exampleSource": "ORD mood, ROD mood"
+                }
+            ]
+        },
+        "usage": "Dated and rare.",
+        "related": [
+            "ord",
+            "rod"
+        ],
+        "category": [
+            "ns"
         ]
     }
 }
