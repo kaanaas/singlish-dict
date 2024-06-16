@@ -74,6 +74,10 @@ a {
     font-family: "SimSunCut", "Literata";
 }
 
+p {
+    word-wrap: break-word;
+}
+
 a {
     color: var(--purp);
 }
@@ -204,9 +208,8 @@ br {
     border-radius: 1em;
     padding: 1em;
     padding-bottom: 2.5em;
-    /* min-width: 88vmin;
-    max-width: 98vmin; */
-    width: 98vmin;
+    max-width: 96vmax;
+    min-width: 90vmin;
     box-shadow: 0 2em 4em var(--bg-shadow);
 }
 
@@ -291,9 +294,14 @@ input[type=text] {
 
 .word-box {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     flex-wrap: wrap;
     gap: 1.5em;
+    margin-bottom: 1.25em;
+}
+
+.word-box h2 {
+    margin-bottom: 0;
 }
 
 .word-box p {
@@ -304,7 +312,16 @@ input[type=text] {
 .word h2 {
     font-size: 2em;
     color: var(--black);
-    margin-bottom: 0.5em;
+    margin-top:auto;
+}
+
+.plus {
+    margin: 0 .75em 0 .75em!important;
+    font-size: 1.5em!important;
+}
+
+.arrow {
+    margin-right: 1em;
 }
 
 .word h3:not(.chinese-chars-ext, .chinese-wrapper-ext, .ety-notes-leader) {
@@ -426,7 +443,7 @@ input:checked + .slider:before {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 1em;
+    gap: 0em;
 }
 
 .ortho-container-ext {
@@ -472,7 +489,7 @@ input:checked + .slider:before {
 .ortho-box h4 {
     font-size: 1.5em;
     margin: 0;
-    margin-bottom: 0.25em;
+    /* margin-bottom: 0.25em; */
     font-weight: 500;
 }
 
@@ -501,7 +518,7 @@ input:checked + .slider:before {
 }
 
 .ortho-origin {
-    margin-top: 0;
+    margin-top: 0.25em!important;
     align-self: center;
     font-size: 1em;
     font-family: "Crimson Text";
@@ -1469,4 +1486,31 @@ svg g.is-active .lang-name-text {
     text-decoration: underline;
     text-underline-offset: 2px;
     text-decoration-color: var(--subh-lighter);
+}
+
+/* letters list page */
+.letters-nav-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.letters-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.letter-a {
+    color: var(--purp);
+    font-size: 1.25em;
+    text-decoration: underline;
+    margin: 0 .25em 0 .25em;
+}
+.letter-no-a {
+    color: var(--black);
+    font-size: 1.25em;
+    font-weight: bold;
+    margin: 0 .25em 0 .25em;
 }

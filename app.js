@@ -27,6 +27,10 @@ app.get("/langs", langsRouter);
 const catsRouter = require("./router/catsRouter");
 app.get("/cat", catsRouter);
 
+// cats page
+const azRouter = require("./router/azRouter");
+app.get("/letter/:id?", azRouter);
+
 // sources page
 const sources = require("./public/sources/sources.json");
 app.get("/sources", (req, res) => {

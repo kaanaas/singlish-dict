@@ -1,0 +1,1 @@
+const qList = ["qing ming","qq","queenstown"]; module.exports = qList;

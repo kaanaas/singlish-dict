@@ -43,10 +43,10 @@
         <div class="ety-container">
             <!-- main container -->
             <div class="ortho-container" id="ortho-container<%= variant %>" name="show">
-                <p class="ortho-origin">→</p>
+                <p class="ortho-origin arrow">→</p>
                 <% for(let i = 0; i < word.origin.length; i++) { %>
                     <% if(i != 0) { %>
-                        <h2>+</h2>
+                        <h2 class="plus">+</h2>
                     <% } %>
                     <div class="ortho-box">
                         <% const langName = word.origin[i].lang.toLowerCase().charAt(0).toUpperCase() + word.origin[i].lang.toLowerCase().slice(1); %>

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <head>   
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="../css/style.css" type="text/css">
+    </head>
+
+    <body>
+        <%- include("./partials/banner") %>
+
+        <div class="content">
+            <div class="def-box">
+                <div class="langs-head-div">
+                    <h2 class="subpage-title"><%= letter.toUpperCase() %></h2>
+                    <div class="letters-nav-wrapper">
+                        <nav class="letters-nav">
+                            <% let letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('') %>
+                            <% letters = ['0-9', ...letters]; %>
+                            <% for (let i in letters) { %>
+                                <% if (letters[i] != letter) { %>
+                                    <a class="letter-a" href="/letter/<%- letters[i] %>"><%- letters[i] %></a>
+                                <% } else { %>
+                                    <p class="letter-no-a"><%- letters[i] %></p>
+                                <% } %>
+                            <% } %>
+                        </nav>
+                    </div>
+                </div>
+                <hr>
+                <div class="result">
+                    <ul class="prefix-list">
+                    <!-- <% terms = terms.sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' })); %> -->
+                    <% for(let i = 0; i < terms.length; i++){ %>    
+                        <li><a href="/?q=<%= terms[i] %>"><%= terms[i] %></a></li>
+                    <% } %>
+                    </ul>
+                </div>
+                <hr>
+                <p class="langs-msg">If you believe a term is wrongly tagged, or a term should belong in this list, please drop me a suggestion!</p>
+                <div class="button-row">
+                    <button class="home-button" onclick="backToTop()">Back to Top</button>
+                    <button class="home-button" onclick="location.href='/';">Home</button>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            function backToTop() {
+                document.body.scrollTop = 0;
+                document.documentElement.scrollTop = 0;
+            }
+        </script>
+    </body>
+
+    <%- include("./partials/footer") %>
+</html>

@@ -1,0 +1,1 @@
+const numList = ["302","1206","1211","4896","11b","15a","4d","5-10","5cs"]; module.exports = numList;

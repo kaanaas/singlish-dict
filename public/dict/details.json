@@ -380,7 +380,7 @@
         "category": [
             "abbreviations"
         ],
-        "etyNotes": "\"C\" is the initial letter of cash, car, credit card, condominium, and country club.",
+        "etyNotes": "\"C\" is the initial letter of 'cash', 'car', 'credit card', 'condominium', and 'country club'.",
         "origin": [
             {
                 "lang": "english",
@@ -7677,7 +7677,10 @@
     "bakwan kepiting": {
         "word": "bakwan kepiting",
         "related": [
-            "bak"
+            "bak",
+            "pork ball",
+            "beef ball",
+            "fishball"
         ],
         "category": [
             "cuisine"
@@ -7698,13 +7701,16 @@
                     "+"
                 ],
                 "etyScript": [
-                    "肉丸"
+                    "肉",
+                    "丸"
                 ],
                 "etyTrad": [
-                    "肉丸"
+                    "肉",
+                    "丸"
                 ],
                 "etyRoman": [
-                    "bah-oân"
+                    "bah",
+                    "oân"
                 ],
                 "etyScheme": [
                     "poj",
@@ -7712,7 +7718,7 @@
                 ],
                 "etyLit": [
                     "meat; pork",
-                    ""
+                    "small, roundish object"
                 ]
             },
             {
@@ -8890,7 +8896,8 @@
         "word": "beef ball",
         "related": [
             "fishball",
-            "pork ball"
+            "pork ball",
+            "bakwan"
         ],
         "category": [
             "cuisine"
@@ -14208,7 +14215,7 @@
         "category": [
             "cuisine"
         ],
-        "usage": "Effectively the Chinese counterpart of @{nasi padang}. Since it is typically uninteresting and simple, yet one of the more affordable meals one can order, it is often seen as a humble meal and a symbol of the working class.",
+        "usage": "Effectively the Chinese counterpart of @{nasi padang}. Since it is typically uninteresting and simple, yet one of the more affordable meals one can order, it is often seen as a humble meal and a symbol of the working class. However, the same cannot be said for those who order cai png with fish (a far more expensive option), for this is (usually jokingly) seen as lavish and @{atas}.",
         "etyNotes": "(lit.) vegetables and rice",
         "phonetics": "[ˈt͡sʰaɪ˦˨ ˌpŋ̍˨]"
     },
@@ -22319,7 +22326,8 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "etyNotes": "(lit.) 'your father'."
     },
     "lin lao bu": {
         "word": "lin lao bu",
@@ -22369,7 +22377,8 @@
                     "antonyms": false
                 }
             ]
-        }
+        },
+        "etyNotes": "(lit.) 'your mother'."
     },
     "lin lao peh": {
         "word": "lin lao peh",
@@ -25884,9 +25893,9 @@
                 "lang": "malay",
                 "traditional": "",
                 "simplified": "",
-                "roman": "cik",
+                "roman": "encik",
                 "romanization": "",
-                "lit": "Ms; Miss",
+                "lit": "Mister; Mr.; uncle",
                 "etyPath": [
                     "hokkien",
                     "hokkien",
@@ -27892,6 +27901,11 @@
                     "definition": "correct; right; righter than right",
                     "synonyms": [
                         "tioh"
+                    ],
+                    "antonyms": [
+                        "salah",
+                        "bo tioh",
+                        "mm tioh"
                     ]
                 }
             ],
@@ -27902,6 +27916,11 @@
                     "exampleSource": "\r\n2023 February 6, SkillsFutureSG. Youtube, \"The Caring Mob Boss - SkillsFuture Work-Study Programme\". https://www.youtube.com/watch?v=HBbnzsoLdkc",
                     "synonyms": [
                         "tioh"
+                    ],
+                    "antonyms": [
+                        "salah",
+                        "bo tioh",
+                        "mm tioh"
                     ]
                 }
             ]
@@ -32099,5 +32118,928 @@
                 "name": "CantoDict - 打飛機. www.cantonese.sheik.co.uk"
             }
         ]
+    },
+    "see no up": {
+        "word": "see no up",
+        "related": [
+            "see me no up"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "看不上",
+                "simplified": "看不上",
+                "roman": "kàn bu shàng",
+                "romanization": "",
+                "lit": "detest; look down on"
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "to look down upon; to detest",
+                    "example": "She’s a @{high SES} girl living in her white @{roti} world; she @{confirm} see no up an @{Ah Seng} like you.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "see up"
+                    ]
+                }
+            ]
+        }
+    },
+    "see up": {
+        "word": "see up",
+        "related": [
+            "see me up",
+            "see no up"
+        ],
+        "usage": "Unlike in English, the verb to '<i>see [somebody] up</i>' does not mean to accompany them to some location upstairs, but rather to fancy or look up to them.<br>The object may go between 'see' and 'up', e.g. \"see you up\", or after them, e.g. \"see up you\"; both forms are acceptable. If an adverb is applied, it usually goes between 'see' and 'up', e.g. \"see very up\".",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "看上",
+                "simplified": "看上",
+                "roman": "kàn shàng",
+                "romanization": "",
+                "lit": "fancy; like; fall in love with; look up to",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "看",
+                    "上"
+                ],
+                "etyTrad": [
+                    "看",
+                    "上"
+                ],
+                "etyRoman": [
+                    "kàn",
+                    "shàng"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "see; look",
+                    "up; above"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(transitive) to look up to; to admire; to be impressed by",
+                    "example": "Our boss really see up you huh? Two promotions in 6 months; @{buay pai} man.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "see no up"
+                    ]
+                },
+                {
+                    "definition": "(transitive) to fancy; to take a liking to; to fall in love with",
+                    "example": "Ah Leng got see up a @{swee} @{chabor} in his tutorial class @{liao}.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "see no up"
+                    ]
+                }
+            ]
+        }
+    },
+    "see me up": {
+        "word": "see me up",
+        "related": [
+            "see up",
+            "see no up"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "看上我",
+                "simplified": "看上我",
+                "roman": "kàn shàng wǒ",
+                "romanization": "",
+                "lit": "admire me; fancy me",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "看上",
+                    "我"
+                ],
+                "etyTrad": [
+                    "看上",
+                    "我"
+                ],
+                "etyRoman": [
+                    "kàn shàng",
+                    "wǒ"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "fancy; like; fall in love with; look up to",
+                    "I; me; 1st-person sing. pronoun"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(of someone) to look up to, admire, or be impressed by the speaker",
+                    "example": "My little brother always see me up since young, so I have to be a good example to him.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "see me no up"
+                    ]
+                },
+                {
+                    "definition": "(of someone) to fancy, take a liking to, or fall in love with the speaker",
+                    "synonyms": false,
+                    "antonyms": [
+                        "see me no up"
+                    ]
+                }
+            ]
+        }
+    },
+    "see me no up": {
+        "word": "see me no up",
+        "related": [
+            "see up",
+            "see no up"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "看不上我",
+                "simplified": "看不上我",
+                "roman": "kàn bu shàng wǒ",
+                "romanization": "",
+                "lit": "detest me; look down on me",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "看不上",
+                    "我"
+                ],
+                "etyTrad": [
+                    "看不上",
+                    "我"
+                ],
+                "etyRoman": [
+                    "kàn bu shàng",
+                    "wǒ"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(lit.) don’t see up; not look up, (fig.) look down on; detest",
+                    "I; me; 1st-person sing. pronoun"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(of someone) to look down on the speaker; expressing that some party detests or treats the speaker with derision",
+                    "example": "No matter what I tried to do to impress my mentor, he would always see me no up.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "see me up"
+                    ]
+                }
+            ]
+        }
+    },
+    "salah": {
+        "word": "salah",
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "salah",
+                "romanization": "",
+                "lit": "wrong; false"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "wrong; false; erroneous",
+                    "example": "Your answer all salah lah, no wonder fail so badly.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "bo tioh",
+                        "mm tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "wrongly; incorrectly; falsely",
+                    "example": "@{Alamak}, I drive salah @{liao}. Wait ah, let me @{gostan}.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "bo tioh",
+                        "mm tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ]
+        },
+        "particles": []
+    },
+    "limpeh tell you": {
+        "word": "limpeh tell you",
+        "related": [
+            "limpeh",
+            "limbu",
+            "wa ka li kong",
+            "i tell you",
+            "hor",
+            "eh"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "Partial calque from Hokkien phrase. From the word 恁爸, lím/lín-pē, which literally means \"your father\", but is commonly used in Hokkien as a slightly condescending or brash first-person singular pronoun.<br>你 is an alternative replacement character for 汝, lí (\"you\"), and is the more common one in Taiwan.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "恁爸共汝講",
+                "simplified": "恁爸共汝讲",
+                "roman": "lím-pē kā lí kóng",
+                "romanization": "",
+                "lit": "@{limpeh} tell you; 'now listen here'",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "恁爸",
+                    "共",
+                    "汝",
+                    "讲"
+                ],
+                "etyTrad": [
+                    "恁爸",
+                    "共",
+                    "汝",
+                    "講"
+                ],
+                "etyRoman": [
+                    "lím/lín-pē",
+                    "kā",
+                    "lí",
+                    "kóng"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(lit.) your father, (fig., condescending or humorous) I; me; 1st person sing. pronoun",
+                    "to; with; at",
+                    "you; 2nd person sing. pronoun",
+                    "speak; talk; say"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(condescending or humorous) used at the start of a sentence to call attention to something one is about to say; used to indicate one is about to give their opinion, give advice, explain something, share their thoughts etc.; 'look here'; 'listen here'",
+                    "example": "Limpeh tell you, don’t let your dreams be dreams.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "limpeh ka li kong",
+                        "I tell you",
+                        "wa ka li kong",
+                        "eh"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(condescending or humorous) used at the end of a statement to emphasize to something one has said, expressing confidence, chiding, or knowledge ; 'you know'; 'you hear me?'",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "limpeh la li kong",
+                        "I tell you",
+                        "wa ka li kong",
+                        "hor"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "limpeh ka li kong": {
+        "word": "limpeh ka li kong",
+        "related": [
+            "limpeh",
+            "limbu",
+            "wa ka li kong",
+            "i tell you",
+            "hor",
+            "eh"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "From the word 恁爸, lím/lín-pē, which literally means \"your father\", but is commonly used in Hokkien as a slightly condescending or brash first-person singular pronoun.<br>你 is an alternative replacement character for 汝, lí (\"you\"), and is the more common one in Taiwan.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "恁爸共汝講",
+                "simplified": "恁爸共汝讲",
+                "roman": "lím-pē kā lí kóng",
+                "romanization": "",
+                "lit": "@{limpeh} tell you; 'now listen here'",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "恁爸",
+                    "共",
+                    "汝",
+                    "讲"
+                ],
+                "etyTrad": [
+                    "恁爸",
+                    "共",
+                    "汝",
+                    "講"
+                ],
+                "etyRoman": [
+                    "lím/lín-pē",
+                    "kā",
+                    "lí",
+                    "kóng"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "(lit.) your father, (fig., condescending or humorous) I; me; 1st person sing. pronoun",
+                    "to; with; at",
+                    "you; 2nd person sing. pronoun",
+                    "speak; talk; say"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(condescending or humorous) used at the start of a sentence to call attention to something one is about to say; used to indicate one is about to give their opinion, give advice, explain something, share their thoughts etc.; 'look here'; 'listen here'",
+                    "example": "Limpeh ka li kong, the greatest wealth is health.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "limpeh tell you",
+                        "I tell you",
+                        "wa ka li kong",
+                        "eh"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(condescending or humorous) used at the end of a statement to emphasize to something one has said, expressing confidence, chiding, or knowledge ; 'you know'; 'you hear me?'",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "limpeh tell you",
+                        "I tell you",
+                        "wa ka li kong",
+                        "hor"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "wa ka li kong": {
+        "word": "wa ka li kong",
+        "related": [
+            "limpeh ka li kong",
+            "eh"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "你 is an alternative replacement character for 汝, lí (\"you\"), and is the more common one in Taiwan.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "我共汝講",
+                "simplified": "我共汝讲",
+                "roman": "oá kā lí kóng",
+                "romanization": "",
+                "lit": "[let] me tell you; 'listen here'",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "我",
+                    "共",
+                    "汝",
+                    "讲"
+                ],
+                "etyTrad": [
+                    "我",
+                    "共",
+                    "汝",
+                    "講"
+                ],
+                "etyRoman": [
+                    "oá",
+                    "kā",
+                    "lí",
+                    "kóng"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "I; me; 1st person sing. pronoun",
+                    "to; with; at",
+                    "you; 2nd person sing. pronoun",
+                    "speak; talk; say"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "used at the start of a sentence to call attention to something one is about to say; used to indicate one is about to give their opinion, give advice, explain something, share their thoughts etc.; 'look here'; 'listen here'",
+                    "example": "Wa ka li kong, use olive oil on your hair it will stay black black one, no need dye. My friend tell me one!",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "I tell you",
+                        "eh"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "used at the end of a statement to emphasize to something one has said, expressing confidence, chiding, or knowledge ; 'you know'; 'you hear me?'",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "I tell you",
+                        "hor"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "i tell you": {
+        "word": "I tell you",
+        "related": [
+            "limpeh ka li kong",
+            "eh"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Direct calque from Hokkien phrase. 你 is an alternative replacement character for 汝, lí (\"you\"), and is the more common one in Taiwan.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "我共汝講",
+                "simplified": "我共汝讲",
+                "roman": "oá kā lí kóng",
+                "romanization": "",
+                "lit": "[let] me tell you; 'listen here'",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "我",
+                    "共",
+                    "汝",
+                    "讲"
+                ],
+                "etyTrad": [
+                    "我",
+                    "共",
+                    "汝",
+                    "講"
+                ],
+                "etyRoman": [
+                    "oá",
+                    "kā",
+                    "lí",
+                    "kóng"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "I; me; 1st person sing. pronoun",
+                    "to; with; at",
+                    "you; 2nd person sing. pronoun",
+                    "speak; talk; say"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "used at the start of a sentence to call attention to something one is about to say; used to indicate one is about to give their opinion, give advice, explain something, share their thoughts etc.; 'look here'; 'listen here'",
+                    "example": "I tell you ah, every day eat ice kacang not good for you.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "wa ka li kong",
+                        "eh"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "used at the end of a statement to emphasize to something one has said, expressing confidence, chiding, or knowledge ; 'you know'; 'you hear me?'",
+                    "example": "Just because the principal is nice doesn’t mean you can go play a fool, I tell you.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "wa ka li kong",
+                        "hor"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "ict": {
+        "word": "ICT",
+        "related": [
+            "IPPT"
+        ],
+        "usage": "More colloquially referred to by the name @{reservists}.",
+        "category": [
+            "abbreviations",
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "Initialism of <i>In-Camp Training</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "in",
+                "romanization": "",
+                "lit": "within; inside"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "camp",
+                "romanization": "",
+                "lit": "military compound or base",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "training",
+                "romanization": "",
+                "lit": "process of acquiring, imparting, refreshing, or improving skills",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a mandatory military call-up and training of between one to two weeks which all NSMen have to attend annually until their @{ROD}, which is usually after ten (or more) cycles of call-ups. Due to these obligations, Singaporean males are not permitted to leave the country for more than 6 months without an exit permit until they are released from this duty.",
+                    "example": "No one says it out loud, but it’s an open secret that many bosses discriminate against hiring male Singaporeans because of their ICT obligations.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "reservists"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "ippt": {
+        "word": "IPPT",
+        "related": [
+            "SOC",
+            "reservists",
+            "ICT"
+        ],
+        "usage": "While a separate test from @{NAPFA} involving different stations, it is often used interchangeably according to individual preferences.",
+        "category": [
+            "abbreviations",
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "Initialism of <i>Individual Physical Proficiency Test</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "individual",
+                "romanization": "",
+                "lit": "relating to one person alone"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "physical",
+                "romanization": "",
+                "lit": "of the body; of matter",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "proficiency",
+                "romanization": "",
+                "lit": "ability; aptitude; skill",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "test",
+                "romanization": "",
+                "lit": "trial or examination to determine or measure sth.",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a test of physical fitness involving three stations: push-ups, sit-ups, and a 2.4 km run, which all NS-liable Singaporean males have to complete yearly starting from the age of 16.5 years old. Older iterations of the test included other exercises, such as pull-ups and the standing broad jump.",
+                    "example": "Andy failed his IPPT, so he has to stay back for RT.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "NAPFA"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "zhng": {
+        "word": "zhng",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "裝",
+                "simplified": "装",
+                "roman": "chng",
+                "romanization": "",
+                "lit": "dress up; decorate; refurbish; adorn; pimp up"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to decorate; to adorn; to pimp up; to furbish or refurbish, often in a loud or showy manner",
+                    "example": "I see you got zhng up your new condo. I love the LED colour strips!"
+                }
+            ]
+        }
+    },
+    "fishball": {
+        "word": "fishball",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "魚圓",
+                "simplified": "鱼圆",
+                "roman": "yú yuán",
+                "romanization": "pinyin",
+                "lit": "fishball",
+                "etyPath": [
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "鱼圆",
+                    "鱼",
+                    "圆"
+                ],
+                "etyTrad": [
+                    "魚圓",
+                    "魚",
+                    "圓"
+                ],
+                "etyRoman": [
+                    "hîr-îⁿ",
+                    "hîr",
+                    "îⁿ"
+                ],
+                "etyLit": [
+                    "fishball",
+                    "fish",
+                    "round; circular"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a food item made from a paste of pulverized fish mixed with a binder, such as starch, and seasoning (resulting in a form of surimi), which is then squeezed into round ball-shaped pieces around 3 - 4 cm in diameter. By beating the fish meat to uncoil the protein strands, and setting the formed balls in iced, salted water, a desirably firm yet bouncy (@{QQ}) texture is produced, similar to other Chinese meatball products like @{beef|beef ball} and @{pork balls|pork ball}. The paste produced is essentially the same as that used for @{fishcake}.<br>Fishballs are a popular ingredient in many dishes, such as fishball soup, @{bak chor mee}, and @{fishball noodles}, and are also enjoyed on their own as a snack. They likely originated in Fujianese and Teochew cuisine.",
+                    "example": "This was in the 1980s, and Tan’s stall was one of several selling fishball noodles at Kovan 209 Market & Food Centre. Competition was stiff, and they often had the fewest customers. ",
+                    "exampleSource": "2024 February 26, DBS. \"Hawker Stories: How fishball noodle hawkers saved their struggling business with seasoning success\". https://www.dbs.com/livemore/food/hawker-stories-how-fishball-noodle-hawkers-saved-their-struggling-business-with-seasoning-success.html"
+                }
+            ]
+        },
+        "related": [
+            "beef ball",
+            "pork ball",
+            "bakwan"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Depending on region and language, it is also known as 鱼丸/魚丸, yú wán (Mandarin pinyin)."
+    },
+    "pork ball": {
+        "word": "pork ball",
+        "related": [
+            "fishball",
+            "beef ball",
+            "bakwan"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Combination of English descriptor ('pork') + partial calque of Hokkien term. Since pork is sometimes seen as the 'default' meat in Chinese cuisine, the term 肉丸, bah-oân (\"(general) meatball\") is often used as a synonym, from which @{bakwan} is derived.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "pork",
+                "romanization": "",
+                "lit": "meat from a pig"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "摃丸",
+                "simplified": "𫼱丸",
+                "roman": "kòng-oân/îⁿ",
+                "romanization": "jyutping",
+                "lit": "pork meatball",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "𫼱",
+                    "圆"
+                ],
+                "etyTrad": [
+                    "摃",
+                    "圓"
+                ],
+                "etyRoman": [
+                    "kòng",
+                    "oân/îⁿ"
+                ],
+                "etyLit": [
+                    "beat or hit with a blunt object e.g. hammer or club",
+                    "small, roundish object"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a meatball made from pounded and seasoned pork, sometimes with other meats such as cuttlefish added for depth of flavour. The pounding process causes the pork to adopt a texture similar to surimi (which is the paste used to make @{fishballs}). The resulting meatball has a firm, bouncy texture.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
     }
 }

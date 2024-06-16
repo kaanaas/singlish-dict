@@ -1,0 +1,1 @@
+const rList = ["rabak","rabz","rabz-kebabz","ramly burger","range","red bean","red bean soup","referee kayu","remisier","rempah","rempah udang","rendang","reservice","reservist","rice bowl","rilak","rmj","rod","rod mood","rojak","rom","roti","roti canai","roti jala","roti john","roti kok","roti prata","rsm's hotel","rugi"]; module.exports = rList;

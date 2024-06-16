@@ -5859,9 +5859,9 @@
         "see me no up",
         "see no up me"
     ],
-    "see me very up": [
-        "see me very up",
-        "see me up"
+    "see me up": [
+        "see me up",
+        "see up me"
     ],
     "see see look look": [
         "see see look look",
@@ -5871,13 +5871,11 @@
     "see what see": [
         "see what see"
     ],
-    "see you no up": [
-        "see you no up",
-        "see no up you"
+    "see no up": [
+        "see no up"
     ],
-    "see you very up": [
-        "see you very up",
-        "see you up"
+    "see up": [
+        "see up"
     ],
     "seh": [
         "seh",
@@ -7245,5 +7243,51 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "high ses": [
+        "high ses"
+    ],
+    "low ses": [
+        "low ses"
+    ],
+    "ses": [
+        "ses"
+    ],
+    "bo tioh": [
+        "bo tioh",
+        "bo tio"
+    ],
+    "mm tioh": [
+        "mm tioh",
+        "mm tio"
+    ],
+    "never die before": [
+        "never die before"
+    ],
+    "old flower": [
+        "old flower"
+    ],
+    "-over": [
+        "-over",
+        "over"
+    ],
+    "zhng": [
+        "zhng",
+        "chng",
+        "tsng",
+        "zheng",
+        "zng",
+        "zeng"
+    ],
+    "drop like grapes": [
+        "drop like grapes"
+    ],
+    "orbit": [
+        "orbit",
+        "obit"
+    ],
+    "uh uh siol": [
+        "uh uh siol",
+        "ah ah siol"
     ]
 }

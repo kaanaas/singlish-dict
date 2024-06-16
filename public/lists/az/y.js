@@ -1,0 +1,1 @@
+const yList = ["ya","yam seng","yandao","yao siu","yaya","yaya papaya","yong tau foo","yong tau fu","you die i die everybody die","you mee","you think, he thought, who confirm","you think, i thought, who confirm","you tiao","your head","yp","yu char kueh","yu sheng","yucks"]; module.exports = yList;
