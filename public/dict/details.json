@@ -29364,6 +29364,7 @@
         ],
         "phonetics": "",
         "etyNotes": "<i>Whole jingbang</i> and <i>whole jimbang</i> are the Scottish and US variants of the fixed phrase respectively, and most likely have a common origin; both are attested in literature as early as the 19th century. Compare English <i>shebang</i>, which is a synonym and possibly etymologically related. However, while the etymology of <i>shebang</i> is quite well documented, that of <i>jingbang/jimbang</i> is mostly unknown. It most likely entered Singlish via the Scottish <i>jingbang</i> (due to British colonisation).<br>It has been conflated with English <i>gang</i>, a group or company of people, which often has a connotation of criminal or delinquent activity.<br>#{dubious} The US-specific term <i>chain gang</i>, meaning a group of prisoners who have been chained together to perform some labour or work, has also been suggested as an origin due to its similar pronunciation; however, this is almost certainly not the case.",
+        "ngram": "https://books.google.com/ngrams/interactive_chart?content=whole+jimbang,whole+jingbang,+jimbang,+jingbang&year_start=1850&year_end=2019&corpus=en-2019&smoothing=4",
         "origin": [
             {
                 "lang": "english",
@@ -32968,6 +32969,7 @@
             ]
         },
         "related": [
+            "fishcake",
             "beef ball",
             "pork ball",
             "bakwan"
@@ -32976,6 +32978,54 @@
             "cuisine"
         ],
         "etyNotes": "Depending on region and language, it is also known as 鱼丸/魚丸, yú wán (Mandarin pinyin)."
+    },
+    "fishcake": {
+        "word": "fishcake",
+        "usage": "No relation to the Western 'fishcake', which is a completely dissimilar dish.",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "fishcake",
+                "romanization": "",
+                "lit": "fried patty made from flaked fish, potato, and seasoning",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "fish",
+                    "cake"
+                ],
+                "etyLit": [
+                    "animal which lives in water, or meat thereof",
+                    "mass of food made from cooking a dough, batter, paste, etc."
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a food item made from a paste of pulverized fish mixed with a binder, such as starch, and seasoning (resulting in a form of surimi), which is then shaped into cuboid or cylindrical blocks. By beating the fish meat to uncoil the protein strands, and setting the formed balls in iced, salted water, a desirably firm yet bouncy (@{QQ}) texture is produced, similar to other Chinese meatball products like @{beef|beef ball} and @{pork balls|pork ball}. The paste produced is essentially the same as that used for @{fishballs|fishball}.<br>Fishcakes are a popular ingredient in many dishes, such as @{laksa} or @{bak chor mee}, where they are often sliced, and can also be enjoyed on their own as a snack. They likely originated in Fujianese and Teochew cuisine.",
+                    "example": "It was an epic mess of slurp-worthy flat noodles tossed in dark soya sauce, topped with generous amounts of lap cheong (Chinese sausage) and fishcake.",
+                    "exampleSource": "2017 July 7, Amelia Chia. buro247, \"HAWKER FOOD IN SINGAPORE IS SINGAPORE LOSING ITS LOCAL CULINARY HERITAGE\". https://www.buro247.sg/singapore-fading-food-hawker-heritage/"
+                }
+            ]
+        },
+        "related": [
+            "fishball",
+            "beef ball",
+            "pork ball",
+            "bakwan"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "#{poss} Possibly also a calque from the Chinese name 魚餅, yú bǐng (\"fish cake; fish flat cake\"), but it is more likely that the English term was just applied to the Chinese food, due to it also being a 'cake' made out of fish."
     },
     "pork ball": {
         "word": "pork ball",
@@ -33041,5 +33091,656 @@
                 }
             ]
         }
+    },
+    "fishball noodles": {
+        "word": "fishball noodles",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "fishball",
+                "romanization": "",
+                "lit": "food item made from a paste of pulverized fish mixed with a binder, squeezed into round ball-shaped pieces.",
+                "etyPath": [
+                    "general chinese",
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "鱼圆",
+                    "鱼圆",
+                    "鱼",
+                    "圆"
+                ],
+                "etyTrad": [
+                    "魚圓",
+                    "魚圓",
+                    "魚",
+                    "圓"
+                ],
+                "etyRoman": [
+                    "yú yuán",
+                    "hîr-îⁿ",
+                    "hîr",
+                    "îⁿ"
+                ],
+                "etyLit": [
+                    "fishball",
+                    "fishball",
+                    "fish",
+                    "round; circular"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "noodles",
+                "romanization": "",
+                "lit": "long, thin strings of cooked dough",
+                "etyPath": [
+                    "german"
+                ],
+                "etyRoman": [
+                    "Nudel"
+                ],
+                "etyLit": [
+                    "pasta; noodle"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a food item of Teochew origin, which in its most basic form is made from @{fishballs|fishball} (which may come served in a clear soup) and typically @{mee pok} noodles tossed in a seasoning sauce of soy sauce, stock, vinegar, and other ingredients. It is usually topped with various additional condiments, such as @{fishcake}, fried shallots, @{chilli}, @{ikan bilis}, pork liver, ground pork (@{bak chor|bak chor mee}), sliced pork, meatballs, etc. May come in @{soup} or @{dry} variants.",
+                    "example": "Now run by the third generation, this family-run stall is famous for its fish ball noodle soup topped with ground pork, pork liver, seaweed and pork rinds. Pork ribs are simmered for hours resulting in a broth rich in gutsy flavours.",
+                    "exampleSource": "Michelin Guide. \"Ah Ter Authentic Teochew Fish Ball Noodles\". https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/ah-ter-teochew-fish-ball-noodles"
+                }
+            ]
+        },
+        "related": [
+            "beef ball",
+            "pork ball",
+            "bakwan"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Most likely a direct calque from the Chinese term. Depending on region and language, it is also known as 鱼丸/魚丸, yú wán (Mandarin pinyin)."
+    },
+    "five-foot way": {
+        "word": "five-foot way",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "five",
+                "romanization": "",
+                "lit": "the number 5"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "foot",
+                "romanization": "",
+                "lit": "unit of measure equal to 12\" or 0.305 m"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "way",
+                "romanization": "",
+                "lit": "road; path"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a continuous ground-floor walkway featuring a overhanging second storey to provide cover from the tropical sun, a common colonial architectural feature in buildings from that era in Singapore, Malaysia, Indonesia, and other countries such as Taiwan and parts of Thailand. Despite the name, the walkway is not necessarily exactly five feet wide.",
+                    "example": "Visitors will also be able to sign up for Conserved Buildings in Chinatown, a walking trail by Do it SG to explore the conservation of heritage buildings in Singapore, its history and the activities that were held at the Five Footways.",
+                    "exampleSource": "2024 February 22, Mingli Seet. Timeout, \"Five Footway Festival\". https://www.timeout.com/singapore/things-to-do/five-footway-festival-1",
+                    "synonyms": [
+                        "kaki lima"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "Known as @{kaki lima} in Malay."
+    },
+    "kaki lima": {
+        "word": "kaki lima",
+        "origin": [
+            {
+                "lang": "malay",
+                "traditional": "",
+                "simplified": "",
+                "roman": "kaki lima",
+                "romanization": "",
+                "lit": "@{five-foot way}",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "kaki",
+                    "lima"
+                ],
+                "etyLit": [
+                    "foot (unit of measure); foot; leg",
+                    "five"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Malay term for a @{five-foot way}.",
+                    "example": "Kaki lima are found all over the country, but they are blocked by fences, motorbikes, goods and clutter.<br>Keeping them clear of obstructions is a struggle for council enforcers.",
+                    "exampleSource": "2024 January 29, Pooba Mahalingam. The New Straits Times, \"Vital to keep 'Kaki Lima' clear\". https://www.nst.com.my/opinion/letters/2024/01/1006966/vital-keep-kaki-lima-clear",
+                    "synonyms": [
+                        "five-foot way"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "#{poss} Possibly translated directly from the English term <i>five-foot way</i>, but could also have come about organically in the Malay language as a descriptor for the space."
+    },
+    "over": {
+        "word": "over",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "外",
+                "simplified": "外",
+                "roman": "wài",
+                "romanization": "",
+                "lit": "above; beyond; outside of"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(postpositive, after a number or otherwise reference to a value) -plus; or more; upwards of",
+                    "example": "This cost 200 over dollars, can you believe it?"
+                }
+            ]
+        },
+        "usage": "Placed after the number it modifies.",
+        "etyNotes": "Direct calque from Chinese syntactical usage."
+    },
+    "bo tioh": {
+        "word": "bo tioh",
+        "origin": [
+            {
+                "lang": "hokkien / hainanese",
+                "traditional": "無",
+                "simplified": "无",
+                "roman": "bô",
+                "romanization": "poj",
+                "lit": "no; not have; don't"
+            },
+            {
+                "lang": "hokkien / hainanese",
+                "traditional": "著",
+                "simplified": "着",
+                "roman": "tio̍h",
+                "romanization": "poj",
+                "lit": "correct; right; then"
+            }
+        ],
+        "etyNotes": "A fixed phrase in Hainanese. Equivalent to @{mm tioh} in Hokkien and Teochew, where 'bo tioh' is usually only used as a response to '@{tioh bo}?'.",
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "incorrect; wrong; false",
+                    "example": "Bo tioh la, my name is spell 'A-A-R-O-N', not 'Ah Ron'.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "salah",
+                        "mm tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "incorrectly; wrongly",
+                    "synonyms": [
+                        "salah",
+                        "mm tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "incorrect; wrong; false",
+                    "example": "- This one I can take for free, tioh bo?<br>- Bo tioh.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "salah",
+                        "mm tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "tioh",
+            "bo",
+            "tioh bo"
+        ],
+        "usage": "Often used as a response to '@{tioh bo}?'."
+    },
+    "tioh bo": {
+        "word": "tioh bo",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "著",
+                "simplified": "着",
+                "roman": "tio̍h",
+                "romanization": "poj",
+                "lit": "correct; right; then"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "無",
+                "simplified": "无",
+                "roman": "bô",
+                "romanization": "poj",
+                "lit": "or not; no"
+            }
+        ],
+        "meanings": {
+            "interrogative": [
+                {
+                    "definition": "'am I right?'; 'correct?'; used to ask for confirmation that a previous statement, opinion, etc. was true.",
+                    "example": "You live in west, tioh bo? I think we meet central better then.",
+                    "exampleSource": ""
+                }
+            ]
+        },
+        "related": [
+            "tioh",
+            "bo",
+            "bo tioh"
+        ]
+    },
+    "tioh@1": {
+        "word": "tioh",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "著",
+                "simplified": "着",
+                "roman": "tio̍h",
+                "romanization": "poj",
+                "lit": "correct; right; then"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "correct; right; true",
+                    "example": "- You last time were handling this project, right?<br>- Tioh. Why ah?",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "corright"
+                    ],
+                    "antonyms": [
+                        "salah",
+                        "mm tioh",
+                        "bo tioh"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "correct; right; true",
+                    "synonyms": [
+                        "corright"
+                    ],
+                    "antonyms": [
+                        "salah",
+                        "mm tioh",
+                        "bo tioh"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "tioh bo"
+        ]
+    },
+    "mm tioh": {
+        "word": "mm tioh",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "毋",
+                "simplified": "毋",
+                "roman": "m̄",
+                "romanization": "poj",
+                "lit": "not"
+            },
+            {
+                "lang": "teochew",
+                "traditional": "唔",
+                "simplified": "唔",
+                "roman": "m6",
+                "romanization": "peng'im",
+                "lit": "not"
+            },
+            {
+                "lang": "min nan",
+                "traditional": "著",
+                "simplified": "着",
+                "roman": "tio̍h",
+                "romanization": "poj",
+                "lit": "correct; right; then"
+            }
+        ],
+        "etyNotes": "The Hokkien and Teochew words are cognate, and differ only in the characters chosen to represent them (the Teochew one follows that used in Cantonese).",
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "incorrect; wrong; false",
+                    "synonyms": [
+                        "salah",
+                        "bo tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "incorrectly; wrongly",
+                    "synonyms": [
+                        "salah",
+                        "bo tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "incorrect; wrong; false",
+                    "synonyms": [
+                        "salah",
+                        "mm tioh"
+                    ],
+                    "antonyms": [
+                        "tioh",
+                        "corright"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "tioh",
+            "bo",
+            "tioh bo"
+        ]
+    },
+    "tioh@2": {
+        "word": "tioh",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "著",
+                "simplified": "着",
+                "roman": "tio̍h",
+                "romanization": "poj",
+                "lit": "get; receive"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(transitive) to get; to receive; to strike",
+                    "example": "Gwen tioh scolding by the discipline master for playing truant.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "kena"
+                    ]
+                },
+                {
+                    "definition": "(intransitive) to get or receive something, especially implied to be unpleasant or nasty",
+                    "example": "Now got new Covid variant. Wear mask when you go crowded place; later you tioh @{then you know}.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "kena"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "tioh beh pio"
+        ]
+    },
+    "tioh@3": {
+        "word": "tioh",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "著",
+                "simplified": "着",
+                "roman": "tio̍h",
+                "romanization": "poj",
+                "lit": "then; followingly; once; as soon as"
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "then; once; as soon as",
+                    "example": "Happy tioh ho already, no need work to death until got @{5cs}.",
+                    "exampleSource": ""
+                }
+            ]
+        }
+    },
+    "drop like grapes": {
+        "word": "drop like grapes",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "drop",
+                "romanization": "",
+                "lit": "fall under the influence of gravity; descend rapidly"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "like",
+                "romanization": "",
+                "lit": "similar to; resembling"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "grapes",
+                "romanization": "",
+                "lit": "small, round, edible fruits of vines in the genus Vitis"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(humorous) to drop suddenly and in large amounts, one after the other; especially of small, approximately grape-sized objects e.g. hailstones",
+                    "example": "Then I said, \"Where got raining ice cube?\" Then wait I go and see, it's true! ... the raining were drop like, erm... er, grapes, you know? Can drop, drop, drop, drop!",
+                    "exampleSource": "June 2013, Gandhimathi Muthusamy"
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "In reference to the simile famously used by Gandhimathi Muthusamy, a Singaporean @{auntie}, when interviewed about a rare occurrence of pebble-sized hail in the Bukit Batok area in Singapore on 25 June 2013."
+    },
+    "go fly kite": {
+        "word": "go fly kite",
+        "origin": [
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "go fly a kite",
+                "romanization": "",
+                "lit": "used to tell sb. being annoying to go away; 'get lost'; 'stop being such a bother'; 'go to hell'",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyRoman": [
+                    "go",
+                    "fly",
+                    "a",
+                    "kite"
+                ],
+                "etyLit": [
+                    "move; leave; leave to",
+                    "cause to go airborne; guide or control in the air",
+                    "indef. article",
+                    "toy held on a tether and carried aloft by the wind"
+                ]
+            }
+        ],
+        "ngram": "https://books.google.com/ngrams/interactive_chart?content=go+and+fly+a+kite,go+fly+a+kite&year_start=1805&year_end=2019&corpus=en-2019&smoothing=4",
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom, rude) used to tell someone who is being annoying to go away; 'get lost'; 'go to hell'",
+                    "example": "- You know ah, you'd be less stressed if you actually did something about your problems instead of whining to us about them.<br>- Eh, go fly kite lah!"
+                }
+            ]
+        },
+        "category": [
+            "expressions"
+        ],
+        "etyNotes": "Ellipsis of English phrase. Considered a rare, dated, old-fashioned expression in US English.",
+        "particles": [
+            {
+                "particle": "lah",
+                "meaning": "Get lost, man!",
+                "example": "",
+                "exampleSource": "",
+                "effect": "exasperation; dismissiveness"
+            }
+        ]
+    },
+    "flied lice": {
+        "word": "flied lice",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "fried rice",
+                "romanization": "",
+                "lit": "Chinese dish of rice stir-fried with various ingredients",
+                "etyPath": [
+                    "general chinese"
+                ],
+                "etyScript": [
+                    "炒饭"
+                ],
+                "etyTrad": [
+                    "炒飯"
+                ],
+                "etyRoman": [
+                    "chǎo fàn"
+                ],
+                "etyLit": [
+                    "Chinese dish of rice stir-fried with various ingredients"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "fried rice, a Chinese dish of rice stir-fried with any of various ingredients."
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Altered pronunciation from English '<i>fried rice</i>', due to the lack of an English /r/ sound in southern Chinese languages such as Cantonese and Hokkien, and thus the stereotype of older Chinese folk being unable to pronounce /r/ properly. The English term is in turn a direct calque from Chinese."
+    },
+    "fork and spoon": {
+        "word": "fork and spoon",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "fork",
+                "romanization": "",
+                "lit": "tined utensil used for eating"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "spoon",
+                "romanization": "",
+                "lit": "utensil used to scoop food"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military, dated) the symbol of the Infantry of the SAF, which used to be a pair of rifles crossed at the barrel, and is now a pair of daggers with crossing blades. The name is due to the passing similarity between the logo and a pair of crossed eating utensils."
+                }
+            ]
+        },
+        "related": [
+            "crab"
+        ],
+        "category": [
+            "ns"
+        ],
+        "etyNotes": "In Singapore and many other countries in Asia, most rice-based food is eaten with a fork and spoon, and thus these two are the 'default' eating utensils (unlike most countries in the West, who still awkwardly use a knife and fork)."
     }
 }

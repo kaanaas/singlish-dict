@@ -972,6 +972,10 @@
         "bo tau bo be",
         "bo tao bo be"
     ],
+    "bo tioh": [
+        "bo tioh",
+        "bo tio"
+    ],
     "bo tua bo suey": [
         "bo tua bo suey",
         "bo tua bo suay",
@@ -2164,6 +2168,9 @@
     "drop": [
         "drop"
     ],
+    "drop like grapes": [
+        "drop like grapes"
+    ],
     "dry": [
         "dry"
     ],
@@ -2341,11 +2348,12 @@
         "fly airplane",
         "fly me airplane"
     ],
-    "fly kite": [
-        "fly kite",
-        "go fly kite"
+    "go fly kite": [
+        "go fly kite",
+        "fly kite"
     ],
-    "fly lice": [
+    "flied lice": [
+        "flied lice",
         "fly lice"
     ],
     "fork and spoon": [
@@ -2818,6 +2826,9 @@
         "hiao",
         "heow"
     ],
+    "high ses": [
+        "high ses"
+    ],
     "hilang": [
         "hilang"
     ],
@@ -3162,6 +3173,9 @@
         "kaki lang",
         "ka ki lang",
         "ka ki nang"
+    ],
+    "kaki lima": [
+        "kaki lima"
     ],
     "kalang kabut": [
         "kalang kabut",
@@ -4284,6 +4298,9 @@
     "love letter": [
         "love letter"
     ],
+    "low ses": [
+        "low ses"
+    ],
     "luan": [
         "luan"
     ],
@@ -4590,6 +4607,10 @@
     "mindef": [
         "mindef"
     ],
+    "mm tioh": [
+        "mm tioh",
+        "mm tio"
+    ],
     "mm zai": [
         "mm zai",
         "mm chai",
@@ -4723,6 +4744,9 @@
     ],
     "never": [
         "never"
+    ],
+    "never die before": [
+        "never die before"
     ],
     "new bird": [
         "new bird"
@@ -4860,6 +4884,9 @@
     "old bird": [
         "old bird"
     ],
+    "old flower": [
+        "old flower"
+    ],
     "on": [
         "on",
         "ons",
@@ -4991,6 +5018,10 @@
         "orbiquek",
         "or bi quek"
     ],
+    "orbit": [
+        "orbit",
+        "obit"
+    ],
     "ord": [
         "ord"
     ],
@@ -5028,6 +5059,10 @@
     ],
     "outside food": [
         "outside food"
+    ],
+    "over": [
+        "over",
+        "-over"
     ],
     "owadio": [
         "owadio",
@@ -5863,19 +5898,19 @@
         "see me up",
         "see up me"
     ],
+    "see no up": [
+        "see no up"
+    ],
     "see see look look": [
         "see see look look",
         "see-see-look-look",
         "see-see look-look"
     ],
-    "see what see": [
-        "see what see"
-    ],
-    "see no up": [
-        "see no up"
-    ],
     "see up": [
         "see up"
+    ],
+    "see what see": [
+        "see what see"
     ],
     "seh": [
         "seh",
@@ -5907,6 +5942,9 @@
     ],
     "senget": [
         "senget"
+    ],
+    "ses": [
+        "ses"
     ],
     "sg": [
         "sg"
@@ -6785,6 +6823,10 @@
         "tio be pio",
         "tioh be pio"
     ],
+    "tioh bo": [
+        "tioh bo",
+        "tio bo"
+    ],
     "tiong": [
         "tiong"
     ],
@@ -6884,6 +6926,10 @@
         "two-stripe general",
         "2 stripe general",
         "two stripe general"
+    ],
+    "uh uh siol": [
+        "uh uh siol",
+        "ah ah siol"
     ],
     "ular": [
         "ular"
@@ -7208,6 +7254,14 @@
         "zha",
         "zhat"
     ],
+    "zhng": [
+        "zhng",
+        "chng",
+        "tsng",
+        "zheng",
+        "zng",
+        "zeng"
+    ],
     "zho pai lang": [
         "cho pai lang",
         "cho phai lang",
@@ -7243,51 +7297,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "high ses": [
-        "high ses"
-    ],
-    "low ses": [
-        "low ses"
-    ],
-    "ses": [
-        "ses"
-    ],
-    "bo tioh": [
-        "bo tioh",
-        "bo tio"
-    ],
-    "mm tioh": [
-        "mm tioh",
-        "mm tio"
-    ],
-    "never die before": [
-        "never die before"
-    ],
-    "old flower": [
-        "old flower"
-    ],
-    "-over": [
-        "-over",
-        "over"
-    ],
-    "zhng": [
-        "zhng",
-        "chng",
-        "tsng",
-        "zheng",
-        "zng",
-        "zeng"
-    ],
-    "drop like grapes": [
-        "drop like grapes"
-    ],
-    "orbit": [
-        "orbit",
-        "obit"
-    ],
-    "uh uh siol": [
-        "uh uh siol",
-        "ah ah siol"
     ]
 }

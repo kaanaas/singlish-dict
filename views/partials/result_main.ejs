@@ -256,11 +256,19 @@
 
         <!-- ety notes -->
         <% if(word.hasOwnProperty("etyNotes")){ %>
-            <% if(word.etyNotes.length> 0){ %>
-                <div class="details ety-notes-div" id="ety-notes<%= variant %>" style = "display: none; visibility: hidden">
+            <% if(word.etyNotes.length > 0){ %>
+                <div class="details ety-notes-div" id="ety-notes<%= variant %>" style="display: none; visibility: hidden">
                     <h3 class="ety-notes-leader">etymology notes</h3>
                     <p class="text cn-fallback"><%- formatDyno(word.etyNotes) %></p>
                 </div>
+            <% } %>
+
+            <% if(word.hasOwnProperty("ngram")){ %>
+                <% if(word.ngram.length > 0){ %>
+                <div class="ngram" id="ngram<%= variant %>" style="height: 0; visibility: hidden">
+                    <iframe name="ngram_chart" allowtransparency="true" src="<%- word.ngram %>" marginwidth="0" marginheight="0" hspace="1" vspace="1" frameborder="1" scrolling="yes"></iframe>
+                </div>
+                <% } %>
             <% } %>
         <% } %>
         <% } %>
@@ -286,6 +294,7 @@
         const orthoContainer = document.getElementById(`ortho-container${v}`);
         const extContainer = document.getElementById(`ext-container${v}`);
         const etyNotes = document.getElementById(`ety-notes${v}`);
+        const ngram = document.getElementById(`ngram${v}`);
         etyBtn.blur();
         if(orthoContainer.name == "hide"){
             orthoContainer.style = "display: flex; visibility: visible";
@@ -293,6 +302,7 @@
             orthoContainer.name = "show";
             extContainer.name = "hide";
             if(etyNotes) etyNotes.style = "display: none; visibility: hidden";
+            if(ngram) ngram.style = "height: 0; visibility: hidden; margin: 0;";
             etyTtip.innerHTML = "Detailed etymology";
             etyBtn.style = "transform: rotate(0)";
             // etyExpandText.style = "color:#6d946d";
@@ -303,6 +313,7 @@
             orthoContainer.name = "hide";
             extContainer.name = "show";
             if (etyNotes) etyNotes.style = "display: block; visibility: visible";
+            if (ngram) ngram.style = "height: 12.5em; visibility: visible; margin: 1em 1em 1.5em .5em;";
             etyTtip.innerHTML = "Collapse details";
             etyBtn.style = "transform: rotate(0.5turn)";
             // etyExpandText.style = "color:#951818";
