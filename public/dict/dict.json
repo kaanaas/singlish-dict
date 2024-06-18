@@ -532,6 +532,10 @@
         "ar-able",
         "arable"
     ],
+    "armskote": [
+        "armskote",
+        "armscote"
+    ],
     "arrow": [
         "arrow"
     ],
@@ -2342,19 +2346,15 @@
         "five-foot way",
         "five foot way"
     ],
+    "flied lice": [
+        "flied lice",
+        "fly lice"
+    ],
     "fly aeroplane": [
         "fly aeroplane",
         "fly me aeroplane",
         "fly airplane",
         "fly me airplane"
-    ],
-    "go fly kite": [
-        "go fly kite",
-        "fly kite"
-    ],
-    "flied lice": [
-        "flied lice",
-        "fly lice"
     ],
     "fork and spoon": [
         "fork and spoon"
@@ -2381,7 +2381,14 @@
     "ga dai": [
         "ga dai",
         "kah dai",
-        "ka dai"
+        "ka dai",
+        "ka tai"
+    ],
+    "ga ga dai": [
+        "ga ga dai",
+        "kah kah dai",
+        "ka ka dai",
+        "ka ka tai"
     ],
     "gabra": [
         "gabra"
@@ -2455,6 +2462,10 @@
     ],
     "glam": [
         "glam"
+    ],
+    "go fly kite": [
+        "go fly kite",
+        "fly kite"
     ],
     "goblok": [
         "goblok",
@@ -2782,6 +2793,9 @@
     ],
     "heaty": [
         "heaty"
+    ],
+    "heck": [
+        "heck"
     ],
     "heck care": [
         "heck care"
@@ -6163,6 +6177,10 @@
         "siu dai",
         "siew dai"
     ],
+    "siu siu dai": [
+        "siu siu dai",
+        "siew siew dai"
+    ],
     "smart 4": [
         "smart 4",
         "smart four"
@@ -6597,7 +6615,12 @@
     "tau pei": [
         "tau pei",
         "taupei",
-        "tau pey"
+        "tau pey",
+        "tau pay",
+        "tau puay",
+        "tau phuay",
+        "tau phoe",
+        "tau puey"
     ],
     "tau pok": [
         "tau pok",

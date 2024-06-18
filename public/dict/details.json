@@ -20703,7 +20703,9 @@
                     "definition": "(vulgar, with <i><b>go</b></i>) get lost; go away; piss off.",
                     "example": "",
                     "exampleSource": "",
-                    "synonyms": false,
+                    "synonyms": [
+                        "go fly kite"
+                    ],
                     "antonyms": false
                 }
             ]
@@ -33651,7 +33653,10 @@
             "expression": [
                 {
                     "definition": "(idiom, rude) used to tell someone who is being annoying to go away; 'get lost'; 'go to hell'",
-                    "example": "- You know ah, you'd be less stressed if you actually did something about your problems instead of whining to us about them.<br>- Eh, go fly kite lah!"
+                    "example": "- You know ah, you'd be less stressed if you actually did something about your problems instead of whining to us about them.<br>- Eh, go fly kite lah!",
+                    "synonyms": [
+                        "go fuck spider"
+                    ]
                 }
             ]
         },
@@ -33742,5 +33747,933 @@
             "ns"
         ],
         "etyNotes": "In Singapore and many other countries in Asia, most rice-based food is eaten with a fork and spoon, and thus these two are the 'default' eating utensils (unlike most countries in the West, who still awkwardly use a knife and fork)."
+    },
+    "ic@1": {
+        "word": "IC",
+        "related": [
+            "indian chief"
+        ],
+        "usage": "",
+        "category": [
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "Initialism of <i>in-charge</i>. Possibly originated in the military.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "in charge",
+                "romanization": "",
+                "lit": "leading; commanding; responsible for",
+                "etyPath": [],
+                "etyType": [],
+                "etyRoman": [],
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a person responsible for leading, commanding, supervising, delegating etc.; a person-in-charge",
+                    "example": "Irfan was appointed as the cookhouse IC, which made him feel like he was a big shot with a burden of responsibility, but really his job was just to make sure people scanned their @{11B}s when they queued up.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "ic@2": {
+        "word": "IC",
+        "related": [
+            "pink IC",
+            "11B"
+        ],
+        "usage": "",
+        "category": [
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "Initialism of <i>identity card</i>. Also used in English in some regions, as an alternative for e.g. <i>ID</i> or <i>ID card</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "identity card",
+                "romanization": "",
+                "lit": "small official document used to contain a person’s particulars, information, etc.",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "identity",
+                    "card"
+                ],
+                "etyLit": [
+                    "individual details e.g. name, by which one is recognized",
+                    "flat, stiff, usually rectangular piece of plastic, paper, etc."
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a card issued to every citizen, permanent resident, work pass holder, etc. which holds information such as a photograph, name, @{NRIC} number, date of birth, race, etc.",
+                    "example": "Carlos was overjoyed to finally receive his IC as a new Singaporean citizen, after a long and complicated application process.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "NRIC"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "ikan bilis": {
+        "word": "ikan bilis",
+        "related": [
+            "ikan"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ikan bilis",
+                "romanization": "",
+                "lit": "anchovies; (culinary) archived that are dried and usually fried or used to make stock",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "ikan",
+                    "bilis"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "fish",
+                    "small; delicate"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a very small marine fish of the family Engraulidae (anchovies)",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "the same fish used as an an ingredient in cooking, usually prepared by steaming or boiling then air-drying. It may be fried and used a topping or condiment to provide a kick of umami and crunchy texture, such as in @{nasi lemak} and @{bak chor mee}, or used to make stock.",
+                    "example": "Researchers from the Singapore Institute of Clinical Sciences (SICS) said that whole ikan bilis found at hawker stalls, like nasi lemak vendors, are healthier than the “cleaned” anchovies ― where the head and bones are removed ― sold at supermarkets and upscale eateries.",
+                    "exampleSource": "2015 May 30, Kamles Kumar. Malay Mail, \"Study: Ikan bilis is good for you, but don’t clean them\". https://www.malaymail.com/amp/news/malaysia/2015/05/30/study-ikan-bilis-is-good-for-you-but-dont-clean-them/905995",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "indian chief": {
+        "word": "Indian chief",
+        "related": [],
+        "usage": "Dated and possibly considered derogatory.",
+        "category": [
+            "ns"
+        ],
+        "phonetics": "",
+        "etyNotes": "#{poss} Possibly intentionally chosen as a backronym from @{IC}, in the sense of 'person-in-charge'.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "Indian",
+                "romanization": "",
+                "lit": "of or relating to indigenous Americans",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "chief",
+                "romanization": "",
+                "lit": "leader; head; boss",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military, dated) an appointed leader of a group of soldiers, such as a section commander.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "ice ball": {
+        "word": "ice ball",
+        "related": [
+            "ice kacang"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ice",
+                "romanization": "",
+                "lit": "the solid form of water; H<sub>2</sub>O(s)"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ball",
+                "romanization": "",
+                "lit": "roughly spherical object"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional dessert consisting of shaved ice packed into a roughly fist-sized ball, drenched with colourful, sweet syrup. Historically, the ball was then held in the hands and eaten before it melted. Due to reasons including hygiene concerns, it has largely been displaced in Singapore by @{ice kacang}, which probably arose around the same time.^{1} Still, it can still be found elsewhere in the region, such as in Malaysia (albeit served in bowls for hygiene).",
+                    "example": "The vendor would shape the shavings into an ice ball using his bare hands, and make a depression in the ice ball with an index finger to make space for the fillings. … To save money, children would sometimes request the vendor to halve the ice ball for sharing. They would hold the ice ball in their hands and slurp it, leaving a sticky mess of melted ice and syrup and staining their clothes.",
+                    "exampleSource": "2022 January, Janice Loo. NLB. Singapore Infopedia - Ice kachang and ice ball",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=e37d12b1-fbe4-4cd1-b0e7-25b9b646e888",
+                "name": "2022 January, Janice Loo. NLB. Singapore Infopedia - Ice kachang and ice ball"
+            }
+        ]
+    },
+    "ice kacang": {
+        "word": "ice kacang",
+        "related": [
+            "ice ball"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ice",
+                "romanization": "",
+                "lit": "the solid form of water; H<sub>2</sub>O(s)"
+            },
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "kacang",
+                "romanization": "",
+                "lit": "bean; nut"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional dessert consisting of a mountain of shaved ice over various sweet condiments, such as sweetened red beans (the eponymous @{kacang}), jelly, sweetcorn, @{attap chee}, etc., all drenched in colourful, sweet syrup. It may also include additional toppings over the ice, with popular ingredients including @{durian} and ice cream. <br>Traditionally, the shaved ice is produced using a hand-crunk machine into which a large block of ice is loaded. It was usually sold by the same vendor selling @{ice balls|ice ball}.^{1}",
+                    "example": "We’ve seen ice kacang topped with durian, even peanuts — but chocolate syrup and sprinkles are new to us.",
+                    "exampleSource": "2023 December 16, Gwyn Lim. 8days, \"Hershey’s Chocolate Ice Kacang With Colourful Sprinkles Found At Clementi Hawker Stall. https://www.8days.sg/eatanddrink/hawkerfood/hersheys-chocolate-ice-kacang-colourful-sprinkles-found-clementi-hawker-stall-828-hot-and-cold-dessert-823581",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=e37d12b1-fbe4-4cd1-b0e7-25b9b646e888",
+                "name": "2022 January, Janice Loo. NLB. Singapore Infopedia - Ice kachang and ice ball"
+            }
+        ]
+    },
+    "friend": {
+        "word": "friend",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "friend",
+                "romanization": "",
+                "lit": "a person (other than a family member) who one is affectionate with and enjoys the company of; (archaic) befriend; make friends with"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(transitive) to befriend; to be friends with",
+                    "example": "Why you go and @{pau toh} me? I don't friend you anymore!"
+                }
+            ]
+        },
+        "related": [
+            "ar"
+        ],
+        "usage": "Contrary to popular belief, the Singlish use of <i>friend</i> is not grammatically incorrect in English, but rather just old-fashioned.",
+        "etyNotes": "The verb '<i>to friend</i>' in English, as it is used (or perhaps preserved) in Singlish, is archaic and historied, having been used since at least the 13th century. For example, in Shakespeare's <i>Henry V</i> (Act IV, Scene 5), the Constable of France speaks the line \"<i>Disorder, that hath spoil'd us, <b>friend</b> us now!</i>\". However, this usage had become largely obsolete in modern English by the 20th century, in favour of '<i>to befriend</i>'.<br>This has ironically changed with the onset of the age of social media, where it is now commonly used again - albeit only in the specific sense of adding someone on social media (especially on Facebook, where this newfound use originated). In Singlish, however, the verb sense never left."
+    },
+    "fu yu": {
+        "word": "fu yu",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "腐乳",
+                "traditional": "腐乳",
+                "roman": "fu6 jyu5",
+                "romanization": "",
+                "lit": "fermented tofu"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a fermented tofu product used in Chinese cuisine"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "fu chuk": {
+        "word": "fu chuk",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "腐竹",
+                "traditional": "腐竹",
+                "roman": "fu6 zuk1",
+                "romanization": "",
+                "lit": "dried tofu skin",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "豆腐",
+                    "竹"
+                ],
+                "etyTrad": [
+                    "豆腐",
+                    "竹"
+                ],
+                "etyRoman": [
+                    "dau6 fu6",
+                    "zuk1"
+                ],
+                "etyLit": [
+                    "tofu",
+                    "bamboo"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "dried strips of tofu skin, used in Chinese cuisine",
+                    "example": "Fried ‘fu chuk’ skin and ‘sui kow’ in curry go together like cookies and milk.",
+                    "exampleSource": "2023 May 28, Ethan Lau. Malay Mail, \"Rediscovering a childhood favourite in curry 'chee cheong fun' from Damansara Utama’s Lighthouse Street Food\". https://www.malaymail.com/news/eat-drink/2023/05/28/rediscovering-a-childhood-favourite-in-curry-chee-cheong-fun-from-damansara-utamas-lighthouse-street-food/71307",
+                    "synonyms": [
+                        "tau kee",
+                        "tau pei"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "#{poss} Possibly due to how the rolled-up sheets of fu chuk resemble bamboo stems.",
+        "category": [
+            "cuisine"
+        ]
+    },
+    "tau pei": {
+        "word": "tau pei",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "腐皮",
+                "traditional": "腐皮",
+                "roman": "tāu-phôe/phê",
+                "romanization": "",
+                "lit": "dried tofu skin",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "豆",
+                    "皮"
+                ],
+                "etyTrad": [
+                    "豆",
+                    "皮"
+                ],
+                "etyRoman": [
+                    "tāu",
+                    "phôe/phê"
+                ],
+                "etyLit": [
+                    "bean",
+                    "skin"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "dried strips of tofu skin, used in Chinese cuisine",
+                    "synonyms": [
+                        "tau kee",
+                        "fu chuk"
+                    ]
+                }
+            ]
+        },
+        "usage": "Less common synonym for @{tau kee}.",
+        "category": [
+            "cuisine"
+        ]
+    },
+    "tau kee": {
+        "word": "tau kee",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "腐枝",
+                "traditional": "腐枝",
+                "roman": "tāu-ki",
+                "romanization": "",
+                "lit": "dried tofu skin",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "豆",
+                    "枝"
+                ],
+                "etyTrad": [
+                    "豆",
+                    "枝"
+                ],
+                "etyRoman": [
+                    "tāu",
+                    "ki"
+                ],
+                "etyLit": [
+                    "bean",
+                    "branch; stick"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "dried strips of tofu skin, used in Chinese cuisine",
+                    "example": "Tao Kee is a fantastic meat alternative, soaking up rich umami flavors from soy sauce and mushrooms in Chinese stocks.",
+                    "exampleSource": "Freshstop.sg, \"Tau Kee\". https://freshstop.sg/products/tao-kee",
+                    "synonyms": [
+                        "tau pei",
+                        "fu chuk"
+                    ]
+                }
+            ]
+        },
+        "usage": "Less common synonym for @{tau kee}.",
+        "category": [
+            "cuisine"
+        ]
+    },
+    "fuck": {
+        "word": "fuck",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "fuck",
+                "romanization": "",
+                "lit": "(vulgar) have sex with; screw over; contemptible person; expn. of surprise, dismay, anger, etc.; intensifier"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(vulgar) to scold; to severely reprimand",
+                    "example": "The sergeant fuck him for returning his mag to the @{armskote} with three live rounds still inside. What a @{blur cock}!",
+                    "synonyms": [
+                        "kan"
+                    ]
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "(vulgar) negating intensifier, implying an absolute lack of something, wantonness, and a lack of concern",
+                    "example": "Once he handed in his notice, you can see he @{fuck care} work already.",
+                    "synonyms": [
+                        "heck"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(vulgar) a contemptible person; especially used in the phrase @{big fuck}.",
+                    "synonyms": [
+                        "cock",
+                        "chee bai",
+                        "babi",
+                        "cock fella",
+                        "cockster",
+                        "cockanathan"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "vulgar"
+        ]
+    },
+    "heck": {
+        "word": "heck",
+        "related": [
+            "heck care"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "heck",
+                "romanization": "",
+                "lit": "(euphemistic, slightly vulgar) minced oath of <i>hell</i>",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "hell"
+                ],
+                "etyLit": [
+                    "(slightly vulgar) intensifier; general swear word; place of eternal suffering and torment"
+                ]
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "(slightly vulgar) negating intensifier, implying an absolute lack of something, wantonness, and a lack of concern",
+                    "synonyms": [
+                        "fuck"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "vulgar"
+        ]
+    },
+    "heck care": {
+        "word": "heck care",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "heck",
+                "romanization": "",
+                "lit": "(euphemistic, slightly vulgar) minced oath of <i>hell</i>",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "hell"
+                ],
+                "etyLit": [
+                    "(slightly vulgar) intensifier; general swear word; place of eternal suffering and torment"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "care",
+                "romanization": "",
+                "lit": "bother about; be concerned with; mind; worry about"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(slightly vulgar) to not care in the slightest about; to not give a damn",
+                    "example": "Heck care the script, we can just @{anyhowly} wing it on the day lah.",
+                    "synonyms": [
+                        "fuck care"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(slightly vulgar) not caring in the slightest about; not giving a damn",
+                    "example": "If you keep doing things in such a heck care manner, you'll never learn to do it properly.",
+                    "synonyms": [
+                        "fuck care"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(slightly vulgar) exclamation indicating that one cannot be bothered about something; 'who gives a damn?'",
+                    "example": "Why I need to follow politics, so boring. Just @{chin chai} vote, in the end PAP also win mah. Heck care la!",
+                    "synonyms": [
+                        "fuck care"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "vulgar"
+        ]
+    },
+    "fuck care": {
+        "word": "fuck care",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "fuck",
+                "romanization": "",
+                "lit": "(vulgar) have sex with; screw over; contemptible person; expn. of surprise, dismay, anger, etc.; intensifier"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "care",
+                "romanization": "",
+                "lit": "bother about; be concerned with; mind; worry about"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(vulgar) to not care in the slightest about; to not give a damn",
+                    "example": "@{Aiyah}, no one will notice that small small one lah, just fuck care it.",
+                    "synonyms": [
+                        "heck care"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(vulgar) not caring in the slightest about; not giving a damn",
+                    "example": "The CSM gave him an earful for his fuck care attitude during the course.",
+                    "synonyms": [
+                        "heck care"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(vulgar) exclamation indicating that one cannot be bothered about something; 'who gives a damn?'",
+                    "example": "Fuck care! Not my @{tai chi}.",
+                    "synonyms": [
+                        "heck care"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "vulgar"
+        ]
+    },
+    "armskote": {
+        "word": "armskote",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "armskote",
+                "romanization": "",
+                "lit": "(mil.) armoury; room where weapons and ammunition are stored",
+                "etyPath": [
+                    "english",
+                    "old french",
+                    "latin",
+                    "punjabi / hindustani",
+                    "sanskrit"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+",
+                    ""
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "",
+                    "* ਕੋਟ / कोट",
+                    "कोट्ट/कोट"
+                ],
+                "etyRoman": [
+                    "arms",
+                    "armes",
+                    "arma",
+                    "koṭ",
+                    "koṭṭa/koṭa"
+                ],
+                "etyLit": [
+                    "weapons",
+                    "weapons",
+                    "weapons",
+                    "fort; castle; fortress",
+                    "fort; stronghold"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) an armoury; a room where weapons and ammunition are stored",
+                    "example": "In particular, one of the most stressful changes has been my appointment as an Armskote IC. ... it basically means that I'm one of the three sorry sods who has to take care of the weapons and ammo.",
+                    "exampleSource": "Fang.tk, \"May 14: Pain, Pride, Pressure\". https://fangtk.tripod.com/Site/Archive/week130.htm"
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ],
+        "etyNotes": "* Most likely, but could also have come from a number of other Indian languages, e.g. Gujarati. The Sanskrit term is ultimately borrowed from some Dravidian language.<br>Commonly used in the British Armed Forces and some other militaries of Commonwealth countries.",
+        "references": [
+            {
+                "link": "https://www.wisdomlib.org/definition/kotta",
+                "name": "Wisdom Library - Kotta"
+            }
+        ]
+    },
+    "ga dai": {
+        "word": "ga dai",
+        "related": [
+            "kosong"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese / hokkien",
+                "simplified": "加",
+                "traditional": "加",
+                "roman": "gaa1 / ka",
+                "romanization": "jyutping",
+                "lit": "add; increase"
+            },
+            {
+                "lang": "cantonese",
+                "simplified": "底",
+                "traditional": "底",
+                "roman": "dai2",
+                "romanization": "",
+                "lit": "bottom; base"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) more sweet; with extra sugar",
+                    "antonyms": [
+                        "siu dai",
+                        "kosong"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "drinks"
+        ],
+        "usage": "'<i>Ga</i>' can be reduplicated (@{ga ga dai}) to ask for an even sweeter drink.",
+        "etyNotes": "Refers to the 'base layer' of sweetened condensed milk (which is albeit not necessarily added into the drinking vessel before the drink's other components are poured in); hence, 'adding base' came to mean increasing the drink's sweetness. Today, this is sometimes done by adding more sugar, which is ironically usually done at the end of the drink-making process instead."
+    },
+    "ga ga dai": {
+        "word": "ga ga dai",
+        "related": [
+            "kosong"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese / hokkien",
+                "simplified": "加",
+                "traditional": "加",
+                "roman": "gaa1 / ka",
+                "romanization": "jyutping",
+                "lit": "add; increase"
+            },
+            {
+                "lang": "cantonese",
+                "simplified": "底",
+                "traditional": "底",
+                "roman": "dai2",
+                "romanization": "",
+                "lit": "bottom; base"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) extremely sweet; with extra extra sugar",
+                    "antonyms": [
+                        "siu siu dai",
+                        "kosong"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "drinks"
+        ],
+        "usage": "Even sweeter than @{ga dai}.",
+        "etyNotes": "Refers to the 'base layer' of sweetened condensed milk (which is albeit not necessarily added into the drinking vessel before the drink's other components are poured in); hence, 'adding base' came to mean increasing the drink's sweetness. Today, this is sometimes done by adding more sugar, which is ironically usually done at the end of the drink-making process instead."
+    },
+    "siu dai": {
+        "word": "siu dai",
+        "related": [
+            "kosong"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "少",
+                "traditional": "少",
+                "roman": "siu2",
+                "romanization": "jyutping",
+                "lit": "less; little; reduce"
+            },
+            {
+                "lang": "cantonese",
+                "simplified": "底",
+                "traditional": "底",
+                "roman": "dai2",
+                "romanization": "",
+                "lit": "bottom; base"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) less sweet; with less sugar",
+                    "example": "“I like coffee better.” He smiled. “Kopi-O siew dai.”",
+                    "exampleSource": "2005, Low Kay Hwa. \"I Believe You\". ISBN: 9789810536206",
+                    "antonyms": [
+                        "ga dai"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "drinks"
+        ],
+        "usage": "'<i>Siu</i>' can be reduplicated (@{siu siu dai}) to ask for a drink that is even less sweet.",
+        "etyNotes": "Refers to the 'base layer' of sweetened condensed milk (which is albeit not necessarily added into the drinking vessel before the drink's other components are poured in); hence, 'less base' came to mean decreasing the drink's sweetness. Today, this is sometimes done by adding less sugar, which is ironically usually done at the end of the drink-making process instead."
+    },
+    "siu siu dai": {
+        "word": "siu siu dai",
+        "related": [
+            "kosong"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "少",
+                "traditional": "少",
+                "roman": "siu2",
+                "romanization": "jyutping",
+                "lit": "less; little; reduce"
+            },
+            {
+                "lang": "cantonese",
+                "simplified": "底",
+                "traditional": "底",
+                "roman": "dai2",
+                "romanization": "",
+                "lit": "bottom; base"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) barely sweetened; with very little sugar",
+                    "antonyms": [
+                        "ga ga dai"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "drinks"
+        ],
+        "usage": "Even less sweet than @{siu dai}.",
+        "etyNotes": "Refers to the 'base layer' of sweetened condensed milk (which is albeit not necessarily added into the drinking vessel before the drink's other components are poured in); hence, 'less base' came to mean decreasing the drink's sweetness. Today, this is sometimes done by adding less sugar, which is ironically usually done at the end of the drink-making process instead."
     }
 }
