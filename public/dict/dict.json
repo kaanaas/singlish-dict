@@ -2250,6 +2250,9 @@
         "ey sai bo",
         "eh sai boh"
     ],
+    "elephant": [
+        "elephant"
+    ],
     "else what": [
         "else what"
     ],
@@ -2378,6 +2381,10 @@
         "fuck spider",
         "go fuck spider"
     ],
+    "fuck upside down": [
+        "fuck upside down",
+        "fuck upside-down"
+    ],
     "ga dai": [
         "ga dai",
         "kah dai",
@@ -2398,9 +2405,6 @@
     ],
     "gabra like zebra": [
         "gabra like zebra"
-    ],
-    "gado gado": [
-        "gado gado"
     ],
     "gahmen": [
         "gahmen"
@@ -3191,11 +3195,6 @@
     "kaki lima": [
         "kaki lima"
     ],
-    "kalang kabut": [
-        "kalang kabut",
-        "kalang kabok",
-        "kelam kabut"
-    ],
     "kali pok": [
         "kali pok",
         "kalipok",
@@ -3446,6 +3445,16 @@
         "gei yan",
         "kuay yan",
         "kueh yan"
+    ],
+    "kelam kabut": [
+        "kelam kabut",
+        "kelam-kabut",
+        "kalam-kabut",
+        "kalam kabut",
+        "kelang-kabut",
+        "kelang kabut",
+        "kalang kabut",
+        "kalang kabok"
     ],
     "keling": [
         "keling",
@@ -4041,9 +4050,9 @@
         "lauyah",
         "lau yah"
     ],
-    "lapsap": [
-        "lapsap",
+    "lap sap": [
         "lap sap",
+        "lapsap",
         "lup sup",
         "lap sam",
         "lup sam"

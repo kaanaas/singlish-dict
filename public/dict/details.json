@@ -9580,7 +9580,8 @@
                         "ti ko",
                         "cheeko pek",
                         "ti ko pek",
-                        "ham sap"
+                        "ham sap",
+                        "lup sup"
                     ]
                 }
             ]
@@ -9596,7 +9597,8 @@
             "action",
             "aksi borak",
             "ang moh tua kee",
-            "yaya"
+            "yaya",
+            "fuck"
         ],
         "category": [
             "insults",
@@ -10386,14 +10388,7 @@
                 "simplified": "",
                 "roman": "like",
                 "romanization": "",
-                "lit": "just as; such as; similar to",
-                "etyPath": false,
-                "etyType": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "just as; such as; similar to"
             },
             {
                 "lang": "malay",
@@ -10401,14 +10396,7 @@
                 "simplified": "",
                 "roman": "sotong",
                 "romanization": "",
-                "lit": "squid; cuttlefish",
-                "etyPath": false,
-                "etyType": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "squid; cuttlefish"
             }
         ],
         "meanings": {
@@ -12154,6 +12142,8 @@
                     "exampleSource": "@comm",
                     "synonyms": [
                         "luan",
+                        "rabak",
+                        "kelam kabut",
                         "anyhow"
                     ],
                     "antonyms": []
@@ -20374,20 +20364,13 @@
                 "simplified": "色",
                 "roman": "sè",
                 "romanization": "pinyin",
-                "lit": "colour; (suffix) -coloured",
-                "etyPath": false,
-                "etyType": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lit": "colour; (suffix) -coloured"
             }
         ],
         "meanings": {
             "adjective": [
                 {
-                    "definition": "(suffix particle) -coloured; used after the name of a colour to form an adjective phrase for that colour",
+                    "definition": "(postpositive) -coloured; used after the name of a colour to form an adjective phrase for that colour",
                     "example": "My tie is that yellow colour one.",
                     "exampleSource": "@comm",
                     "synonyms": false,
@@ -20840,7 +20823,8 @@
                         "ti ko",
                         "cheeko pek",
                         "ti ko pek",
-                        "bian tai"
+                        "bian tai",
+                        "lup sup"
                     ]
                 }
             ],
@@ -21301,7 +21285,10 @@
         "related": [
             "gabra like zebra"
         ],
-        "etyNotes": "An alteration of <i>zebra</i>",
+        "category": [
+            "nature"
+        ],
+        "etyNotes": "Alteration of <i>zebra</i>.",
         "origin": [
             {
                 "lang": "english",
@@ -21309,7 +21296,7 @@
                 "simplified": "",
                 "roman": "zebra",
                 "romanization": "",
-                "lit": "zebra (hippotigris spp.)",
+                "lit": "zebra (Hippotigris spp.)",
                 "etyPath": [
                     "italian",
                     "old portuguese",
@@ -21333,11 +21320,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "zebra",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "zebra (a member of the genus <i>Hippotigris</i>)"
                 }
             ]
         }
@@ -22469,8 +22452,7 @@
         "related": [
             "anyhow whack",
             "chin chai",
-            "gabra",
-            "rabak"
+            "gabra"
         ],
         "origin": [
             {
@@ -22494,7 +22476,10 @@
                     "definition": "disorderly; confused; haphazard",
                     "example": "",
                     "exampleSource": "",
-                    "synonyms": false,
+                    "synonyms": [
+                        "kelam kabut",
+                        "rabak"
+                    ],
                     "antonyms": false
                 },
                 {
@@ -25372,7 +25357,11 @@
         "meanings": {
             "adjective": [
                 {
-                    "definition": "messed up; gone out of hand; in a state of havoc"
+                    "definition": "messed up; gone out of hand; in a state of havoc",
+                    "synonyms": [
+                        "kelam kabut",
+                        "luan"
+                    ]
                 },
                 {
                     "definition": "terrible; poor; bad",
@@ -34266,7 +34255,8 @@
                     "definition": "(vulgar) to scold; to severely reprimand",
                     "example": "The sergeant fuck him for returning his mag to the @{armskote} with three live rounds still inside. What a @{blur cock}!",
                     "synonyms": [
-                        "kan"
+                        "kan",
+                        "fuck upside down"
                     ]
                 }
             ],
@@ -34295,6 +34285,61 @@
         },
         "category": [
             "vulgar"
+        ]
+    },
+    "fuck upside down": {
+        "word": "fuck upside down",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "fuck",
+                "romanization": "",
+                "lit": "(vulgar) scold; severely reprimand",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "fuck"
+                ],
+                "etyLit": [
+                    "(vulgar) have sex with; screw over; contemptible person; expn. of surprise, dismay, anger, etc.; intensifier"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "upside down",
+                "romanization": "",
+                "lit": "inverted; oriented such that the top is at the bottom",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "up so down"
+                ],
+                "etyLit": [
+                    "oriented such that the 'up' is 'down'; (lit.) 'up as down'"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(vulgar) to scold; to severely reprimand",
+                    "example": "The @{towkay} fuck him upside down for screwing up a huge deal that the company's future depended upon.",
+                    "synonyms": [
+                        "kan",
+                        "fuck"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "vulgar",
+            "sayings"
         ]
     },
     "heck": {
@@ -34675,5 +34720,629 @@
         ],
         "usage": "Even less sweet than @{siu dai}.",
         "etyNotes": "Refers to the 'base layer' of sweetened condensed milk (which is albeit not necessarily added into the drinking vessel before the drink's other components are poured in); hence, 'less base' came to mean decreasing the drink's sweetness. Today, this is sometimes done by adding less sugar, which is ironically usually done at the end of the drink-making process instead."
+    },
+    "idiyappam": {
+        "word": "idiyappam",
+        "related": [
+            "appam"
+        ],
+        "usage": "Tamil name for @{putu mayam}.",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "Also written in Tamil as இடியாப்பம், iṭiyāppam.",
+        "origin": [
+            {
+                "lang": "tamil",
+                "simplified": "இடியப்பம்",
+                "traditional": "",
+                "roman": "iṭiyappam",
+                "romanization": "",
+                "lit": "South Indian rice vermicelli; string hoppers",
+                "etyPath": [
+                    "tamil",
+                    "tamil"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "இடி",
+                    "அப்பம்"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "iṭi",
+                    "appam"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "flour",
+                    "rice flour cake; appam; bread"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a South Indian type of steamed rice vermicelli; string hoppers. It may be eaten with curry, sugar, grated coconut, @{gula melaka}, etc.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "putu mayam"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "putu mayam": {
+        "word": "putu mayam",
+        "related": [
+            "appam"
+        ],
+        "usage": "Malay-Tamil name for @{idiyappam}.",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "While the term <i>mayam</i> exists in Malay, it refers to a unit of weight for gold, and the general consensus is that it has nothing to do with the dish.<br>#{dubious} Some sources say that <i>mayang</i> is a word for grated coconut, referring to it being a usual topping for the dish.^{2} However, both PRPM and the Collins GEM Malay dictionaries do not have this definition, and list it as meaning 'a palm flower' or 'palm inflorescence/panicle'. PRPM additionally suggests the meaning of a curly or wavy hairstyle, or a tangle of hair,^{1} a reference to the <i>ikal mayang</i> hairstyle. Hence, it may also be possible that the name came about in reference to the tangly, curled, hair-like appearance of @{idiyappam}.",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "putu",
+                "romanization": "",
+                "lit": "South Indian cylindrical steamed rice cake with grated coconut",
+                "etyPath": [
+                    "tamil"
+                ],
+                "etyScript": [
+                    "புட்டு"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "puṭṭu"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "cylindrical steamed rice cake with grated coconut"
+                ]
+            },
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "mayam",
+                "romanization": "",
+                "lit": "altered pronunciation of 'mayang'",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "mayang"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "still-sheathed coconut flower; tangled, wavy, or curly hair"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a South Indian type of steamed rice vermicelli; string hoppers. It may be eaten with curry, sugar, grated coconut, @{gula melaka}, etc.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://prpm.dbp.gov.my/cari1?keyword=mayang+",
+                "name": "PRPM - mayang"
+            },
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=dbd8a9d1-233c-4456-ae2f-16e3e226c97d",
+                "name": "2016, Bonny Tan. NLB. Singapore Infopedia - Putu mayam"
+            }
+        ]
+    },
+    "kelam kabut": {
+        "word": "kelam kabut",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "kelam-kabut",
+                "romanization": "",
+                "lit": "chaotic; frantic; disorderly; confused"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of a situation) chaotic; messy; disorderly; confused",
+                    "example": "The outdoor rave descended into a kelam-kabut-fest as a sudden downpour opened up upon the partygoers.",
+                    "synonyms": [
+                        "rabak",
+                        "bo tao bo beh",
+                        "luan",
+                        "gabra"
+                    ]
+                }
+            ]
+        }
+    },
+    "gabra": {
+        "word": "gabra",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gelabah",
+                "romanization": "",
+                "lit": "confused; uncertain; frantic; panicked; anxious"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of a person) confused; uncertain; frantic; panicked",
+                    "example": "Barbara would always panic whenever she was put into any decision-making position, leading to her colleagues giving her the unfortunate nickname \"Barbara the Gabra\"."
+                },
+                {
+                    "definition": "(of a situation) chaotic; disorderly; confused",
+                    "synonyms": [
+                        "kelam kabut",
+                        "luan",
+                        "rabak",
+                        "bo tao bo beh"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "blur",
+            "gabra king",
+            "gabra like zebra"
+        ]
+    },
+    "gabra king": {
+        "word": "gabra king",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gabra",
+                "romanization": "",
+                "lit": "confused; uncertain; frantic; panicked; chaotic; disorderly",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "gelabah"
+                ],
+                "etyLit": [
+                    "confused; uncertain; frantic; panicked; anxious"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "traditional": false,
+                "simplified": false,
+                "roman": "king",
+                "romanization": false,
+                "lit": "(suffix, usu. sarcastic or pejorative) the epitome of sth.",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "king"
+                ],
+                "etyLit": [
+                    "(usu. male) the ruler of a monarchy; a powerful or preeminent person"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a person who is always confused, uncertain, frantic, and panicked",
+                    "example": "Just our luck, we got the gabra king sergeant as our sec comm. We're all gonna die..."
+                }
+            ]
+        },
+        "related": [
+            "gabra like zebra"
+        ]
+    },
+    "king": {
+        "word": "king",
+        "origin": [
+            {
+                "lang": "singlish",
+                "traditional": false,
+                "simplified": false,
+                "roman": "king",
+                "romanization": false,
+                "lit": "(suffix, usu. sarcastic or pejorative) the epitome of sth.",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "king"
+                ],
+                "etyLit": [
+                    "(usu. male) the ruler of a monarchy; a powerful or preeminent person"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(usually sarcastic or pejorative) someone that is the epitome of something; someone unbelievably outrageous",
+                    "example": "Wah, so @{relak} ah, come to work in FBT and slipper. Really king sia you.",
+                    "exampleSource": "@comm"
+                }
+            ]
+        },
+        "related": [
+            "bobo king",
+            "blur king",
+            "gabra king",
+            "idle king",
+            "keng king",
+            "mc king",
+            "sabo king",
+            "snake king"
+        ],
+        "category": [
+            "insults"
+        ],
+        "usage": "Usually attached to another word, such as a verb, adjective, or another noun, describing what said person is the 'king' of."
+    },
+    "lap sap": {
+        "word": "lap sap",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "垃圾",
+                "traditional": "垃圾",
+                "roman": "laap6 saap3",
+                "romanization": "",
+                "lit": "garbage; rubbish; dirty",
+                "etyPath": [
+                    "cantonese"
+                ],
+                "etyScript": [
+                    "擸𢶍"
+                ],
+                "etyTrad": [
+                    "擸𢶍"
+                ],
+                "etyRoman": [
+                    "laap6 saap3"
+                ],
+                "etyLit": [
+                    "garbage; rubbish; dirty"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "slovenly; dirty; sleazy",
+                    "example": "Peter became a drifter, whiling away his time and money on the most lap sap nightclubs in town.",
+                    "synonyms": [
+                        "ham sap"
+                    ]
+                },
+                {
+                    "definition": "dirty; sloppy; slobby; unkempt",
+                    "example": "I can't believe he's dressed so lup sup for his own wedding..."
+                }
+            ]
+        },
+        "related": [
+            "cheeko",
+            "ti ko"
+        ],
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "The original characters underwent a convoluted route of simplification that eventually led to the modern simplified ones, a process that left two completely different pronunciations of the term in Mandarin.<br>#{poss} Possibly related to 邋遢, lāta (\"slovenly; dirty; sloppy\"), a borrowing from Manchu ᠯᠠᡨᠠ, lata, which is used as a synonym in many Northern Mandarin dialects as well as Cantonese and several other Chinese languages. However, given the lack of direct etymological evidence, the phonetic and semantic similarities can only suggest a cognate relationship."
+    },
+    "gabra like zebra": {
+        "word": "gabra like zebra",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gabra",
+                "romanization": "",
+                "lit": "confused; uncertain; frantic; panicked; chaotic; disorderly",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "gelabah"
+                ],
+                "etyLit": [
+                    "confused; uncertain; frantic; panicked; anxious"
+                ]
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "like",
+                "romanization": "",
+                "lit": "just as; such as; similar to"
+            },
+            {
+                "lang": "english",
+                "traditional": "",
+                "simplified": "",
+                "roman": "zebra",
+                "romanization": "",
+                "lit": "zebra (Hippotigris spp.)",
+                "etyPath": [
+                    "italian",
+                    "old portuguese",
+                    "vulgar latin"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "zebra",
+                    "ezebrario",
+                    "eciferus"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "zebra",
+                    "wild ass",
+                    "wild horse"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(simile, of a person) extremely confused; uncertain; frantic; panicked; anxious; flustered",
+                    "example": "Aiyah, when this happens, both drivers will gabra like zebra. Then all the goldfish will start to point and stare, very traumatizing for accident victims.",
+                    "exampleSource": "2010 October 20, Dorunrun. mycarforum, \"Drivers TAKE NOTE\". https://www.mycarforum.com/forums/topic/2655179-drivers-take-note/"
+                }
+            ]
+        },
+        "related": [
+            "jibra",
+            "gabra like zebra"
+        ],
+        "category": [
+            "sayings",
+            "insults",
+            "rhyming slang"
+        ],
+        "usage": "Sometimes used together with @{blur like sotong} to describe a person who is equally, hopelessly @{blur} and @{gabra} at the same time."
+    },
+    "gahmen": {
+        "word": "gahmen",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "government",
+                "romanization": "",
+                "lit": "the body ruling or controlling a state, including its people, land, resources, etc., and with the power to enact, pass, and enforce its laws",
+                "etyPath": [
+                    "old french"
+                ],
+                "etyRoman": [
+                    "governement"
+                ],
+                "etyLit": [
+                    "government"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a government (usually the Singaporean government)",
+                    "example": "Walao eh, the bloody gahmen raising GST again. @{Buay tahan}.",
+                    "synonyms": [
+                        "ah kong"
+                    ]
+                }
+            ]
+        },
+        "usage": "Sometimes spelled \"gomen\" in Manglish.",
+        "etyNotes": "Pronunciation spelling of English <i>government</i>. Compare its pronunciation in some English dialects, such as Rhodesian \"govment\"."
+    },
+    "gajah": {
+        "word": "gajah",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gajah",
+                "romanization": "",
+                "lit": "elephant; giant",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "गज"
+                ],
+                "etyRoman": [
+                    "gaja"
+                ],
+                "etyLit": [
+                    "elephant"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) giant; upsized; bigger",
+                    "example": "Facebook user Raymond Seow had shared photos of his Milo drink and the accompanying receipt in a post on Dec 15, along with the caption: \"Damn expensive nowadays!\" ... However, the stall assistant revealed that this was actually 'Milo Gajah' and explained how it came in a bigger cup.",
+                    "exampleSource": "2018 December 19, Cherlynn Ng. STOMP, \"$2.70 cup of 'Milo Elephant' at Tampines coffee shop sparks debate\". https://stomp.straitstimes.com/singapore-seen/270-cup-of-milo-elephant-at-tampines-coffee-shop-sparks-debate",
+                    "synonyms": [
+                        "elephant"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "dinosaur",
+            "godzilla",
+            "king kong"
+        ],
+        "category": [
+            "drinks"
+        ],
+        "usage": "Literally means \"elephant\", as in e.g. <i>@{teh tarik} \"elephant\"</i>, referring to the \"giant\" size of the drink.",
+        "etyNotes": "The Malay sense of 'giant' is the antonym of <i>padi</i> (\"tiny\"), as in @{chilli padi}.<br>Use as a drink modifier likely originated in one of various Indian-Muslim eateries popular around Singapore."
+    },
+    "elephant": {
+        "word": "elephant",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "elephant",
+                "romanization": "",
+                "lit": "large, tusked animal of the order Proboscidea",
+                "type": "c",
+                "etyPath": [
+                    "malay",
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "",
+                    "गज"
+                ],
+                "etyRoman": [
+                    "gajah",
+                    "gaja"
+                ],
+                "etyLit": [
+                    "elephant; giant",
+                    "elephant"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) giant; upsized; bigger",
+                    "example": "When contacted by Shin Min, the 59-year-old stall owner said he started selling Milo Elephants about a year ago due to requests from customers. Business was not affected and customers are welcome to order the regular-sized Milo, he added.",
+                    "exampleSource": "2018 December 19, Cherlynn Ng. STOMP, \"$2.70 cup of 'Milo Elephant' at Tampines coffee shop sparks debate\". https://stomp.straitstimes.com/singapore-seen/270-cup-of-milo-elephant-at-tampines-coffee-shop-sparks-debate",
+                    "synonyms": [
+                        "gajah"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "dinosaur",
+            "godzilla",
+            "king kong"
+        ],
+        "category": [
+            "drinks"
+        ],
+        "usage": "Refers to the \"giant\" size of the upsized drink.",
+        "etyNotes": "Direct calque of Malay <i>gajah</i>. The Malay sense of 'giant' is the antonym of <i>padi</i> (\"tiny\"), as in @{chilli padi}.<br>Use as a drink modifier likely originated in one of various Indian-Muslim eateries popular around Singapore."
+    },
+    "gao dim": {
+        "word": "gao dim",
+        "etyNotes": "Both words, 搞 and 搅/攪, are commonly used to write the phrase, and each one is recommended by different dictionaries.^{1}^{2}",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "搞/搅掂",
+                "traditional": "搞/攪掂",
+                "roman": "gaau2 dim6",
+                "romanization": "",
+                "lit": "complete a task; get sth. done; settle a matter",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "or",
+                    "+"
+                ],
+                "etyScript": [
+                    "搞",
+                    "搅",
+                    "掂"
+                ],
+                "etyTrad": [
+                    "搞",
+                    "攪",
+                    "掂"
+                ],
+                "etyRoman": [
+                    "gaau2",
+                    "gaau2",
+                    "dim6"
+                ],
+                "etyLit": [
+                    "do; make",
+                    "disturb; stir",
+                    "straight; stable; settled; smooth"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to complete a task; to get something done; to finish",
+                    "example": "The faster you gao dim your homework, the faster you can play with your friends!"
+                },
+                {
+                    "definition": "to settle a matter; to resolve a problem or situation",
+                    "example": "If you don't make sure to gao dim everything, you're gonna be in trouble."
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "exclamation expressing that something has been completed well or very satisfactorily; 'it's settled!'; 'done!'",
+                    "example": "Gao dim! Finally! That's a wrap, folks.",
+                    "synonyms": [
+                        "ho seh"
+                    ]
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.cantonese.sheik.co.uk/dictionary/words/47108/",
+                "name": "CantoDict - 攪掂. www.cantonese.sheik.co.uk"
+            },
+            {
+                "link": "https://words.hk/zidin/%E6%90%9E%E6%8E%82",
+                "name": "搞掂 - 廣東話解釋 | 粵典"
+            }
+        ]
     }
 }

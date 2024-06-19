@@ -175,9 +175,15 @@
                                     <% if(word.origin[i].etyType[j-1] == "" || word.origin[i].etyType[j-1] == "-"){ %>
                                     <p class="ortho-origin ortho-arrow">←</p>
                                     <% } else if(word.origin[i].etyType[j-1] == "tx" || word.origin[i].etyType[j-1] == "c"){ %>
-                                    <p class="ortho-origin ortho-arrow">↻</p>
+                                    <p class="ortho-origin ortho-arrow" title="calque or direct translation">↻</p>
                                     <% } else { %>
                                     <p class="ortho-origin ortho-arrow"><%= word.origin[i].etyType[j-1] %></p>
+                                    <% } %>
+                                <% } else if(j == 0 && word.origin[i].type && word.origin[i].type != "") { %>
+                                    <% if(word.origin[i].type == "tx" || word.origin[i].type == "c"){ %>
+                                        <p class="ortho-origin ortho-arrow" title="calque or direct translation">↻</p>
+                                    <% } else { %>
+                                        <p class="ortho-origin ortho-arrow"><%= word.origin[i].type %></p>
                                     <% } %>
                                 <% } else { %>
                                     <p class="ortho-origin ortho-arrow">←</p>
