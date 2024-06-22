@@ -2422,13 +2422,13 @@
     "gasak": [
         "gasak"
     ],
-    "geh kiang": [
+    "keh khiang": [
+        "keh khiang",
+        "geh khiang",
         "geh kiang",
         "keh kiang",
         "gey kiang",
-        "keh khiang",
         "geykiang",
-        "geh khiang",
         "ke khiang",
         "kay kiang"
     ],
@@ -7329,5 +7329,10 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "aiyu jelly": [
+        "aiyu jelly",
+        "aiyu",
+        "ai yu jelly"
     ]
 }

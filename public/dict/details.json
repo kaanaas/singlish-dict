@@ -1869,7 +1869,8 @@
         "related": [
             "ah",
             "ah boy",
-            "ah che"
+            "ah che",
+            "ger"
         ],
         "category": [
             "terms of address"
@@ -1898,7 +1899,9 @@
                     "definition": "term of address or endearment for a young woman or female child who is younger than the speaker. Female equivalent of an @{Ah Boy}.",
                     "example": "Ah Girl, what time you coming home for dinner tonight?",
                     "exampleSource": "@comm",
-                    "synonyms": false,
+                    "synonyms": [
+                        "ger"
+                    ],
                     "antonyms": false
                 }
             ]
@@ -5593,30 +5596,37 @@
                 "lit": "do without necessarily having the requisite knowledge or skills",
                 "etyPath": [
                     "english",
-                    "hokkien"
+                    "hokkien",
+                    "malay"
                 ],
                 "etyType": [
-                    "c"
+                    "tx",
+                    "&"
                 ],
                 "etyScript": [
                     "",
-                    "拍"
+                    "拍",
+                    ""
                 ],
                 "etyTrad": [
                     "",
-                    "拍"
+                    "拍",
+                    ""
                 ],
                 "etyRoman": [
                     "whack",
-                    "phah"
+                    "phah",
+                    "gasak"
                 ],
                 "etyScheme": [
                     "",
-                    "poj"
+                    "poj",
+                    ""
                 ],
                 "etyLit": [
                     "strike; hit; beat",
-                    "(lit.) hit; (generally) do or perform an action; used to verbify a noun"
+                    "(lit.) hit; (generally) do or perform an action; used to verbify a noun",
+                    "hit; beat; whack"
                 ]
             }
         ],
@@ -8519,6 +8529,9 @@
         "category": [
             "cuisine",
             "nature"
+        ],
+        "related": [
+            "ikan"
         ],
         "origin": [
             {
@@ -12501,7 +12514,13 @@
                 }
             ]
         },
-        "usage": "When used, typically a memetic or ironic reference to Miss Singapore World 2009 Ris Low's interview, where she infamously used this term."
+        "usage": "When used, typically a memetic or ironic reference to Miss Singapore World 2009 Ris Low's interview, where she infamously used this term.",
+        "related": [
+            "gerek",
+            "sat khi",
+            "sui",
+            "cantik"
+        ]
     },
     "borrow": {
         "word": "borrow",
@@ -23968,7 +23987,11 @@
     "sui": {
         "word": "sui",
         "related": [
-            "ai sui"
+            "ai sui",
+            "gerek",
+            "sat khi",
+            "boomz",
+            "cantik"
         ],
         "phonetics": "/swi˦˨/",
         "origin": [
@@ -24452,18 +24475,40 @@
         "phonetics": "/wæk/",
         "origin": [
             {
-                "lang": "hokkien",
-                "traditional": "拍",
-                "simplified": "拍",
-                "roman": "phah",
-                "romanization": "poj",
-                "lit": "(lit.) hit; (generally) do or perform an action; used to verbify a noun",
-                "etyPath": false,
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": false,
-                "etyScheme": false,
-                "etyLit": false
+                "lang": "english",
+                "traditional": false,
+                "simplified": false,
+                "roman": "whack",
+                "romanization": false,
+                "lit": "hit; beat; smack",
+                "type": "tx",
+                "etyPath": [
+                    "hokkien",
+                    "malay"
+                ],
+                "etyType": [
+                    "&"
+                ],
+                "etyScript": [
+                    "拍",
+                    ""
+                ],
+                "etyTrad": [
+                    "拍",
+                    ""
+                ],
+                "etyRoman": [
+                    "phah",
+                    "gasak"
+                ],
+                "etyScheme": [
+                    "poj",
+                    ""
+                ],
+                "etyLit": [
+                    "(lit.) hit; (generally) do or perform an action; used to verbify a noun",
+                    "hit; beat; whack"
+                ]
             }
         ],
         "meanings": {
@@ -24474,7 +24519,8 @@
                     "exampleSource": "1994 C.S. Chong NS: An Air-Level Story p.90",
                     "synonyms": [
                         "hentam",
-                        "wallop"
+                        "wallop",
+                        "gasak"
                     ],
                     "antonyms": false
                 },
@@ -24500,7 +24546,7 @@
                 }
             ]
         },
-        "etyNotes": "Likely a calque from Hokkien 拍 <i>phah</i>, which carries both the literal meaning \"hit; beat; strike; whack\", as well as the general sense of \"to do an action\", and is sometimes used to verbify a noun."
+        "etyNotes": "Likely a direct translation from both Malay @{gasak}, which carries the literal meaning \"hit; beat; whack\", along with Hokkien 拍 <i>phah</i> (@{pak}), which also carries the literal meaning \"hit; beat; strike; whack\", as well as the general sense of \"to do an action\", and is sometimes used to verbify a noun."
     },
     "yandao": {
         "word": "yandao",
@@ -24985,7 +25031,13 @@
                     ]
                 }
             ]
-        }
+        },
+        "related": [
+            "gerek",
+            "sat khi",
+            "sui",
+            "boomz"
+        ]
     },
     "chop": {
         "word": "chop",
@@ -34054,8 +34106,8 @@
         "related": [
             "ar"
         ],
-        "usage": "Contrary to popular belief, the Singlish use of <i>friend</i> is not grammatically incorrect in English, but rather just old-fashioned.",
-        "etyNotes": "The verb '<i>to friend</i>' in English, as it is used (or perhaps preserved) in Singlish, is archaic and historied, having been used since at least the 13th century. For example, in Shakespeare's <i>Henry V</i> (Act IV, Scene 5), the Constable of France speaks the line \"<i>Disorder, that hath spoil'd us, <b>friend</b> us now!</i>\". However, this usage had become largely obsolete in modern English by the 20th century, in favour of '<i>to befriend</i>'.<br>This has ironically changed with the onset of the age of social media, where it is now commonly used again - albeit only in the specific sense of adding someone on social media (especially on Facebook, where this newfound use originated). In Singlish, however, the verb sense never left."
+        "usage": "Often considered slightly childish. Contrary to popular belief, the Singlish use of <i>friend</i> is not grammatically incorrect in English, but rather just old-fashioned.",
+        "etyNotes": "The verb '<i>to friend</i>' in English, as it is used (or perhaps preserved) in Singlish, is archaic and historied, having been used since at least the 13th century. For example, in Shakespeare's <i>Henry V</i> (Act IV, Scene 5), the Constable of France speaks the line \"<i>Disorder, that hath spoil'd us, <b>friend</b> us now!</i>\". However, this usage had become largely obsolete in modern English by the 20th century, in favour of '<i>to befriend</i>'.<br>This has ironically changed with the onset of the age of social media, where it is now commonly used as a verb again - albeit only in the specific sense of adding someone on social media (especially on Facebook, where this newfound use originated). In Singlish, however, the verb sense never left."
     },
     "fu yu": {
         "word": "fu yu",
@@ -35344,5 +35396,756 @@
                 "name": "搞掂 - 廣東話解釋 | 粵典"
             }
         ]
+    },
+    "ikan kuning": {
+        "word": "ikan kuning",
+        "related": [
+            "ikan"
+        ],
+        "usage": "Sometimes referred to as simply \"kuning\".",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ikan kuning",
+                "romanization": "",
+                "lit": "yellowstripe scad (Selaroides leptolepis)",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "ikan",
+                    "kuning"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "fish",
+                    "yellow"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the yellowstripe scad (<i>Selaroides leptolepsis</i>), an inshore tropical schooling fish in the horse mackerel family. It is often fried and served with nasi lemak.",
+                    "example": "Unsustainable species include the Indian threadfin, also known as the ngoh hur, used in fish porridge; silver pomfret, commonly used in Chinese dishes; and yellowbanded scad, or ikan kuning, a key ingredient in nasi lemak.",
+                    "exampleSource": "2016 October 4, Melissa Lin. The Straits Times, \"3 out of 4 popular fish species eaten here environmentally unsustainable: WWF-Singapore\". https://www.straitstimes.com/singapore/environment/3-out-of-4-popular-fish-species-eaten-here-environmentally-unsustainable-wwf",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "ikan merah": {
+        "word": "ikan merah",
+        "related": [
+            "ikan"
+        ],
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ikan merah",
+                "romanization": "",
+                "lit": "mangrove red snapper (Lutjanus argentimaculatus)",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "ikan",
+                    "merah"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "fish",
+                    "red"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the mangrove red snapper (Lutjanus argentimaculatus), a tropical fish which is popular as a food species"
+                }
+            ]
+        }
+    },
+    "ikan todak": {
+        "word": "ikan todak",
+        "related": [
+            "ikan"
+        ],
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "usage": "Refers to any swordfish-like fish in general, including other billfish such as marlins. Often just \"todak\".",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ikan todak",
+                "romanization": "",
+                "lit": "swordfish, needlefish, or similar-looking species",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "ikan",
+                    "todak"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "fish",
+                    "swordfish, needlefish, or similar-looking species"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a swordfish, needlefish, or any similar-looking fish species, characterized by their long, slender, sword- or needle-like bill. Ikan todak are eaten as a food species. They also feature prominently in local mythology, most famously in the tale of their attack on Singapore - from which many well-known places in Singapore got their names, including @{Tanjong Pagar} and @{Bukit Merah}."
+                }
+            ]
+        }
+    },
+    "ice jelly": {
+        "word": "ice jelly",
+        "related": [],
+        "usage": "May be used to refer to the dessert or the jelly which is its main ingredient. Also known as @{aiyu jelly}, (the Mandarin term in Taiwan, where it was discovered; see the article for further details), a term which is displacing \"ice jelly\" in Singapore.",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "The term \"ice jelly\" likely arose as an independent English description of the dessert or jelly, as it is not similar to any of the food’s names in any Chinese languages. For example, it is known as 文头雪/文頭雪, wén tóu xuě in Singaporean Mandarin, which possibly comes from Cantonese 文头郎/文頭郎, man4 tau4 long4. In Hokkien, it is known as 薁荛/薁蕘, ò-giô, after which the scientific name of the cultivar, <i>awkeotsang</i>, is named.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ice",
+                "romanization": "",
+                "lit": "the solid form of water; H<sub>2</sub>O(s)"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "jelly",
+                "romanization": "",
+                "lit": "dessert made with a solution of gelatine or another gelling agent and flavouring, which is allowed to set"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweet dessert consisting of pieces of @{aiyu jelly} in a syrup of shaved ice and lime, sometimes also flavoured with other ingredients such as honey or fruit.",
+                    "example": "One of the draws here is its new unlimited self-service ice jelly bar, which means you can gorge yourself silly on the refreshing dessert.",
+                    "exampleSource": "2023 August 13, Foo Jia-En. hungrygowhere, \"Tanyu Exclusive: New late-night supper spot with 15% off, unlimited ice jelly\". https://hungrygowhere.com/food-news/tanyu-exclusive-changi-jewel/",
+                    "synonyms": [
+                        "aiyu jelly"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "a clear, very soft, pectin-based jelly used in Taiwanese, Singaporean, and Malaysian desserts. It is made from the awkeotsang creeping fig (<i>Ficus pumila</i> var. <i>awkeotsang</i>), a plant found in Taiwan and other areas of East Asia with a similar climate and latitude.",
+                    "example": "But what’s more enticing is the slurpy, large chunks of konjac ice jelly that the store specialises in. It is a lot thicker than traditional aiyu jelly, but still silky and smooth.",
+                    "exampleSource": "2913 November 1, Kaye Yeo. ConfirmGood, \"Jinbobo Bingfen in Chinatown has aesthetic ice jelly desserts in unique flavours like alcoholic osmanthus, sea coconut, popping pearls & more\", https://confirmgood.com/post/jinbobo-bingfen-chinatown/",
+                    "synonyms": [
+                        "aiyu jelly"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "aiyu jelly": {
+        "word": "aiyu jelly",
+        "related": [],
+        "usage": "May be used to refer to the dessert or the jelly which is its main ingredient. Also known as @{ice jelly} in Singapore.",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "It is known by many very different names in different Chinese languages. For example, it is known as 文头雪/文頭雪, wén tóu xuě in Singaporean Mandarin, which possibly comes from Cantonese 文头郎/文頭郎, man4 tau4 long4. In Hokkien, it is known as 薁荛/薁蕘, ò-giô, after which the scientific name of the cultivar, <i>awkeotsang</i>, is named.",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "爱玉",
+                "traditional": "愛玉",
+                "roman": "aì yù",
+                "romanization": "",
+                "lit": "name of the daughter of the businessman who discovered the jelly, (lit.) love + jade"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "jelly",
+                "romanization": "",
+                "lit": "dessert made with a solution of gelatine or another gelling agent and flavouring, which is allowed to set"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a clear, very soft, pectin-based jelly used in Taiwanese, Singaporean, and Malaysian desserts. It is made from the awkeotsang creeping fig (<i>Ficus pumila</i> var. <i>awkeotsang</i>), a plant found in Taiwan and other areas of East Asia with a similar climate and latitude.",
+                    "example": "There were 23 types of Taiwan-inspired desserts which were primarily centred around aiyu jelly and bean curd.",
+                    "exampleSource": "2024 February 13, Aaron Tan. SethLui.com, \"Ms Aiyu: 23 types of Taiwan-inspired desserts with homemade beancurd & aiyu jelly from $2.20\". https://sethlui.com/ms-aiyu-singapore/",
+                    "synonyms": [
+                        "ice jelly"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "a sweet dessert consisting of pieces of aiyu jelly in a syrup of shaved ice and lime, sometimes also flavoured with other ingredients such as honey or fruit.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ice jelly"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "garang": {
+        "word": "garang",
+        "related": [
+            "on",
+            "onz"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "garang",
+                "romanization": "",
+                "lit": "fierce; ferocious; strong"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "fearless; brave; daring; gung ho",
+                    "example": "The commandos and NDU boys always bantered about whose unit was the most garang.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "strong; imposing; manly",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "gasak": {
+        "word": "gasak",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gasak",
+                "romanization": "",
+                "lit": "hit; beat; whack"
+            },
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gasak",
+                "romanization": "",
+                "lit": "hit; beat; whack"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "tackle a task without necessarily having the requisite knowledge or skills to do so",
+                    "example": "If you've ever walked past a Singapore Pools outlet and found yourself itching for a bet and prepared to “just whack” on any match...",
+                    "exampleSource": "2008, David Ngiau, Weekend Today, 30 August, 55",
+                    "synonyms": [
+                        "just whack",
+                        "whack"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "do (especially eat) hurriedly or greedily; wallop",
+                    "example": "When the restaurant first came up with its all-you-can-eat promo, hundreds of Singaporean office workers descended upon it at lunchtime to try their luck at <i>whacking</i> the promising buffet.",
+                    "exampleSource": "@comm",
+                    "synonyms": [
+                        "wallop",
+                        "whack"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        }
+    },
+    "keh khiang": {
+        "word": "keh khiang",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "假勥",
+                "traditional": "假勰",
+                "roman": "ké-khiàng",
+                "romanization": "",
+                "lit": "act smart; be a smartass",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "假",
+                    "勥"
+                ],
+                "etyTrad": [
+                    "假",
+                    "勰"
+                ],
+                "etyRoman": [
+                    "ké",
+                    "khiàng"
+                ],
+                "etyLit": [
+                    "fake; pretend; false",
+                    "clever; capable; good at"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to act smart; to be a smartass; to overestimate one's cleverness",
+                    "example": "If you not sure of the route, check your phone lah. Don't keh khiang and get lost."
+                }
+            ]
+        },
+        "etyNotes": "* The traditional and simplified characters are written differently, but still share the same Unicode slot as of 2024. Hence, the slot of the unrelated character U+52f0 has been borrowed to represent the traditional form just for this entry. It may display incorrectly if there is an issue with the font."
+    },
+    "gemuk": {
+        "word": "gemuk",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gemuk",
+                "romanization": "",
+                "lit": "fat"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "fat; overweight; obese",
+                    "synonyms": [
+                        "pui",
+                        "goondu",
+                        "bulat"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "fatty bom bom"
+        ],
+        "category": [
+            "insults"
+        ]
+    },
+    "ini macam": {
+        "word": "ini macam",
+        "related": [
+            "macam"
+        ],
+        "usage": "<i>Macam ini</i> in Malay.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "macam",
+                "romanization": "",
+                "lit": "just like; similar to"
+            },
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "ini",
+                "romanization": "",
+                "lit": "this"
+            }
+        ],
+        "meanings": {
+            "preposition": [
+                {
+                    "definition": "'like this'; carries a degree of certainty",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": [
+                        "liddat"
+                    ]
+                }
+            ]
+        }
+    },
+    "gennermen": {
+        "word": "gennermen",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gentlemen",
+                "romanization": "",
+                "lit": "polite term for a man; well-mannered, couth man",
+                "etyPath": [
+                    "english",
+                    "old french",
+                    "latin",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "gentle",
+                    "gentil",
+                    "gentilis",
+                    "man"
+                ],
+                "etyLit": [
+                    "high-born; of a respectable family",
+                    "high-born; noble",
+                    "of or belonging to the same clan or family",
+                    "adult male human"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) gentlemen (or gentle<i>man</i>); term of address for any man or group of men",
+                    "example": "Gennermen! Today I will be teach you about how to build @{basha}."
+                }
+            ]
+        },
+        "category": [
+            "ns",
+            "terms of address"
+        ],
+        "etyNotes": "Alteration of English <i>gentlemen</i>, from @{encik}-speak."
+    },
+    "ger": {
+        "word": "ger",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "girl",
+                "romanization": "",
+                "lit": "a young female person; a female person younger than the speaker"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "girl; a young female person",
+                    "example": "Boy ah, who is that ger ger I see you with yesterday? "
+                },
+                {
+                    "definition": "term of address or endearment for a young woman or female child who is younger than the speaker",
+                    "example": "Ger ah, where my @{Whatapps} go? How come I cannot find?",
+                    "synonyms": [
+                        "ah girl"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "terms of address"
+        ],
+        "etyNotes": "Alteration of English <i>girl</i>."
+    },
+    "gerek": {
+        "word": "gerek",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gerek",
+                "romanization": "",
+                "lit": "bore; drill a hole, (slang) cool; awesome"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "cool; awesome; stylish",
+                    "example": "The least gerek you can feel is when you forget to zip your fly.",
+                    "synonyms": [
+                        "sat khi"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "style"
+                }
+            ]
+        },
+        "related": [
+            "boomz",
+            "cantik",
+            "sui"
+        ]
+    },
+    "getai": {
+        "word": "getai",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "歌台",
+                "traditional": "歌臺",
+                "roman": "gē tái",
+                "romanization": "",
+                "lit": "song stage; type of popular live stage performance",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "歌",
+                    "台"
+                ],
+                "etyTrad": [
+                    "歌",
+                    "臺"
+                ],
+                "etyRoman": [
+                    "gē",
+                    "tái"
+                ],
+                "etyLit": [
+                    "song",
+                    "stage; platform"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of live stage performance featuring song, dance, plays, stand-up, and other forms of entertainment. They are often loud, gaudy, and garishly colourful, and are popular among the primarily Chinese-language-speaking, elderly-to-middle-aged demographic in Singapore. They are especially held during festivals such as the Hungry Ghost Festival and Chinese New Year.^{1}",
+                    "example": "The format of getai was modernised in the 2000s. Stage structures became more elaborate with complex lighting systems, laser effects, pyrotechnics, digital sound systems, and screen displays.",
+                    "exampleSource": "Roots.sg - Getai. https://www.roots.gov.sg/ich-landing/ich/getai"
+                },
+                {
+                    "definition": "the stage where such a performance takes place"
+                }
+            ]
+        },
+        "category": [
+            "culture"
+        ],
+        "references": [
+            {
+                "link": "https://www.roots.gov.sg/ich-landing/ich/getai",
+                "name": "Roots.sg - Getai"
+            }
+        ]
+    },
+    "gg": {
+        "word": "gg",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gg",
+                "romanization": "",
+                "lit": "(gaming slang) init. of good game; (fig.) game over; it's over; expression of defeat, hopelessness, or loss",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "good game",
+                    "good",
+                    "game"
+                ],
+                "etyLit": [
+                    "expression used to sportingly congratulate one's opponent after a match or game",
+                    "enjoyable; worthy; pleasant",
+                    "match; round of a sport or game"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "expression of defeat, hopelessness, resignation, or loss; 'game over'; 'it's over'"
+                },
+                {
+                    "definition": "expression of victory or finality; 'game over'; 'it's over'"
+                }
+            ]
+        },
+        "etyNotes": "From online gaming slang, from an initialism of English <i>good game</i>.",
+        "phonetics": "/d͡ʒiːd͡ʒiː/"
+    },
+    "ghim moh": {
+        "word": "Ghim Moh",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "金毛",
+                "traditional": "金毛",
+                "roman": "kim-mô͘",
+                "romanization": "",
+                "lit": "golden hair",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "金",
+                    "毛"
+                ],
+                "etyTrad": [
+                    "金",
+                    "毛"
+                ],
+                "etyRoman": [
+                    "kim",
+                    "mô͘"
+                ],
+                "etyLit": [
+                    "gold; golden",
+                    "hair"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a neighbourhood in the west-central region of Singapore (in Queenstown, or politically the Holland - Bukit Timah GRC), along the Ulu Pandan River."
+                }
+            ]
+        },
+        "related": [
+            "ang moh",
+            "Buona Vista"
+        ],
+        "category": [
+            "locations"
+        ],
+        "etyNotes": "#{likely} Likely named after the British soldiers and other British people who lived in the nearby Holland area, due to their blond or \"golden\" hair.^{1} Similar to the term @{ang moh}.",
+        "references": [
+            {
+                "link": "https://remembersingapore.org/ghim-moh-bus-terminal/#:~:text=The%20origin%20of%20the%20name,at%20the%20nearby%20Holland%20Village.",
+                "name": "Remember Singapore - Ghim Moh Bus Terminal"
+            }
+        ]
+    },
+    "gila": {
+        "word": "gila",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "gila",
+                "romanization": "",
+                "lit": "crazy; mad; insane; mentally ill"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "crazy; mad; insane",
+                    "example": "In a viral video uploaded on social media, a lone macaque had stolen a cup of Pedas Giler or Crazy Spicy Maggi noodles and proceeded to eat it nonchalantly.",
+                    "exampleSource": "2023 February 25, Iqmall Hayat. Mustsharenews, \"Monkey In Malaysia Cooly Eats Crazy Spicy Maggi Noodles\". https://mustsharenews.com/monkey-crazy-spicy-maggi/",
+                    "synonyms": [
+                        "chee sin",
+                        "siao"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ],
+        "usage": "The /ɡilə/ pronunciation, which results in the spelling 'giler'/'gile', is from the colloquial Malay pronunciation of ending -a as a schwa, /ə/.",
+        "phonetics": "/ɡilə/, /ɡila/"
     }
 }
