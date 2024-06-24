@@ -5,10 +5,12 @@ views/index_old.ejs
 app_detail.js
 app_dict_insert.js
 gen_cat.js
+detail_cleanup.js
 public/css/styles_insert.css
 public/dict/dict_simple.json
 public/dict/dict*copy.json
 public/dict/details*copy.json
+public/dict/details*BU.json
 
 # fonts
 public/css/fonts/NSimSun.ttf

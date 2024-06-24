@@ -341,8 +341,8 @@ input[type=text] {
 }
 
 .word h3:not(.chinese-chars-ext, .chinese-wrapper-ext, .ety-notes-leader) {
-    margin-top: 0;
-    margin-bottom: 0.33em;
+    margin-top: 0.15em;
+    margin-bottom: 0.15em;
     font-size: 2em;
     color: var(--black);
 }
@@ -504,8 +504,7 @@ input:checked + .slider:before {
 
 .ortho-box h4 {
     font-size: 1.5em;
-    margin: 0;
-    /* margin-bottom: 0.25em; */
+    margin: 0.15em 0 0.15em 0;
     font-weight: 500;
 }
 

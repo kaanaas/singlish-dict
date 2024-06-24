@@ -25,14 +25,15 @@
         const regExStrSrc = /\^\{([0-9a-zA-Z ',\-]{1,})\}/g;
         const matchSrc = s.match(regExStrSrc);
         if (matchSrc) {
-            for (let i = 0; i < matchSrc.length; i++){
+            for (let i = 0, sCount = 1; i < matchSrc.length; i++){
                 let src = matchSrc[i].substring(2, matchSrc[i].length - 1);
                 if(!isNaN(src)){
                     s = s.replace(matchSrc[i], `\<sup>\<span class="ref">\<i>[${src}]\</i>\</span>\</sup>`);
                 }
                 if(sources[src]){
                     if(sources[src].type != undefined && (sources[src].type == "web" || sources[src].type == "journal")){
-                        s = s.replace(matchSrc[i], `\<sup>\<a href="${sources[src].link}" title="${sources[src].name}" class="ref">\<i>[s${sources[src].id}]\</i>\</a>\</sup>`);
+                        s = s.replace(matchSrc[i], `\<sup>\<a href="${sources[src].link}" title="${sources[src].name}" class="ref">\<i>[s${sCount}]\</i>\</a>\</sup>`);
+                        sCount++;
                     }
                     if(sources[src].type != undefined && (sources[src].type == "book")){
                     s = s.replace(matchSrc[i], 

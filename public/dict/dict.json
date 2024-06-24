@@ -337,6 +337,11 @@
         "haiyoyo",
         "haiyoyoh"
     ],
+    "aiyu jelly": [
+        "aiyu jelly",
+        "aiyu",
+        "ai yu jelly"
+    ],
     "ak kha ak chiu": [
         "ak kha ak chiu",
         "ak ka ak chiu",
@@ -1392,7 +1397,15 @@
     ],
     "chao keng": [
         "chao keng",
-        "chau keng"
+        "chaokeng",
+        "chau keng",
+        "chow keng"
+    ],
+    "chao keng warrior": [
+        "chao keng warrior",
+        "chaokeng warrior",
+        "chau keng warrior",
+        "chow keng warrior"
     ],
     "chao khang": [
         "chao khang",
@@ -2329,6 +2342,9 @@
     "finger splitting game": [
         "finger splitting game"
     ],
+    "finish": [
+        "finish"
+    ],
     "fishball": [
         "fishball",
         "fish ball"
@@ -2421,16 +2437,6 @@
     ],
     "gasak": [
         "gasak"
-    ],
-    "keh khiang": [
-        "keh khiang",
-        "geh khiang",
-        "geh kiang",
-        "keh kiang",
-        "gey kiang",
-        "geykiang",
-        "ke khiang",
-        "kay kiang"
     ],
     "gemuk": [
         "gemuk"
@@ -3439,6 +3445,16 @@
         "kay kay",
         "gey gey"
     ],
+    "keh khiang": [
+        "keh khiang",
+        "geh khiang",
+        "geh kiang",
+        "keh kiang",
+        "gey kiang",
+        "geykiang",
+        "ke khiang",
+        "kay kiang"
+    ],
     "keh yan": [
         "keh yan",
         "geh yan",
@@ -3475,9 +3491,9 @@
     "keng": [
         "keng"
     ],
-    "keng ka liau": [
-        "keng ka liau",
+    "keng ka liao": [
         "keng ka liao",
+        "keng ka liau",
         "keng kah liao",
         "keng kah liau"
     ],
@@ -5630,6 +5646,9 @@
         "khiu khiu",
         "kiu kiu"
     ],
+    "queen": [
+        "queen"
+    ],
     "queenstown": [
         "queenstown"
     ],
@@ -6097,6 +6116,20 @@
         "siao zha bor",
         "xiao zha bor",
         "siao zhabo"
+    ],
+    "siao lang": [
+        "siao lang",
+        "xiao lang",
+        "siau lang",
+        "siaolang",
+        "xiaolang"
+    ],
+    "siao lang keng": [
+        "siao lang keng",
+        "xiao lang keng",
+        "siau lang keng",
+        "siaolang keng",
+        "xiaolang keng"
     ],
     "siao on": [
         "siao on",
@@ -7200,6 +7233,10 @@
         "yaya",
         "ya ya"
     ],
+    "yaya king": [
+        "yaya king",
+        "yaya-king"
+    ],
     "yaya papaya": [
         "yaya papaya",
         "ya ya papaya",
@@ -7308,7 +7345,8 @@
         "zhun",
         "zun",
         "tzun",
-        "tzhun"
+        "tzhun",
+        "chun"
     ],
     "zhut": [
         "zhut",
@@ -7329,10 +7367,5 @@
         "tse char",
         "zichar",
         "tzechar"
-    ],
-    "aiyu jelly": [
-        "aiyu jelly",
-        "aiyu",
-        "ai yu jelly"
     ]
 }

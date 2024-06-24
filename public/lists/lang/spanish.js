@@ -1,1 +1,1 @@
-const langTerms = ["bangkuang","chiku","chilli","chilli crab","chilli padi","chocolate bar"]; module.exports = langTerms;
+const langTerms = ["bangkuang","chiku","chilli","chilli crab","chilli padi","chocolate bar","yaya papaya"]; module.exports = langTerms;

@@ -8,7 +8,8 @@ let cats = ["cuisine",
     "terms of address",
     "games",
     "drinks",
-    "insults"
+    "insults",
+    "rhyming slang"
 ];
 
 module.exports = cats;
