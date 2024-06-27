@@ -971,8 +971,13 @@
         "bo ta bo lampa",
         "bo ta bo lan pa",
         "bo ta bo lanpa",
-        "bo ta bo lam pha",
-        "ta liao superstar"
+        "bo ta bo lam pha"
+    ],
+    "ta liao superstar": [
+        "ta liao superstar",
+        "tah liao superstar",
+        "ta liao super star",
+        "ta liau superstar"
     ],
     "bo tao bo beh": [
         "bo tao bo beh",
@@ -1300,6 +1305,13 @@
     ],
     "cempedak": [
         "cempedak"
+    ],
+    "cepat": [
+        "cepat",
+        "chepat"
+    ],
+    "cepat jalan": [
+        "cepat jalan"
     ],
     "cert": [
         "cert"
@@ -5570,6 +5582,9 @@
     "pregnant duck": [
         "pregnant duck"
     ],
+    "pretend": [
+        "pretend"
+    ],
     "pro": [
         "pro"
     ],
@@ -7044,6 +7059,11 @@
         "oa",
         "goa",
         "wah"
+    ],
+    "wa bo kia": [
+        "wa bo kia",
+        "wabokia",
+        "wolbachia"
     ],
     "wa ka li kong": [
         "wa ka li kong"

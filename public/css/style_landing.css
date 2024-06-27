@@ -1,0 +1,202 @@
+:root {
+    --bg: #A02333;
+    --bg-darken: #951818;
+    --bg-shadow-solid: #401313;
+    --bg-shadow: #40131355;
+    --offwhite: #f5f5fd;
+    --black: #2c0912;
+    --grey: #8a767d;
+    --grey-shadow: #8a767d55;
+    --purp: #6b3488;
+    --subh: #b99725;
+    --subh-lighter: #d8be8a;
+    --subh-lightest: #f0daaf;
+    --subh-darker: #997705;
+    --grey-green: #6d946d;
+    --grey-red: #b46d8d;
+    --grey-red-pale: #d3c2c9;
+    --grey-pale: #efefea;
+}
+
+@font-face {
+    font-family: "SimSunCut";
+    src: url("./fonts/SimSunCut.woff2")format("woff2"),
+}
+
+@font-face {
+    font-family: "Prata";
+    src: url("./fonts/Prata.ttf")format("ttf"),
+}
+
+.card-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    padding: 1em;
+    margin: 2em 3vmin 1em 3vmin;
+    border-radius: 15px;
+    box-shadow: 2px 5px 10px var(--grey-shadow);
+}
+
+.wotd-wrapper {
+    background-color: var(--grey-pale);
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.hz-gap {
+    flex-direction: row;
+    gap: 1em;
+}
+
+.landing-header {
+    text-align: center;
+    font-family: "Crimson Text";
+    font-style: italic;
+}
+
+.wotd-header {
+    font-family: "Crimson Text";
+    font-style: italic;
+    font-size: 1.5em;
+    color: var(--bg-darken);
+}
+
+.h2::selection {
+    background: var(--subh-lighter);
+}
+
+.h2::-moz-selection {
+    background: var(--subh-lighter);
+}
+
+.wotd-divider {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1em;
+    align-items: center;
+    width: 60%;
+    margin-bottom: 2em;
+}
+
+.wotd-divider hr {
+    width: 100%;
+    border: 1px solid var(--grey-red-pale);
+}
+
+.wotd {
+    font-family: "Prata";
+    font-size: 2.5em;
+    text-align: center;
+}
+
+h1::selection {
+    background: var(--subh-lighter);
+}
+h1::-moz-selection {
+    background: var(--subh-lighter);
+}
+
+.more {
+    padding: 1em;
+    margin-top: 1em;
+    font-family: "Literata";
+    font-size: 1em;
+    text-align: center;
+}
+
+.wotd-more {
+    color: var(--subh-darker);
+    transition: 0.5s ease-in;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.more:hover {
+    color: var(--subh);
+    transition: 0.25s ease-out;
+}
+
+.more::selection {
+    background: var(--subh-lighter);
+}
+
+.more::-moz-selection {
+    background: var(--subh-lighter);
+}
+
+
+/* progress */
+.prog-wrapper {
+    background-color: var(--purp);
+    padding: 3em 0 3em 0;
+}
+
+.prog {
+    font-size: 3em;
+    color: var(--offwhite);
+    font-family: "Prata";
+    margin-bottom: 0!important;
+}
+
+.prog-header {
+    font-size: 1.5em;
+    color: var(--subh-lighter);
+    font-weight: normal;
+}
+
+.egg {
+    color: var(--subh-lightest);
+    font-size: 5em;
+    transition: 0.67s;
+    transform: rotate(20deg);
+}
+
+@keyframes wiggle {
+    0% {
+        transform: rotate(20deg);
+    }
+    20% {
+        transform: scale(1.1) rotate(-10deg) translateY(0.04em);
+    }
+    33% {
+        transform: scale(1.15) rotate(20deg) translateY(-0.125em);
+    }
+    50% {
+        transform: scale(1.1) rotate(-5deg) translateX(-0.05em) translateY(0);
+    }
+    60% {
+        transform: scale(1.13) rotate(18deg) translateX(0);
+    }
+    80% {
+        transform: scale(1.05) rotate(0deg);
+    }
+    100% {
+        transform: scale(1) rotate(20deg);
+    }
+}
+
+.egg.clicked {
+    animation-name: wiggle;
+    animation-duration: 1s;
+}
+
+.prog-more {
+    font-style: italic;
+    color: var(--grey-red-pale);
+}
+
+.prog-caption {
+    text-align: center;
+    font-style: italic;
+    color: var(--grey-red-pale);
+    font-size: 0.75em;
+    margin-top: -0.85em;
+}

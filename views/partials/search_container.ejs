@@ -7,3 +7,27 @@
     </form>
     <%- include("./more_options") %>
 </div>
+
+<script>
+    const searchBar = document.getElementById("search-input");
+    const whack = document.getElementById("anyhow-whack");
+    
+    // search bar character limiting
+    searchBar.addEventListener("input", () => {
+        let searchInput = document.getElementById("search-input").value;
+        if (/[^a-zA-Z0-9 ,'\-$&]/.test(searchInput)) {
+            alert("Only alphanumeric characters, spaces, hyphens, apostrophes, and certain limited special characters are allowed.");
+            searchBar.value = searchInput.replace(/[^a-zA-Z0-9 ,'\-$&]/g, '');
+        }
+    });
+
+    whack.addEventListener("click", () => {
+        fetch("dict/dict.json")
+            .then((response) => response.json())
+            .then((data) => {
+                var keys = Object.keys(data);
+                var randWord = keys[keys.length * Math.random() << 0]; // console.log(randWord);
+                window.location.href = `./?q=${randWord}`;
+            });
+    });
+</script>

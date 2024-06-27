@@ -1,0 +1,20 @@
+<div class="card-wrapper prog-wrapper">
+    <h2 class="landing-header prog-header">incubating . . .</h2>
+    <div class="flex-container hz-gap">
+        <div>
+            <h1 class="prog"><%= progress.toFixed(2) %>%</h1>
+            <p class="prog-caption">of words defined</p>
+        </div>
+        <div class="egg" onclick="addClickedClass(this)"><i class="fa-solid fa-egg"></i></div>
+    </div>
+    <p class="prog-more more">Do get in touch if you'd like to contribute!</p>
+</div>
+
+<script>
+    function addClickedClass(e) {
+        e.classList.add("clicked");
+        setTimeout(function() {
+            e.classList.remove("clicked");
+        }, 1000);
+    }
+</script>

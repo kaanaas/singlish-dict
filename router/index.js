@@ -92,7 +92,16 @@ router.get("/", async (req, res) => {
         }
     }
     else {
-        res.render("./index_blank");
+        let wotd = Wotd(details);
+        if (wotd == false || typeof (wotd) != "string") {
+            res.render("./index_blank");
+        } else {
+            let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.98;     // around 2% have multiple hits
+            res.render("./index_landing", {
+                wotd: wotd,
+                progress: progress
+            });
+        }
     }
 })
 
@@ -145,6 +154,20 @@ function retrieveWord(dict, details, majorFormResult) {
     let showVar = (wordVars.length > 1);
 
     return [altsString, wordVars, showVar];
+}
+
+// generate WOTD for landing page
+function Wotd(words) {
+    if (typeof (words) != "object") {
+        return false;
+    }
+    const date = new Date();
+    let offset = date.getTimezoneOffset() * 60000;  // convert mins to ms
+    let day = (date.getTime() - offset) / 86400000 << 0; // convert ms to days & truncate to int
+    let i = day % Object.keys(words).length;
+
+    // console.log(day, i, Object.entries(words)[i][1]["word"]);
+    return Object.entries(words)[i][1]["word"];
 }
 
 

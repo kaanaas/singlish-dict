@@ -1,6 +1,10 @@
 <!DOCTYPE HTML>
 <html lang="en">
     <%- include("./partials/head") %>
+    <head>
+        <!-- extra stylesheet -->
+        <link rel="stylesheet" href="css/style_landing.css" type="text/css">
+    </head>
 
     <body>
         <%- include("./partials/banner") %>
@@ -9,6 +13,12 @@
             <div class="def-box">
                 <!-- search -->
                 <%- include("./partials/search_container") %>
+
+                <!-- WOTD -->
+                <%- include("./partials/wotd", {wotd: wotd}) %>
+
+                <!-- % done -->
+                <%- include("./partials/progress", {progress: progress}) %>
             </div>
         </div>
 
