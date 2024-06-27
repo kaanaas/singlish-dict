@@ -32286,13 +32286,21 @@
                 "roman": "liáu",
                 "romanization": "poj",
                 "lit": "finished; completed; to the end"
+            },
+            {
+                "lang": "malay",
+                "roman": "habis",
+                "lit": "finish; complete"
             }
         ],
         "meanings": {
             "adjective": [
                 {
                     "definition": "gone; used up; completely spent; having none left",
-                    "example": "Sorry ah boy, fish curry finish already - I give you chicken curry @{can anot}?"
+                    "example": "Sorry ah boy, fish curry finish already - I give you chicken curry @{can anot}?",
+                    "synonyms": [
+                        "habis"
+                    ]
                 }
             ]
         },
