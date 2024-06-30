@@ -1,1 +1,1 @@
-const jList = ["jaga","jalan","jalan-jalan","jangan main-main","jangan tension","jelak","ji gu pa","jialat","jibaboom","jibra","jilo","jin gang","jio","jiu hu","jiu hu char","jolly well","jom","jube","jude","just whack"]; module.exports = jList;
+const jList = ["jaga","jalan","jalan-jalan","jangan main-main","jangan tension","jelak","ji gu pa","ji siao","jialat","jibaboom","jibra","jilo","jin gang","jio","jiu hu","jiu hu char","jolly well","jom","jube","jude","just whack"]; module.exports = jList;
