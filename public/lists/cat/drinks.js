@@ -1,1 +1,1 @@
-const cat = ["bandung","C","cino","dinosaur","elephant","ga dai","ga ga dai","gajah","Godzilla","King Kong","pau","siu dai","siu siu dai","tiao he"]; module.exports = cat;
+const cat = ["bandung","C","cino","dinosaur","elephant","ga dai","ga ga dai","gajah","Godzilla","King Kong","pau","siu dai","siu siu dai","sua","tee kong","tiao he"]; module.exports = cat;

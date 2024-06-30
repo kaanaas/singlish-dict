@@ -129,6 +129,10 @@ br {
     user-select: none;
 }
 
+sub {
+    color: var(--grey-red);
+}
+
 /* custom content classes */
 
 .text {
@@ -1192,9 +1196,10 @@ li::marker {
 .prefix-list a {
     font-family: "Literata";
     font-style: italic;
-    color: var(--grey);
+    color: var(--black);
     text-decoration: underline;
     text-underline-offset: 2px;
+    text-decoration-color: var(--subh-lighter);
 }
 
 .not-found {

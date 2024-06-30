@@ -1,1 +1,1 @@
-const langTerms = ["aiyu jelly","bian tai","cai fan","chao mao","chi fan","chuan","diao hua","eh","fa cai","getai","gu niang","qing ming","see me no up","see me up","see no up","see up","strawberry","strawberry generation","wa kao","zhun"]; module.exports = langTerms;
+const langTerms = ["aiyu jelly","bian tai","cai fan","chao mao","chi fan","chuan","diao hua","eh","fa cai","getai","gu niang","iron rice bowl","qing ming","see me no up","see me up","see no up","see up","strawberry","strawberry generation","wa kao","zhun"]; module.exports = langTerms;

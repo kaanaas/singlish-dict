@@ -42,7 +42,7 @@
         <% } else { %>
         <div class="ety-container">
             <!-- main container -->
-            <div class="ortho-container" id="ortho-container<%= variant %>" name="show">
+            <div class="ortho-container" id="ortho-container-<%= word.word %><%= variant %>" name="show">
                 <p class="ortho-origin arrow">→</p>
                 <% for(let i = 0; i < word.origin.length; i++) { %>
                     <% if(i != 0) { %>
@@ -100,7 +100,7 @@
             </div>
 
             <!-- extended container -->
-            <div class="ortho-container ortho-container-ext" id="ext-container<%= variant %>" name="hide" style = "display: none; visibility: hidden">
+            <div class="ortho-container ortho-container-ext" id="ext-container-<%= word.word %><%= variant %>" name="hide" style = "display: none; visibility: hidden">
                 <% for(let i = 0; i < word.origin.length; i++) { %>
                     <div class="origin-container">
                         <% if(i != 0) { %>
@@ -263,7 +263,7 @@
         <!-- ety notes -->
         <% if(word.hasOwnProperty("etyNotes")){ %>
             <% if(word.etyNotes.length > 0){ %>
-                <div class="details ety-notes-div" id="ety-notes<%= variant %>" style="display: none; visibility: hidden">
+                <div class="details ety-notes-div" id="ety-notes-<%= word.word %><%= variant %>" style="display: none; visibility: hidden">
                     <h3 class="ety-notes-leader">etymology notes</h3>
                     <p class="text cn-fallback"><%- formatDyno(word.etyNotes) %></p>
                 </div>
@@ -271,7 +271,7 @@
 
             <% if(word.hasOwnProperty("ngram")){ %>
                 <% if(word.ngram.length > 0){ %>
-                <div class="ngram" id="ngram<%= variant %>" style="height: 0; visibility: hidden">
+                <div class="ngram" id="ngram-<%= word.word %><%= variant %>" style="height: 0; visibility: hidden">
                     <iframe name="ngram_chart" allowtransparency="true" src="<%- word.ngram %>" marginwidth="0" marginheight="0" hspace="1" vspace="1" frameborder="1" scrolling="yes"></iframe>
                 </div>
                 <% } %>
@@ -280,12 +280,12 @@
         <% } %>
     </div>
     <div class="more-info-wrapper">
-        <div class="more-info-div" onclick="swapEty('<%= variant %>')">
+        <div class="more-info-div" onclick="swapEty(`<%= word.word %><%= variant %>`)">
             <div class="ttip-ety">
-                <span class="expand-text" id="expand-text<%= variant %>">details</span>
+                <span class="expand-text" id="expand-text-<%= word.word %><%= variant %>">details</span>
                 <i class="fa-solid fa-circle-down ety-extend" tabindex="0"
-                    id="ety-btn<%= variant %>"></i>
-                <span class="tooltip-text" id="ety-tooltip<%= variant %>">Detailed etymology</span>
+                    id="ety-btn-<%= word.word %><%= variant %>"></i>
+                <span class="tooltip-text" id="ety-tooltip-<%= word.word %><%= variant %>">Detailed etymology</span>
             </div>
         </div>
         <hr>
@@ -294,13 +294,14 @@
 
 <script>
     function swapEty(v){
-        const etyBtn = document.getElementById(`ety-btn${v}`);
-        const etyTtip = document.getElementById(`ety-tooltip${v}`);
-        const etyExpandText = document.getElementById(`expand-text${v}`);
-        const orthoContainer = document.getElementById(`ortho-container${v}`);
-        const extContainer = document.getElementById(`ext-container${v}`);
-        const etyNotes = document.getElementById(`ety-notes${v}`);
-        const ngram = document.getElementById(`ngram${v}`);
+        console.log
+        const etyBtn = document.getElementById(`ety-btn-${v}`);
+        const etyTtip = document.getElementById(`ety-tooltip-${v}`);
+        const etyExpandText = document.getElementById(`expand-text-${v}`);
+        const orthoContainer = document.getElementById(`ortho-container-${v}`);
+        const extContainer = document.getElementById(`ext-container-${v}`);
+        const etyNotes = document.getElementById(`ety-notes-${v}`);
+        const ngram = document.getElementById(`ngram-${v}`);
         etyBtn.blur();
         if(orthoContainer.name == "hide"){
             orthoContainer.style = "display: flex; visibility: visible";

@@ -164,10 +164,20 @@ function Wotd(words) {
     const date = new Date();
     let offset = date.getTimezoneOffset() * 60000;  // convert mins to ms
     let day = (date.getTime() - offset) / 86400000 << 0; // convert ms to days & truncate to int
-    let i = day % Object.keys(words).length;
+    let len = Object.keys(words).length;
+    let i = xorShift(day) % len;  // generate seeded PRN that changes which array element is accessed every loop
 
-    // console.log(day, i, Object.entries(words)[i][1]["word"]);
+    // console.log(day, len, xorShift(day), i, Object.entries(words)[i][1]["word"]);
     return Object.entries(words)[i][1]["word"];
+}
+
+// xorShift seeded PRNG fn
+function xorShift(seed) {
+    let x = seed;
+    x ^= x << 13;
+    x ^= x >> 17;
+    x ^= x << 5;
+    return x >>> 0; // Ensure non-negative integer
 }
 
 

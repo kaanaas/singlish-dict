@@ -5140,12 +5140,12 @@
         "category": [
             "sayings"
         ],
-        "etyNotes": "@[dubious} No exact character for \"au\".",
+        "etyNotes": "#{dubious} No exact character for \"au\".",
         "origin": [
             {
                 "lang": "hokkien",
-                "traditional": "呕",
-                "simplified": "嘔",
+                "traditional": "#{poss}呕",
+                "simplified": "#{poss}嘔",
                 "roman": "áu",
                 "romanization": "poj",
                 "lit": "onomatopoeic; chosen to rhyme with 九, \"káu\"."
@@ -5162,6 +5162,29 @@
             "expression": [
                 {
                     "definition": "(provocative, crass) a gang shout used by the infamous 369 (@{Salakau}) gang. Associated with violent gangsterism, delinquency, criminals, and low-class behaviour."
+                }
+            ]
+        }
+    },
+    "salakau": {
+        "word": "Salakau",
+        "related": [
+            "ah beng",
+            "au au salakau"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "三六九",
+                "simplified": "三六九",
+                "roman": "saⁿ-la̍k-káu",
+                "lit": "numbers 3, 6, 9"
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "An infamous gang operating in Singapore. Associated with violent gangsterism, delinquency, criminals, and low-class behaviour."
                 }
             ]
         }
@@ -7179,7 +7202,8 @@
                         "ti ko",
                         "cheeko pek",
                         "ti ko pek",
-                        "buaya"
+                        "buaya",
+                        "gor kee chiu"
                     ]
                 }
             ],
@@ -8171,7 +8195,8 @@
     "bo eng@1": {
         "word": "bo eng",
         "related": [
-            "bo"
+            "bo",
+            "khiao kha yo lam pa"
         ],
         "origin": [
             {
@@ -9246,7 +9271,8 @@
                     "example": "Oh please i have enough experience to tell u that sometimes the bo swee ones are even more @{guailan} than the swee ones based on my past relationships.... i had a @{dinobu} ex before who is ultra princess vs a slim tall ex who dont mind walking taking public transport eat at hawker...",
                     "exampleSource": "2022 June 24, Truthz. HardwareZone Forums, 'Why would guys settle for a bo swee charbor??'. https://forums.hardwarezone.com.sg/threads/why-would-guys-settle-for-a-bo-swee-charbor.6769419/page-3",
                     "synonyms": [
-                        "cui"
+                        "cui",
+                        "pai khua"
                     ],
                     "antonyms": [
                         "sui",
@@ -9693,7 +9719,9 @@
                     "synonyms": [
                         "goondu",
                         "dum bai",
-                        "bo idea"
+                        "bo idea",
+                        "gong",
+                        "kham gong"
                     ]
                 }
             ],
@@ -10251,10 +10279,15 @@
         "meanings": {
             "verb": [
                 {
-                    "definition": "(euphemistic, metaphor) to criticize; to scold",
-                    "example": "After badly messing up the accounts for the third time, Andy @{tioh} buak gu yu by his boss.",
+                    "definition": "(euphemistic, idiom) to criticize; to scold",
+                    "example": "After badly messing up the accounts for the third time, Andy @{tioh} buak gu yu by his boss until @{damn} @{cham}.",
                     "synonyms": [
-                        "kan"
+                        "kan",
+                        "fuck",
+                        "goreng"
+                    ],
+                    "antonyms": [
+                        "sakar"
                     ]
                 }
             ]
@@ -10262,6 +10295,9 @@
         "etyNotes": "Unknown how it became a metaphor for criticism.",
         "category": [
             "sayings"
+        ],
+        "related": [
+            "gu yu"
         ]
     },
     "buat bodoh": {
@@ -10651,7 +10687,10 @@
         },
         "related": [
             "buay",
-            "paiseh"
+            "paiseh",
+            "goot",
+            "baik",
+            "bagus"
         ]
     },
     "buay sai": {
@@ -11452,7 +11491,8 @@
                     "synonyms": [
                         "eh sai",
                         "boleh",
-                        "ok can"
+                        "ok can",
+                        "baik"
                     ],
                     "antonyms": [
                         "cannot",
@@ -14533,7 +14573,8 @@
                         "ti ko pek",
                         "cheekopek",
                         "buaya",
-                        "bian tai"
+                        "bian tai",
+                        "gor kee chiu"
                     ]
                 }
             ],
@@ -14614,7 +14655,8 @@
                         "ti ko pek",
                         "cheeko",
                         "buaya",
-                        "bian tai"
+                        "bian tai",
+                        "gor kee chiu"
                     ]
                 }
             ],
@@ -15337,7 +15379,8 @@
             "take cover",
             "snake",
             "ponteng",
-            "idle king"
+            "idle king",
+            "khiao kha yo lam pa"
         ],
         "origin": [
             {
@@ -15669,7 +15712,8 @@
             "chiah",
             "bee",
             "bo eng",
-            "fuck spider"
+            "fuck spider",
+            "khiao kha yo lam pa"
         ],
         "category": [
             "insults"
@@ -16738,7 +16782,8 @@
                     ],
                     "antonyms": [
                         "cui",
-                        "bo sui"
+                        "bo sui",
+                        "pai khua"
                     ]
                 }
             ]
@@ -17895,7 +17940,11 @@
             "adjective": [
                 {
                     "definition": "(of a situation) dire; terrible; disastrous; taking a turn for the worse",
-                    "example": "If you thought his blood pressure results were bad, the cholesterol is @{lagi} jialat."
+                    "example": "If you thought his blood pressure results were bad, the cholesterol is @{lagi} jialat.",
+                    "synonyms": [
+                        "rabak",
+                        "rabz"
+                    ]
                 },
                 {
                     "definition": "(rarer) exhausting; straining; tiresome"
@@ -18536,7 +18585,10 @@
         "related": [
             "chiu kana kha, kha kana lam pa",
             "bo ta bo lam pa",
-            "lam pa pah lan"
+            "lam pa pah lan",
+            "giah lam pa chut lai tom toh teng",
+            "teh lam pa chir sat",
+            "khiao kha yo lam pa"
         ],
         "origin": [
             {
@@ -20163,7 +20215,8 @@
                     ],
                     "antonyms": [
                         "cui",
-                        "bo sui"
+                        "bo sui",
+                        "pai khua"
                     ]
                 },
                 {
@@ -20187,7 +20240,8 @@
                 {
                     "definition": "neat; tidy",
                     "antonyms": [
-                        "luan"
+                        "luan",
+                        "kelam kabut"
                     ]
                 }
             ],
@@ -20263,7 +20317,8 @@
                         "ti ko pek",
                         "cheeko pek",
                         "buaya",
-                        "bian tai"
+                        "bian tai",
+                        "gor kee chiu"
                     ]
                 }
             ],
@@ -20346,7 +20401,8 @@
                         "ti ko",
                         "cheeko pek",
                         "buaya",
-                        "bian tai"
+                        "bian tai",
+                        "gor kee chiu"
                     ]
                 }
             ],
@@ -20741,7 +20797,9 @@
                     "synonyms": [
                         "bo idea",
                         "bodoh",
-                        "buay kan"
+                        "buay kan",
+                        "kham gong",
+                        "gong"
                     ]
                 }
             ],
@@ -21079,6 +21137,10 @@
                         "sui",
                         "chio",
                         "jude"
+                    ],
+                    "antonyms": [
+                        "cui",
+                        "pai khua"
                     ]
                 }
             ],
@@ -21408,7 +21470,10 @@
                     ],
                     "antonyms": [
                         "sui",
-                        "power"
+                        "power",
+                        "baik",
+                        "bagus",
+                        "goot"
                     ]
                 },
                 {
@@ -21416,7 +21481,8 @@
                     "example": "Wah I look damn cui in this picture sia. @{Macam} face @{kena} @{langgar} by lorry.",
                     "synonyms": [
                         "bo sui",
-                        "rabak"
+                        "rabak",
+                        "pai khua"
                     ],
                     "antonyms": [
                         "sui",
@@ -21449,14 +21515,20 @@
                     "definition": "messed up; gone out of hand; in a state of havoc",
                     "synonyms": [
                         "kelam kabut",
-                        "luan"
+                        "luan",
+                        "jialat",
+                        "rabz"
                     ]
                 },
                 {
                     "definition": "terrible; poor; bad",
                     "example": "Walao eh, the weather getting more and more rabak nowadays sia.",
                     "synonyms": [
-                        "cui"
+                        "cui",
+                        "baik",
+                        "bagus",
+                        "goot",
+                        "rabz"
                     ],
                     "antonyms": [
                         "sui"
@@ -21466,6 +21538,10 @@
         },
         "category": [
             "insults"
+        ],
+        "related": [
+            "rabz",
+            "rabz-kebabz"
         ],
         "phonetics": "/ˈɹabak/"
     },
@@ -22127,7 +22203,11 @@
             "abbreviations",
             "insults"
         ],
-        "etyNotes": "Initialism of <i>cannot make it</i>."
+        "etyNotes": "Initialism of <i>cannot make it</i>.",
+        "usage": "Often not capitalised, despite being an initialism.",
+        "related": [
+            "gone case"
+        ]
     },
     "cannot make it": {
         "word": "cannot make it",
@@ -22153,6 +22233,9 @@
         },
         "category": [
             "insults"
+        ],
+        "related": [
+            "gone case"
         ]
     },
     "co ok": {
@@ -26648,7 +26731,13 @@
                     ]
                 }
             ]
-        }
+        },
+        "related": [
+            "gong",
+            "kham gong",
+            "butoh",
+            "cock"
+        ]
     },
     "paiseh": {
         "word": "paiseh",
@@ -27138,7 +27227,9 @@
                         "bodoh",
                         "bo idea",
                         "dum bai",
-                        "stupiak"
+                        "stupiak",
+                        "gong",
+                        "kham gong"
                     ]
                 },
                 {
@@ -27737,6 +27828,7 @@
         "related": [
             "limpeh",
             "limbu",
+            "ka li kong",
             "wa ka li kong",
             "i tell you",
             "hor",
@@ -27818,6 +27910,7 @@
         "word": "wa ka li kong",
         "related": [
             "limpeh ka li kong",
+            "ka li kong",
             "eh"
         ],
         "etyNotes": "你 is an alternative replacement character for 汝, lí (\"you\"), and is the more common one in Taiwan.",
@@ -27884,6 +27977,77 @@
                 }
             ]
         }
+    },
+    "ka li kong": {
+        "word": "ka li kong",
+        "related": [
+            "limpeh ka li kong",
+            "wa ka li kong",
+            "eh"
+        ],
+        "etyNotes": "你 is an alternative replacement character for 汝, lí (\"you\"), and is the more common one in Taiwan.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "共汝講",
+                "simplified": "共汝讲",
+                "roman": "kā lí kóng",
+                "lit": "tell you; speak to you; 'listen here'",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "共",
+                    "汝",
+                    "讲"
+                ],
+                "etyTrad": [
+                    "共",
+                    "汝",
+                    "講"
+                ],
+                "etyRoman": [
+                    "kā",
+                    "lí",
+                    "kóng"
+                ],
+                "etyLit": [
+                    "to; with; at",
+                    "you; 2nd person sing. pronoun",
+                    "speak; talk; say"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "used at the start of a sentence to call attention to something one is about to say; used to indicate one is about to give their opinion, give advice, explain something, share their thoughts etc.; 'look here'; 'listen here'",
+                    "example": "Eh ka li kong ah, next time better get me my @{tau huay chui} else I @{hentam} your @{kha chng}.",
+                    "synonyms": [
+                        "I tell you",
+                        "wa ka li kong",
+                        "eh"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to speak to you",
+                    "example": "If next time the creepy fella want try to ka li kong, just ignore and walk away briskly.",
+                    "synonyms": [
+                        "I tell you",
+                        "hor"
+                    ]
+                }
+            ]
+        },
+        "usage": "The interjection is an ellipsis of a longer phrase, such as @{wa ka li kong}, with the subject omitted but understood in context."
     },
     "i tell you": {
         "word": "I tell you",
@@ -29262,7 +29426,9 @@
                     "example": "The sergeant fuck him for returning his mag to the @{armskote} with three live rounds still inside. What a @{blur cock}!",
                     "synonyms": [
                         "kan",
-                        "fuck upside down"
+                        "fuck upside down",
+                        "goreng",
+                        "buak gu yu"
                     ]
                 }
             ],
@@ -29332,7 +29498,9 @@
                     "example": "The @{towkay} fuck him upside down for screwing up a huge deal that the company's future depended upon.",
                     "synonyms": [
                         "kan",
-                        "fuck"
+                        "fuck",
+                        "buak gu yu",
+                        "goreng"
                     ]
                 }
             ]
@@ -29756,7 +29924,7 @@
         "category": [
             "cuisine"
         ],
-        "etyNotes": "While the term <i>mayam</i> exists in Malay, it refers to a unit of weight for gold, and the general consensus is that it has nothing to do with the dish.<br>#{dubious} Some sources say that <i>mayang</i> is a word for grated coconut, referring to it being a usual topping for the dish.^{2} However, both PRPM and the Collins GEM Malay dictionaries do not have this definition, and list it as meaning 'a palm flower' or 'palm inflorescence/panicle'. PRPM additionally suggests the meaning of a curly or wavy hairstyle, or a tangle of hair,^{1} a reference to the <i>ikal mayang</i> hairstyle. Hence, it may also be possible that the name came about in reference to the tangly, curled, hair-like appearance of @{idiyappam}.",
+        "etyNotes": "While the term <i>mayam</i> exists in Malay, it refers to a unit of weight for gold, and the general consensus is that it has nothing to do with the dish.<br>#{dubious} Some sources say that <i>mayang</i> is a word for grated coconut, referring to it being a usual topping for the dish.^{3} However, both PRPM and the Collins GEM Malay dictionaries do not have this definition, and list it as meaning 'a palm flower' or 'palm inflorescence/panicle'.^{2} PRPM additionally suggests the meaning of a curly or wavy hairstyle, or a tangle of hair,^{1} a reference to the <i>ikal mayang</i> hairstyle. Hence, it may also be possible that the name came about in reference to the tangly, curled, hair-like appearance of @{idiyappam}.",
         "origin": [
             {
                 "lang": "malay",
@@ -29801,6 +29969,9 @@
             {
                 "link": "https://prpm.dbp.gov.my/cari1?keyword=mayang+",
                 "name": "PRPM - mayang"
+            },
+            {
+                "name": "Collins Gem Malay-English, English-Malay Dictionary, Revised Edition. Haji Abdul Rahman bin Yusop. 1975, William Collins Sons & Co. Ltd."
             },
             {
                 "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=dbd8a9d1-233c-4456-ae2f-16e3e226c97d",
@@ -29926,12 +30097,13 @@
             ]
         },
         "related": [
-            "bobo king",
             "blur king",
+            "bobo king",
             "gabra king",
             "idle king",
             "keng king",
             "mc king",
+            "musang king",
             "sabo king",
             "snake king"
         ],
@@ -29983,7 +30155,8 @@
         },
         "related": [
             "cheeko",
-            "ti ko"
+            "ti ko",
+            "gor kee chiu"
         ],
         "category": [
             "insults"
@@ -30816,7 +30989,11 @@
             ]
         },
         "etyNotes": "From online gaming slang, from an initialism of English <i>good game</i>.",
-        "phonetics": "/d͡ʒiːd͡ʒiː/"
+        "phonetics": "/d͡ʒiːd͡ʒiː/",
+        "related": [
+            "gone case",
+            "goot"
+        ]
     },
     "ghim moh": {
         "word": "Ghim Moh",
@@ -32162,30 +32339,16 @@
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "Compare English expressions such as <i>itchy fingers</i> (\"having a strong desire to do, or get one’s hands on something, especially when one is not supposed to\") and <i>itchy trigger finger</i> (\"wont to fire a weapon negligently or unnecessarily; prone to doing things unexpectedly and suddenly\"), which use \"itchy\" in a similar sense.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "itchy",
-                "romanization": "",
-                "lit": "sensation of needing to be scratched; having a niggling desire to do sth.; jittery; eager; on edge",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "sensation of needing to be scratched; having a niggling desire to do sth.; jittery; eager; on edge"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "backside",
-                "romanization": "",
                 "lit": "buttocks; rear end",
                 "etyPath": [
                     "english",
@@ -32194,13 +32357,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "back",
                     "side"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "rear; behind",
                     "face; flank"
@@ -32212,9 +32372,7 @@
                 {
                     "definition": "unable to sit still; listless; restless; constantly having the desire to move about; hyperactive",
                     "example": "“It was an itchy backside situation,” quips actor Adam Chen. He is explaining to 8days.sg why he has opened a new cafe, after toughing out the recent Covid-19 pandemic where he saw business for his eateries fall by as much as 90 per cent.",
-                    "exampleSource": "2023 August 19, Yip Jieying. 8days, \"Adam Chen Opens Scenic Hotel Rooftop Cafe With Free Pool Access For Diners\". https://www.8days.sg/eatanddrink/celebfoodies/adam-chen-cafe-sunset-11-817651",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2023 August 19, Yip Jieying. 8days, \"Adam Chen Opens Scenic Hotel Rooftop Cafe With Free Pool Access For Diners\". https://www.8days.sg/eatanddrink/celebfoodies/adam-chen-cafe-sunset-11-817651"
                 },
                 {
                     "definition": "wont to get in other people’s business; acting like a busybody, especially when bored",
@@ -32222,12 +32380,10 @@
                     "exampleSource": "2002 July 22, Hwee Hwee Tan. Time, \"A War of Words Over ‘Singlish’\". https://time.com/archive/6645328/a-war-of-words-over-singlish/",
                     "synonyms": [
                         "kaypoh"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "itchy": {
         "word": "itchy",
@@ -32235,24 +32391,12 @@
             "itchy backside"
         ],
         "usage": "Unlike in English, it is commonly used outside of compounds. Nevertheless, it is often still attached to a body part related to or responsible for effecting the desire, such as in @{itchy backside} or 'itchy head'.",
-        "category": [],
-        "phonetics": "",
         "etyNotes": "Compare English expressions such as <i>itchy fingers</i> (\"having a strong desire to do, or get one’s hands on something, especially when one is not supposed to\") and <i>itchy trigger finger</i> (\"wont to fire a weapon negligently or unnecessarily; prone to doing things unexpectedly and suddenly\"), which use \"itchy\" in a similar sense.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "itchy",
-                "romanization": "",
-                "lit": "sensation of needing to be scratched; having a niggling desire to do sth.; jittery; eager; on edge",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "sensation of needing to be scratched; having a niggling desire to do sth.; jittery; eager; on edge"
             }
         ],
         "meanings": {
@@ -32260,23 +32404,17 @@
                 {
                     "definition": "jittery; restless; constantly having the desire to do something",
                     "example": "Were his hands itchy? Did he have a bad day? An incident at Tanjong Pagar Plaza’s carpark yesterday (June 21) has left netizens confused.",
-                    "exampleSource": "2024 June 22, Syarifah Nadhirah. AsiaOne, \"'Were his hands itchy?' Netizens baffled by man who opened drinks and left rubbish on stranger's car\". https://www.asiaone.com/singapore/were-his-hands-itchy-netizens-baffled-man-who-opened-drinks-and-left-rubbish-strangers",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2024 June 22, Syarifah Nadhirah. AsiaOne, \"'Were his hands itchy?' Netizens baffled by man who opened drinks and left rubbish on stranger's car\". https://www.asiaone.com/singapore/were-his-hands-itchy-netizens-baffled-man-who-opened-drinks-and-left-rubbish-strangers"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "finish": {
         "word": "finish",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "finished",
-                "romanization": "",
                 "lit": "completed; ended; came to an end"
             },
             {
@@ -32305,7 +32443,7 @@
             ]
         },
         "usage": "Interestingly, both words in the common phrases \"finish @{already}\" and \"finish @{liao}\" are technically from the same root, as they are direct translations of the Min Nan phrase 了了, liáu liáu (lit. \"finished + already\" or \"already finished\").",
-        "etyNotes": "Direct translation of the Min Nan and Malay terms + clipping of English adjective <i>finished</i>.",
+        "etyNotes": "Direct translation of the Min Nan and Malay terms   + clipping of English adjective <i>finished</i>.",
         "particles": [
             {
                 "particle": "liao",
@@ -32319,5 +32457,1743 @@
             "ar ka liao",
             "keng ka liao"
         ]
+    },
+    "god in heaven": {
+        "word": "God in Heaven",
+        "related": [
+            "got",
+            "your head"
+        ],
+        "usage": "Usually only used as a response to '@{where got}?' or '@{got}'.",
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "From a pun on @{got} and English <i>God</i>, which are homophones in Singlish (due to the pronunciation of final /d/ as /t/).<br>Possibly also influenced by <i>haven’t</i> (in the sense of 'haven’t got', which is also a homophone of <i>heaven</i> in Singlish.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "got",
+                "lit": "have; exists; has happened",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "got"
+                ],
+                "etyLit": [
+                    "received; obtained, (with have) possess"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "God",
+                "lit": "single deity of the Abrahamic religions; chief male deity of a religion"
+            },
+            {
+                "lang": "english",
+                "roman": "in",
+                "lit": "within; at; inside"
+            },
+            {
+                "lang": "english",
+                "roman": "Heaven",
+                "lit": "sky; paradisical location said to be the dwelling place of God or gods and other beings in various religions"
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(sarcastic, humorous) used in response to '@{where got}?' or any other phrase with '@{got}'. It may be used to make fun of the overuse of the phrase, or the lack of elaboration or useful information it provides, etc.",
+                    "example": "- Oei! You got bring the money anot?<br>- Uh… got ah… got…<br>- God in Heaven! The money where lah?"
+                }
+            ]
+        }
+    },
+    "gong": {
+        "word": "gong",
+        "related": [
+            "kham gong"
+        ],
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "The Singlish word comes from the Minnanese pronunciation, but cognates of the word exist in many other Chinese languages, such as Cantonese, Hakka, and Shanghainese.",
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "戆",
+                "traditional": "戇",
+                "roman": "gōng",
+                "lit": "stupid; dull; dumb; simple-minded; stubborn; foolish"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "stupid; dull; dumb; simple-minded; foolish",
+                    "example": "Sally felt so gong gong when she realised she had been waiting at the wrong bus stop for 25 minutes.",
+                    "synonyms": [
+                        "kham gong",
+                        "dum bai",
+                        "bodoh",
+                        "blur",
+                        "stupiak"
+                    ]
+                }
+            ]
+        }
+    },
+    "kham gong": {
+        "word": "kham gong",
+        "related": [
+            "gong"
+        ],
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "歁戆",
+                "traditional": "歁戇",
+                "roman": "gōng",
+                "lit": "stupid; dull; dumb; simple-minded; stubborn; foolish"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "stupid; dull; dumb; simple-minded; foolish",
+                    "example": "Why are you so cum gong? You clearly knew this wasn't the right path.",
+                    "synonyms": [
+                        "kham gong",
+                        "dum bai",
+                        "bodoh",
+                        "blur",
+                        "stupiak"
+                    ]
+                }
+            ]
+        }
+    },
+    "grago": {
+        "word": "grago",
+        "related": [
+            "ang moh"
+        ],
+        "usage": "Dated; considered derogatory and offensive by some.",
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "(lit.) small shrimp. Supposedly due to the fact many Eurasians were shrimp fishermen, and had large families, drawing comparisons to how shrimp reproduce prolifically.",
+        "origin": [
+            {
+                "lang": "kristang",
+                "roman": "gragoh",
+                "lit": "shrimp; prawn",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "[udang] geragau"
+                ],
+                "etyLit": [
+                    "small dried shrimp, used as an ingredient for making belacan etc."
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a person of Eurasian descent"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://prpm.dbp.gov.my/Cari1?keyword=geragau",
+                "name": "PRPM - geragau II"
+            }
+        ]
+    },
+    "green bean": {
+        "word": "green bean",
+        "related": [
+            "tau"
+        ],
+        "usage": "The term is the only one used in Singaporean English for the bean. The unrelated species <i>Phaseolus vulgaris</i>, which is also known as \"green bean\" in some other English-speaking regions, is instead known by other names including \"string bean\" or \"French bean\" in Singapore (and never \"green bean\").",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "etyNotes": "Probably a direct translation from both the Chinese and Malay terms, which are both literally \"green bean\". Both terms ostensibly stem from the colour of the bean (in contrast to e.g. @{red beans}).",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "green",
+                "lit": "colour between yellow and blue on the visible light spectrum"
+            },
+            {
+                "lang": "english",
+                "roman": "bean",
+                "lit": "plant of the family Fabaceae producing edible seeds, or the seeds thereof"
+            },
+            {
+                "lang": "general chinese",
+                "simplified": "绿豆",
+                "traditional": "綠豆",
+                "roman": "lǜ dòu",
+                "lit": "Vigna radiata and its edible bean",
+                "etyPath": [
+                    "general chinese",
+                    "general chinese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "绿",
+                    "豆"
+                ],
+                "etyTrad": [
+                    "綠",
+                    "豆"
+                ],
+                "etyRoman": [
+                    "lǜ",
+                    "dòu"
+                ],
+                "etyLit": [
+                    "green",
+                    "bean"
+                ]
+            },
+            {
+                "lang": "malay",
+                "roman": "kacang hijau",
+                "lit": "Vigna radiata and its edible bean",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "kacang",
+                    "hijau"
+                ],
+                "etyLit": [
+                    "bean",
+                    "green"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the bean plant <i>Vigna radiata</i> and its edible green-coloured beans, which are used in several local dishes in Singapore."
+                }
+            ]
+        }
+    },
+    "glam@1": {
+        "word": "glam",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "glamorous",
+                "lit": "stylish; glittering; elegant"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "glamorous; stylish; glittering; elegant",
+                    "example": "I'm not glam enough to be in that friend group. All they do is hop around the most Instagrammable cafes in the city centre... I'd rather do something sporty or relax at home.",
+                    "synonyms": [
+                        "stylo"
+                    ],
+                    "antonyms": [
+                        "unglam",
+                        "obiang",
+                        "obit"
+                    ]
+                },
+                {
+                    "definition": "celebrated; high-profile"
+                }
+            ]
+        },
+        "related": [
+            "step"
+        ],
+        "etyNotes": "Clipping of English <i>glamorous</i>. Used informally in some fixed English phrases, such as <i>glam rock</i> and <i>glam up</i>.",
+        "phonetics": "/ˈɡlam/"
+    },
+    "unglam": {
+        "word": "unglam",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "unglamorous",
+                "lit": "not stylish; unexciting; unpleasant",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "un",
+                    "glamorous"
+                ],
+                "etyLit": [
+                    "(prefix) not; lacking; opposite of",
+                    "stylish; glittering; elegant"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "unglamorous; not stylish; unattractive",
+                    "example": "The average Singaporean man dresses in admin tee or PT kit and slippers, if they aren't out in their Uniqlo best. So unglam sia.",
+                    "antonyms": [
+                        "stylo",
+                        "glam"
+                    ],
+                    "synonyms": [
+                        "obiang",
+                        "obit"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "step"
+        ],
+        "etyNotes": "Clipping of English <i>glamorous</i>. Used informally in some fixed English phrases, such as <i>glam rock</i> and <i>glam up</i>.",
+        "phonetics": "/ˈʌnɡlam/"
+    },
+    "glam@2": {
+        "word": "Glam",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "gelam",
+                "lit": "Melaleuca cajuputi, a tree with white wood and papery bark native to the region around South-East Asia and Australia"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "Melaleuca cajuputi, a tree with white wood and papery bark native to the region around South-East Asia and Australia, which gives its name to the historic neighbourhood Kampong Glam (Kampung Gelam) in Singapore."
+                }
+            ]
+        },
+        "category": [
+            "locations",
+            "nature"
+        ],
+        "etyNotes": "Clipping of English <i>glamorous</i>. Used informally in some fixed English phrases, such as <i>glam rock</i> and <i>glam up</i>.",
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/nparksbuzz/issue-46-vol-3-2020/facts/gelam-tree",
+                "name": "NParks Singapore - Gelam Tree"
+            }
+        ]
+    },
+    "goli": {
+        "word": "goli",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "guli",
+                "lit": "marbles",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "गोलिका"
+                ],
+                "etyRoman": [
+                    "golikā"
+                ],
+                "etyLit": [
+                    "small ball for playing with; marble"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "marble; a small, often ornamented sphere of glass or other hard material used as a toy",
+                    "example": "Things like goli/marbles, kuti kuti or flag erasers were favourites of students, not to forget bottle cap soccer and the rubber band game where you jump over the rope without touching it.",
+                    "exampleSource": "OneDollarOnly, \"TRADITIONAL GAMES IN SINGAPORE WE USED TO PLAY\". https://onedollaronly.com.sg/blogs/the-dollar-blog/traditional-games-in-singapore-we-used-to-play"
+                },
+                {
+                    "definition": "a game played using marbles. While rules vary, one version has players place a number of their marbles in a circle drawn on the ground, then take turns throwing marbles from a line a distance away, with the aim to knock their opponents' marbles out of the circle. Players would get to keep the marbles that they managed to knock out.",
+                    "example": "Marbles, or goli, was one of the favourite games among the boys. ... In the eighties, there were also the solid clay marbles and stainless steel ones (called tee zee in Hokkien), where the boys found joy in smashing their rivals’ marbles into pieces.",
+                    "exampleSource": "2018 January 27. Remember Singapore, \"Our Favourite Games of Yesteryears\". https://remembersingapore.org/2018/01/27/traditional-games-of-yesteryears/"
+                }
+            ]
+        },
+        "category": [
+            "games"
+        ],
+        "usage": "The game is also popular in other countries, especially India (where it likely originated), where it is also known by other names, such as Golli, Pili Goli, Golli @{Gundu}, Kanche, or Marbles.",
+        "etyNotes": "Probably first via some intermediary Indian language, such as Tamil கோலி, kōli, but ultimately from Sanskrit. Compare dialectical English slang <i>gooly</i> (\"small pebble; small rock; testicle\")."
+    },
+    "gone case": {
+        "word": "gone case",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "gone",
+                "lit": "having passed; doomed"
+            },
+            {
+                "lang": "english",
+                "roman": "case",
+                "lit": "situation; condition; task to work on"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "somebody or something irredeemable, hopeless, beyond help; futile, or doomed",
+                    "example": "\"At first, I thought there was nothing wrong. When I saw my fillings and looked at my teeth, gone case. Twenty over years and they just cracked like that.\"",
+                    "exampleSource": "2024 January 2, Cherlynn Ng (quoting Scorpio). STOMP, \"Man's teeth become 'gone case' after biting on stone-like object in rice, SFA investigating\". https://stomp.straitstimes.com/singapore-seen/mans-teeth-become-gone-case-after-biting-on-stone-like-object-in-rice-sfa"
+                }
+            ]
+        },
+        "related": [
+            "cmi",
+            "gg"
+        ],
+        "usage": "Also used in Indian English. Equivalent to English <i>lost cause</i>. "
+    },
+    "sua": {
+        "word": "sua",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "绁",
+                "traditional": "紲",
+                "roman": "sòa",
+                "lit": "continue; follow on; add"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering) added to the end of a drink order to ask for a second order of the same drink",
+                    "example": "Uncle, two kopi-@{O} @{kosong} sua. One for me, one for my friend. "
+                }
+            ]
+        },
+        "category": [
+            "drinks"
+        ],
+        "usage": "Always the final adjective used, as it is separate from the description of the drink itself."
+    },
+    "tee kong": {
+        "word": "tee kong",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "铁管",
+                "traditional": "鐵管",
+                "roman": "thih-kóng",
+                "lit": "empty tin or metal (lit. iron) can"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an empty tin can, such as one formerly used to hold condensed milk, which is reused as a drink container. Such a can normally has the lid still attached at one end with a hole poked through its centre, through which a raffia string is threaded to be used as a handle (to prevent having to hold the hot drink can directly).<br>A drink can be ordered for takeaway in such a can by using the specifying adjective @{kong}<sub>2</sub>.",
+                    "example": "To get it served in a condensed milk tin can, you will need to request it. ... In today’s era, it is a rarity to find coffee to be served in a ‘tee kong’.",
+                    "exampleSource": "2021 May 22, Mei Rei Qua. Singapore Foodie, \"Coffee Stall At Choa Chu Kang Serves Traditional Kopi In Condensed Milk Tin Cans\". https://singaporefoodie.com/85-degrees-coffee-condensed-milk-tin-cans/",
+                    "synonyms": [
+                        "kong"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "bungkus",
+            "dabao",
+            "pau",
+            "puay"
+        ],
+        "category": [
+            "drinks"
+        ],
+        "usage": "As plastic took over as the material for takeaway containers, first as baggies (@{pau}) or modern drink cups (@{puay}), the tee kong is becoming rarer and rarer, and is not an option at most drink stalls anymore (as the ontainers must be prepared beforehand). However, where they are available, they are still a great, environmentally-friendly way to help reuse and reduce.",
+        "etyNotes": "While 管 usually means a hollow extrusion or pipe, it is also used to mean an empty tin can or drink can in Hokkien.^{1}",
+        "references": [
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/10911/",
+                "name": "教育部臺灣閩南語常用詞辭典 - 銅管仔"
+            }
+        ]
+    },
+    "kong@1": {
+        "word": "kong",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "讲",
+                "traditional": "講",
+                "roman": "kóng",
+                "lit": "speak; talk; say"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to speak; to talk; to say",
+                    "example": "Eh, kong simple English lah. Don't try to throw smoke at me by using all these @{cheemologies|chiminology}."
+                }
+            ]
+        },
+        "related": [
+            "talk cock",
+            "wa ka li kong"
+        ]
+    },
+    "kong@2": {
+        "word": "kong",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "管",
+                "traditional": "管",
+                "roman": "kóng",
+                "lit": "hollow tubular object; pipe; can"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an empty tin can, such as one formerly used to hold condensed milk, which is reused as a drink container. Such a can normally has the lid still attached at one end with a hole poked through its centre, through which a raffia string is threaded to be used as a handle (to prevent having to hold the hot drink can directly).",
+                    "example": "Once upon a time, empty tin cans of evaporated milk were used as takeaway cups – I’m told some of the older kopitiams still use the tee kong (tin can), but I’m yet to spot one in the wild.",
+                    "exampleSource": "2020 November 19, Selina Altomonte. SBS Food, \"How to order kopi like a Singaporean local\". https://www.sbs.com.au/food/article/how-to-order-kopi-like-a-singaporean-local/g3d3ehkpx",
+                    "synonyms": [
+                        "tee kong"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(drink ordering) packaged for takeaway in such a can"
+                }
+            ]
+        },
+        "etyNotes": "See @{tee kong}.",
+        "related": [
+            "bungkus",
+            "dabao",
+            "pau",
+            "puay"
+        ]
+    },
+    "kacau": {
+        "word": "kacau",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "kacau",
+                "lit": "confused; chaotic"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to disturb; to agitate; to bother; to annoy",
+                    "example": "Whenever I am trying to have a relaxing cooking session on my own, my dog always comes to the kitchen to kacau me in the hope of getting some off-cuts or scraps.",
+                    "synonyms": "cucuk"
+                }
+            ]
+        },
+        "etyNotes": "The root <i>kacau</i> itself means \"confused; disorderly\", and the sense of \"disturb; stir; agitate; cause a disturbance\" is properly from its conjugations e.g. <i>mengacau</i> and <i>kenkacauan</i>.^{1}<br>While the Singlish word unequivocally derives from Malay, there is coincidentally and interestingly also a native Chinese term which is commonly used in Hokkien, 攪擾/搅扰, kiáu-jiáu (\"to disturb; to agitate; to bother; to annoy\"). As the term is pronounced very similarly, this could have contributed to promoting the uptake of <i>kacau</i> into the lexicon of early Hokkien-speaking Singaporeans."
+    },
+    "goot": {
+        "word": "goot",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "good",
+                "lit": "great; pleasant; favourable; positive; competent etc."
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "good",
+                    "example": "This dictionary @{sibeh} goot sia. Who write ah?",
+                    "synonyms": [
+                        "ho"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "tok kong"
+        ],
+        "etyNotes": "Alteration of English <i>good</i> due to Singlish pronunciation of final /d/ as /t/."
+    },
+    "chiam tao roti": {
+        "word": "chiam tao roti",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "尖头罗啲",
+                "traditional": "尖頭羅啲",
+                "roman": "chiam-thâu-lô-ti",
+                "lit": "baguette (bread)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "malay",
+                    "tamil",
+                    "sanskrit"
+                ],
+                "etyType": [
+                    "+",
+                    "",
+                    "",
+                    ""
+                ],
+                "etyScript": [
+                    "尖头",
+                    "罗啲",
+                    "",
+                    "ரொட்டி",
+                    "रोटिका"
+                ],
+                "etyTrad": [
+                    "尖頭",
+                    "羅啲",
+                    "",
+                    "",
+                    ""
+                ],
+                "etyRoman": [
+                    "chiam-thâu",
+                    "lô-ti",
+                    "roti",
+                    "roṭṭi",
+                    "roṭikā"
+                ],
+                "etyLit": [
+                    "pointy-headed",
+                    "bread",
+                    "bread",
+                    "bread",
+                    "bread"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "baguette (a type of bread)",
+                    "example": "On the 10th day of Christmas my true God gave to me, 2 days @{mc}, one PES f, and a @{sio} sio eh jiam tau lo teeee [sic]",
+                    "exampleSource": "2020 August 24, u/Absorb_Nothing. Reddit, \"The Singlish Bible\". https://www.reddit.com/r/singapore/comments/ifjvbz/the_singlish_bible/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "(lit.) pointy-headed bread, referring to the long aspect ratio and pointy, tapered end of a baguette."
+    },
+    "musang king": {
+        "word": "Musang King",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "[Gua] Musang",
+                "lit": "district in Kelantan, Malaysia where the cultivar was discovered",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "musang"
+                ],
+                "etyLit": [
+                    "Asian palm civet (Paradoxurus hermaphroditus); civet cat"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "king",
+                "lit": "(usu. male) the ruler of a monarchy; a powerful or preeminent person",
+                "type": "tx",
+                "etyPath": [
+                    "malay",
+                    "malay",
+                    "sanskrit"
+                ],
+                "etyType": [
+                    "",
+                    ""
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "राजन्"
+                ],
+                "etyRoman": [
+                    "Raja [Kunyit]",
+                    "raja",
+                    "rājan"
+                ],
+                "etyLit": [
+                    "original name of the variety of durian from which Musang King was developed; (lit.) Turmeric King",
+                    "king; monarch",
+                    "king; prince"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a cultivar of @{durian} originating in Gua Musang, Kelantan, Malaysia, prized for its texture and flavour",
+                    "example": "At a press conference on June 27, Agriculture Minister Mohamad Sabu said the variety – also known as Musang King – “must be recognised as a Malaysian product because it is getting popular, particularly in China”.<br>He added that Malaysia’s Agriculture Department and its international trade unit “will initiate the move to patent the Musang King”, reported New Straits Times.",
+                    "exampleSource": "2024 June 27, Gabrielle Andres. The Straits Times, \"Malaysia wants ‘patent’ for its Mao Shan Wang durians\". https://www.straitstimes.com/asia/se-asia/malaysia-wants-patent-for-its-mao-shan-wang-durians"
+                }
+            ]
+        },
+        "related": [
+            "musang",
+            "king"
+        ],
+        "category": [
+            "cuisine",
+            "nature"
+        ]
+    },
+    "musang": {
+        "word": "musang",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "musang",
+                "lit": "Asian palm civet (Paradoxurus hermaphroditus); civet cat"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Asian palm civet (<i>Paradoxurus hermaphroditus</i>), also known as the common palm civet, a long, arboreal and terrestrial, nocturnal mammal native to Southeast and South Asia. It is primarily frugivorous, but also eats insects and small mammals.^{1}"
+                },
+                {
+                    "definition": "any civet cat or civet-like animal in general"
+                }
+            ]
+        },
+        "category": [
+            "nature"
+        ],
+        "usage": "Also known as luwak/luak, a term known by most from <i>kopi luwak</i>.",
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/nparksbuzz/issue-39-vol-4-2018/facts/common-palm-civet",
+                "name": "NParks Singapore - Common Palm Civet"
+            }
+        ]
+    },
+    "giah lam pa chut lai tom toh teng": {
+        "word": "giah lam pa chut lai tom toh teng",
+        "related": [
+            "lam pa",
+            "sia suay",
+            "lau khui"
+        ],
+        "category": [
+            "sayings",
+            "vulgar"
+        ],
+        "etyNotes": "(lit.) 'take one's testicles out and bang them on the table', meaning to be so embarrassed by one's mistake that one wants to punish oneself in a very painful manner to get out of the situation.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "𫽥𡳞脬出来丼桌顶",
+                "traditional": "攑𡳞脬出來丼桌頂",
+                "roman": "gia̍h lām-pha chhut-lâi tôm toh-téng",
+                "lit": "(fig.) harshly self-criticize or self-flagellate over a mistake, (lit.) take one's testicles out and bang them on the table",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "𫽥",
+                    "𡳞脬",
+                    "出来",
+                    "丼",
+                    "桌顶"
+                ],
+                "etyTrad": [
+                    "攑",
+                    "𡳞脬",
+                    "出來",
+                    "丼",
+                    "桌頂"
+                ],
+                "etyRoman": [
+                    "gia̍h",
+                    "lām-pha",
+                    "chhut-lâi",
+                    "tôm",
+                    "toh-téng"
+                ],
+                "etyLit": [
+                    "take; hold",
+                    "(vulgar) scrotum; ballsack; balls",
+                    "come out",
+                    "(onom.) sound of sth. dropping into a well; deep, hollow sound of an impact",
+                    "on top of a table"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) to harshly criticize oneself or self-flagellate over a mistake, especially one particularly stupid, embarrassing, or causing one to @{lose face}",
+                    "example": "I blur blur daydreaming and called the teacher 'mummy' on accident… want to giah lam pa chut lai tom toh teng right there and then.",
+                    "synonyms": [
+                        "teh lam pa chir sat"
+                    ]
+                }
+            ]
+        }
+    },
+    "teh lam pa chir sat": {
+        "word": "teh lam pa chir sat",
+        "related": [
+            "lam pa",
+            "sia suay",
+            "lau khui"
+        ],
+        "category": [
+            "vulgar",
+            "sayings"
+        ],
+        "etyNotes": "(lit.) 'to squeeze one's testicles until one kills oneself', meaning to be so embarrassed by one's mistake that one wants to kill oneself in a very painful manner to get out of the situation.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "捏𡳞脬自杀",
+                "traditional": "捏𡳞脬自殺",
+                "roman": "tīⁿ/tēⁿ lām-pha chīr/chū-sat",
+                "lit": "(fig.) harshly self-criticize or self-flagellate over a mistake, (lit.) squeeze one's testicles until one kills oneself",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "捏",
+                    "𡳞脬",
+                    "自杀"
+                ],
+                "etyTrad": [
+                    "捏",
+                    "𡳞脬",
+                    "自殺"
+                ],
+                "etyRoman": [
+                    "tīⁿ/tēⁿ",
+                    "lām-pha",
+                    "chīr/chū-sat"
+                ],
+                "etyLit": [
+                    "squeeze tightly; grasp; pinch; press",
+                    "(vulgar) scrotum; ballsack; balls",
+                    "commit suicide"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) to harshly criticize oneself or self-flagellate over a mistake, especially one particularly stupid, embarrassing, or causing one to @{lose face}",
+                    "example": "When I found out that swee char bo I had been flirting with all night was my cousin, wah I tell you, want to teh lam pa chir sat already.",
+                    "synonyms": [
+                        "giah lam pa chut lai tom toh teng"
+                    ]
+                }
+            ]
+        }
+    },
+    "khiao kha yo lam pa": {
+        "word": "khiao kha yo lam pa",
+        "related": [
+            "khiao kha",
+            "lam pa",
+            "one leg kick",
+            "bo eng",
+            "chiah chua",
+            "fuck spider",
+            "idle king",
+            "kong kha khiao"
+        ],
+        "category": [
+            "vulgar",
+            "sayings"
+        ],
+        "etyNotes": "(lit.) 'to sit with a leg up or with one leg resting on the other (@{khiao kha}), shaking one's ballsack', evoking the sense of not having anything better to do.<br>Also may be written as 曲跤— or 翹跤—.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "跷跤摇𡳞脬",
+                "traditional": "蹺跤搖𡳞脬",
+                "roman": "khiau-kha iô lām-pha",
+                "lit": "(fig.) loaf about; have nothing to do, (lit.) sit with a leg up or with one leg resting on the other, shaking one's ballsack.",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "跷跤",
+                    "摇",
+                    "𡳞脬"
+                ],
+                "etyTrad": [
+                    "蹺跤",
+                    "搖",
+                    "𡳞脬"
+                ],
+                "etyRoman": [
+                    "khiau-kha",
+                    "iô",
+                    "lām-pha"
+                ],
+                "etyLit": [
+                    "sit on a chair with one leg raised and the foot resting on the chair, the leg resting on the other thigh to form a triangle shape",
+                    "shake; swing; wiggle",
+                    "(vulgar) scrotum; ballsack; balls"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) to have nothing better to do; to while away the time; to be idle; to have too much free time on one's hands",
+                    "example": "I tried to be relatively productive while I was unemployed, going to the gym and such, but most days I just khiao kha yo lam pa."
+                }
+            ]
+        }
+    },
+    "gor jiam dua kuay gu chia leng": {
+        "word": "gor jiam dua kuay gu chia leng",
+        "origin": [
+            {
+                "lang": "hokkien / teochew",
+                "simplified": "五占大过牛车辇",
+                "traditional": "五占大過牛車輦",
+                "roman": "gō͘-chiam tōa-kòe gû-chhia-lêng2",
+                "romanization": "poj / peng'im",
+                "lit": "(lit.) five cents bigger than a bullock cart's wheel, (fig.) think one's money is worth more than it is",
+                "etyPath": [
+                    "hokkien",
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "五",
+                    "占",
+                    "大过",
+                    "牛车",
+                    "辇"
+                ],
+                "etyTrad": [
+                    "五",
+                    "占",
+                    "大過",
+                    "牛車",
+                    "輦"
+                ],
+                "etyRoman": [
+                    "gō͘",
+                    "chiam",
+                    "tōa-kòe",
+                    "gû-chhia",
+                    "lêng2"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj",
+                    "poj",
+                    "poj",
+                    "peng'im"
+                ],
+                "etyLit": [
+                    "five",
+                    "cent",
+                    "bigger than; more than",
+                    "bullock cart; oxcart",
+                    "wheel"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) thinking one's money is worth more than it is; describing someone who lowballs or offers to pay a laughably low amount for something",
+                    "example": "One youth in Singapore is carrying out a coin-collecting campaign to prove that five cents is indeed bigger than a bullock cart's wheel (i.e. gor chiam tua kuay gu chia leng).",
+                    "exampleSource": "2019 June 4, Belmont Lay. Mothership, \"S'porean youth collecting 5-cent coins from everyone in S'pore to feed the poor & hungry\". https://mothership.sg/2019/06/five-cents-coin-collection-singapore-charity/"
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "(lit.) 'five cents bigger than a bullock cart's wheel'.<br>Has taken a nonstandard mixture of Hokkien and Teochew pronunciations, with for example gō͘  being Hokkien and lêng2 being Teochew."
+    },
+    "gor kee chiu": {
+        "word": "gor kee chiu",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "五枝须",
+                "traditional": "五枝鬚",
+                "roman": "gō͘-ki-chhiu",
+                "romanization": "",
+                "lit": "(lit.) five-string beard/moustache, (fig.) lecherous; lewd; pervert; dirty old man, (slang) catfish",
+                "etyScript": [
+                    "五",
+                    "枝",
+                    "须"
+                ],
+                "etyTrad": [
+                    "五",
+                    "枝",
+                    "鬚"
+                ],
+                "etyRoman": [
+                    "gō͘",
+                    "ki",
+                    "chhiu"
+                ],
+                "etyLit": [
+                    "five",
+                    "long",
+                    "cylindrical object e.g. a stick or branch",
+                    "beard; moustache"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a pervert; a dirty old man; a lecher",
+                    "example": "I had a gor kee chiu follow me all the way through the MRT station - luckily I managed to get in a train just before the doors closed and get out of there.",
+                    "synonyms": [
+                        "cheeko",
+                        "ti ko",
+                        "cheeko pek",
+                        "ti ko pek",
+                        "buaya",
+                        "bian tai"
+                    ]
+                },
+                {
+                    "definition": "a catfish",
+                    "example": "Mummy would always buy gor ki chiu and @{ang ko li} at the same stall in the wet market because she said it was fresher there.",
+                    "synonyms": [
+                        "thor sat"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "lecherous; lewd; perverted",
+                    "example": "Shave once in a while, man - that beard and moustache really @{damn} @{pai kua} on you, you look so gor kee chiu sia.",
+                    "synonyms": [
+                        "cheeko",
+                        "ham sap",
+                        "cheeko pek",
+                        "ti ko pek",
+                        "bian tai"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "Meaning of 'pervert; dirty old man' due to the image of a lecherous old man with five unkempt strands of a stubbly or wispy beard or moustache. Also became a slang term for 'catfish' due to the barbels of catfish resembling long, individual strands of hair in a moustache."
+    },
+    "pai khua": {
+        "word": "pai khua",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "歹看",
+                "traditional": "歹看",
+                "roman": "pháiⁿ-khòaⁿ",
+                "romanization": "",
+                "lit": "ugly; not good-looking; unsightly"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "ugly; not good-looking; unsightly",
+                    "example": "I look so pai khua in this photo leh. Why you post the one where I look so @{gong gong} sia?",
+                    "synonyms": [
+                        "bo sui",
+                        "cui"
+                    ],
+                    "antonyms": [
+                        "sui",
+                        "chio",
+                        "hamsum",
+                        "yan tau"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "pai"
+        ],
+        "category": [
+            "insults"
+        ]
+    },
+    "siput gonggong": {
+        "word": "siput gonggong",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "siput gonggong",
+                "romanization": "",
+                "lit": "Laevistrombus canarium, a.k.a. dog conch, an edible marine snail",
+                "etyRoman": [
+                    "siput",
+                    "gonggong"
+                ],
+                "etyLit": [
+                    "snail; shelled mollusc",
+                    "(onom.) bark; dog's bark"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>Laevistrombus canarium</i>, an edible marine snail found in the region around South-East Asia. It is eaten in Malay cuisine."
+                }
+            ]
+        },
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "etyNotes": "The English common name of the species, \"dog conch\", is a calque from the Malay name."
+    },
+    "bagus": {
+        "word": "bagus",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "bagus",
+                "romanization": "",
+                "lit": "good"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "good",
+                    "synonyms": [
+                        "goot",
+                        "baik"
+                    ],
+                    "antonyms": [
+                        "cui",
+                        "rabak"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buay pai"
+        ]
+    },
+    "baik": {
+        "word": "baik",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "baik",
+                "romanization": "",
+                "lit": "good; ok"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "good",
+                    "example": "Wah, I thought this chair was good, but this one @{lagi} baik.",
+                    "synonyms": [
+                        "goot",
+                        "bagus"
+                    ],
+                    "antonyms": [
+                        "cui",
+                        "rabak"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'OK'; 'alright'; expression of acceptance or agreement",
+                    "example": "Baik, I will do fast fast for you one. Next Monday collect can?",
+                    "synonyms": [
+                        "can"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buay pai"
+        ]
+    },
+    "saman": {
+        "word": "saman",
+        "related": [
+            "saman auntie",
+            "saman uncle"
+        ],
+        "usage": "Especially used for fines relating to traffic- or parking-related offences.",
+        "category": [],
+        "phonetics": "/ˈsaman/",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "saman",
+                "romanization": "",
+                "lit": "fine; monetary penalty",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "summons"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "legal notice requiring sb. to appear in court or pay a fine"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a fine or monetary penalty",
+                    "example": "If you've never received a speeding summons or saman, as we like to call it, that plain envelope marked 'On Government Service' looks innocuous. You might even think it's from HDB or CPF.",
+                    "exampleSource": "2023 May 19, Jeremy Chua. Sgcarmart, \"Oh no! First time kena speeding saman? Here's what to expect\". https://www.sgcarmart.com/articles/advice/oh-no-first-time-kena-speeding-saman-heres-what-to-expect-31092",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to fine or levy a monetary penalty",
+                    "example": "Wee Kiat kena saman $80 while using one of those car share cars. This one really @{jialat}.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "grandfather's army": {
+        "word": "grandfather's army",
+        "related": [
+            "grandfather's road"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "grandfather's",
+                "romanization": "",
+                "lit": "of or belonging to one’s grandfather; implies permission to do whatever one pleases",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "grandfather's"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "of or belonging to one’s male grandparent"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "army",
+                "romanization": "",
+                "lit": "armed land forces, sometimes also including the entire military e.g. air force and navy"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(sarcastic) used to imply that a soldier is acting as if they are permitted to do whatever they please in the army, that rules do not apply to them, and that they are the most important person there.",
+                    "example": "@{Chao recruit}! I say 7:30 first parade means 7:34 you can happy happy @{jalan} in ah? Your grandfather army @{isit}?",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "guai": {
+        "word": "guai",
+        "related": [
+            "chi wu eng"
+        ],
+        "usage": "Can be used as an adverb by adding the English suffix <i>-ly</i>, or by reduplication into <i> guai guai</i>.",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "simplified": "乖",
+                "traditional": "乖",
+                "roman": "guāi",
+                "romanization": "",
+                "lit": "well-behaved; good; obedient",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "well-behaved; good; obedient",
+                    "example": "Ming Lee was always seen as the guai kid sitting quietly in the back of the class. Who would have guessed she’d grow up into the Lianest of @{Ah Lians}?",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "gu ni": {
+        "word": "gu ni",
+        "usage": "",
+        "category": [
+            "drinks"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "牛奶",
+                "traditional": "牛奶",
+                "roman": "gû-ni",
+                "romanization": "",
+                "lit": "cow’s milk; milk",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "牛",
+                    "奶"
+                ],
+                "etyTrad": [
+                    "牛",
+                    "奶"
+                ],
+                "etyRoman": [
+                    "gû",
+                    "ni"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "cow",
+                    "milk; breast"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "milk; cow’s milk",
+                    "example": "You use what kind of gu ni to make your yogurt?",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "gu yu": {
+        "word": "gu yu",
+        "related": [
+            "buak gu yu"
+        ],
+        "usage": "",
+        "category": [
+            "drinks",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "牛油",
+                "traditional": "牛油",
+                "roman": "gû-iû",
+                "romanization": "",
+                "lit": "butter; beef tallow",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "牛",
+                    "油"
+                ],
+                "etyTrad": [
+                    "牛",
+                    "油"
+                ],
+                "etyRoman": [
+                    "gû",
+                    "iû"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "cow",
+                    "oil"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "butter",
+                    "example": "All I had for breakfast was some leftover @{chim tao lo ti} with gu yu.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(attributive, drink ordering, usually only with @{kopi}) with a slab of butter melted in",
+                    "example": "The traditional kopi gu you is made with Nanyang Coffee. This is a local coffee made in Singapore with robusta beans that are roasted to Full City with added sugar and butter or margarine.",
+                    "exampleSource": "2023 August 28, Azlin Bloor. Singaporean and Malaysian Recipes, \"Butter Coffee (Kopi Gu You)\". https://www.singaporeanmalaysianrecipes.com/butter-coffee-kopi-gu-you/",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "grandfather's road": {
+        "word": "grandfather's road",
+        "related": [
+            "grandfather's army"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "grandfather's",
+                "romanization": "",
+                "lit": "of or belonging to one’s grandfather; implies permission to do whatever one pleases",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "grandfather's"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "of or belonging to one’s male grandparent"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "road",
+                "romanization": "",
+                "lit": "street; paved way for vehicles or pedestrians"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(sarcastic) a road or street which one treats as if it belongs to one’s grandfather. Used to imply that someone is acting as if they are permitted to do whatever they please and that they are the most important person on the road.",
+                    "example": "This @{goondu} park like it’s his grandfather road. Somehow managed to take up 3 spots with one car!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "grandfather's": {
+        "word": "grandfather's",
+        "related": [],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "grandfather’s",
+                "romanization": "",
+                "lit": "of or belonging to one’s male grandparent",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(possessive, attributive, sarcastic) used to qualify that something is of or belongs to one’s grandfather. Used to imply that someone is treating said thing or place as if they or their family has owned it for generations, permitting them to do whatever they please and acting as if they are the most important person there.",
+                    "example": "Eh! Your grandfather’s hotel ah? You trash the room until so @{jialat} you @{confirm} @{tio} charged lah!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "gostan": {
+        "word": "gostan",
+        "related": [
+            "ke belakang pusing",
+            "stun"
+        ],
+        "usage": "Alteration/elision of the English phrase.",
+        "category": [],
+        "phonetics": "/ˌɡo(ː)ˈstan/",
+        "etyNotes": "Possibly via Malay <i>gostan</i> as an intermediate.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "go astern",
+                "romanization": "",
+                "lit": "(nautical) reverse; go backwards",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "go",
+                    "astern"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "move; head towards",
+                    "(nautical) toward the rear of a vessel"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(invariable) to go backwards; to reverse",
+                    "example": "@{Alamak}, I turn @{salah} @{liao}. Need to gostan.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "goreng": {
+        "word": "goreng",
+        "related": [
+            "char"
+        ],
+        "usage": "While @{char} and <i>goreng</i> mean the same thing (\"fry/fried\") in their respective original languages, they cannot be treated interchangeably. For example, @{char kway teow} is quite a distinct dish from @{kway teow goreng}.<br><i>Goreng</i> is properly postpositive (placed after the noun it modifies), a feature which it inherits from Malay. However, it is sometimes used before the noun in some phrases by those unfamiliar with Malay grammar, e.g. in 'goreng pisang' (@{pisang goreng}).",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "Supposedly onomatopoeic.",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "goreng",
+                "romanization": "",
+                "lit": "fry; fried, (slang) flatter",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to fry; to deep-fry",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "to flatter; to butter up with compliments",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "sakar",
+                        "angkat bola",
+                        "carry balls"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "to sternly reprimand; to give an extended scolding to",
+                    "example": "He's been getting gorenged in there for an hour now. Just how badly did he screw up?",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "kan",
+                        "fuck",
+                        "buak gu yu"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "to ridicule; to mock; to criticize",
+                    "example": "The restaurant was gorenged by floods of dissatisfied reviews after they tried getting away with charging double for a smaller portion.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ji siao"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(dated) to deceive; to fool; to trick",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(postpositive) fried; deep-fried",
+                    "example": "Maggi goreng from the @{prata} stall was always a favourite among the students.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
     }
 }

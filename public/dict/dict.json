@@ -126,7 +126,8 @@
     ],
     "ah": [
         "ah",
-        "a"
+        "a",
+        "ar"
     ],
     "ah balling": [
         "ah balling",
@@ -603,6 +604,12 @@
         "babi pongteh",
         "babi pong teh"
     ],
+    "bagus": [
+        "bagus"
+    ],
+    "baik": [
+        "baik"
+    ],
     "bak": [
         "bak",
         "bah",
@@ -972,12 +979,6 @@
         "bo ta bo lan pa",
         "bo ta bo lanpa",
         "bo ta bo lam pha"
-    ],
-    "ta liao superstar": [
-        "ta liao superstar",
-        "tah liao superstar",
-        "ta liao super star",
-        "ta liau superstar"
     ],
     "bo tao bo beh": [
         "bo tao bo beh",
@@ -1733,6 +1734,25 @@
         "chiah liau bi",
         "chiah liau bee"
     ],
+    "chiam tao roti": [
+        "chiam tao roti",
+        "chiam tau roti",
+        "jiam tau roti",
+        "jiam tao roti",
+        "chiam thau roti",
+        "chiam tau lo ti",
+        "jiam tau lo ti",
+        "jiam tao lo ti",
+        "chiam thau lo ti",
+        "chiam tao lo ti",
+        "chiam tao lo di",
+        "jiam tao lo di",
+        "jiam tau lo di",
+        "jiam tow lo di",
+        "jiam tow lo ti",
+        "chiam tao loti",
+        "jiam tau lo tee"
+    ],
     "chicken backside": [
         "chicken backside"
     ],
@@ -2086,6 +2106,25 @@
         "dinner and dance",
         "dinner & dance"
     ],
+    "dabao": [
+        "dabao",
+        "tapau",
+        "tapao",
+        "ta pau",
+        "ta pao",
+        "da bao",
+        "da pau",
+        "da pao",
+        "dapau",
+        "dapao",
+        "tapow"
+    ],
+    "dai di": [
+        "dai di",
+        "daidi",
+        "tai ti",
+        "taiti"
+    ],
     "damn": [
         "damn",
         "dam"
@@ -2117,6 +2156,12 @@
     "dhoby mark": [
         "dhoby mark",
         "dhobi mark"
+    ],
+    "di lo": [
+        "di lo",
+        "ti lo",
+        "tee lo",
+        "dee lo"
     ],
     "diam": [
         "tiam",
@@ -2474,6 +2519,15 @@
     "ghim moh": [
         "ghim moh"
     ],
+    "giah lam pa chut lai tom toh teng": [
+        "giah lam pa chut lai tom toh teng",
+        "giah lam pa chut lai tom to teng",
+        "giah lam pa chut lai tom to'teng",
+        "giah lum pa chut lai tom toh teng",
+        "giah lum pah chut lai tom toh teng",
+        "giah lan pa chut lai tom toh teng",
+        "giah lum par chut lai tom toh teng"
+    ],
     "gila": [
         "gila",
         "gile",
@@ -2512,7 +2566,8 @@
     "gong": [
         "gong",
         "gong-gong",
-        "gong gong"
+        "gong gong",
+        "gonggong"
     ],
     "gong tao": [
         "gong tao",
@@ -2520,13 +2575,19 @@
         "kong tau"
     ],
     "goondu": [
-        "goondu"
+        "goondu",
+        "gundu"
     ],
     "goot": [
         "goot"
     ],
-    "gor chiam tua kuay gu chia leng": [
+    "gor jiam dua kuay gu chia leng": [
+        "gor jiam dua kuay gu chia leng",
+        "gor jiam tua kuay gu chia leng",
+        "gor ziam dua kuay gu chia leng",
+        "gor ziam tua kuay gu chia leng",
         "gor chiam tua kuay gu chia leng",
+        "gor chiam tua kuay gu chia lian",
         "goh chiam tua kuey gu chia leng"
     ],
     "gor kee chiu": [
@@ -2566,6 +2627,10 @@
         "got eyes also don't know orh ee orh",
         "got eyes also don't know orh yee orh",
         "got eyes also dunno orh ee orh"
+    ],
+    "got licence": [
+        "got licence",
+        "got license"
     ],
     "got standard": [
         "got standard"
@@ -2609,7 +2674,9 @@
         "gu yu",
         "goo yoo",
         "guyu",
-        "gooyoo"
+        "gooyoo",
+        "gu you",
+        "goo you"
     ],
     "guai": [
         "guai"
@@ -3546,11 +3613,22 @@
         "kar chng",
         "ka cheng",
         "kha cheng",
-        "kar cheng"
+        "kar cheng",
+        "khar chng"
     ],
     "kha kana chiu, chiu kana kha": [
         "kha kana chiu, chiu kana kha",
         "kah kana chiu, chiu kana kah"
+    ],
+    "kham gong": [
+        "kham gong",
+        "kam gong",
+        "kum gong",
+        "cum gong",
+        "khamgong",
+        "kumgong",
+        "kamgong",
+        "cumgong"
     ],
     "khao peh khao bu": [
         "khao peh khao bu",
@@ -3583,13 +3661,30 @@
         "kiao kar",
         "khiau ka"
     ],
-    "khiao ka io lam pa": [
-        "khiao ka io lam pa",
-        "khiao ka io lan pa",
+    "khiao kha": [
+        "khiao kha",
+        "kiao ka",
+        "khiao kah",
+        "khiao kar",
+        "kiao kah",
+        "kiao kar",
+        "keow kah",
+        "keow kar"
+    ],
+    "khiao kha yo lam pa": [
+        "khiao kha yo lam pa",
+        "khiao kha io lam pa",
+        "khiao kha io lan pa",
+        "khiao kha you lam pa",
+        "kiao ka you lam pa",
+        "kiao ka io lam pa",
+        "kiao ka io lan pa",
         "kiao kah yo lum pa",
         "khiao kah io lam pa",
         "kiao kar yo lum pa",
-        "khiau ka io lam pha"
+        "khiau kha yo lam pha",
+        "kiao ka you lam pa",
+        "kiao ka you lan pa"
     ],
     "khioh tioh": [
         "khioh tioh",
@@ -3639,7 +3734,10 @@
         "khong kha khiau",
         "khong ka kiao",
         "khong kar kiao",
-        "kong ka kiao"
+        "kong ka kiao",
+        "kong kah kiao",
+        "kong ka keow",
+        "kong kar keow"
     ],
     "khun": [
         "khun",
@@ -3737,6 +3835,10 @@
     ],
     "konek": [
         "konek"
+    ],
+    "kong": [
+        "kong",
+        "gong"
     ],
     "kong wu kong bo": [
         "kong wu kong bo",
@@ -4004,6 +4106,7 @@
         "lan pha phah lan",
         "lum pa pah lan",
         "lum pa pa lan",
+        "lam pa pa lan",
         "lppl"
     ],
     "lan": [
@@ -4508,6 +4611,11 @@
     "manja": [
         "manja"
     ],
+    "mao shan wang": [
+        "mao shan wang",
+        "maoshan wang",
+        "maoshanwang"
+    ],
     "market": [
         "market"
     ],
@@ -4703,6 +4811,14 @@
     "murukku": [
         "murukku",
         "muruku"
+    ],
+    "musang": [
+        "musang"
+    ],
+    "musang king": [
+        "musang king",
+        "maoshan king",
+        "mao shan king"
     ],
     "must try": [
         "must try"
@@ -5162,6 +5278,12 @@
         "pai kar pai chiew",
         "pai kah pai chiu"
     ],
+    "pai khua": [
+        "pai khua",
+        "pai khoa",
+        "phai khua",
+        "pai kua"
+    ],
     "pai kia": [
         "pai kia",
         "paikia",
@@ -5598,6 +5720,12 @@
     "puah sio": [
         "puah sio",
         "pua sio"
+    ],
+    "puay": [
+        "puay",
+        "buay",
+        "pueh",
+        "pway"
     ],
     "pubor": [
         "pubor",
@@ -6415,6 +6543,10 @@
         "stylo-mylo",
         "stylo mylo"
     ],
+    "sua": [
+        "sua",
+        "suah"
+    ],
     "suaku": [
         "suaku",
         "sua ku",
@@ -6514,6 +6646,12 @@
         "ta",
         "tah"
     ],
+    "ta liao superstar": [
+        "ta liao superstar",
+        "tah liao superstar",
+        "ta liao super star",
+        "ta liau superstar"
+    ],
     "tactical movement": [
         "tactical movement"
     ],
@@ -6600,19 +6738,6 @@
         "tankie",
         "tankee"
     ],
-    "tapau": [
-        "tapau",
-        "tapao",
-        "ta pau",
-        "ta pao",
-        "da bao",
-        "da pau",
-        "da pao",
-        "dabao",
-        "dapau",
-        "dapao ",
-        "tapow"
-    ],
     "tat kiu": [
         "tat kiu",
         "tak kiu",
@@ -6648,9 +6773,13 @@
     ],
     "tau huay chui": [
         "tau huay chui",
+        "tau hui chui",
         "tau huey chui",
+        "tau hway chui",
         "tau hui chwee",
-        "tau hway chwee"
+        "tau hway chwee",
+        "tau huey chwee",
+        "tau huay chwee"
     ],
     "tau kee": [
         "tau kee",
@@ -6725,11 +6854,31 @@
         "tauyu bak",
         "tau eu bak"
     ],
+    "tee kong": [
+        "tee kong",
+        "ti kong",
+        "thih kong",
+        "tih kong",
+        "tee gong",
+        "ti gong"
+    ],
     "teh": [
         "teh"
     ],
     "teh halia": [
         "teh halia"
+    ],
+    "teh lam pa chir sat": [
+        "teh lam pa chir sat",
+        "teh lum pa chir sat",
+        "teh lam pa zi sat",
+        "teh lam pha chir sat",
+        "teh lampa chir sat",
+        "teh lum pa zi sat",
+        "teh lam pha zi sat",
+        "teh lampa zi sat",
+        "teh lam pa chu sat",
+        "teh lan pa chir sat"
     ],
     "teh tarik": [
         "teh tarik",
@@ -7025,6 +7174,10 @@
     ],
     "understooded": [
         "understooded"
+    ],
+    "unglam": [
+        "unglam",
+        "un-glam"
     ],
     "until": [
         "until"
@@ -7387,5 +7540,9 @@
         "tse char",
         "zichar",
         "tzechar"
+    ],
+    "ji siao": [
+        "ji siao",
+        "ji siau"
     ]
 }

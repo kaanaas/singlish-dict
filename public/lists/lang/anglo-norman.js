@@ -1,1 +1,1 @@
-const langTerms = ["D&D"]; module.exports = langTerms;
+const langTerms = ["D&D","pretend"]; module.exports = langTerms;

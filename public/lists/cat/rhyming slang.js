@@ -1,1 +1,1 @@
-const cat = ["chop chop kali pok","drama mama","gabra like zebra","yaya papaya"]; module.exports = cat;
+const cat = ["bo ta bo lam pa","chop chop kali pok","drama mama","gabra like zebra","ta liao superstar","yaya papaya"]; module.exports = cat;
