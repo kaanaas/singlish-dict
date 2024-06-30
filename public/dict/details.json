@@ -5191,21 +5191,29 @@
     },
     "auntie": {
         "word": "auntie",
+        "category": [
+            "terms of address",
+            "insults"
+        ],
         "related": [
             "ah mm",
             "ah so",
             "makcik",
             "obasan",
             "saman auntie",
-            "uncle"
+            "uncle",
+            "obiang",
+            "obit",
+            "unglam"
         ],
-        "usage": "May be considered rude or impolite if used on a young woman, or one around the same age as oneself.",
+        "usage": "May be considered rude or impolite if used on a young woman, or one around the same age as oneself.<br>Female equivalent of @{uncle}.",
         "etyNotes": "Calling older women \"auntie\" (or some term meaning \"auntie\" in the native language) as a form of polite address is and has been prevalent throughout cultures in Asia, Africa, and many other places elsewhere in the world; the Singlish use is a continuation of this phenomenon.",
         "origin": [
             {
                 "lang": "english",
                 "roman": "auntie",
                 "lit": "diminutive of aunt (female relative of the same generation as one's parent)",
+                "type": "tx",
                 "etyPath": [
                     "asian languages"
                 ],
@@ -23868,13 +23876,13 @@
         "meanings": {
             "adverb": [
                 {
-                    "definition": "due to; for the reason of",
+                    "definition": "because; since; due to; for the reason of",
                     "example": "Cos you don't want, I give the cat eat lor."
                 }
             ],
             "conjunction": [
                 {
-                    "definition": "due to; since; on account of",
+                    "definition": "because; due to; since; on account of",
                     "example": "I on aircon today cos damn hot."
                 }
             ]
@@ -33393,7 +33401,7 @@
                     "lām-pha"
                 ],
                 "etyLit": [
-                    "sit on a chair with one leg raised and the foot resting on the chair, the leg resting on the other thigh to form a triangle shape",
+                    "sit on a chair with one leg raised and the foot resting on the chair, or the leg resting on the other thigh to form a triangle shape",
                     "shake; swing; wiggle",
                     "(vulgar) scrotum; ballsack; balls"
                 ]
@@ -33404,6 +33412,63 @@
                 {
                     "definition": "(idiom) to have nothing better to do; to while away the time; to be idle; to have too much free time on one's hands",
                     "example": "I tried to be relatively productive while I was unemployed, going to the gym and such, but most days I just khiao kha yo lam pa."
+                }
+            ]
+        }
+    },
+    "khiao kha": {
+        "word": "khiao kha",
+        "related": [
+            "khiao kha yo lam pa",
+            "bo eng",
+            "chiah chua",
+            "idle king",
+            "kong kha khiao"
+        ],
+        "etyNotes": "Also may be written as 曲跤 or 翹跤.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "跷跤",
+                "traditional": "蹺跤",
+                "roman": "khiau-kha",
+                "lit": "sit on a chair with one leg raised and the foot resting on the chair, or the leg resting on the other thigh to form a triangle shape",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "跷",
+                    "跤"
+                ],
+                "etyTrad": [
+                    "蹺",
+                    "跤"
+                ],
+                "etyRoman": [
+                    "khiau",
+                    "kha"
+                ],
+                "etyLit": [
+                    "to raise or lift one's foot",
+                    "leg; foot"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to sit on a chair with one leg raised and the foot resting on the chair, or the leg resting on the other thigh to form a triangle shape",
+                    "example": "I always khiao kha at the @{kopitiam} while I @{lim} my morning @{teh} @{cos} @{liddat} @{lagi} @{song}."
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "sitting on a chair while having one's leg raised and the foot resting on the chair, or the leg resting on the other thigh to form a triangle shape",
+                    "example": "My mother always told me off for sitting khiao kha because she said it made me look like some @{chor lor} @{Ah Seng}."
                 }
             ]
         }
@@ -33749,6 +33814,197 @@
             ]
         },
         "particles": []
+    },
+    "saman auntie": {
+        "word": "saman auntie",
+        "related": [
+            "saman",
+            "auntie"
+        ],
+        "usage": "Female equivalent of a @{saman uncle}.",
+        "category": [],
+        "phonetics": "/ˈsaman 'anti/",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "saman",
+                "romanization": "",
+                "lit": "fine; monetary penalty",
+                "etyPath": [
+                    "malay",
+                    "english"
+                ],
+                "etyType": [
+                    ""
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "saman",
+                    "summons"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "fine; monetary penalty",
+                    "legal notice requiring sb. to appear in court or pay a fine"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "auntie",
+                "lit": "term of address for a woman of an older generation than the speaker, regardless of relation",
+                "etyPath": [
+                    "english",
+                    "asian languages"
+                ],
+                "etyType": [
+                    "tx"
+                ],
+                "etyRoman": [
+                    "auntie",
+                    "\"auntie\""
+                ],
+                "etyLit": [
+                    "diminutive of aunt (female relative of the same generation as one's parent)",
+                    "equivalent of \"auntie\" in various languages and cultures; woman of older generation than oneself"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a female parking warden or enforcement officer who issues parking tickets to illegally parked vehicles at public carparks",
+                    "example": "Ah, the 'saman aunty'... Clad in her iconic blue-and-white uniform and armed with an evil calculator-looking device, this legendary @{makcik} is the stuff Singaporean nightmares are made of.",
+                    "exampleSource": "2019 March 28, Freelancer. Sgcarmart, \"We love the 'Saman Aunty', here's why you should too\". https://www.sgcarmart.com/articles/features/we-love-the-saman-aunty-heres-why-you-should-too-1374",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "saman uncle": {
+        "word": "saman uncle",
+        "related": [
+            "saman",
+            "uncle"
+        ],
+        "usage": "Female equivalent of a @{saman auntie}.",
+        "category": [],
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "saman",
+                "romanization": "",
+                "lit": "fine; monetary penalty",
+                "etyPath": [
+                    "malay",
+                    "english"
+                ],
+                "etyType": [
+                    ""
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "saman",
+                    "summons"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "fine; monetary penalty",
+                    "legal notice requiring sb. to appear in court or pay a fine"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "uncle",
+                "lit": "term of address for a man of an older generation than the speaker, regardless of relation",
+                "etyPath": [
+                    "english",
+                    "asian languages"
+                ],
+                "etyType": [
+                    "tx"
+                ],
+                "etyRoman": [
+                    "uncle",
+                    "\"uncle\""
+                ],
+                "etyLit": [
+                    "male relative of the same generation as one's parent",
+                    "equivalent of \"uncle\" in various languages and cultures; man of older generation than oneself"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a male parking warden or enforcement officer who issues parking tickets to illegally parked vehicles at public carparks",
+                    "example": "“Saman uncle” takes abuse in his stride ... He’s been railed at, offered bribes and even been hit by angry motorists.",
+                    "exampleSource": "2017 October 14. Torque, \"“Saman uncle” takes abuse in his stride\". https://www.torque.com.sg/news/saman-uncle-takes-abuse-stride/",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "uncle": {
+        "word": "uncle",
+        "category": [
+            "terms of address",
+            "insults"
+        ],
+        "related": [
+            "ah pek",
+            "ah chek",
+            "encik",
+            "saman uncle",
+            "auntie",
+            "obiang",
+            "obit",
+            "unglam"
+        ],
+        "usage": "May be considered rude or impolite if used on a young man, or one around the same age as oneself.<br>Male equivalent of @{auntie}.",
+        "etyNotes": "Calling older men \"uncle\" (or some term meaning \"uncle\" in the native language) as a form of polite address is and has been prevalent throughout cultures in Asia, Africa, and many other places elsewhere in the world; the Singlish use is a continuation of this phenomenon.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "uncle",
+                "lit": "male relative of the same generation as one's parent",
+                "type": "tx",
+                "etyPath": [
+                    "asian languages"
+                ],
+                "etyRoman": [
+                    "\"uncle\""
+                ],
+                "etyLit": [
+                    "equivalent of \"uncle\" in various languages and cultures; man of older generation than oneself"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a respectful term of address for a man of an older generation than the speaker, regardless of relation.",
+                    "example": "Uncle, this seat @{got} anyone sit @{anot}?"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "a young person whose mannerisms, habits, behaviour, and/or fashion style are outmoded or resemble those of men from a much older generation.",
+                    "example": "Paul not even finish uni already so uncle. @{Khiao kha} at the canteen in his SCS PT kit drinking Tiger beer."
+                }
+            ]
+        }
     },
     "grandfather's army": {
         "word": "grandfather's army",
