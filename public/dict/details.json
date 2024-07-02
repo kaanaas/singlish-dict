@@ -10292,7 +10292,8 @@
                     "synonyms": [
                         "kan",
                         "fuck",
-                        "goreng"
+                        "goreng",
+                        "screw"
                     ],
                     "antonyms": [
                         "sakar"
@@ -18165,20 +18166,23 @@
         "meanings": {
             "verb": [
                 {
-                    "definition": "(vulgar) fuck"
+                    "definition": "(vulgar) to fuck; to have sexual intercourse with"
                 },
                 {
-                    "definition": "(vulgar) scold",
-                    "example": "They tioh kan.",
-                    "exampleSource": "Wiktionary contributors - 姦",
+                    "definition": "(vulgar) to scold",
+                    "example": "I heard they tioh kan until @{damn} @{rabak} by the CO yesterday.",
                     "synonyms": [
-                        "buak gu yu"
+                        "buak gu yu",
+                        "fuck",
+                        "screw",
+                        "fuck upside down",
+                        "goreng"
                     ]
                 }
             ],
             "interjection": [
                 {
-                    "definition": "(vulgar) fuck!"
+                    "definition": "(vulgar) 'fuck!'"
                 }
             ]
         }
@@ -29439,7 +29443,8 @@
                         "kan",
                         "fuck upside down",
                         "goreng",
-                        "buak gu yu"
+                        "buak gu yu",
+                        "screw"
                     ]
                 }
             ],
@@ -29511,7 +29516,8 @@
                         "kan",
                         "fuck",
                         "buak gu yu",
-                        "goreng"
+                        "goreng",
+                        "screw"
                     ]
                 }
             ]
@@ -34418,7 +34424,8 @@
                     "synonyms": [
                         "kan",
                         "fuck",
-                        "buak gu yu"
+                        "buak gu yu",
+                        "screw"
                     ],
                     "antonyms": false
                 },
