@@ -35,7 +35,7 @@
                             <p class="synonyms-leader nyms-leader" name="synonyms-leader">synonyms:</p>
                             <div class="nyms-flex-results">
                             <% for(let k = 0; k < posDet[j].synonyms.length; k++){ %>
-                                <a class="nyms-list" href=<%- `./?q=${ formatNymLink(posDet[j].synonyms[k]).trim().replace(/ /g,"%20") }#particles` %>>
+                                <a class="nyms-list" href=<%- `./?q=${ formatNymLink(posDet[j].synonyms[k]).trim().replace(/ /g,"%20") }` %>>
                                     <%- formatNym(posDet[j].synonyms[k]).trim() %></a>
                             <% } %>
                             </div>
@@ -46,7 +46,7 @@
                             <p class="antonyms-leader nyms-leader" name="antonyms-leader">antonyms:</p>
                             <div class="nyms-flex-results">
                             <% for(let k = 0; k < posDet[j].antonyms.length; k++){ %>
-                                <a class="nyms-list" href=<%- `./?q=${ formatNymLink(posDet[j].antonyms[k]).trim().replace(/ /g,"%20") }#particles` %>>
+                                <a class="nyms-list" href=<%- `./?q=${ formatNymLink(posDet[j].antonyms[k]).trim().replace(/ /g,"%20") }` %>>
                                     <%- formatNym(posDet[j].antonyms[k]).trim() %></a>
                             <% } %>
                             </div>
@@ -92,11 +92,13 @@
                             <p><%- word.particles[i].meaning %></p>
                         </div>
                         <p class="word-example text"><%- word.particles[i].example %></p>
-                        <% if(word.particles[i].exampleSource=="@comm" ){ %>
-                            <p class="word-example-src">— Community contribution</p>
-                        <% } else { %>
-                            <p class="word-example-src"><%- word.particles[i].exampleSource %></p>
-                        <% } %>                                       
+                        <% if(word.particles[i].hasOwnProperty("exampleSource")){ %>
+                            <% if(word.particles[i].exampleSource == "@comm" ){ %>
+                                <p class="word-example-src">— Community contribution</p>
+                            <% } else { %>
+                                <p class="word-example-src"><%- word.particles[i].exampleSource %></p>
+                            <% } %>
+                        <% } %>
                     </div>
                 </div>
             </div>

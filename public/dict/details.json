@@ -12054,7 +12054,7 @@
                     ]
                 },
                 {
-                    "definition": "may; to have permission to",
+                    "definition": "may not; to not have permission to",
                     "example": "- @{Cher}, @{can} I go toilet?<br>- No, you cannot.",
                     "synonyms": [
                         "eh sai",
@@ -14512,7 +14512,8 @@
                     "definition": "crazy; mad; insane",
                     "synonyms": [
                         "siao",
-                        "gila"
+                        "gila",
+                        "sampat"
                     ]
                 }
             ],
@@ -14520,7 +14521,8 @@
                 {
                     "definition": "'crazy!'; expression indicating opinion that someone or something is crazy",
                     "synonyms": [
-                        "siao"
+                        "siao",
+                        "sampat"
                     ]
                 }
             ]
@@ -20699,7 +20701,8 @@
                     "example": "When the restaurant first came up with its all-you-can-eat promo, hundreds of Singaporean office workers descended upon it at lunchtime to try their luck at <i>whacking</i> the promising buffet.",
                     "synonyms": [
                         "wallop",
-                        "gasak"
+                        "gasak",
+                        "sapu"
                     ]
                 }
             ]
@@ -30666,11 +30669,6 @@
                 "lang": "malay",
                 "roman": "gasak",
                 "lit": "hit; beat; whack"
-            },
-            {
-                "lang": "malay",
-                "roman": "gasak",
-                "lit": "hit; beat; whack"
             }
         ],
         "meanings": {
@@ -30689,7 +30687,8 @@
                     "example": "When the restaurant first came up with its all-you-can-eat promo, hundreds of Singaporean office workers descended upon it at lunchtime to try their luck at <i>whacking</i> the promising buffet.",
                     "synonyms": [
                         "wallop",
-                        "whack"
+                        "whack",
+                        "sapu"
                     ]
                 }
             ]
@@ -34451,5 +34450,736 @@
             ]
         },
         "particles": []
+    },
+    "got dragon got tiger": {
+        "word": "got dragon got tiger",
+        "related": [
+            "atas",
+            "chim",
+            "grandfather story"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "Calque of the Hokkien idiom. The dragon and tiger are traditionally seen as powerful and fearsome creatures in Chinese culture, and are each others' equals in this regard. They appear together in several other Chinese idioms, with one of the most well-known being 藏龙卧虎/藏龍臥虎, cáng lóng wò hǔ (\"hidden dragon, crouching tiger\").<br>This idiom invokes these two awesome and terrifying creatures to mean that an otherwise mundane, everyday story has been stretched and embellished in such a way that it somehow manages to involve them.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "got",
+                "romanization": "",
+                "lit": "have; exists; has happened",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "got"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "received; obtained, (with have) possess"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "有龙有虎",
+                "traditional": "有龍有虎",
+                "roman": "ū-lêng-ū-hó͘",
+                "romanization": "",
+                "lit": "(lit.) have dragon(s), have tiger(s)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "有",
+                    "龙",
+                    "有",
+                    "虎"
+                ],
+                "etyTrad": [
+                    "有",
+                    "龍",
+                    "有",
+                    "虎"
+                ],
+                "etyRoman": [
+                    "ū",
+                    "lêng",
+                    "ū",
+                    "hó͘"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "have; has got; there is",
+                    "dragon",
+                    "have; has got; there is",
+                    "tiger"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) a story, speech, written work etc. told with elaborate, flowery language and heavy embellishments",
+                    "example": "Wen Wei writes until “Got dragon got tiger”… No wonder his teacher make special mention to his essay.",
+                    "exampleSource": "2012 May 14, Sengkang Babies. \"Our boys’ Chinese compositions are so imaginative\". https://sengkangbabies.com/primaryschool/our-boys-chinese-compositions-are-so-imaginative/",
+                    "synonyms": [
+                        "got dragon got phoenix"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "got dragon got phoenix": {
+        "word": "got dragon got phoenix",
+        "related": [
+            "atas",
+            "chim",
+            "grandfather story"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "Calque of the Hokkien idiom. The dragon and phoenix (fenghuang) are traditionally seen as powerful and fearsome creatures in Chinese culture, and are often each others' counterparts, appearing together in several idioms and stories. This idiom invokes these two awesome and terrifying creatures to mean that an otherwise mundane, everyday story has been stretched and embellished in such a way that it somehow manages to involve them.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "got",
+                "romanization": "",
+                "lit": "have; exists; has happened",
+                "etyPath": [
+                    "english"
+                ],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "got"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "received; obtained, (with have) possess"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "有龙有凤",
+                "traditional": "有龍有鳳",
+                "roman": "ū-lêng-ū-hōng",
+                "romanization": "",
+                "lit": "(lit.) have dragon(s), have phoenix(es)",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "有",
+                    "龙",
+                    "有",
+                    "凤"
+                ],
+                "etyTrad": [
+                    "有",
+                    "龍",
+                    "有",
+                    "鳳"
+                ],
+                "etyRoman": [
+                    "ū",
+                    "lêng",
+                    "ū",
+                    "hōng"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "have; has got; there is",
+                    "dragon",
+                    "have; has got; there is",
+                    "Chinese phoenix; fenghuang; hōō"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) a story, speech, written work etc. told with elaborate, flowery language and heavy embellishments",
+                    "example": "anyone encounter \"experts\" before who can say until like dragon got phoenix, but when ask them to show example...... they will say the example is too simple and obvious and no need to show.",
+                    "exampleSource": "2022 January 10, theMKR. Hardwarezone. forums.hardwarezone.com.sg/threads/anyone-encounter-experts-before-who-can-say-until-like-dragon-got-phoenix-but-when-ask-them-to-show-example.6676580/",
+                    "synonyms": [
+                        "got dragon got tiger"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "samseng": {
+        "word": "samseng",
+        "related": [
+            "ah beng",
+            "ah seng",
+            "ah lian",
+            "ah huay",
+            "ah beng ah seng"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "Also borrowed into Malay as <i>samseng</i>.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "三牲",
+                "traditional": "三牲",
+                "roman": "sam-seng",
+                "romanization": "",
+                "lit": "(lit.) three domestic animals (pig, sheep, cattle), oft. used for sacrifices; (slang) gangster",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "gangster; hooligan; ruffian",
+                    "example": "Samseng roamed the streets stoning pedestrians, bicycles, and hackney carriages.",
+                    "exampleSource": "2003, James Francis Warren. Rickshaw Coolie - A People's History of Singapore, 1880-1940. ISBN: 9789971692667. p.107",
+                    "synonyms": [
+                        "ah beng",
+                        "ah seng"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "gangster-like; delinquent; uncouth; unrefined",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "ah beng",
+                        "ah seng",
+                        "beng",
+                        "ah lian"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "santan": {
+        "word": "santan",
+        "related": [
+            "coconut"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "santan",
+                "romanization": "",
+                "lit": "coconut milk; coconut cream",
+                "etyPath": [
+                    "old javanese",
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "",
+                    "सार"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "santěn",
+                    "sāra"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "coconut milk",
+                    "essence"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "coconut milk; coconut cream; the liquid pressed from the scraped-out inner flesh of a coconut",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sapu": {
+        "word": "sapu",
+        "related": [
+            "stun",
+            "habis",
+            "wallop",
+            "whack",
+            "gasak"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sapu",
+                "romanization": "",
+                "lit": "broom; sweep; wipe clean; clear out (a room)",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to completely finish a meal; to eat something all up",
+                    "example": "The @{chai tow kway} here was so good, I sapu the whole large portion by myself and still wanted to get another.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "to steal; to embezzle; to take without asking permission",
+                    "example": "I used to sapu a few pens from the office every now and then, since I kept losing my own.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "kope"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sampat": {
+        "word": "sampat",
+        "related": [
+            "gila"
+        ],
+        "usage": "The term is euphemistic and is mostly used to convey its meanings in a lighthearted, jocular way without being too harsh or offensive.<br>Originally only used to describe women, but is now sometimes used without regard for gender.",
+        "category": [
+            "insults"
+        ],
+        "phonetics": "",
+        "etyNotes": "(lit.) '3 8'.<br>#{dubious} According to some folk sources, this is supposedly because 8th March is International Women's Day, hence 3/8 (in Hokkien, the date is read in Y-M-D order) becoming slang for an irrational, gossipy, bitchy, etc. woman or person in general. However, there is no proper evidence supporting this explanation.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "三八",
+                "traditional": "三八",
+                "roman": "sam-pat",
+                "romanization": "",
+                "lit": "(lit.) 3 8, (hum.) woman who behaves irrationally and is slightly crazy; having traits associated with such women e.g. unreasonable, frivolous, immodest, unabashed, gossipy, etc.; silly; stupid; foolish",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(euphemistic, humorous) a woman  (usually) who behaves irrationally and is slightly crazy, and has traits such as being unreasonable, frivolous, immodest, unabashed, gossipy, acting wacky, etc.",
+                    "example": "She thinks she's being even more quirky by suddenly becoming bi out of nowhere ah. @{AA} only, what a little sampat.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "siao cha bor"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "(euphemistic, humorous, derogatory) bitch; slut; thot; unpleasant woman",
+                    "example": "Hannah had a reputation as quite the sampat during our uni days, often trying to lead multiple guys and girls along at once.",
+                    "exampleSource": "",
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(euphemistic, humorous, usually of women) behaving irrationally and crazily; having traits such as being unreasonable, frivolous, immodest, unabashed, gossipy, bitchy, acting wacky, etc.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "chee sin"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "foolish; stupid; silly",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "gong",
+                        "kham gong",
+                        "bodoh"
+                    ],
+                    "antonyms": false
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'crazy!'; 'ridiculous!'; exclamation in response to somebody behaving irrationally and crazily, or being unreasonable, frivolous, immodest, unabashed, gossipy, bitchy, acting wacky, etc.",
+                    "example": "She really asking for trouble ah? Sampat!",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "siao",
+                        "chee sin"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "got eyes also don't know mount taishan": {
+        "word": "got eyes also don't know Mount Taishan",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "got",
+                "romanization": "",
+                "lit": "have; exists; possess",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "got"
+                ],
+                "etyLit": [
+                    "received; obtained",
+                    "(with have) possess"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "also",
+                "romanization": "",
+                "lit": "as well; too; used for emphasis; even; still",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "also"
+                ],
+                "etyLit": [
+                    "in addition; too; besides"
+                ]
+            },
+            {
+                "lang": "mandarin",
+                "simplified": "有眼不识泰山",
+                "traditional": "有眼不識泰山",
+                "roman": "yǒu yǎn bù shí tài shān",
+                "romanization": "",
+                "lit": "not recognize excellence, talent, someone important, etc.; be blind to greatness",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin",
+                    "mandarin",
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "有",
+                    "眼",
+                    "不",
+                    "识",
+                    "泰山"
+                ],
+                "etyTrad": [
+                    "有",
+                    "眼",
+                    "不",
+                    "識",
+                    "泰山"
+                ],
+                "etyRoman": [
+                    "yǒu",
+                    "yǎn",
+                    "bù",
+                    "shí",
+                    "tài shān"
+                ],
+                "etyLit": [
+                    "have; possess",
+                    "eye; eyes",
+                    "don't; not",
+                    "recognize; know",
+                    "Taishan (mountain or folklore character); (fig.) sth. important or significant"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom) to not recognize excellence, outstanding talent, someone important, etc. even when it is right in front of one's face; to be blind to someone's greatness",
+                    "example": "Apparently Harvard rejected Jack Ma over 10 times before he gave up trying. Probably @{cos} he Chinese, plus got no sob story and CCAs @{all}. Talk about got eyes also don't know Mount Taishan.",
+                    "synonyms": [
+                        "got eyes also don't know orh ee orh"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Literal translation from the Chinese idiom. While it may not have originated in Mandarin, one of its earliest attestations in Chinese literature is in Shi Nai An's 14th-century classic <i>Water Margin</i>, one of the first novels ever to be written in vernacular Mandarin.^{1}<br>泰山 (Taishan) is a sacred mountain in Shandong, China, which has great religious and cultural significance. Its Jade Emperor Peak is the highest point in Shandong at 1545 m.^{2}<br>The idiom may be simply interpreted as that someone has to be truly blind to miss or fail to recognize the majesty of the sacred mountain and its breathtaking landscape, especially when it is right in front of their eyes.<br>However, the true origin of the phrase is most commonly held to refer to the story of Taishan (also 泰山), a bamboo craftsman. Taishan travelled thousands of miles from his home in South China to study as an apprentice under the master carpenter Lu Ban. Lu Ban had very high standards, and few apprentices passed his assessments - least of all Taishan, who had very little proper experience with woodworking before arriving - leading to his unceremonious elimination from the apprenticeship.<br>Many years later, Lu Ban was travelling the South when he chanced upon the most exquisite and beautiful bamboo tools he had seen in his life. When he inquired with the townsfolk at the bazaar, he eventually learned that the craftsman was Taishan, the apprentice he had rejected all those years ago. He was then filled with deep remorse and emotion at his mistake, admitting that \"at the time, he really didn't know Taishan\".^{3}^{4}^{5}",
+        "references": [
+            {
+                "link": "https://web.archive.org/web/20211019172129/http://www.lunwenstudy.com/gudaiwx/45439.html",
+                "name": "温庆新 (2014). \"关于《水浒传》成书时间研究的方法论思考\". 清华大学学报哲学社会科学版. Archived from the original on 19 October 2021."
+            },
+            {
+                "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwisi7a9zIiHAxXfzTgGHR7-C6gQFnoECBUQAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FGuodong-Shao-2%2Fpublication%2F341115424_1-s20-S1470160X20303769-mainpdf%2Fdata%2F5eaf48e645851592d6b84db4%2F1-s20-S1470160X20303769-main.pdf%3Forigin%3Dpublication_list&usg=AOvVaw3CYWRgIn7hSQqyIbvjXqcy&opi=89978449",
+                "name": "Yuan Xingzhong; Hong, Liu (2000). \"Studies on the diversity of soil animals in Taishan Mountain\". Journal of Forestry Research. 11 (2): 109–113. doi:10.1007/BF02856685"
+            },
+            {
+                "link": "https://baike.baidu.hk/item/%E6%9C%89%E7%9C%BC%E4%B8%8D%E8%AD%98%E6%B3%B0%E5%B1%B1/5594126",
+                "name": "Baidu - 有眼不識泰山 （漢語成語）"
+            },
+            {
+                "link": "you-yan-bu-shi-tai-shan.html",
+                "name": "iChineseLearning - 有眼不识泰山 yǒu yǎn bù shí tài shān"
+            },
+            {
+                "link": "https://www.ourchinastory.com/zh/2800/%E6%9C%89%E7%9C%BC%E4%B8%8D%E8%AD%98%E6%B3%B0%E5%B1%B1",
+                "name": "Our China Story. "
+            }
+        ]
+    },
+    "got eyes also don't know orh ee orh": {
+        "word": "got eyes also don't know orh ee orh",
+        "origin": [
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "got",
+                "romanization": "",
+                "lit": "have; exists; possess",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "got"
+                ],
+                "etyLit": [
+                    "received; obtained",
+                    "(with have) possess"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "also",
+                "romanization": "",
+                "lit": "as well; too; used for emphasis; even; still",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "also"
+                ],
+                "etyLit": [
+                    "in addition; too; besides"
+                ]
+            },
+            {
+                "lang": "mandarin",
+                "simplified": "有眼不识泰山",
+                "traditional": "有眼不識泰山",
+                "roman": "yǒu yǎn bù shí Tài shān",
+                "romanization": "",
+                "lit": "not recognize excellence, talent, someone important, etc.; be blind to greatness",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin",
+                    "mandarin",
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+",
+                    "+",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "有",
+                    "眼",
+                    "不",
+                    "识",
+                    "泰山"
+                ],
+                "etyTrad": [
+                    "有",
+                    "眼",
+                    "不",
+                    "識",
+                    "泰山"
+                ],
+                "etyRoman": [
+                    "yǒu",
+                    "yǎn",
+                    "bù",
+                    "shí",
+                    "Tài shān"
+                ],
+                "etyLit": [
+                    "have; possess",
+                    "eye; eyes",
+                    "don't; not",
+                    "recognize; know",
+                    "Taishan (mountain or folklore character); (fig.) sth. important or significant; Tarzan"
+                ]
+            },
+            {
+                "lang": "general chinese",
+                "simplified": "泰山",
+                "traditional": "泰山",
+                "roman": "tài shān",
+                "romanization": "",
+                "lit": "Tarzan (fictional character)",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "Tarzan"
+                ],
+                "etyLit": [
+                    "fictional character raised in the jungle by apes"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "orh ee orh",
+                "romanization": "",
+                "lit": "Singlish phonetic approximation of the \"Tarzan yell\"",
+                "etyPath": [
+                    "fictional ape language"
+                ],
+                "etyRoman": [
+                    "[ululating yell]"
+                ],
+                "etyLit": [
+                    "Tarzan's iconic cry from the movie Tarzan the Ape Man (1932) and subsequent media"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(idiom, metonym, humorous) to not recognize excellence, outstanding talent, someone important, etc. even when it is right in front of one's face; to be blind to someone's greatness",
+                    "example": "@{Jialat} lah, today someone come by while I was working, ask so many questions and make me @{pek chek} until I tell him @{go fly kite}. @{Sekali} is the CEO sia. @{Macam} Undercover Boss @{liddat}, I really got eyes also don't know orh ee orh.",
+                    "synonyms": [
+                        "got eyes also don't know Mount Taishan"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Originally directly translated into Singlish from the Chinese idiom - see @{got eyes also don't know Mount Taishan} for the full details.<br>泰山, tài shān also happens to be the Chinese phonetic transliteration of Tarzan, the fictional character. He is often associated with his iconic, ululating victory cry, which is approximated in Singlish as @{orh ee orh}. This leads to the idiom's current form, with the original <i>Mount Taishan</i> being replaced by <i>Tarzan</i> as a Chinese pun, and then finally <i>orh ee orh</i> being a metonym for Tarzan himself."
+    },
+    "orh ee orh": {
+        "word": "orh ee orh",
+        "origin": [
+            {
+                "lang": "fictional ape language",
+                "simplified": "",
+                "traditional": "",
+                "roman": "[ululating yell]",
+                "romanization": "",
+                "lit": "Tarzan's iconic cry from the movie Tarzan the Ape Man (1932) and subsequent media"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(onomatopoeic) a wild, ululating cry yelled by someone recalling or imitating Tarzan, or doing any other ape-like activity such as swinging from a vine or brachiating",
+                    "example": "Recruits, this is low rope, each of you must climb and slap the top bar. Not for you to \"orh ee orh!\""
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(metonym) Tarzan, a ficitonal character raised in the jungle by apes. Chiefly used in the idiom @{got eyes also don't know orh ee orh}."
+                }
+            ]
+        },
+        "related": [
+            "got eyes also don't know mount taishan",
+            "orh",
+            "ee"
+        ],
+        "etyNotes": "Spelling, pronunciation, and form heavily influenced by the phonology of local Chinese languages, such as Hokkien and Cantonese."
     }
 }

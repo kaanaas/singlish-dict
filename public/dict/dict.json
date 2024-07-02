@@ -2626,7 +2626,15 @@
     "got eyes also don't know orh ee orh": [
         "got eyes also don't know orh ee orh",
         "got eyes also don't know orh yee orh",
+        "got eyes also don't know or yee or",
+        "got eyes also don't know or ee or",
         "got eyes also dunno orh ee orh"
+    ],
+    "orh ee orh": [
+        "orh ee orh",
+        "orh yee orh",
+        "or yee or",
+        "or ee or"
     ],
     "got licence": [
         "got licence",
@@ -3628,6 +3636,8 @@
         "khamgong",
         "kumgong",
         "kamgong",
+        "khum gong",
+        "khumgong",
         "cumgong"
     ],
     "khao peh khao bu": [
@@ -6255,6 +6265,10 @@
     "siao cha bor": [
         "siao cha bor",
         "siao chabor",
+        "siao charbor",
+        "siao char bor",
+        "siao char bo",
+        "siao charbo",
         "siao zha bo",
         "siao zha bor",
         "xiao zha bor",
@@ -7547,5 +7561,13 @@
         "jee siao",
         "ji xiao",
         "jee xiao"
+    ],
+    "all": [
+        "all"
+    ],
+    "also": [
+        "also",
+        "oso",
+        "olso"
     ]
 }

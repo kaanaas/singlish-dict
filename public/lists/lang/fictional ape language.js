@@ -1,0 +1,1 @@
+const langTerms = ["got eyes also don't know orh ee orh","orh ee orh"]; module.exports = langTerms;
