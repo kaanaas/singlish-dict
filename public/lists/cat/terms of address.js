@@ -1,1 +1,1 @@
-const cat = ["abang","adik","ah","ah boy","ah che","ah chek","ah girl","ah kao","ah kong","ah kor","ah ma","ah mm","ah nia","ah pek","ah pui","ah so","ah tiong","auntie","brudder","cher","cik","encik","gennermen","ger","uncle","yandao"]; module.exports = cat;
+const cat = ["abang","adik","ah","ah boy","ah che","ah chek","ah girl","ah kao","ah kong","ah kor","ah ma","ah mm","ah nia","ah pek","ah pui","ah so","ah tiong","auntie","brudder","cher","cik","encik","gennermen","ger","sargen","uncle","yandao"]; module.exports = cat;

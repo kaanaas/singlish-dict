@@ -18975,7 +18975,8 @@
                     "definition": "troublesome; hasslesome",
                     "example": "This maths homework @{sibeh} lor sor sia... exact same shit 30 times over. I @{no mood} to finish, want dota?",
                     "synonyms": [
-                        "ma fan"
+                        "ma fan",
+                        "susah"
                     ]
                 }
             ],
@@ -30892,6 +30893,10 @@
                     "example": "The least gerek you can feel is when you forget to zip your fly.",
                     "synonyms": [
                         "sat khi"
+                    ],
+                    "antonyms": [
+                        "obit",
+                        "obiang"
                     ]
                 }
             ],
@@ -32564,7 +32569,6 @@
         "category": [
             "insults"
         ],
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "min nan",
@@ -33416,7 +33420,10 @@
             "expression": [
                 {
                     "definition": "(idiom) to have nothing better to do; to while away the time; to be idle; to have too much free time on one's hands",
-                    "example": "I tried to be relatively productive while I was unemployed, going to the gym and such, but most days I just khiao kha yo lam pa."
+                    "example": "I tried to be relatively productive while I was unemployed, going to the gym and such, but most days I just khiao kha yo lam pa.",
+                    "synonyms": [
+                        "chiah bah bo sai pang"
+                    ]
                 }
             ]
         }
@@ -33560,7 +33567,6 @@
                 "simplified": "五枝须",
                 "traditional": "五枝鬚",
                 "roman": "gō͘-ki-chhiu",
-                "romanization": "",
                 "lit": "(lit.) five-string beard/moustache, (fig.) lecherous; lewd; pervert; dirty old man, (slang) catfish",
                 "etyScript": [
                     "五",
@@ -33631,7 +33637,6 @@
                 "simplified": "歹看",
                 "traditional": "歹看",
                 "roman": "pháiⁿ-khòaⁿ",
-                "romanization": "",
                 "lit": "ugly; not good-looking; unsightly"
             }
         ],
@@ -33665,10 +33670,7 @@
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "siput gonggong",
-                "romanization": "",
                 "lit": "Laevistrombus canarium, a.k.a. dog conch, an edible marine snail",
                 "etyRoman": [
                     "siput",
@@ -33698,10 +33700,7 @@
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "bagus",
-                "romanization": "",
                 "lit": "good"
             }
         ],
@@ -33729,10 +33728,7 @@
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "baik",
-                "romanization": "",
                 "lit": "good; ok"
             }
         ],
@@ -33772,27 +33768,18 @@
             "saman uncle"
         ],
         "usage": "Especially used for fines relating to traffic- or parking-related offences.",
-        "category": [],
         "phonetics": "/ˈsaman/",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "saman",
-                "romanization": "",
                 "lit": "fine; monetary penalty",
                 "etyPath": [
                     "english"
                 ],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "summons"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "legal notice requiring sb. to appear in court or pay a fine"
                 ]
@@ -33803,22 +33790,16 @@
                 {
                     "definition": "a fine or monetary penalty",
                     "example": "If you've never received a speeding summons or saman, as we like to call it, that plain envelope marked 'On Government Service' looks innocuous. You might even think it's from HDB or CPF.",
-                    "exampleSource": "2023 May 19, Jeremy Chua. Sgcarmart, \"Oh no! First time kena speeding saman? Here's what to expect\". https://www.sgcarmart.com/articles/advice/oh-no-first-time-kena-speeding-saman-heres-what-to-expect-31092",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2023 May 19, Jeremy Chua. Sgcarmart, \"Oh no! First time kena speeding saman? Here's what to expect\". https://www.sgcarmart.com/articles/advice/oh-no-first-time-kena-speeding-saman-heres-what-to-expect-31092"
                 }
             ],
             "verb": [
                 {
                     "definition": "to fine or levy a monetary penalty",
-                    "example": "Wee Kiat kena saman $80 while using one of those car share cars. This one really @{jialat}.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Wee Kiat kena saman $80 while using one of those car share cars. This one really @{jialat}."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "saman auntie": {
         "word": "saman auntie",
@@ -33827,31 +33808,20 @@
             "auntie"
         ],
         "usage": "Female equivalent of a @{saman uncle}.",
-        "category": [],
         "phonetics": "/ˈsaman 'anti/",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "saman",
-                "romanization": "",
                 "lit": "fine; monetary penalty",
                 "etyPath": [
                     "malay",
                     "english"
                 ],
-                "etyType": [
-                    ""
-                ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "saman",
                     "summons"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "fine; monetary penalty",
                     "legal notice requiring sb. to appear in court or pay a fine"
@@ -33883,13 +33853,10 @@
                 {
                     "definition": "a female parking warden or enforcement officer who issues parking tickets to illegally parked vehicles at public carparks",
                     "example": "Ah, the 'saman aunty'... Clad in her iconic blue-and-white uniform and armed with an evil calculator-looking device, this legendary @{makcik} is the stuff Singaporean nightmares are made of.",
-                    "exampleSource": "2019 March 28, Freelancer. Sgcarmart, \"We love the 'Saman Aunty', here's why you should too\". https://www.sgcarmart.com/articles/features/we-love-the-saman-aunty-heres-why-you-should-too-1374",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2019 March 28, Freelancer. Sgcarmart, \"We love the 'Saman Aunty', here's why you should too\". https://www.sgcarmart.com/articles/features/we-love-the-saman-aunty-heres-why-you-should-too-1374"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "saman uncle": {
         "word": "saman uncle",
@@ -33898,30 +33865,19 @@
             "uncle"
         ],
         "usage": "Female equivalent of a @{saman auntie}.",
-        "category": [],
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "saman",
-                "romanization": "",
                 "lit": "fine; monetary penalty",
                 "etyPath": [
                     "malay",
                     "english"
                 ],
-                "etyType": [
-                    ""
-                ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "saman",
                     "summons"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "fine; monetary penalty",
                     "legal notice requiring sb. to appear in court or pay a fine"
@@ -33953,13 +33909,10 @@
                 {
                     "definition": "a male parking warden or enforcement officer who issues parking tickets to illegally parked vehicles at public carparks",
                     "example": "“Saman uncle” takes abuse in his stride ... He’s been railed at, offered bribes and even been hit by angry motorists.",
-                    "exampleSource": "2017 October 14. Torque, \"“Saman uncle” takes abuse in his stride\". https://www.torque.com.sg/news/saman-uncle-takes-abuse-stride/",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2017 October 14. Torque, \"“Saman uncle” takes abuse in his stride\". https://www.torque.com.sg/news/saman-uncle-takes-abuse-stride/"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "uncle": {
         "word": "uncle",
@@ -34016,40 +33969,27 @@
         "related": [
             "grandfather's road"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "grandfather's",
-                "romanization": "",
                 "lit": "of or belonging to one’s grandfather; implies permission to do whatever one pleases",
                 "etyPath": [
                     "english"
                 ],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "grandfather's"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "of or belonging to one’s male grandparent"
                 ]
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "army",
-                "romanization": "",
                 "lit": "armed land forces, sometimes also including the entire military e.g. air force and navy"
             }
         ],
@@ -34057,14 +33997,10 @@
             "noun": [
                 {
                     "definition": "(sarcastic) used to imply that a soldier is acting as if they are permitted to do whatever they please in the army, that rules do not apply to them, and that they are the most important person there.",
-                    "example": "@{Chao recruit}! I say 7:30 first parade means 7:34 you can happy happy @{jalan} in ah? Your grandfather army @{isit}?",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "@{Chao recruit}! I say 7:30 first parade means 7:34 you can happy happy @{jalan} in ah? Your grandfather army @{isit}?"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "guai": {
         "word": "guai",
@@ -34072,54 +34008,35 @@
             "chi wu eng"
         ],
         "usage": "Can be used as an adverb by adding the English suffix <i>-ly</i>, or by reduplication into <i> guai guai</i>.",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "general chinese",
                 "simplified": "乖",
                 "traditional": "乖",
                 "roman": "guāi",
-                "romanization": "",
-                "lit": "well-behaved; good; obedient",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "well-behaved; good; obedient"
             }
         ],
         "meanings": {
             "adjective": [
                 {
                     "definition": "well-behaved; good; obedient",
-                    "example": "Ming Lee was always seen as the guai kid sitting quietly in the back of the class. Who would have guessed she’d grow up into the Lianest of @{Ah Lians}?",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Ming Lee was always seen as the guai kid sitting quietly in the back of the class. Who would have guessed she’d grow up into the Lianest of @{Ah Lians}?"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "gu ni": {
         "word": "gu ni",
-        "usage": "",
         "category": [
             "drinks"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "hokkien",
                 "simplified": "牛奶",
                 "traditional": "牛奶",
                 "roman": "gû-ni",
-                "romanization": "",
                 "lit": "cow’s milk; milk",
                 "etyPath": [
                     "hokkien",
@@ -34140,7 +34057,6 @@
                     "gû",
                     "ni"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "cow",
                     "milk; breast"
@@ -34151,34 +34067,26 @@
             "noun": [
                 {
                     "definition": "milk; cow’s milk",
-                    "example": "You use what kind of gu ni to make your yogurt?",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "You use what kind of gu ni to make your yogurt?"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "gu yu": {
         "word": "gu yu",
         "related": [
             "buak gu yu"
         ],
-        "usage": "",
         "category": [
             "drinks",
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "hokkien",
                 "simplified": "牛油",
                 "traditional": "牛油",
                 "roman": "gû-iû",
-                "romanization": "",
                 "lit": "butter; beef tallow",
                 "etyPath": [
                     "hokkien",
@@ -34199,7 +34107,6 @@
                     "gû",
                     "iû"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "cow",
                     "oil"
@@ -34210,61 +34117,42 @@
             "noun": [
                 {
                     "definition": "butter",
-                    "example": "All I had for breakfast was some leftover @{chim tao lo ti} with gu yu.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "All I had for breakfast was some leftover @{chim tao lo ti} with gu yu."
                 },
                 {
                     "definition": "(attributive, drink ordering, usually only with @{kopi}) with a slab of butter melted in",
                     "example": "The traditional kopi gu you is made with Nanyang Coffee. This is a local coffee made in Singapore with robusta beans that are roasted to Full City with added sugar and butter or margarine.",
-                    "exampleSource": "2023 August 28, Azlin Bloor. Singaporean and Malaysian Recipes, \"Butter Coffee (Kopi Gu You)\". https://www.singaporeanmalaysianrecipes.com/butter-coffee-kopi-gu-you/",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2023 August 28, Azlin Bloor. Singaporean and Malaysian Recipes, \"Butter Coffee (Kopi Gu You)\". https://www.singaporeanmalaysianrecipes.com/butter-coffee-kopi-gu-you/"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "grandfather's road": {
         "word": "grandfather's road",
         "related": [
             "grandfather's army"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "grandfather's",
-                "romanization": "",
                 "lit": "of or belonging to one’s grandfather; implies permission to do whatever one pleases",
                 "etyPath": [
                     "english"
                 ],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "grandfather's"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "of or belonging to one’s male grandparent"
                 ]
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "road",
-                "romanization": "",
                 "lit": "street; paved way for vehicles or pedestrians"
             }
         ],
@@ -34272,51 +34160,28 @@
             "noun": [
                 {
                     "definition": "(sarcastic) a road or street which one treats as if it belongs to one’s grandfather. Used to imply that someone is acting as if they are permitted to do whatever they please and that they are the most important person on the road.",
-                    "example": "This @{goondu} park like it’s his grandfather road. Somehow managed to take up 3 spots with one car!",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "This @{goondu} park like it’s his grandfather road. Somehow managed to take up 3 spots with one car!"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "grandfather's": {
         "word": "grandfather's",
-        "related": [],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "grandfather’s",
-                "romanization": "",
-                "lit": "of or belonging to one’s male grandparent",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "of or belonging to one’s male grandparent"
             }
         ],
         "meanings": {
             "noun": [
                 {
                     "definition": "(possessive, attributive, sarcastic) used to qualify that something is of or belongs to one’s grandfather. Used to imply that someone is treating said thing or place as if they or their family has owned it for generations, permitting them to do whatever they please and acting as if they are the most important person there.",
-                    "example": "Eh! Your grandfather’s hotel ah? You trash the room until so @{jialat} you @{confirm} @{tio} charged lah!",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Eh! Your grandfather’s hotel ah? You trash the room until so @{jialat} you @{confirm} @{tio} charged lah!"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "gostan": {
         "word": "gostan",
@@ -34325,16 +34190,12 @@
             "stun"
         ],
         "usage": "Alteration/elision of the English phrase.",
-        "category": [],
         "phonetics": "/ˌɡo(ː)ˈstan/",
         "etyNotes": "Possibly via Malay <i>gostan</i> as an intermediate.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "go astern",
-                "romanization": "",
                 "lit": "(nautical) reverse; go backwards",
                 "etyPath": [
                     "english",
@@ -34343,13 +34204,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "go",
                     "astern"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "move; head towards",
                     "(nautical) toward the rear of a vessel"
@@ -34360,14 +34218,10 @@
             "verb": [
                 {
                     "definition": "(invariable) to go backwards; to reverse",
-                    "example": "@{Alamak}, I turn @{salah} @{liao}. Need to gostan.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "@{Alamak}, I turn @{salah} @{liao}. Need to gostan."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "goreng": {
         "word": "goreng",
@@ -34378,85 +34232,55 @@
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
         "etyNotes": "Supposedly onomatopoeic.",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "goreng",
-                "romanization": "",
-                "lit": "fry; fried, (slang) flatter",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "fry; fried, (slang) flatter"
             }
         ],
         "meanings": {
             "verb": [
                 {
-                    "definition": "to fry; to deep-fry",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "to fry; to deep-fry"
                 },
                 {
                     "definition": "to flatter; to butter up with compliments",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "sakar",
                         "angkat bola",
                         "carry balls"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "to sternly reprimand; to give an extended scolding to",
                     "example": "He's been getting gorenged in there for an hour now. Just how badly did he screw up?",
-                    "exampleSource": "",
                     "synonyms": [
                         "kan",
                         "fuck",
                         "buak gu yu",
                         "screw"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "to ridicule; to mock; to criticize",
                     "example": "The restaurant was gorenged by floods of dissatisfied reviews after they tried getting away with charging double for a smaller portion.",
-                    "exampleSource": "",
                     "synonyms": [
                         "ji siao"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
-                    "definition": "(dated) to deceive; to fool; to trick",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "(dated) to deceive; to fool; to trick"
                 }
             ],
             "adjective": [
                 {
                     "definition": "(postpositive) fried; deep-fried",
-                    "example": "Maggi goreng from the @{prata} stall was always a favourite among the students.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Maggi goreng from the @{prata} stall was always a favourite among the students."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "got dragon got tiger": {
         "word": "got dragon got tiger",
@@ -34465,30 +34289,21 @@
             "chim",
             "grandfather story"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "Calque of the Hokkien idiom. The dragon and tiger are traditionally seen as powerful and fearsome creatures in Chinese culture, and are each others' equals in this regard. They appear together in several other Chinese idioms, with one of the most well-known being 藏龙卧虎/藏龍臥虎, cáng lóng wò hǔ (\"hidden dragon, crouching tiger\").<br>This idiom invokes these two awesome and terrifying creatures to mean that an otherwise mundane, everyday story has been stretched and embellished in such a way that it somehow manages to involve them.",
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "got",
-                "romanization": "",
                 "lit": "have; exists; has happened",
                 "etyPath": [
                     "english"
                 ],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "got"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "received; obtained, (with have) possess"
                 ]
@@ -34498,7 +34313,6 @@
                 "simplified": "有龙有虎",
                 "traditional": "有龍有虎",
                 "roman": "ū-lêng-ū-hó͘",
-                "romanization": "",
                 "lit": "(lit.) have dragon(s), have tiger(s)",
                 "etyPath": [
                     "hokkien",
@@ -34529,7 +34343,6 @@
                     "ū",
                     "hó͘"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "have; has got; there is",
                     "dragon",
@@ -34546,12 +34359,10 @@
                     "exampleSource": "2012 May 14, Sengkang Babies. \"Our boys’ Chinese compositions are so imaginative\". https://sengkangbabies.com/primaryschool/our-boys-chinese-compositions-are-so-imaginative/",
                     "synonyms": [
                         "got dragon got phoenix"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "got dragon got phoenix": {
         "word": "got dragon got phoenix",
@@ -34560,30 +34371,21 @@
             "chim",
             "grandfather story"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "Calque of the Hokkien idiom. The dragon and phoenix (fenghuang) are traditionally seen as powerful and fearsome creatures in Chinese culture, and are often each others' counterparts, appearing together in several idioms and stories. This idiom invokes these two awesome and terrifying creatures to mean that an otherwise mundane, everyday story has been stretched and embellished in such a way that it somehow manages to involve them.",
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "got",
-                "romanization": "",
                 "lit": "have; exists; has happened",
                 "etyPath": [
                     "english"
                 ],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "got"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "received; obtained, (with have) possess"
                 ]
@@ -34593,7 +34395,6 @@
                 "simplified": "有龙有凤",
                 "traditional": "有龍有鳳",
                 "roman": "ū-lêng-ū-hōng",
-                "romanization": "",
                 "lit": "(lit.) have dragon(s), have phoenix(es)",
                 "etyPath": [
                     "hokkien",
@@ -34624,7 +34425,6 @@
                     "ū",
                     "hōng"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "have; has got; there is",
                     "dragon",
@@ -34641,12 +34441,10 @@
                     "exampleSource": "2022 January 10, theMKR. Hardwarezone. forums.hardwarezone.com.sg/threads/anyone-encounter-experts-before-who-can-say-until-like-dragon-got-phoenix-but-when-ask-them-to-show-example.6676580/",
                     "synonyms": [
                         "got dragon got tiger"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "samseng": {
         "word": "samseng",
@@ -34657,9 +34455,6 @@
             "ah huay",
             "ah beng ah seng"
         ],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
         "etyNotes": "Also borrowed into Malay as <i>samseng</i>.",
         "origin": [
             {
@@ -34667,15 +34462,7 @@
                 "simplified": "三牲",
                 "traditional": "三牲",
                 "roman": "sam-seng",
-                "romanization": "",
-                "lit": "(lit.) three domestic animals (pig, sheep, cattle), oft. used for sacrifices; (slang) gangster",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "(lit.) three domestic animals (pig, sheep, cattle), oft. used for sacrifices; (slang) gangster"
             }
         ],
         "meanings": {
@@ -34687,45 +34474,34 @@
                     "synonyms": [
                         "ah beng",
                         "ah seng"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "adjective": [
                 {
                     "definition": "gangster-like; delinquent; uncouth; unrefined",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "ah beng",
                         "ah seng",
                         "beng",
                         "ah lian"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "santan": {
         "word": "santan",
         "related": [
             "coconut"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "santan",
-                "romanization": "",
                 "lit": "coconut milk; coconut cream",
                 "etyPath": [
                     "old javanese",
@@ -34735,12 +34511,10 @@
                     "",
                     "सार"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "santěn",
                     "sāra"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "coconut milk",
                     "essence"
@@ -34750,15 +34524,10 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "coconut milk; coconut cream; the liquid pressed from the scraped-out inner flesh of a coconut",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "coconut milk; coconut cream; the liquid pressed from the scraped-out inner flesh of a coconut"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sapu": {
         "word": "sapu",
@@ -34769,48 +34538,28 @@
             "whack",
             "gasak"
         ],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sapu",
-                "romanization": "",
-                "lit": "broom; sweep; wipe clean; clear out (a room)",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "broom; sweep; wipe clean; clear out (a room)"
             }
         ],
         "meanings": {
             "verb": [
                 {
                     "definition": "to completely finish a meal; to eat something all up",
-                    "example": "The @{chai tow kway} here was so good, I sapu the whole large portion by myself and still wanted to get another.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "The @{chai tow kway} here was so good, I sapu the whole large portion by myself and still wanted to get another."
                 },
                 {
                     "definition": "to steal; to embezzle; to take without asking permission",
                     "example": "I used to sapu a few pens from the office every now and then, since I kept losing my own.",
-                    "exampleSource": "",
                     "synonyms": [
                         "kope"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sampat": {
         "word": "sampat",
@@ -34821,7 +34570,6 @@
         "category": [
             "insults"
         ],
-        "phonetics": "",
         "etyNotes": "(lit.) '3 8'.<br>#{dubious} According to some folk sources, this is supposedly because 8th March is International Women's Day, hence 3/8 (in Hokkien, the date is read in Y-M-D order) becoming slang for an irrational, gossipy, bitchy, etc. woman or person in general. However, there is no proper evidence supporting this explanation.",
         "origin": [
             {
@@ -34829,15 +34577,7 @@
                 "simplified": "三八",
                 "traditional": "三八",
                 "roman": "sam-pat",
-                "romanization": "",
-                "lit": "(lit.) 3 8, (hum.) woman who behaves irrationally and is slightly crazy; having traits associated with such women e.g. unreasonable, frivolous, immodest, unabashed, gossipy, etc.; silly; stupid; foolish",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "(lit.) 3 8, (hum.) woman who behaves irrationally and is slightly crazy; having traits associated with such women e.g. unreasonable, frivolous, immodest, unabashed, gossipy, etc.; silly; stupid; foolish"
             }
         ],
         "meanings": {
@@ -34845,65 +34585,49 @@
                 {
                     "definition": "(euphemistic, humorous) a woman  (usually) who behaves irrationally and is slightly crazy, and has traits such as being unreasonable, frivolous, immodest, unabashed, gossipy, acting wacky, etc.",
                     "example": "She thinks she's being even more quirky by suddenly becoming bi out of nowhere ah. @{AA} only, what a little sampat.",
-                    "exampleSource": "",
                     "synonyms": [
                         "siao cha bor"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "(euphemistic, humorous, derogatory) bitch; slut; thot; unpleasant woman",
-                    "example": "Hannah had a reputation as quite the sampat during our uni days, often trying to lead multiple guys and girls along at once.",
-                    "exampleSource": "",
-                    "antonyms": false
+                    "example": "Hannah had a reputation as quite the sampat during our uni days, often trying to lead multiple guys and girls along at once."
                 }
             ],
             "adjective": [
                 {
                     "definition": "(euphemistic, humorous, usually of women) behaving irrationally and crazily; having traits such as being unreasonable, frivolous, immodest, unabashed, gossipy, bitchy, acting wacky, etc.",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "chee sin"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "foolish; stupid; silly",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "gong",
                         "kham gong",
                         "bodoh"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "interjection": [
                 {
                     "definition": "'crazy!'; 'ridiculous!'; exclamation in response to somebody behaving irrationally and crazily, or being unreasonable, frivolous, immodest, unabashed, gossipy, bitchy, acting wacky, etc.",
                     "example": "She really asking for trouble ah? Sampat!",
-                    "exampleSource": "",
                     "synonyms": [
                         "siao",
                         "chee sin"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "got eyes also don't know mount taishan": {
         "word": "got eyes also don't know Mount Taishan",
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "got",
-                "romanization": "",
                 "lit": "have; exists; possess",
                 "etyPath": [
                     "english"
@@ -34918,10 +34642,7 @@
             },
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "also",
-                "romanization": "",
                 "lit": "as well; too; used for emphasis; even; still",
                 "etyPath": [
                     "english"
@@ -34938,7 +34659,6 @@
                 "simplified": "有眼不识泰山",
                 "traditional": "有眼不識泰山",
                 "roman": "yǒu yǎn bù shí tài shān",
-                "romanization": "",
                 "lit": "not recognize excellence, talent, someone important, etc.; be blind to greatness",
                 "etyPath": [
                     "mandarin",
@@ -35026,10 +34746,7 @@
         "origin": [
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "got",
-                "romanization": "",
                 "lit": "have; exists; possess",
                 "etyPath": [
                     "english"
@@ -35044,10 +34761,7 @@
             },
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "also",
-                "romanization": "",
                 "lit": "as well; too; used for emphasis; even; still",
                 "etyPath": [
                     "english"
@@ -35064,7 +34778,6 @@
                 "simplified": "有眼不识泰山",
                 "traditional": "有眼不識泰山",
                 "roman": "yǒu yǎn bù shí Tài shān",
-                "romanization": "",
                 "lit": "not recognize excellence, talent, someone important, etc.; be blind to greatness",
                 "etyPath": [
                     "mandarin",
@@ -35113,7 +34826,6 @@
                 "simplified": "泰山",
                 "traditional": "泰山",
                 "roman": "tài shān",
-                "romanization": "",
                 "lit": "Tarzan (fictional character)",
                 "etyPath": [
                     "english"
@@ -35128,7 +34840,6 @@
             {
                 "lang": "singlish",
                 "roman": "orh ee orh",
-                "romanization": "",
                 "lit": "Singlish phonetic approximation of the \"Tarzan yell\"",
                 "etyPath": [
                     "fictional ape language"
@@ -35162,10 +34873,7 @@
         "origin": [
             {
                 "lang": "fictional ape language",
-                "simplified": "",
-                "traditional": "",
                 "roman": "[ululating yell]",
-                "romanization": "",
                 "lit": "Tarzan's iconic cry from the movie Tarzan the Ape Man (1932) and subsequent media"
             }
         ],
@@ -35188,5 +34896,537 @@
             "ee"
         ],
         "etyNotes": "Spelling, pronunciation, and form heavily influenced by the phonology of local Chinese languages, such as Hokkien and Cantonese."
+    },
+    "sakar": {
+        "word": "sakar",
+        "related": [
+            "angkat bola",
+            "carry balls"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "sakar",
+                "lit": "sugar; cane sugar",
+                "etyPath": [
+                    "persian",
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "شکر",
+                    "शर्करा"
+                ],
+                "etyRoman": [
+                    "šakar",
+                    "śarkarā"
+                ],
+                "etyLit": [
+                    "sugar",
+                    "gravel; small stone; ground sugar"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to flatter; to compliment; to butter up, often with the implication of doing so for some motive or agenda",
+                    "example": "Maybe sakar her a bit and she’ll be more amenable to approving your leave.",
+                    "synonyms": [
+                        "goreng"
+                    ],
+                    "antonyms": [
+                        "buak gu yu",
+                        "goreng"
+                    ]
+                }
+            ]
+        }
+    },
+    "sampai tua": {
+        "word": "sampai tua",
+        "category": [
+            "ns"
+        ],
+        "etyNotes": "(lit.) 'until old age'.<br>Contrary to what some believe, Malay <i>tua</i> is a native Malayic word, and is not borrowed from Hokkien 大, tuā (\"big; great; grown\").",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "sampai",
+                "lit": "until; reach; arrive; achieve"
+            },
+            {
+                "lang": "malay",
+                "roman": "tua",
+                "lit": "old (age)"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(military) having no further prospects of career advancements or promotions",
+                    "synonyms": [
+                        "hentak kaki",
+                        "condemned"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(military) a soldier or employee with no further prospects of career advancements or promotions",
+                    "example": "After the @{armskote} debacle, he knew he’d be a sampai tua if he stayed on in the army."
+                }
+            ]
+        }
+    },
+    "sargen": {
+        "word": "sargen",
+        "related": [
+            "occifer",
+            "warrant",
+            "encik"
+        ],
+        "category": [
+            "ns",
+            "terms of address"
+        ],
+        "etyNotes": "Alteration of English <i>sergeant</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "sergeant",
+                "lit": "(mil.) the ranks between corporal and warrant officer; soldier holding such a rank",
+                "etyPath": [
+                    "old french",
+                    "medieval latin",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "sergeant/serjant",
+                    "serviens",
+                    "serviō"
+                ],
+                "etyLit": [
+                    "sergeant; servant",
+                    "servant; soldier; vassal",
+                    "serve; be a slave to"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military, when qualified) any sergeant rank; the ranks between corporal and warrant officer"
+                },
+                {
+                    "definition": "(military, unqualified) the ranks of third, second, and first sergeant"
+                },
+                {
+                    "definition": "(military) a soldier holding the rank of third, second, or first sergeant; term of address for such a soldier",
+                    "example": "Sarjen Greg, tonight can order in @{anot}?"
+                }
+            ]
+        }
+    },
+    "sat khi": {
+        "word": "sat khi",
+        "usage": "In a way, the Hokkien counterpart to English <i>slay</i>.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "杀气",
+                "traditional": "殺氣",
+                "roman": "sat-khì",
+                "lit": "(lit.) cold, bloodthirsty mood; killer's aura, (slang) awesome; cool",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "杀",
+                    "气"
+                ],
+                "etyTrad": [
+                    "殺",
+                    "氣"
+                ],
+                "etyRoman": [
+                    "sat",
+                    "khì"
+                ],
+                "etyLit": [
+                    "kill; murder; slay",
+                    "air; breath; mood; character"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "cool; awesome",
+                    "example": "How come when the policemen wear tight shorts they look so sat ki, but when I wear I look so @{buaya}.",
+                    "exampleSource": "2016 November 11, He Ruiming. Mothership, \"9 millennial expressions and your grandparents' equivalents\". https://mothership.sg/2016/11/9-millennial-expressions-and-your-grandparents-equivalents/",
+                    "synonyms": [
+                        "gerek"
+                    ]
+                }
+            ]
+        }
+    },
+    "policemen wear shorts": {
+        "word": "policemen wear shorts",
+        "related": [
+            "mata",
+            "when policemen wear shorts",
+            "last time policemen wear shorts"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Most likely a direct English translation of the earlier Hokkien expression.<br>In the past, policemen in Singapore famously wore khaki shorts, which was light, cooling, and perfect for the tropical heat. However, the shorts were phased out in 1969, when the SPF updated its uniform to match the modern international 'police blue' with long trousers. Hence, the phrase is used to allude to a bygone era before the modernization of Singapore.<br>As the SPF's first women's police squad was established in 1970, after the uniform update, it is unlikely that policewomen ever correspondingly wore skirts in Singapore.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "policemen",
+                "lit": "police officers"
+            },
+            {
+                "lang": "english",
+                "roman": "wear",
+                "lit": "don; put on; dress oneself with"
+            },
+            {
+                "lang": "english",
+                "roman": "shorts",
+                "lit": "pants that end above the knees"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "马打",
+                "traditional": "馬打",
+                "roman": "má-tâ",
+                "lit": "police; policeman",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "re"
+                ],
+                "etyRoman": [
+                    "mata-mata",
+                    "mata"
+                ],
+                "etyLit": [
+                    "police",
+                    "eye"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "穿",
+                "traditional": "穿",
+                "roman": "chhēng",
+                "lit": "wear; put on (clothes); have (clothes) on"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "短裤",
+                "traditional": "短褲",
+                "roman": "tér-khò͘",
+                "lit": "shorts",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "短",
+                    "裤"
+                ],
+                "etyTrad": [
+                    "短",
+                    "褲"
+                ],
+                "etyRoman": [
+                    "tér",
+                    "khò͘"
+                ],
+                "etyLit": [
+                    "short",
+                    "trousers; pants"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(metaphor) used to allude to a bygone era before the modernization of Singapore; an earlier time; a different era; a long time ago",
+                    "example": "Ya, your @{cai png} go up by 30 cents already complain last time the price lower, @{liao} also give more. Next you gonna tell me policeman also wear shorts @{isit}?"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.facebook.com/singaporepoliceforce/posts/%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%86-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%98%80uniforms-we-donned-them-in-school-as-par/778757690959593/",
+                "name": "2024 February 1. Singapore Police Force, \"𝗣𝗼𝗹𝗶𝗰𝗲 𝗛𝗲𝗿𝗶𝘁𝗮𝗴𝗲 𝗧𝗵𝘂𝗿𝘀𝗱𝗮𝘆 – 𝗣𝗼𝗹𝗶𝗰𝗲 𝗨𝗻𝗶𝗳𝗼𝗿𝗺𝘀\" (Facebook post). Accessed 2024 July 3."
+            }
+        ]
+    },
+    "when policemen wear shorts": {
+        "word": "when policemen wear shorts",
+        "related": [
+            "mata",
+            "when policemen wear shorts",
+            "last time policemen wear shorts"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Most likely a direct English translation of the earlier Hokkien expression.<br>In the past, policemen in Singapore famously wore khaki shorts, which was light, cooling, and perfect for the tropical heat. However, the shorts were phased out in 1969, when the SPF updated its uniform to match the modern international 'police blue' with long trousers. Hence, the phrase is used to allude to a bygone era before the modernization of Singapore.<br>As the SPF's first women's police squad was established in 1970, after the uniform update, it is unlikely that policewomen ever correspondingly wore skirts in Singapore.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "when",
+                "lit": "at the time of; during the time"
+            },
+            {
+                "lang": "english",
+                "roman": "policemen",
+                "lit": "police officers"
+            },
+            {
+                "lang": "english",
+                "roman": "wear",
+                "lit": "don; put on; dress oneself with"
+            },
+            {
+                "lang": "english",
+                "roman": "shorts",
+                "lit": "pants that end above the knees"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "马打",
+                "traditional": "馬打",
+                "roman": "má-tâ",
+                "lit": "police; policeman",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "re"
+                ],
+                "etyRoman": [
+                    "mata-mata",
+                    "mata"
+                ],
+                "etyLit": [
+                    "police",
+                    "eye"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "穿",
+                "traditional": "穿",
+                "roman": "chhēng",
+                "lit": "wear; put on (clothes); have (clothes) on"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "短裤",
+                "traditional": "短褲",
+                "roman": "tér-khò͘",
+                "lit": "shorts",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "短",
+                    "裤"
+                ],
+                "etyTrad": [
+                    "短",
+                    "褲"
+                ],
+                "etyRoman": [
+                    "tér",
+                    "khò͘"
+                ],
+                "etyLit": [
+                    "short",
+                    "trousers; pants"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(metaphor) a bygone era before the modernization of Singapore; back in the day; a different era; a long time ago, especially when irrelevant to the present or the current situation",
+                    "example": "Triple science is more of a prestige option, a legacy leftover from the days when policemen wear shorts.",
+                    "exampleSource": "2021 October 5, floppy. KiasuParents, \"Secondary 2 Streaming\". https://kiasuparents.com/kiasu/forum/viewtopic.php?p=2040605"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.facebook.com/singaporepoliceforce/posts/%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%86-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%98%80uniforms-we-donned-them-in-school-as-par/778757690959593/",
+                "name": "2024 February 1. Singapore Police Force, \"𝗣𝗼𝗹𝗶𝗰𝗲 𝗛𝗲𝗿𝗶𝘁𝗮𝗴𝗲 𝗧𝗵𝘂𝗿𝘀𝗱𝗮𝘆 – 𝗣𝗼𝗹𝗶𝗰𝗲 𝗨𝗻𝗶𝗳𝗼𝗿𝗺𝘀\" (Facebook post). Accessed 2024 July 3."
+            }
+        ]
+    },
+    "last time policemen wear shorts": {
+        "word": "last time policemen wear shorts",
+        "related": [
+            "just now",
+            "mata",
+            "when policemen wear shorts",
+            "last time policemen wear shorts"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Most likely a direct English translation of the earlier Hokkien expression.<br>In the past, policemen in Singapore famously wore khaki shorts, which was light, cooling, and perfect for the tropical heat. However, the shorts were phased out in 1969, when the SPF updated its uniform to match the modern international 'police blue' with long trousers. Hence, the phrase is used to allude to a bygone era before the modernization of Singapore.<br>As the SPF's first women's police squad was established in 1970, after the uniform update, it is unlikely that policewomen ever correspondingly wore skirts in Singapore.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "last time",
+                "lit": "past tense parker for events far in the past or further than the simple past; previously; a (longer) while ago; formerly",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "last time"
+                ],
+                "etyLit": [
+                    "on the previous occasion"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "policemen",
+                "lit": "police officers"
+            },
+            {
+                "lang": "english",
+                "roman": "wear",
+                "lit": "don; put on; dress oneself with"
+            },
+            {
+                "lang": "english",
+                "roman": "shorts",
+                "lit": "pants that end above the knees"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "马打",
+                "traditional": "馬打",
+                "roman": "má-tâ",
+                "lit": "police; policeman",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "re"
+                ],
+                "etyRoman": [
+                    "mata-mata",
+                    "mata"
+                ],
+                "etyLit": [
+                    "police",
+                    "eye"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "穿",
+                "traditional": "穿",
+                "roman": "chhēng",
+                "lit": "wear; put on (clothes); have (clothes) on"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "短裤",
+                "traditional": "短褲",
+                "roman": "tér-khò͘",
+                "lit": "shorts",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "短",
+                    "裤"
+                ],
+                "etyTrad": [
+                    "短",
+                    "褲"
+                ],
+                "etyRoman": [
+                    "tér",
+                    "khò͘"
+                ],
+                "etyLit": [
+                    "short",
+                    "trousers; pants"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "used to imply or retort that something was only true or happened a long time ago, and that it is irrelevant to the present or the current situation",
+                    "example": "- I thought @{last time} you say no need queue?<br>- Last time policeman wear shorts."
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.facebook.com/singaporepoliceforce/posts/%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%97%A7%F0%9D%97%B5%F0%9D%98%82%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%86-%F0%9D%97%A3%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BA%F0%9D%98%80uniforms-we-donned-them-in-school-as-par/778757690959593/",
+                "name": "2024 February 1. Singapore Police Force, \"𝗣𝗼𝗹𝗶𝗰𝗲 𝗛𝗲𝗿𝗶𝘁𝗮𝗴𝗲 𝗧𝗵𝘂𝗿𝘀𝗱𝗮𝘆 – 𝗣𝗼𝗹𝗶𝗰𝗲 𝗨𝗻𝗶𝗳𝗼𝗿𝗺𝘀\" (Facebook post). Accessed 2024 July 3."
+            }
+        ],
+        "usage": "It is grammatically more correct to use <i>wear</i> (the infinitive) rather than <i>wore</i> (simple past), because adverbial tense markers or particles are preferentially used to form the past tense in Singlish - a function carried out by @{last time} in this case."
+    },
+    "susah": {
+        "word": "susah",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "susah",
+                "lit": "difficult"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "difficult; troublesome",
+                    "synonyms": [
+                        "ma fan",
+                        "lor sor"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "exclamation of frustration, annoyance, or despair at a difficult or unfortunate situation"
+                }
+            ]
+        }
     }
 }
