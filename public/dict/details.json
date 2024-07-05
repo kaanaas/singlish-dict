@@ -449,7 +449,8 @@
                     "synonyms": [
                         "kor",
                         "ah kor",
-                        "kor kor"
+                        "kor kor",
+                        "anneh"
                     ]
                 },
                 {
@@ -4159,7 +4160,12 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "elder brother; a term of address for an elder brother"
+                    "definition": "elder brother; a term of address for an elder brother",
+                    "synonyms": [
+                        "ah kor",
+                        "kor kor",
+                        "abang"
+                    ]
                 },
                 {
                     "definition": "a term of address for a man around the same age or slightly older than the speaker, especially one of Tamil or other Indian descent."
@@ -4504,7 +4510,7 @@
         "category": [
             "insults"
         ],
-        "etyNotes": "#{dubious}Actual etymology is unknown. Likely a nonsense word based off racist and stereotypical impressions of the sound of the Tamil language; @{anneh} or its Hokkien pronunciation @{ah neh} likely influenced the development of the slur.",
+        "etyNotes": "#{dubious}Actual etymology is unknown. Likely a nonsense word based off racist and stereotypical impressions of the sound of the Tamil language. @{Anneh} or its Hokkien pronunciation @{ah neh} likely influenced the development of the slur.",
         "origin": [
             {
                 "lang": "singlish",
@@ -4533,7 +4539,6 @@
             {
                 "lang": "singlish",
                 "simplified": "#{dubious}(nonce word)",
-                "roman": "(unknown)",
                 "lit": "likely a nonsense word based off racist impressions of the sound of the Tamil language"
             }
         ],
