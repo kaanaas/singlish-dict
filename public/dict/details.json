@@ -966,7 +966,7 @@
                 {
                     "definition": "to guess; to estimate",
                     "example": "When cooking, for example, if asked how much sugar you put in, you could reply 'I just agak-agak.'",
-                    "exampleSource": "1999, Adam Brown, <i>Singapore English in a Nutshell‎</i>. Singapore: Federal Publications, p.3",
+                    "exampleSource": "1999, Adam Brown, <i>Singapore English in a Nutshell</i>. Singapore: Federal Publications, p.3",
                     "synonyms": [
                         "agak"
                     ]
@@ -4229,14 +4229,38 @@
             {
                 "lang": "english",
                 "roman": "anyhow",
-                "lit": "any + how"
+                "lit": "in any way or manner whatsoever",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "any",
+                    "how"
+                ],
+                "etyLit": [
+                    "at all; some",
+                    "what way, degree, manner, extent, etc."
+                ]
             }
         ],
         "meanings": {
             "adverb": [
                 {
                     "definition": "in any way or manner whatsoever; in a random fashion",
-                    "example": "You don't go anyhow say people hor.",
+                    "example": "You don't go anyhow @{say} people hor.",
+                    "synonyms": [
+                        "chin chai"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "random; untidy; careless",
+                    "example": "Why is your folder so anyhow one? All these files don't need just delete lah.",
                     "synonyms": [
                         "chin chai"
                     ]
@@ -4273,7 +4297,8 @@
             "anyhow",
             "just whack",
             "whack",
-            "chin chai"
+            "chin chai",
+            "anyhowly"
         ],
         "category": [
             "sayings"
@@ -4281,17 +4306,27 @@
         "usage": "When <i>whack</i> is used in this sense, it is almost always in the phrases \"<i>anyhow whack</i>\" or \"<i>just whack</i>\".",
         "origin": [
             {
-                "lang": "english",
+                "lang": "singlish",
                 "roman": "anyhow",
-                "lit": "anyhow",
+                "lit": "in any way or manner whatsoever",
                 "etyPath": [
+                    "english",
+                    "english",
                     "english"
                 ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
                 "etyRoman": [
-                    "any + how"
+                    "anyhow",
+                    "any",
+                    "how"
                 ],
                 "etyLit": [
-                    "any + how"
+                    "in any way or manner whatsoever",
+                    "at all; some",
+                    "what way, degree, manner, extent, etc."
                 ]
             },
             {
@@ -4356,15 +4391,25 @@
             {
                 "lang": "singlish",
                 "roman": "anyhow",
-                "lit": "in any way or manner whatsoever; in a random fashion",
+                "lit": "in any way or manner whatsoever",
                 "etyPath": [
+                    "english",
+                    "english",
                     "english"
                 ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
                 "etyRoman": [
-                    "anyhow"
+                    "anyhow",
+                    "any",
+                    "how"
                 ],
                 "etyLit": [
-                    "any + how"
+                    "in any way or manner whatsoever",
+                    "at all; some",
+                    "what way, degree, manner, extent, etc."
                 ]
             },
             {
@@ -4625,6 +4670,7 @@
         "word": "ar ka liao",
         "related": [
             "keng ka liao",
+            "pau ka liao",
             "angkat bola",
             "ar",
             "ar ka chih",
@@ -10800,7 +10846,8 @@
         "related": [
             "buay",
             "hentam",
-            "khoa si mi"
+            "khoa si mi",
+            "guai lan"
         ]
     },
     "buay steady": {
@@ -13375,7 +13422,7 @@
         "meanings": {
             "adjective": [
                 {
-                    "definition": "unscrupulous; underhanded",
+                    "definition": "unscrupulous; underhanded; playing unfair",
                     "example": "'Chao' means'smelly/bad', and 'kuan' means 'habit'. Together, the phrase refers to someone who does not play fair and uses underhand means to get what they want, literally with bad behaviour. For the awful Singaporean. [sic]",
                     "exampleSource": "Independent Market - \"CHAO KUAN T-SHIRT\", https://www.independentmarket.sg/products/chao-kuan-t-shirt"
                 }
@@ -19130,12 +19177,22 @@
             "lagi"
         ],
         "usage": "Often ironic or humorous, as the comparative <i>more</i> is redundant in English.",
-        "etyNotes": "Possibly a descendant of @{lagi}- constructions, such as <i>lagi better/worse</i>.",
+        "etyNotes": "Probably a descendant of @{lagi}- constructions, such as <i>lagi better/worse</i>.",
         "origin": [
             {
                 "lang": "english",
                 "roman": "more",
-                "lit": "to a greater extent than; comparatively higher"
+                "lit": "to a greater extent than; comparatively higher",
+                "type": "c",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "lagi"
+                ],
+                "etyLit": [
+                    "again; always; more"
+                ]
             },
             {
                 "lang": "english",
@@ -19668,6 +19725,34 @@
         "etyNotes": "#{likely} Likely a translation from the Hokkien idiom, shortened to '讲别人，讲家己' (\"say (other) people, say yourself\").<br>Other similar idioms exist in Min Nan with the general meaning of 'pointing out shortcomings in others while lacking the self-awareness to recognise faults in oneself', such as '龟笑鳖无尾，鳖笑龟粗皮', ku chhiò pih bô-bóe, pih chhiò ku chho͘-phôe (\"The turtle laughs at the soft-shelled turtle for having no tail; the soft-shelled turtle laughs at the turtle for its rough skin\").",
         "origin": [
             {
+                "lang": "singlish",
+                "roman": "say",
+                "lit": "blame; scold; complain about; badmouth",
+                "etyPath": [
+                    "english",
+                    "general chinese"
+                ],
+                "etyType": [
+                    "tx"
+                ],
+                "etyScript": [
+                    "",
+                    "讲"
+                ],
+                "etyTrad": [
+                    "",
+                    "講"
+                ],
+                "etyRoman": [
+                    "say",
+                    "jiǎng"
+                ],
+                "etyLit": [
+                    "speak; pronounce; tell",
+                    "say; speak; talk about; lecture; badmouth; gossip; complain about"
+                ]
+            },
+            {
                 "lang": "hokkien",
                 "traditional": "有喙講別人，無喙講家己",
                 "simplified": "有喙讲别人，无喙讲家己",
@@ -19713,14 +19798,6 @@
                     "bô",
                     "ka-kī"
                 ],
-                "etyScheme": [
-                    "poj",
-                    "poj",
-                    "poj",
-                    "poj",
-                    "poj",
-                    "poj"
-                ],
                 "etyLit": [
                     "have",
                     "mouth",
@@ -19745,6 +19822,52 @@
                 "name": "林和安. cgan.com - 龟笑鳖无尾，鳖笑龟粗皮"
             }
         ]
+    },
+    "say": {
+        "word": "say",
+        "related": [
+            "say people say yourself"
+        ],
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "say",
+                "lit": "",
+                "etyPath": [
+                    "general chinese"
+                ],
+                "type": "tx",
+                "etyScript": [
+                    "讲"
+                ],
+                "etyTrad": [
+                    "講"
+                ],
+                "etyRoman": [
+                    "jiǎng"
+                ],
+                "etyLit": [
+                    "say; speak; talk about; lecture; badmouth; gossip; complain about"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "blame; assign fault to",
+                    "example": "Eh that one really not me ah! Don't @{anyhow} go and say people!"
+                },
+                {
+                    "definition": "gossip about; talk about",
+                    "example": "The aunties at that table all obviously saying that @{chiobu} who just walk past. Dunno if jealous, or really got something they know ah."
+                },
+                {
+                    "definition": "complain about; badmouth",
+                    "example": "Whenever they @{buay song} or @{got} any minor inconvenience, Singaporeans always love to say @{gahmen}."
+                }
+            ]
+        }
     },
     "sia": {
         "word": "sia",
@@ -20024,7 +20147,8 @@
                         "sei"
                     ],
                     "antonyms": [
-                        "buay steady"
+                        "buay steady",
+                        "heng suay"
                     ]
                 }
             ],
@@ -22211,7 +22335,13 @@
             "verb": [
                 {
                     "definition": "unsatisfactory; not competent enough; hopeless",
-                    "example": "This @{bak chor mee} cmi leh. How come can get Michelin star?"
+                    "example": "This @{bak chor mee} cmi leh. How come can get Michelin star?",
+                    "synonyms": [
+                        "cannot make it"
+                    ],
+                    "antonyms": [
+                        "got standard"
+                    ]
                 }
             ]
         },
@@ -22243,7 +22373,13 @@
             "verb": [
                 {
                     "definition": "unsatisfactory; not competent enough; hopeless",
-                    "example": "I wish I could encourage him more sincerely, but deep down I know he really cannot make it one."
+                    "example": "I wish I could encourage him more sincerely, but deep down I know he really cannot make it one.",
+                    "synonyms": [
+                        "cmi"
+                    ],
+                    "antonyms": [
+                        "got standard"
+                    ]
                 }
             ]
         },
@@ -30892,7 +31028,8 @@
                     "definition": "cool; awesome; stylish",
                     "example": "The least gerek you can feel is when you forget to zip your fly.",
                     "synonyms": [
-                        "sat khi"
+                        "sat khi",
+                        "sat"
                     ],
                     "antonyms": [
                         "obit",
@@ -31771,6 +31908,7 @@
         },
         "related": [
             "ar ka liao",
+            "pau ka liao",
             "keng",
             "keng king"
         ]
@@ -32491,7 +32629,7 @@
             {
                 "lang": "singlish",
                 "roman": "got",
-                "lit": "have; exists; has happened",
+                "lit": "have; exists; has happened; completive aspect marker (action has been done)",
                 "etyPath": [
                     "english"
                 ],
@@ -35069,7 +35207,8 @@
                     "example": "How come when the policemen wear tight shorts they look so sat ki, but when I wear I look so @{buaya}.",
                     "exampleSource": "2016 November 11, He Ruiming. Mothership, \"9 millennial expressions and your grandparents' equivalents\". https://mothership.sg/2016/11/9-millennial-expressions-and-your-grandparents-equivalents/",
                     "synonyms": [
-                        "gerek"
+                        "gerek",
+                        "sard"
                     ]
                 }
             ]
@@ -35428,5 +35567,1009 @@
                 }
             ]
         }
+    },
+    "guai lan": {
+        "word": "guai lan",
+        "related": [
+            "lan",
+            "buay song"
+        ],
+        "usage": "",
+        "category": [
+            "vulgar",
+            "insults"
+        ],
+        "phonetics": "/ˈkwaɪ lɑn/",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "怪𡳞",
+                "traditional": "怪𡳞",
+                "roman": "koài-lān",
+                "romanization": "",
+                "lit": "(lit.) weird dick; strange penis, (fig, vg.) hard to please or get along with; annoying; contemptible",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "怪",
+                    "𡳞"
+                ],
+                "etyTrad": [
+                    "怪",
+                    "𡳞"
+                ],
+                "etyRoman": [
+                    "koài",
+                    "lān"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "weird; strange; queer",
+                    "(vg.) penis; dick; male genitalia"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(vulgar, of a person) hard to please or get along with; being difficult; annoying; contemptible",
+                    "example": "I seemed to please everyone at the interview except the director, who was just showing the most guai lan face the entire time.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sat": {
+        "word": "sat",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "杀",
+                "traditional": "殺",
+                "roman": "sat",
+                "romanization": "",
+                "lit": "clipping of 杀气/殺氣",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "杀气",
+                    "杀",
+                    "气"
+                ],
+                "etyTrad": [
+                    "殺氣",
+                    "殺",
+                    "氣"
+                ],
+                "etyRoman": [
+                    "sat-khì",
+                    "sat",
+                    "khì"
+                ],
+                "etyLit": [
+                    "(lit.) cold, bloodthirsty mood; killer's aura, (slang) awesome; cool",
+                    "kill; murder; slay",
+                    "air; breath; mood; character"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "cool; trendy; awesome; hip",
+                    "example": "@{Aiseh}, the @{teh tarik} uncle @{damn} sard @{sia}.",
+                    "synonyms": [
+                        "gerek",
+                        "sat khi"
+                    ],
+                    "antonyms": [
+                        "obit",
+                        "obiang"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "#{dubious} Lee^{jlee} suggests Malay <i>saat</i> (\"moment in time; second\"), but it is almost certainly from a clipping of @{sat khi}."
+    },
+    "sayang": {
+        "word": "sayang",
+        "related": [
+            "chim chim",
+            "aiyo",
+            "aiya"
+        ],
+        "usage": "",
+        "category": [
+            "terms of address"
+        ],
+        "phonetics": "/ˈsa.jaŋ/, /ˈsa-/",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sayang",
+                "romanization": "",
+                "lit": "darling; sweetheart; love; care for; 'what a shame'",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "term of endearment for a loved one; darling; dear; sweetheart",
+                    "example": "She don't know my name<br>She calls everyone the same<br>I might not be her only sayang<br>But I still love her nasi padang anyway",
+                    "exampleSource": "2022 July 14. DBS, The Hawker Sayangs - Food is Power (A Hawker Rendition of “Rasa Sayang”). https://www.youtube.com/watch?v=j5wlCLyX_ZI&t=71s&ab_channel=DBS",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "love",
+                    "example": "Rasa Sayang, eh! Rasa Sayang, Sayang, eh!",
+                    "exampleSource": "Rasa Sayang, folk song. Original composer unknown",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to love; to cherish; to dote on; to show affection towards",
+                    "example": "Joel would always sit at the ramp and sayang the school cat while waiting for the bus home.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "to address by 'sayang'",
+                    "example": "They only start to @{pak tor} one month ago, but now already start sayanging one another.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "to show care for; to soothe; to assuage",
+                    "example": "My wife is staying at home to sayang the kids today since they’re both sick.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "to regret; to feel pity for",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "pitiable; unfortunate; regrettable",
+                    "example": "The book deal falling through was so sayang. What a waste of a good opportunity…",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'what a pity'; 'how unfortunate'; 'alas'; expression of pity or regret",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "alamak"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "scissors paper stone": {
+        "word": "scissors paper stone",
+        "related": [
+            "long cham pas",
+            "scissors paper stone leg stretch"
+        ],
+        "usage": "",
+        "category": [
+            "games"
+        ],
+        "phonetics": "",
+        "etyNotes": "Taken from regional English name <i>scissors paper stone</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "scissors paper stone",
+                "romanization": "",
+                "lit": "game played by making hand signs of either scissors, paper, or stone, used in selection or tiebreaking",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "scissors",
+                    "paper",
+                    "stone"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "tool with crossed blades attached at a pivot used for cutting or shearing thin material",
+                    "sheet made from, used for writing, wrapping objects, etc.",
+                    "piece of rock"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a game played by making hand signs of either scissors, paper, or stone, used in selection or tiebreaking",
+                    "example": "Scissors Paper Stone! Eh no fair, @{chao khuan} la you, open so late. Best of five!",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "scissors paper stone leg stretch": {
+        "word": "scissors paper stone leg stretch",
+        "related": [
+            "long cham pas",
+            "scissors paper stone"
+        ],
+        "usage": "",
+        "category": [
+            "games"
+        ],
+        "phonetics": "",
+        "etyNotes": "The game’s name cannot get any more literal.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "scissors paper stone",
+                "romanization": "",
+                "lit": "game played by making hand signs of either scissors, paper, or stone, used in selection or tiebreaking",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "scissors",
+                    "paper",
+                    "stone"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "tool with crossed blades attached at a pivot used for cutting or shearing thin material",
+                    "sheet made from, used for writing, wrapping objects, etc.",
+                    "piece of rock"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "leg",
+                "romanization": "",
+                "lit": "(in humans) one of the lower limbs of the body, used primarily for locomotion e.g. walking"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "stretch",
+                "romanization": "",
+                "lit": "extend; reach out with"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a game played between two players who start off facing one another, with one foot in front of the other and the tip of the forward foot touching the opponent’s. They then play @{scissors paper stone}, with the winner of each bout putting their forward foot behind their back foot (toe-to-heel). Their opponent then has to stretch out their forward foot until it once again touches the now-forward foot of the winner, while keeping their back leg in place. The game continues until one player is physically unable to stretch to reach their opponent’s foot, or falls over or unplants their back leg in the process of trying, at which point their opponent is declared the winner.",
+                    "example": "The kids were late for class because they had gotten too absorbed in a particularly hard-fought game of Scissors Paper Stone Leg Stretch.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "same same": {
+        "word": "same same",
+        "related": [],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "Reduplication of English <i>same</i>. A common phrase in South-East Asian English. Possibly influenced by Malay @{sama-sama}, which interestingly may have come from the same root, and with which it has somewhat merged in Singapore.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "same",
+                "romanization": "",
+                "lit": "alike; equal; equivalent; not different",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'there’s no difference'; 'it’s all the same'; expressing that something is equivalent or just like another thing",
+                    "example": "- Can lend me $3?<br>- @{Na}, take.<br>- This is a RM10 note bro…<br>- Same same what.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "the same thing; something alike or equivalent",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "the same; alike; equal; equivalent",
+                    "example": "My phone same same like your one, just different colour only.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "same same but different": {
+        "word": "same same but different",
+        "related": [
+            "same same"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "A common phrase in South-East Asian English. Possibly influenced by Malay @{sama-sama}, which interestingly may have come from the same root.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "same",
+                "romanization": "",
+                "lit": "alike; equal; equivalent; not different",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "but",
+                "romanization": "",
+                "lit": "contrary to the previous statement; however; nevertheless",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "different",
+                "romanization": "",
+                "lit": "not the same; unlike; separate",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "expressing that something is nearly equivalent or quite similar to another thing, but not exactly",
+                    "example": "One is @{liao} (already), one is @{liao} (filling; condiments). Same same, but different.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "almost the same or nearly alike, but with a slight difference or variation",
+                    "example": "Actually you visit any big city in Europe all got very similar things to see lah. Same same, but different.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "got": {
+        "word": "got",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "got",
+                "romanization": "",
+                "lit": "received; obtained, (with have) possess",
+                "type": "tx",
+                "etyPath": [
+                    "general chinese",
+                    "malay"
+                ],
+                "etyType": [
+                    "&"
+                ],
+                "etyScript": [
+                    "有",
+                    ""
+                ],
+                "etyTrad": [
+                    "有",
+                    ""
+                ],
+                "etyRoman": [
+                    "yǒu",
+                    "ada"
+                ],
+                "etyLit": [
+                    "have; exists; has happened; there is; possess; completive aspect marker (action has been done)",
+                    "have; exists; there is"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to have; to possess; to own",
+                    "example": "I got car, but I prefer to cycle to work."
+                },
+                {
+                    "definition": "to exist; to be",
+                    "example": "Can help me see whether got the other kind of @{chilli} @{anot}?"
+                },
+                {
+                    "definition": "(auxiliary) did; to have done; to have happened; marker for the completive aspect",
+                    "example": "You got remember to wish Grandma Happy Mother's Day @{anot}?"
+                },
+                {
+                    "definition": "(auxiliary) used to emphasize sentences in the imperative, subjunctive, and indicative moods",
+                    "example": "If I got follow the instructions, you will still go and @{say} me meh?"
+                },
+                {
+                    "definition": "(auxiliary) 'do...?'; 'is there...?'; used to mark a question about whether something habitually happens, exists, etc.",
+                    "example": "You got speak any other language at home, or only Singlish?"
+                },
+                {
+                    "definition": "(pro-verb) used to refer back to a previously used verb without needing to repeat it",
+                    "example": "You work very hard, special meh? I also got @{what}. @{Come, I clap for you}."
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "used to express that something has been done, or has happened",
+                    "example": "- Did you lock the door before going out ah?<br>- Got!",
+                    "synonyms": [
+                        "have"
+                    ],
+                    "antonyms": [
+                        "don't have"
+                    ]
+                },
+                {
+                    "definition": "used to express that there is something, something exists, or is in one's possession",
+                    "example": "- The latest results don't have yet ah?<br>- Got...",
+                    "synonyms": [
+                        "have"
+                    ],
+                    "antonyms": [
+                        "don't have"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "already",
+            "can",
+            "god in heaven",
+            "where got"
+        ],
+        "usage": "Several of its auxiliary uses are similar to the English auxiliary verb <i>do</i> (albeit always coming directly before the verb, unlike <i>do</i>), but it also takes on several other uses from the original Chinese and Malay terms.",
+        "etyNotes": "Both the Chinese and Malay words are used in similar ways grammatically and semantically, and together gave rise to the English translation <i>got</i>.",
+        "references": [
+            {
+                "link": "https://ap5.fas.nus.edu.sg/fass/ellmh/Hiramoto&Sato_2012_Got-interrogatives%20&%20answers.pdf",
+                "name": "Hiramoto, Mie and Sato, Yosuke (2012). Got-interrogatives and answers in Colloquial Singapore English. National University of Singapore. World Englishes, Vol. 31, No. 2, pp. 198–207"
+            }
+        ],
+        "particles": [
+            {
+                "particle": "meh",
+                "meaning": "did that really happen?; does that really exist?; do you really have it? etc.",
+                "example": "",
+                "exampleSource": "",
+                "effect": "questioning; doubtfulness"
+            },
+            {
+                "particle": "one",
+                "meaning": "of course (got); don't worry, (got)",
+                "example": "",
+                "exampleSource": "",
+                "effect": "assurance"
+            },
+            {
+                "particle": "lah",
+                "meaning": "don't worry, (got)",
+                "example": "",
+                "exampleSource": "",
+                "effect": "convincing, reassuring"
+            },
+            {
+                "particle": "anot",
+                "meaning": "do you have it or not?; does it exist or not?; did it happen or not?; etc.",
+                "example": "",
+                "exampleSource": "",
+                "effect": "questioning; probing for a yes/no answer"
+            },
+            {
+                "particle": "ah?",
+                "meaning": "you sure (got)?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "asking for confirmation"
+            },
+            {
+                "particle": "ah",
+                "meaning": "oh, (got)?",
+                "example": "",
+                "exampleSource": "",
+                "effect": "pleasant surprise; subversion of expectation"
+            },
+            {
+                "particle": "leh",
+                "meaning": "but it did happen / exist; but it is in possession",
+                "example": "",
+                "exampleSource": "",
+                "effect": "contradiction; discovery"
+            }
+        ]
+    },
+    "got standard": {
+        "word": "got standard",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "standard",
+                "romanization": "",
+                "lit": "acceptable quality or grade; recognized benchmark of quality"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "impressive; well competent; having a high ability or aptitude",
+                    "example": "Wah! The @{char kway teow} here really got standard man!",
+                    "synonyms": [
+                        "power"
+                    ],
+                    "antonyms": [
+                        "cannot make it",
+                        "cmi"
+                    ]
+                }
+            ]
+        }
+    },
+    "suay@1": {
+        "word": "suay",
+        "phonetics": "/ˈsweɪ/",
+        "origin": [
+            {
+                "lang": "min nan / cantonese / hakka",
+                "simplified": "衰",
+                "traditional": "衰",
+                "roman": "soe",
+                "romanization": "",
+                "lit": "bad luck; unlucky; awful"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "unlucky; unfortunate; having bad luck",
+                    "example": "I @{damn} suay. I dated the most @{guai lan} biatch ever. Never dating college girl again.",
+                    "exampleSource": "2022 October 10, Anonymous. NUSWhispers (Facebook). https://www.facebook.com/story.php?story_fbid=8069294139807643&id=695707917166339&p=1&paipv=0&eav=AfbKFMRe1Qll9Cv46vTyokQ4oBipVMdeMjcGcsgEvOxUqwpOxF6Vfb6dW3DS3aK5lAs&_rdr",
+                    "antonyms": [
+                        "heng"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "expression of despair or disappointment at an unfortunate situation, or a stroke of bad luck",
+                    "example": "Suay! Kena called back again! Want sleep also cannot sleep.",
+                    "antonyms": [
+                        "heng"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "heng suay",
+            "sia suay"
+        ]
+    },
+    "suay@2": {
+        "word": "suay",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "随",
+                "traditional": "隨",
+                "roman": "suí",
+                "romanization": "",
+                "lit": "let sb. to do as they please; allow; follow; submit"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'do as you please'; 'whatever'; 'never mind'; 'forget about it'",
+                    "example": "You don't want to come? Sway lor. Your loss. "
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "random; casual; disorderly; as one pleases",
+                    "synonyms": [
+                        "anyhow"
+                    ]
+                }
+            ],
+            "adverb": [
+                {
+                    "definition": "randomly; casually; as one pleases",
+                    "synonyms": [
+                        "anyhow",
+                        "anyhowly"
+                    ]
+                }
+            ]
+        },
+        "etyNotes": "Also from a clipping of 随便/隨便, suí biàn (\"anyhow; random; casually; to do as one pleases\")."
+    },
+    "heng suay": {
+        "word": "heng suay",
+        "etyNotes": "Contrary to what one might expect, the 'heng' in this phrase is technically not the same as the 'heng' in @{heng} (\"lucky; fortunate\"), which comes from Hokkien 幸, hēng instead. This is despite the fact that 幸 is actually the opposite of 衰, soe. However, the two words are very close in meaning and pronunciation and have somewhat blended together.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "兴衰",
+                "traditional": "興衰",
+                "roman": "heng-soe",
+                "romanization": "",
+                "lit": "ups and downs; rise and fall; prosperity and decline",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "兴",
+                    "衰"
+                ],
+                "etyTrad": [
+                    "興",
+                    "衰"
+                ],
+                "etyRoman": [
+                    "heng",
+                    "soe"
+                ],
+                "etyLit": [
+                    "arise; prosper; succeed; excitement",
+                    "bad luck; unlucky; awful"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "having its ups and downs; sometimes good and sometimes bad",
+                    "example": "The @{mee soto} here is quite heng suay; some days @{got standard}, other days damn @{rabak}.",
+                    "exampleSource": "",
+                    "antonyms": [
+                        "steady"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "ups and downs; rise and fall; prosperity and decline; luck and misfortune",
+                    "example": "We are in the end all just wanderers, navigating the heng suay of life."
+                }
+            ]
+        },
+        "related": [
+            "suay",
+            "sia suay",
+            "heng"
+        ]
+    },
+    "heng": {
+        "word": "heng",
+        "etyNotes": "Sometimes conflated with Hokkien 兴, heng (\"arise; prosper; succeed; excitement\" - see @{heng suay}), as the two words are very close in meaning and pronunciation.",
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "幸",
+                "traditional": "幸",
+                "roman": "hēng",
+                "romanization": "",
+                "lit": "lucky; fortunate; luckily; rejoice"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'how fortunate'; 'thank goodness'; expression of relief at something lucky happening, or something unlucky being avoided",
+                    "example": "Heng ah! Lucky I @{zao} early from the office today. Heard got some big @{cock-up} situation happen soon after I left... not my @{tai chi} anymore.",
+                    "antonyms": [
+                        "suay"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "lucky; fortunate",
+                    "example": "",
+                    "exampleSource": "",
+                    "antonyms": [
+                        "suay"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "heng suay"
+        ],
+        "particles": [
+            {
+                "particle": "ah",
+                "meaning": "emphasizes one's relief at avoiding an unfortunate situation",
+                "example": "",
+                "exampleSource": "",
+                "effect": "intensification; relief; thankfulness"
+            }
+        ]
+    },
+    "dabao": {
+        "word": "dabao",
+        "etyNotes": "The term has a similar pronunciation in Mandarin, and has also been borrowed into it.",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "打包",
+                "traditional": "打包",
+                "roman": "daa2 baau1",
+                "romanization": "",
+                "lit": "pack; (of food) take away; pack for takeaway"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(of food) to take-away; to order to go",
+                    "example": "Y'all wanna go the @{zi char} eat dinner first? If not can dabao or order in.",
+                    "synonyms": [
+                        "bungkus"
+                    ],
+                    "antonyms": [
+                        "makan"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of food) to go; packed for take-away",
+                    "synonyms": [
+                        "bungkus"
+                    ],
+                    "antonyms": [
+                        "makan"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "food or an order of food that is packed to-go; takeaway",
+                    "example": "I go pick up my tapau from the @{chicken rice} stall then come back."
+                }
+            ]
+        },
+        "phonetics": "[ˌtɑ(ː)˧ˈpaʊ]"
+    },
+    "dai di": {
+        "word": "dai di",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "鋤大弟",
+                "traditional": "锄大弟",
+                "roman": "co4 daai6 di2",
+                "romanization": "",
+                "lit": "shedding card game extremely popular in East Asia",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "鋤",
+                    "大",
+                    "弟"
+                ],
+                "etyTrad": [
+                    "锄",
+                    "大",
+                    "弟"
+                ],
+                "etyRoman": [
+                    "co4",
+                    "daai6",
+                    "dai6"
+                ],
+                "etyLit": [
+                    "discard; remove; get rid of",
+                    "big; elder; great",
+                    "younger brother"
+                ]
+            }
+        ],
+        "etyNotes": "In Mandarin, it is known as 大老二, dà lǎo èr. '老二' refers to the second-oldest brother in a family, which is probably a metaphor for the 2 in a suit of cards, while '大' refers to it being the highest or biggest card in the game. The '大弟', daai6 di2 (\"big little brother\") in the Cantonese name probably stems from a similar comparison.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a card game extremely popular in East Asia, played using a standard 52-card deck. In Singapore, the game typically may be played between 2-5 players, but the optimal number is four. The objective of the game is to be the first to get rid of all of one's cards, by depositing sequences of poker-like hands (such as ones, twos, five-card combinations, etc.) of increasing value in turn.<br>The suits are ranked with Diamonds being the lowest, followed by Clubs, Hearts, then Spades. Within each suit, 2 is the highest card (hence the name of the game in English, \"Big Two\"), followed by the ace, then the cards in usual order. However, the ace and 2 may play the roles of the values 1 and 2 in certain situations, such as in a straight.<br>To start, each player is dealt a hand made by dealing all the cards until the remainder is no longer divisible by the number of players. If there are any leftover cards, the players with the lowest-ranked cards (3 of diamonds, then 3 of clubs, etc.) take a corresponding card from the remainder, to give them an advantage in forming combinations.<br>The player with the 3 of diamonds goes first, discarding the three of diamonds in some combination of 1, 2, or 5 cards. All players then have to make a play of higher value by discarding the same number of cards as the round started with in turn (with some rare exceptions, such as when a player has a \"dragon\" straight), or skip their turn if they are unable or unwilling to do so. Once play has gone a full round without anyone matching a player's play, they win that round and get to start a new round with any combination they please. The game may end when one player has discarded all their cards, or keep going until there is one loser left.<br>While the game is popular throughout East and South-East Asia and within the diasporas of these regions, it originated somewhere in China, likely in Hong Kong."
+                }
+            ]
+        },
+        "related": [
+            "asshole dai di"
+        ],
+        "category": [
+            "games"
+        ]
+    },
+    "ti lok": {
+        "word": "ti lok",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "直落",
+                "traditional": "直落",
+                "roman": "ti̍t-lo̍k",
+                "romanization": "",
+                "lit": "added straight; poured directly",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "直",
+                    "落"
+                ],
+                "etyTrad": [
+                    "直",
+                    "落"
+                ],
+                "etyRoman": [
+                    "ti̍t",
+                    "lo̍k"
+                ],
+                "etyLit": [
+                    "straight; direct",
+                    "drop; fall; (of food) add; pour in"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(drink ordering, usually of coffee) without any added water; straight (vs. diluted). Stronger than @{kau}, which still has hot water added to it.",
+                    "example": "Sarah ventured to try a kopi di lo when she needed something really strong to get her through work yesterday, but soon regretted ordering it kosong like she did her normal kopi."
+                }
+            ]
+        },
+        "category": [
+            "drinks"
+        ],
+        "related": [
+            "kau",
+            "poh"
+        ],
+        "etyNotes": "(lit.) 'added/poured straight', in comparison to normal @{kopitiam} coffee which is made up with hot water."
     }
 }
