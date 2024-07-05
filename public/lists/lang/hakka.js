@@ -1,1 +1,1 @@
-const langTerms = ["abacus beads","abacus seeds","cham siong","chop carrot head","chut","chut pattern","diam","fan choy"]; module.exports = langTerms;
+const langTerms = ["abacus beads","abacus seeds","cham siong","chop carrot head","chut","chut pattern","diam","fan choy","suay"]; module.exports = langTerms;
