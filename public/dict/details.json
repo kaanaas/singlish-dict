@@ -15574,8 +15574,7 @@
                     ]
                 }
             ]
-        },
-        "usage": ""
+        }
     },
     "pang sai": {
         "word": "pang sai",
@@ -15640,8 +15639,7 @@
                     ]
                 }
             ]
-        },
-        "usage": ""
+        }
     },
     "sai": {
         "word": "sai",
@@ -15674,8 +15672,7 @@
                     ]
                 }
             ]
-        },
-        "usage": ""
+        }
     },
     "chiah buay liao": {
         "word": "chiah buay liao",
@@ -18315,6 +18312,17 @@
                         "jialat"
                     ]
                 }
+            ],
+            "verb": [
+                {
+                    "definition": "(vulgar) to be screwed",
+                    "synonyms": [
+                        "si#{2}",
+                        "mati",
+                        "jialat",
+                        "kam lan"
+                    ]
+                }
             ]
         },
         "particles": [
@@ -18425,6 +18433,16 @@
                 },
                 {
                     "definition": "(rarer) exhausting; straining; tiresome"
+                },
+                {
+                    "definition": "screwed",
+                    "example": "If you thought his blood pressure results were bad, the cholesterol is @{lagi} jialat.",
+                    "synonyms": [
+                        "hong kan",
+                        "si#{2}",
+                        "kam lan",
+                        "mati"
+                    ]
                 }
             ],
             "interjection": [
@@ -18598,13 +18616,19 @@
         "meanings": {
             "verb": [
                 {
-                    "definition": "(vulgar) fellate"
+                    "definition": "(vulgar) to fellate"
                 },
                 {
-                    "definition": "(vulgar) to screw off; go to hell"
+                    "definition": "(vulgar) to screw off; to  to hell"
                 },
                 {
-                    "definition": "(vulgar) be condemned; be screwed"
+                    "definition": "(vulgar) to be condemned; to be screwed",
+                    "synonyms": [
+                        "si#{2}",
+                        "hong kan",
+                        "mati",
+                        "jialat"
+                    ]
                 }
             ]
         }
@@ -20250,7 +20274,6 @@
         "related": [
             "say people say yourself"
         ],
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
@@ -25117,7 +25140,8 @@
         },
         "related": [
             "can die",
-            "die"
+            "die",
+            "si#{2}"
         ],
         "usage": "Always placed before the verb phrase it modifies, e.g. 'die die must see'.",
         "etyNotes": "Reduplication of English <i>die</i>.",
@@ -25572,9 +25596,6 @@
     },
     "drop@1": {
         "word": "drop",
-        "related": [
-            "knock it down"
-        ],
         "usage": "The Singlish verb in the sense of 'to do a push-up; to get in to a push-up position' is strictly transitive (<i>'drop twenty [push-ups]'</i>), in contrast to English where it is intransitive (<i>'drop and give me twenty [push-ups]'</i>).",
         "category": [
             "ns"
@@ -25589,8 +25610,15 @@
         "meanings": {
             "verb": [
                 {
-                    "definition": "(military, transitive, followed by a number) to do a specified number of push-ups; to do a push-up; to get into a push-up position",
+                    "definition": "(military, transitive, followed by a number) to do a specified number of push-ups; to do a push-up",
                     "example": "@{Chao recruit}, this ziploc got more hole than golf course! Drop 20!"
+                },
+                {
+                    "definition": "(military) to get into a push-up position",
+                    "example": "Whole lot drop! Y'all think this your @{grandfather army} ah?",
+                    "synonyms": [
+                        "knock it down"
+                    ]
                 }
             ]
         }
@@ -36033,20 +36061,17 @@
             "lan",
             "buay song"
         ],
-        "usage": "",
         "category": [
             "vulgar",
             "insults"
         ],
         "phonetics": "/ˈkwaɪ lɑn/",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "hokkien",
                 "simplified": "怪𡳞",
                 "traditional": "怪𡳞",
                 "roman": "koài-lān",
-                "romanization": "",
                 "lit": "(lit.) weird dick; strange penis, (fig, vg.) hard to please or get along with; annoying; contemptible",
                 "etyPath": [
                     "hokkien",
@@ -36067,7 +36092,6 @@
                     "koài",
                     "lān"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "weird; strange; queer",
                     "(vg.) penis; dick; male genitalia"
@@ -36078,14 +36102,10 @@
             "adjective": [
                 {
                     "definition": "(vulgar, of a person) hard to please or get along with; being difficult; annoying; contemptible",
-                    "example": "I seemed to please everyone at the interview except the director, who was just showing the most guai lan face the entire time.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "I seemed to please everyone at the interview except the director, who was just showing the most guai lan face the entire time."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sat": {
         "word": "sat",
@@ -36095,7 +36115,6 @@
                 "simplified": "杀",
                 "traditional": "殺",
                 "roman": "sat",
-                "romanization": "",
                 "lit": "clipping of 杀气/殺氣",
                 "etyPath": [
                     "hokkien",
@@ -36152,27 +36171,15 @@
             "aiyo",
             "aiya"
         ],
-        "usage": "",
         "category": [
             "terms of address"
         ],
         "phonetics": "/ˈsa.jaŋ/, /ˈsa-/",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sayang",
-                "romanization": "",
-                "lit": "darling; sweetheart; love; care for; 'what a shame'",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "darling; sweetheart; love; care for; 'what a shame'"
             }
         ],
         "meanings": {
@@ -36180,70 +36187,46 @@
                 {
                     "definition": "term of endearment for a loved one; darling; dear; sweetheart",
                     "example": "She don't know my name<br>She calls everyone the same<br>I might not be her only sayang<br>But I still love her nasi padang anyway",
-                    "exampleSource": "2022 July 14. DBS, The Hawker Sayangs - Food is Power (A Hawker Rendition of “Rasa Sayang”). https://www.youtube.com/watch?v=j5wlCLyX_ZI&t=71s&ab_channel=DBS",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2022 July 14. DBS, The Hawker Sayangs - Food is Power (A Hawker Rendition of “Rasa Sayang”). https://www.youtube.com/watch?v=j5wlCLyX_ZI&t=71s&ab_channel=DBS"
                 },
                 {
                     "definition": "love",
                     "example": "Rasa Sayang, eh! Rasa Sayang, Sayang, eh!",
-                    "exampleSource": "Rasa Sayang, folk song. Original composer unknown",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "Rasa Sayang, folk song. Original composer unknown"
                 }
             ],
             "verb": [
                 {
                     "definition": "to love; to cherish; to dote on; to show affection towards",
-                    "example": "Joel would always sit at the ramp and sayang the school cat while waiting for the bus home.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Joel would always sit at the ramp and sayang the school cat while waiting for the bus home."
                 },
                 {
                     "definition": "to address by 'sayang'",
-                    "example": "They only start to @{pak tor} one month ago, but now already start sayanging one another.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "They only start to @{pak tor} one month ago, but now already start sayanging one another."
                 },
                 {
                     "definition": "to show care for; to soothe; to assuage",
-                    "example": "My wife is staying at home to sayang the kids today since they’re both sick.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "My wife is staying at home to sayang the kids today since they’re both sick."
                 },
                 {
-                    "definition": "to regret; to feel pity for",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "to regret; to feel pity for"
                 }
             ],
             "adjective": [
                 {
                     "definition": "pitiable; unfortunate; regrettable",
-                    "example": "The book deal falling through was so sayang. What a waste of a good opportunity…",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "The book deal falling through was so sayang. What a waste of a good opportunity…"
                 }
             ],
             "interjection": [
                 {
                     "definition": "'what a pity'; 'how unfortunate'; 'alas'; expression of pity or regret",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "alamak"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "scissors paper stone": {
         "word": "scissors paper stone",
@@ -36251,19 +36234,14 @@
             "long cham pas",
             "scissors paper stone leg stretch"
         ],
-        "usage": "",
         "category": [
             "games"
         ],
-        "phonetics": "",
         "etyNotes": "Taken from regional English name <i>scissors paper stone</i>.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "scissors paper stone",
-                "romanization": "",
                 "lit": "game played by making hand signs of either scissors, paper, or stone, used in selection or tiebreaking",
                 "etyPath": [
                     "english",
@@ -36274,14 +36252,11 @@
                     "+",
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "scissors",
                     "paper",
                     "stone"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "tool with crossed blades attached at a pivot used for cutting or shearing thin material",
                     "sheet made from, used for writing, wrapping objects, etc.",
@@ -36293,14 +36268,10 @@
             "noun": [
                 {
                     "definition": "a game played by making hand signs of either scissors, paper, or stone, used in selection or tiebreaking",
-                    "example": "Scissors Paper Stone! Eh no fair, @{chao khuan} la you, open so late. Best of five!",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Scissors Paper Stone! Eh no fair, @{chao khuan} la you, open so late. Best of five!"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "scissors paper stone leg stretch": {
         "word": "scissors paper stone leg stretch",
@@ -36308,19 +36279,14 @@
             "long cham pas",
             "scissors paper stone"
         ],
-        "usage": "",
         "category": [
             "games"
         ],
-        "phonetics": "",
         "etyNotes": "The game’s name cannot get any more literal.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "scissors paper stone",
-                "romanization": "",
                 "lit": "game played by making hand signs of either scissors, paper, or stone, used in selection or tiebreaking",
                 "etyPath": [
                     "english",
@@ -36331,14 +36297,11 @@
                     "+",
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "scissors",
                     "paper",
                     "stone"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "tool with crossed blades attached at a pivot used for cutting or shearing thin material",
                     "sheet made from, used for writing, wrapping objects, etc.",
@@ -36347,18 +36310,12 @@
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "leg",
-                "romanization": "",
                 "lit": "(in humans) one of the lower limbs of the body, used primarily for locomotion e.g. walking"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "stretch",
-                "romanization": "",
                 "lit": "extend; reach out with"
             }
         ],
@@ -36366,161 +36323,91 @@
             "noun": [
                 {
                     "definition": "a game played between two players who start off facing one another, with one foot in front of the other and the tip of the forward foot touching the opponent’s. They then play @{scissors paper stone}, with the winner of each bout putting their forward foot behind their back foot (toe-to-heel). Their opponent then has to stretch out their forward foot until it once again touches the now-forward foot of the winner, while keeping their back leg in place. The game continues until one player is physically unable to stretch to reach their opponent’s foot, or falls over or unplants their back leg in the process of trying, at which point their opponent is declared the winner.",
-                    "example": "The kids were late for class because they had gotten too absorbed in a particularly hard-fought game of Scissors Paper Stone Leg Stretch.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "The kids were late for class because they had gotten too absorbed in a particularly hard-fought game of Scissors Paper Stone Leg Stretch."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "same same": {
         "word": "same same",
-        "related": [],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "Reduplication of English <i>same</i>. A common phrase in South-East Asian English. Possibly influenced by Malay @{sama-sama}, which interestingly may have come from the same root, and with which it has somewhat merged in Singapore.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "same",
-                "romanization": "",
-                "lit": "alike; equal; equivalent; not different",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "alike; equal; equivalent; not different"
             }
         ],
         "meanings": {
             "interjection": [
                 {
                     "definition": "'there’s no difference'; 'it’s all the same'; expressing that something is equivalent or just like another thing",
-                    "example": "- Can lend me $3?<br>- @{Na}, take.<br>- This is a RM10 note bro…<br>- Same same what.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "- Can lend me $3?<br>- @{Na}, take.<br>- This is a RM10 note bro…<br>- Same same what."
                 }
             ],
             "noun": [
                 {
-                    "definition": "the same thing; something alike or equivalent",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "the same thing; something alike or equivalent"
                 }
             ],
             "adjective": [
                 {
                     "definition": "the same; alike; equal; equivalent",
-                    "example": "My phone same same like your one, just different colour only.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "My phone same same like your one, just different colour only."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "same same but different": {
         "word": "same same but different",
         "related": [
             "same same"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "A common phrase in South-East Asian English. Possibly influenced by Malay @{sama-sama}, which interestingly may have come from the same root.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "same",
-                "romanization": "",
-                "lit": "alike; equal; equivalent; not different",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "alike; equal; equivalent; not different"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "but",
-                "romanization": "",
-                "lit": "contrary to the previous statement; however; nevertheless",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "contrary to the previous statement; however; nevertheless"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "different",
-                "romanization": "",
-                "lit": "not the same; unlike; separate",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "not the same; unlike; separate"
             }
         ],
         "meanings": {
             "expression": [
                 {
                     "definition": "expressing that something is nearly equivalent or quite similar to another thing, but not exactly",
-                    "example": "One is @{liao} (already), one is @{liao} (filling; condiments). Same same, but different.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "One is @{liao} (already), one is @{liao} (filling; condiments). Same same, but different."
                 }
             ],
             "adjective": [
                 {
                     "definition": "almost the same or nearly alike, but with a slight difference or variation",
-                    "example": "Actually you visit any big city in Europe all got very similar things to see lah. Same same, but different.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Actually you visit any big city in Europe all got very similar things to see lah. Same same, but different."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "got": {
         "word": "got",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "got",
-                "romanization": "",
                 "lit": "received; obtained, (with have) possess",
                 "type": "tx",
                 "etyPath": [
@@ -36669,10 +36556,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "standard",
-                "romanization": "",
                 "lit": "acceptable quality or grade; recognized benchmark of quality"
             }
         ],
@@ -36701,7 +36585,6 @@
                 "simplified": "衰",
                 "traditional": "衰",
                 "roman": "soe",
-                "romanization": "",
                 "lit": "bad luck; unlucky; awful"
             }
         ],
@@ -36739,7 +36622,6 @@
                 "simplified": "随",
                 "traditional": "隨",
                 "roman": "suí",
-                "romanization": "",
                 "lit": "let sb. to do as they please; allow; follow; submit"
             }
         ],
@@ -36779,7 +36661,6 @@
                 "simplified": "兴衰",
                 "traditional": "興衰",
                 "roman": "heng-soe",
-                "romanization": "",
                 "lit": "ups and downs; rise and fall; prosperity and decline",
                 "etyPath": [
                     "hokkien",
@@ -36811,7 +36692,6 @@
                 {
                     "definition": "having its ups and downs; sometimes good and sometimes bad",
                     "example": "The @{mee soto} here is quite heng suay; some days @{got standard}, other days damn @{rabak}.",
-                    "exampleSource": "",
                     "antonyms": [
                         "steady"
                     ]
@@ -36839,7 +36719,6 @@
                 "simplified": "幸",
                 "traditional": "幸",
                 "roman": "hēng",
-                "romanization": "",
                 "lit": "lucky; fortunate; luckily; rejoice"
             }
         ],
@@ -36856,8 +36735,6 @@
             "adjective": [
                 {
                     "definition": "lucky; fortunate",
-                    "example": "",
-                    "exampleSource": "",
                     "antonyms": [
                         "suay"
                     ]
@@ -36886,7 +36763,6 @@
                 "simplified": "打包",
                 "traditional": "打包",
                 "roman": "daa2 baau1",
-                "romanization": "",
                 "lit": "pack; (of food) take away; pack for takeaway"
             }
         ],
@@ -36931,7 +36807,6 @@
                 "simplified": "鋤大弟",
                 "traditional": "锄大弟",
                 "roman": "co4 daai6 di2",
-                "romanization": "",
                 "lit": "shedding card game extremely popular in East Asia",
                 "etyPath": [
                     "cantonese",
@@ -36987,7 +36862,6 @@
                 "simplified": "直落",
                 "traditional": "直落",
                 "roman": "ti̍t-lo̍k",
-                "romanization": "",
                 "lit": "added straight; poured directly",
                 "etyPath": [
                     "hokkien",
@@ -37038,16 +36912,11 @@
             "i tell you"
         ],
         "usage": "May be considered polite, curt, or rude depending on tone and context. While it is derived from English <i>excuse me</i>, it cannot be used in all the same cases. For example, it is not used to ask for someone else to repeat what they have said when one has has not heard them clearly.",
-        "category": [],
-        "phonetics": "",
         "etyNotes": "Clipping of English <i>excuse me</i>.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "excuse me",
-                "romanization": "",
                 "lit": "sorry; 'I beg your pardon'; request for attention",
                 "etyPath": [
                     "english",
@@ -37056,13 +36925,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "excuse",
                     "me"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "pardon; forgive; allow; provide an explanation for sth.",
                     "1st person sing. obj. pron."
@@ -37074,48 +36940,28 @@
                 {
                     "definition": "used to request for space when passing by somebody else; 'excuse me'; 'pardon me'",
                     "example": "Scuse, scuse! Need to @{pang sai}, urgent already!",
-                    "exampleSource": "",
                     "synonyms": [
                         "siam",
                         "pai seh"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "used to request or call for the attention of listeners; 'excuse me'",
                     "example": "Scuse @{ah}, this chair free @{anot}?",
-                    "exampleSource": "",
                     "synonyms": [
                         "pai seh"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sedap": {
         "word": "sedap",
-        "related": [],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sedap",
-                "romanization": "",
-                "lit": "tasty; yummy; delicious; fragrant; pleasant",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "tasty; yummy; delicious; fragrant; pleasant"
             }
         ],
         "meanings": {
@@ -37123,45 +36969,33 @@
                 {
                     "definition": "tasty; yummy; delicious",
                     "example": "@{Aiseh}, sedap @{sial} this @{roti john}. Want share another one half-half @{anot}?",
-                    "exampleSource": "",
                     "synonyms": [
                         "ho chiah"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sedia": {
         "word": "sedia",
-        "related": [],
-        "usage": "Different from <i>setia</i> (\"true; faithful; loyal\") in the phrase <i>ta’at setia</i>.",
+        "usage": "While originally a military command, it and other common command words such as @{sedia} are universally understood by Singaporeans due to their daily use in e.g. schools.<br>When used as a command, the second-last syllable is stressed and held for a longer time.<br>Different from <i>setia</i> (\"true; faithful; loyal\") in the phrase <i>ta’at setia</i>.",
         "category": [
             "ns"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sedia",
-                "romanization": "",
                 "lit": "ready; eager; prepared; available; already; at the beginning",
                 "etyPath": [
                     "sanskrit"
                 ],
-                "etyType": [],
                 "etyScript": [
                     "साध्य"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "sādhyá"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "be subdued; be summoned; conquered; amenable"
                 ]
@@ -37171,21 +37005,13 @@
             "verb": [
                 {
                     "definition": "(military) to stand at attention, with the back straight, chest out, and both hands clenched as fists and held straight down by the sides",
-                    "example": "We had sediaed so long under the hot sun already that a few guys even @{pengsan}.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "We had sediaed so long under the hot sun already that a few guys even @{pengsan}."
                 },
                 {
-                    "definition": "(military, imperative) command directed at soldiers or any other party of people to stand at attention, with back straight, chest out, and both hands clenched as fists and held straight down by the sides",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "(military, imperative) command directed at soldiers or any other party of people to stand at attention, with back straight, chest out, and both hands clenched as fists and held straight down by the sides"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "see what see": {
         "word": "see what see",
@@ -37199,7 +37025,6 @@
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "Direct calque from Hokkien expression. Some may also use 啥, siáⁿ instead of 什, sím based on regional/dialectical variation.",
         "origin": [
             {
@@ -37207,7 +37032,6 @@
                 "simplified": "看什物看",
                 "traditional": "看什物看",
                 "roman": "khoàⁿ sím-mi̍h khoàⁿ",
-                "romanization": "",
                 "lit": "what [the hell] are you looking at; what are you staring for, (lit.) 'see what see'",
                 "etyPath": [
                     "hokkien",
@@ -37233,7 +37057,6 @@
                     "sím-mi̍h",
                     "khoàⁿ"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "see; look",
                     "what",
@@ -37246,27 +37069,22 @@
                 {
                     "definition": "(rude) what [the hell] are you looking at; what are you staring for; what's so nice to look at",
                     "example": "Oi, see what see? @{Lim peh} today so @{yan tau} ah? Better @{siam} before I show you.",
-                    "exampleSource": "",
                     "synonyms": [
                         "khoa si mi khoa",
                         "khoa si mi",
                         "stare what stare"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "what are you looking at; what is it that is so interesting",
                     "example": "@{Eh} see what see? Orrhhh got otter! So cute @{sia}!!",
-                    "exampleSource": "",
                     "synonyms": [
                         "khoa si mi",
                         "khoa si mi khoa"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "khoa si mi khoa": {
         "word": "khoa si mi khoa",
@@ -37280,7 +37098,6 @@
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "Some may also use 啥, siáⁿ instead of 什, sím based on regional/dialectical variation, and pronounce the term accordingly.",
         "origin": [
             {
@@ -37288,7 +37105,6 @@
                 "simplified": "看什物看",
                 "traditional": "看什物看",
                 "roman": "khoàⁿ sím-mi̍h khoàⁿ",
-                "romanization": "",
                 "lit": "what [the hell] are you looking at; what are you staring for, (lit.) 'see what see'",
                 "etyPath": [
                     "hokkien",
@@ -37314,7 +37130,6 @@
                     "sím-mi̍h",
                     "khoàⁿ"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "see; look",
                     "what",
@@ -37327,27 +37142,22 @@
                 {
                     "definition": "(rude) what [the hell] are you looking at; what are you staring for; what's so nice to look at",
                     "example": "Khoa si mi khoa? @{Kan ni na}, stare some more I bloody come over @{hentam} you.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see what see",
                         "khoa si mi",
                         "stare what stare"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "(rarer) what are you looking at; what is it that is so interesting",
                     "example": "The @{whole jin gang} gather over there khoa si mi khoa? Got some celebrity come @{isit}?",
-                    "exampleSource": "",
                     "synonyms": [
                         "see what see",
                         "khoa si mi"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "khoa si mi": {
         "word": "khoa si mi",
@@ -37360,7 +37170,6 @@
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "Some may also use 啥, siáⁿ instead of 什, sím based on regional/dialectical variation, and pronounce the term accordingly.",
         "origin": [
             {
@@ -37368,7 +37177,6 @@
                 "simplified": "看什物",
                 "traditional": "看什物",
                 "roman": "khoàⁿ sím-mi̍h",
-                "romanization": "",
                 "lit": "what [the hell] are you looking at; what are you staring at, (lit.) 'see what'",
                 "etyPath": [
                     "hokkien",
@@ -37389,7 +37197,6 @@
                     "khoàⁿ",
                     "sím-mi̍h"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "see; look",
                     "what"
@@ -37406,20 +37213,17 @@
                         "see what see",
                         "khoa si mi khoa",
                         "stare what stare"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "(rarer) what are you looking at; what is it that is so interesting",
                     "synonyms": [
                         "see what see",
                         "khoa si mi khoa"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "si mi": {
         "word": "si mi",
@@ -37427,8 +37231,6 @@
             "khoa si mi",
             "what"
         ],
-        "category": [],
-        "phonetics": "",
         "etyNotes": "Some may also use 啥, siáⁿ instead of 什, sím based on regional/dialectical variation, and pronounce the term accordingly.",
         "origin": [
             {
@@ -37436,7 +37238,6 @@
                 "simplified": "什物",
                 "traditional": "什物",
                 "roman": "sím-mi̍h",
-                "romanization": "",
                 "lit": "what"
             }
         ],
@@ -37446,44 +37247,35 @@
                     "definition": "what; which",
                     "synonyms": [
                         "apa"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "interjection": [
                 {
                     "definition": "'huh'; 'come again?'; 'I beg your pardon?'",
                     "example": "Si mi? Louder @{abit} lah.",
-                    "exampleSource": "",
                     "synonyms": [
                         "har"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "'what is it?'; 'what do you want?'; used to curtly ask someone to get to the point, or speak their mind",
                     "example": "Si mi? I got no time to @{khiao kha} @{talk cock} with you. Want say then @{faster} say.",
-                    "exampleSource": "",
                     "synonyms": [
                         "what thing",
                         "si mi tai chi",
                         "si mi lan jiao"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "tetno": {
         "word": "tetno",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "techno",
-                "romanization": "",
                 "lit": "style of electronic dance music featuring heavy bass, high tempo, and a repetitive beat",
                 "etyPath": [
                     "english",
@@ -37519,10 +37311,7 @@
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "rosak",
-                "romanization": "",
                 "lit": "(of a mechanism, machine, etc.) broken; spoiled; not working"
             }
         ],
@@ -37548,10 +37337,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "spoiled/spoilt",
-                "romanization": "",
                 "lit": "broken; out of order; having become unusable or inedible"
             }
         ],
@@ -37599,10 +37385,7 @@
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "licence",
-                "romanization": "",
                 "lit": "legal permission to do sth.; freedom to do sth, esp. when it is not normal practice"
             }
         ],
@@ -37624,10 +37407,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "all",
-                "romanization": "",
                 "lit": "entirety of; everything; entirely"
             }
         ],
@@ -37646,10 +37426,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "also",
-                "romanization": "",
                 "lit": "as well; in addition",
                 "etyPath": [
                     "general chinese",
@@ -37712,10 +37489,7 @@
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "apa",
-                "romanization": "",
                 "lit": "what"
             }
         ],
@@ -37747,10 +37521,7 @@
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "apa ini",
-                "romanization": "",
                 "lit": "'what is this?'",
                 "etyPath": [
                     "malay",
@@ -37788,10 +37559,7 @@
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "apa",
-                "romanization": "",
                 "lit": "what"
             },
             {
@@ -37799,7 +37567,6 @@
                 "simplified": "𡳞鸟",
                 "traditional": "𡳞鳥",
                 "roman": "lān-chiáu",
-                "romanization": "",
                 "lit": "penis"
             }
         ],
@@ -37809,8 +37576,7 @@
                     "definition": "(interrogative, vulgar) what the hell; what the shit",
                     "synonyms": [
                         "si mi lan jiao"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "interjection": [
@@ -37845,7 +37611,6 @@
                 "simplified": "𡳞鸟",
                 "traditional": "𡳞鳥",
                 "roman": "lān-chiáu",
-                "romanization": "",
                 "lit": "penis"
             }
         ],
@@ -37914,7 +37679,6 @@
             "sayings",
             "abbreviations"
         ],
-        "phonetics": "",
         "etyNotes": "(lit.) 'what penis'. Some may also use 啥, siáⁿ instead of 什, sím based on regional/dialectical variation, and pronounce the term accordingly.",
         "usage": "Often abbreviated as SMLJ online or in text messages.",
         "origin": [
@@ -37923,7 +37687,6 @@
                 "simplified": "什物",
                 "traditional": "什物",
                 "roman": "sím-mi̍h",
-                "romanization": "",
                 "lit": "what"
             },
             {
@@ -37931,7 +37694,6 @@
                 "simplified": "𡳞鸟",
                 "traditional": "𡳞鳥",
                 "roman": "lān-chiáu",
-                "romanization": "",
                 "lit": "penis"
             }
         ],
@@ -37941,46 +37703,37 @@
                     "definition": "(interrogative, vulgar) what the hell; what the shit",
                     "synonyms": [
                         "apa lanjiao"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "interjection": [
                 {
                     "definition": "(vulgar) 'huh?'; 'what?'; expression of surprise, incredulity, confusion, etc.",
                     "example": "Si mi lan jiao? It's raining again?!",
-                    "exampleSource": "",
                     "synonyms": [
                         "apa lanjiao"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "(vulgar) 'what the hell is it?'; 'what the fuck do you want?'; used to rudely ask someone to get to the point, or speak their mind",
                     "example": "Si mi lan jiao? Got problem ah?",
-                    "exampleSource": "",
                     "synonyms": [
                         "what thing",
                         "si mi",
                         "si mi tai chi"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "indian rojak": {
         "word": "Indian rojak",
         "related": [
             "rojak"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
@@ -37989,23 +37742,17 @@
             },
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "rojak",
-                "romanization": "",
                 "lit": "salad dish of bite-sized pieces of fruit, vegetables, and fritters with a sweet, tangy dressing",
                 "etyPath": [
                     "javanese"
                 ],
-                "etyType": [],
                 "etyScript": [
                     "ꦫꦸꦗꦏ꧀"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "rujak"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "salad dish of bite-sized pieces of fruit, vegetables, and fritters with a sweet, tangy dressing; mix; blend"
                 ]
@@ -38014,15 +37761,10 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "a variety of @{rojak} invented in the 1950s in local Indian-Muslim (@{mamak}) cuisine, consisting of bite-sized pieces of potato, fried dough fritters, hard-boiled eggs, fried tofu etc., which are often dyed a bright red. It is served with a sweet, tangy dipping sauce made of chilli, peanuts, and other ingredients. Customers usually choose the items they want from a selection in front of the stall, similarly to @{yong tau foo}. It is also known as <i>pasembur</i> in Malaysia.",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "a variety of @{rojak} invented in the 1950s in local Indian-Muslim (@{mamak}) cuisine, consisting of bite-sized pieces of potato, fried dough fritters, hard-boiled eggs, fried tofu etc., which are often dyed a bright red. It is served with a sweet, tangy dipping sauce made of chilli, peanuts, and other ingredients. Customers usually choose the items they want from a selection in front of the stall, similarly to @{yong tau foo}. It is also known as <i>pasembur</i> in Malaysia."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "rojak": {
         "word": "rojak",
@@ -38036,32 +37778,23 @@
             "luan",
             "gabra"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "rojak",
-                "romanization": "",
                 "lit": "salad dish of bite-sized pieces of fruit, vegetables, and fritters with a sweet, tangy dressing",
                 "etyPath": [
                     "javanese"
                 ],
-                "etyType": [],
                 "etyScript": [
                     "ꦫꦸꦗꦏ꧀"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "rujak"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "salad dish of bite-sized pieces of fruit, vegetables, and fritters with a sweet, tangy dressing; mix; blend"
                 ]
@@ -38072,62 +37805,44 @@
                 {
                     "definition": "a salad dish of bite-sized pieces of fruit, vegetables, and fritters (such as @{tau pok} or @{you tiao}) with a sweet, tangy dressing made of ingredients such as chilli, @{belacan}, @{hae ko}, ground peanuts, @{assam}, etc. It has origins in ancient Javanese cuisine.",
                     "example": "What I like most about the rojak is the viscous savoury-sweet prawn paste sauce.",
-                    "exampleSource": "2023 September 28, Hedy Khoo. The Straits Times, \"Food Picks: Traditional rojak, char kway teow and chirashi sushi\". https://www.straitstimes.com/life/food/food-picks-traditional-rojak-char-kway-teow-and-chirashi-sushi",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2023 September 28, Hedy Khoo. The Straits Times, \"Food Picks: Traditional rojak, char kway teow and chirashi sushi\". https://www.straitstimes.com/life/food/food-picks-traditional-rojak-char-kway-teow-and-chirashi-sushi"
                 },
                 {
                     "definition": "an eclectic mix or assortment of things",
                     "example": "… rojak can be used to describe the ethnic mix of the nation …",
-                    "exampleSource": "2019, Cecilia Leong-Salobir. Urban Food Culture - Sydney, Shanghai and Singapore in the Twentieth Century. ISBN: 9781137516916. p.87",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2019, Cecilia Leong-Salobir. Urban Food Culture - Sydney, Shanghai and Singapore in the Twentieth Century. ISBN: 9781137516916. p.87"
                 },
                 {
-                    "definition": "a chaotic mixture; a mess; a jumble",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "a chaotic mixture; a mess; a jumble"
                 },
                 {
                     "definition": "(possibly derogatory) a person of mixed ethnic heritage",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "chap cheng kia",
                         "chapalang"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "adjective": [
                 {
                     "definition": "assorted; eclectic; motley; miscellaneous",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "chapalang"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "chaotic; messy; jumbled",
                     "example": "When a business or an organization has no clear objectives and is chaotic, the entity is known as “rojak”.",
-                    "exampleSource": "2019, Cecilia Leong-Salobir. Urban Food Culture - Sydney, Shanghai and Singapore in the Twentieth Century. ISBN: 9781137516916. p.88",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2019, Cecilia Leong-Salobir. Urban Food Culture - Sydney, Shanghai and Singapore in the Twentieth Century. ISBN: 9781137516916. p.88"
                 },
                 {
                     "definition": "(possibly derogatory, of a person) of mixed ethnic heritage",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "chap cheng"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "kicap": {
         "word": "kicap",
@@ -38135,19 +37850,14 @@
             "ikan kicap",
             "kway chap"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
         "etyNotes": "The English word <i>ketchup</i>, sometimes spelled <i>catsup</i> (\"a sweet, most commonly tomato-based sauce\"), is either borrowed from the Malay term, or directly from Hokkien.",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "kicap",
-                "romanization": "",
                 "lit": "soya sauce",
                 "etyPath": [
                     "hokkien",
@@ -38173,7 +37883,6 @@
                     "kôe/kê",
                     "chiap/chap"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "fish sauce",
                     "preserved fish or seafood",
@@ -38186,34 +37895,26 @@
                 {
                     "definition": "soya sauce",
                     "example": "You prefer your @{chicken rice} with @{chilli}, kicap, or both?",
-                    "exampleSource": "",
                     "synonyms": [
                         "tau yu"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "ikan kicap": {
         "word": "ikan kicap",
         "related": [
             "ikan"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
         "etyNotes": "Sometimes known in full as 'ikan masak kicap', from Malay <i>masak</i> (\"to cook\").",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "ikan kicap",
-                "romanization": "",
                 "lit": "fish fried with soya sauce",
                 "etyPath": [
                     "malay",
@@ -38249,7 +37950,6 @@
                     "kôe/kê",
                     "chiap/chap"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "fish",
                     "soya sauce",
@@ -38262,22 +37962,13 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "a Malay dish of fried fish topped with a gravy based on @{kicap manis} (sweet soya sauce) and soya sauce",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "a Malay dish of fried fish topped with a gravy based on @{kicap manis} (sweet soya sauce) and soya sauce"
                 },
                 {
-                    "definition": "any dish of fish cooked with a soya-sauce-based gravy in general",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "any dish of fish cooked with a soya-sauce-based gravy in general"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sambal belacan": {
         "word": "sambal belacan",
@@ -38292,15 +37983,11 @@
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
         "etyNotes": "Takes after the Malay term, although there are plenty of other sambals (such as sambal tumis) that use belacan as an ingredient.",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sambal",
-                "romanization": "",
                 "lit": "paste or relish made from chilli and other spices or ingredients",
                 "etyPath": [
                     "javanese",
@@ -38312,13 +37999,11 @@
                     "#{likely}சம்பால்",
                     "सम्बार"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "sambel",
                     "campāl",
                     "sambāra"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "sambal",
                     "kind of savoury dish or seasoning",
@@ -38339,12 +38024,10 @@
                     "exampleSource": "2019 October 28, Lee Hsien Loong (replying to Tunku Hajah Azizah Aminah Maimunah Iskandariah). Twitter (nka X). https://x.com/leehsienloong/status/1188772687776309248",
                     "synonyms": [
                         "belacan"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sambal": {
         "word": "sambal",
@@ -38352,19 +38035,13 @@
             "chilli",
             "belacan"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sambal",
-                "romanization": "",
                 "lit": "paste or relish made from chilli and other spices or ingredients",
                 "etyPath": [
                     "javanese",
@@ -38376,13 +38053,11 @@
                     "#{likely}சம்பால்",
                     "सम्बार"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "sambel",
                     "campāl",
                     "sambāra"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "sambal",
                     "kind of savoury dish or seasoning",
@@ -38395,23 +38070,17 @@
                 {
                     "definition": "a paste or relish made from chilli and other spices or ingredients, such as ginger, garlic, lime juice, small shrimp, shrimp paste, etc. It probably originated in Javanese cuisine, and is now an integral part of the cuisines of many South-East Asian cultures. It comes in many forms and is often tailored to specific uses and dishes, such as a mostly sweet, smooth, low-pungency (spiciness) version for @{nasi lemak} and a coarser, more chilli-centric version for @{ayam penyet}.",
                     "example": "… most fishermen beyond our shores consider this fish an unwanted catch. But for us Singaporeans, BBQ sambal stingray is a need to have at supper tables.",
-                    "exampleSource": "2023 March 10, Katie Boon. EatBook, \"14 Best BBQ Sambal Stingray Stalls From $7.80 For The Late-Night Seafood Lovers\". https://eatbook.sg/bbq-stingray/amp/",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2023 March 10, Katie Boon. EatBook, \"14 Best BBQ Sambal Stingray Stalls From $7.80 For The Late-Night Seafood Lovers\". https://eatbook.sg/bbq-stingray/amp/"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "asshole dai di": {
         "word": "asshole dai di",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "asshole",
-                "romanization": "",
                 "lit": "(lit., vg.) anus, (fig.) contemptible, obnoxious, mean, unpleasant person; term of abuse",
                 "etyPath": [
                     "english",
@@ -38491,112 +38160,67 @@
             "see first",
             "see how first"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "see",
-                "romanization": "",
-                "lit": "look; observe visually; determine; find out",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "look; observe visually; determine; find out"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "how",
-                "romanization": "",
-                "lit": "in what way or manner",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "in what way or manner"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "first",
-                "romanization": "",
-                "lit": "before any other thing",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "before any other thing"
             }
         ],
         "meanings": {
             "verb": [
                 {
                     "definition": "to investigate the prospects of something; to gauge how things turn out after a preliminary attempt; to test the waters",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "see first",
                         "see how"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "to consider other factors before committing to something",
                     "example": "I told her I'll see how first. If I'm really too busy we might have to postpone the date.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "to figure out how to do something or attempt to do so or via some preliminary trial and error",
                     "example": "@{Just whack} @{lah}. See how first, then you can improve the next time.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "expression": [
                 {
                     "definition": "used to express that the prospects of something can only be known after more investigation, or that something is worth a preliminary attempt before making a judgement",
-                    "exampleSource": "",
                     "synonyms": [
                         "see first",
                         "see how"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "used to express that one intends to consider other factors before committing to something",
                     "example": "- You can make it for Saturday 7pm @{anot}?<br>- See how first.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "see how": {
         "word": "see how",
@@ -38604,40 +38228,16 @@
             "see first",
             "see how first"
         ],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "see",
-                "romanization": "",
-                "lit": "look; observe visually; determine; find out",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "look; observe visually; determine; find out"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "how",
-                "romanization": "",
-                "lit": "in what way or manner",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "in what way or manner"
             }
         ],
         "meanings": {
@@ -38645,55 +38245,42 @@
                 {
                     "definition": "to investigate the prospects of something; to gauge how things turn out after a preliminary attempt; to test the waters",
                     "example": "I want see how; if cannot I will cancel one of them.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see first",
                         "see how first"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "to consider other factors before committing to something",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "to figure out how to do something or attempt to do so or via trial and error",
                     "example": "I dunno how to open @{leh}. Can help me see how?",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how first"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "interjection": [
                 {
                     "definition": "used to express that the prospects of something can only be known after more investigation, or that something requires a preliminary attempt before making a judgement",
                     "example": "- Eh you chose the Nightmare difficulty @{ah}? Sure can @{bo}?<br>- See how @{nia}.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see first",
                         "see how first"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "used to express that one intends to consider other factors before committing to something",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "see first": {
         "word": "see first",
@@ -38701,40 +38288,16 @@
             "see how",
             "see how first"
         ],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "see",
-                "romanization": "",
-                "lit": "look; observe visually; determine; find out",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "look; observe visually; determine; find out"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "first",
-                "romanization": "",
-                "lit": "before any other thing",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "before any other thing"
             }
         ],
         "meanings": {
@@ -38742,84 +38305,56 @@
                 {
                     "definition": "to investigate the prospects of something; to gauge or find out with a preliminary attempt; to test the waters",
                     "example": "I go ahead and see first, maybe the queue not as long as it looks.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how",
                         "see how first"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "interjection": [
                 {
                     "definition": "used to express that the prospects of something can only be known after more investigation, or that something is worth a preliminary attempt before making a judgement",
                     "example": "- You signed up for that course? Won’t be boring meh?<br>- Dunno. See first.",
-                    "exampleSource": "",
                     "synonyms": [
                         "see how",
                         "see how first"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "shilling": {
         "word": "shilling",
-        "related": [],
         "usage": "Dated; chiefly used by the older generation of people who were born in the era when Singapore was still a British colony, and the years just after that. As there was never a 12-cent coin issued in Singapore, the term came to mean a 20-cent coin instead (although if one were to take 1/20 of a dollar as the definition, it might have rather been the 5-cent coin).",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "shilling",
-                "romanization": "",
-                "lit": "historically-used coin worth 12 pence (or whatever the equivalent monetary denomination was called), or 1/20 of a pound (240 pence), in the UK and other Commonwealth countries",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "historically-used coin worth 12 pence (or whatever the equivalent monetary denomination was called), or 1/20 of a pound (240 pence), in the UK and other Commonwealth countries"
             }
         ],
         "meanings": {
             "noun": [
                 {
                     "definition": "(dated) 20 cents; a 20-cent coin; a small coin of loose change in general",
-                    "example": "Granddad said that a two fresh baskets of @{char siew pau} from the itinerant hawker who used to ply this street cost less than a a shilling when he was a child.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Granddad said that a two fresh baskets of @{char siew pau} from the itinerant hawker who used to ply this street cost less than a a shilling when he was a child."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sgean": {
         "word": "SGean",
         "related": [
             "SG"
         ],
-        "usage": "",
         "category": [
             "abbreviations"
         ],
-        "phonetics": "",
         "etyNotes": "Abbreviation of <i>Singaporean</i>.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "Singaporean",
-                "romanization": "",
                 "lit": "island city-state in South-East Asia, officially known as the Republic of Singapore",
                 "etyPath": [
                     "malay",
@@ -38841,7 +38376,6 @@
                     "पुर",
                     ""
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "Singapura",
                     "siṃhá-pura",
@@ -38849,7 +38383,6 @@
                     "pura",
                     "-an"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "Singapore",
                     "Singapore",
@@ -38868,42 +38401,32 @@
                     "synonyms": [
                         "sinkie",
                         "SG"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ],
             "noun": [
                 {
                     "definition": "(abbreviation) a Singaporean; somebody who is a citizen, resident, has origins in, or otherwise identifies as belonging to Singapore or its culture",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "sinkie"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sg": {
         "word": "SG",
         "related": [
             "sinkie"
         ],
-        "usage": "",
         "category": [
             "abbreviations"
         ],
-        "phonetics": "",
         "etyNotes": "Abbreviation of <i>Singapore</i>. The two-letter abbreviation is also the ISO country code and Internet top-level domain for Singapore.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "Singapore",
-                "romanization": "",
                 "lit": "island city-state in South-East Asia, officially known as the Republic of Singapore",
                 "etyPath": [
                     "malay",
@@ -38922,14 +38445,12 @@
                     "सिंह",
                     "पुर"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "Singapura",
                     "siṃhá-pura",
                     "siṃhá",
                     "pura"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "Singapore",
                     "Singapore",
@@ -38943,25 +38464,19 @@
                 {
                     "definition": "(abbreviation) Singapore",
                     "example": "Singapore is celebrating 50 years of independence and everywhere you look in the city, there are posters, banners, bus ads and post boxes marking the event.<br>The government-led brand sums up the jubilee with the acronym SG50.",
-                    "exampleSource": "2015 August 4, Sharanjit Leyl. BBC News, \"Cashing in on Singapore's 'SG50' jubilee\". https://www.bbc.com/news/business-33754962",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2015 August 4, Sharanjit Leyl. BBC News, \"Cashing in on Singapore's 'SG50' jubilee\". https://www.bbc.com/news/business-33754962"
                 }
             ],
             "adjective": [
                 {
                     "definition": "(abbreviation) Singaporean",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "sinkie",
                         "SGean"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "screw": {
         "word": "screw",
@@ -39086,7 +38601,6 @@
             "verb": [
                 {
                     "definition": "(vulgar) to scold; to severely reprimand",
-                    "example": "",
                     "synonyms": [
                         "kan",
                         "screw upside down",
@@ -39110,10 +38624,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "socioeconomic status",
-                "romanization": "",
                 "lit": "social and economic standing of an individual, group, class, etc.",
                 "etyPath": [
                     "english",
@@ -39200,5 +38711,362 @@
                 "name": "2018 March 15, Tan Shu Yan. The Straits Times, \"Social Studies guidebook causes controversy online; MOE says book not on approved textbook list\""
             }
         ]
+    },
+    "si@1": {
+        "word": "si",
+        "related": [
+            "si m si",
+            "bo",
+            "buay"
+        ],
+        "origin": [
+            {
+                "lang": "min nan / cantonese",
+                "simplified": "是",
+                "traditional": "是",
+                "roman": "sī",
+                "romanization": "poj",
+                "lit": "be; yes; indeed"
+            }
+        ],
+        "meanings": {
+            "particle": [
+                {
+                    "definition": "yes; correct; right"
+                },
+                {
+                    "definition": "indeed"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(copulative) to be",
+                    "example": "@{Oei}! @{Wa} si @{lim peh}, understand?"
+                }
+            ]
+        }
+    },
+    "si@2": {
+        "word": "si",
+        "related": [
+            "ai si",
+            "si gin ah",
+            "die",
+            "laugh die me"
+        ],
+        "origin": [
+            {
+                "lang": "min nan / general chinese",
+                "simplified": "死",
+                "traditional": "死",
+                "roman": "sí",
+                "romanization": "poj",
+                "lit": "die; death; damned; screwed"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to die; to pass away",
+                    "example": "Don’t always @{si peh} this @{si peh} that; @{wait later} really si @{then you know}.",
+                    "synonyms": [
+                        "khong kha khiao",
+                        "uplorry",
+                        "mati"
+                    ]
+                },
+                {
+                    "definition": "to be screwed",
+                    "example": "@{Alamak}! Forgot to @{on} the rice cooker. This time really si @{liao}!",
+                    "synonyms": [
+                        "hong kan",
+                        "mati"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "death"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "damned; bloody",
+                    "example": "@{Damn} @{suay}… always @{kena} some  screeching @{si gin ah} on my 13 hour plane rides."
+                }
+            ]
+        }
+    },
+    "si@3": {
+        "word": "si",
+        "category": [
+            "drinks",
+            "abbreviations"
+        ],
+        "etyNotes": "From a phonetic spelling of @{C}.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "C",
+                "lit": "(drink ordering) with evaporated milk"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "<i>Variant phonetic spelling of @{C}</i>.",
+                    "synonyms": [
+                        "C"
+                    ]
+                }
+            ]
+        }
+    },
+    "sekali": {
+        "word": "sekali",
+        "related": [
+            "later"
+        ],
+        "usage": "Has diverged from the original Malay meaning.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "sekali",
+                "lit": "once; very; all together at once",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "se-",
+                    "kali"
+                ],
+                "etyLit": [
+                    "one",
+                    "time"
+                ]
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "suddenly; unexpectedly",
+                    "example": "I wanted to go @{jalan-jalan}, but sekali it started to rain."
+                },
+                {
+                    "definition": "(of an undesirable, unpleasant, or problematic outcome) supposing; lest; what if",
+                    "example": "Don't always buy the cheapest and dodgiest electronics online just to save a few dollars; sekali you halfway use explode @{then you know}."
+                }
+            ]
+        }
+    },
+    "semula": {
+        "word": "semula",
+        "usage": "Originally pronounced /səˈmula/, but often altered to /ˈsaˌmula/. Always stressed on the first syllable when given as a command, which may also affect speakers' pronunciation of the term in the other senses.",
+        "category": [
+            "ns"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "semula",
+                "lit": "from the start; all over again; original",
+                "etyPath": [
+                    "malay",
+                    "malay",
+                    "sanskrit"
+                ],
+                "etyType": [
+                    "+",
+                    ""
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "मूल"
+                ],
+                "etyRoman": [
+                    "se-",
+                    "mula",
+                    "mūla"
+                ],
+                "etyLit": [
+                    "one",
+                    "start; beginning",
+                    "root; origin; beginning; cause; foundation"
+                ]
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "from the start; all over again"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to restart; to go from the beginning; to do all over again",
+                    "example": "We had to semula the whole calculation from scratch when we realised we had been using the wrong numbers from the beginning."
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(military) command given to repeat an action, sequence of drills, or another command from the beginning",
+                    "example": "Why your all bang like bird shit @{liddat}? I want hear one sound only! SEMULA!"
+                }
+            ]
+        }
+    },
+    "shagged out": {
+        "word": "shagged out",
+        "usage": "While considered slightly vulgar, crude, or sexual in English, it has no such connotation in Singlish. In fact, it is usually clipped to simply @{shag}, which is even more explicit in English.",
+        "etyNotes": "The English term probably originated from the UK slang use of <i>shag</i> to mean \"to have sex with\". The sense of \"exhausted; very tired\" is extremely dated in modern UK English, and is neither known nor used by many speakers. The Singlish phrase is borrowed from the English term, but has entirely lost its vulgar, crude, or sexual connotations.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "shagged out",
+                "lit": "(dated, slang, vg.) exhausted; very tired, as if from having had sex",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "shagged",
+                    "out"
+                ],
+                "etyLit": [
+                    "(dated, slang, vg.) exhausted; very tired; (vg.) having had sex, or had sex with",
+                    "thoroughly; completely; intensifier"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "exhausted; extremely tired",
+                    "example": "I was so shagged out after the half-marathon that I slept for 12 hours, then spent all of the next day just @{nua}ing in bed.",
+                    "synonyms": [
+                        "shag"
+                    ]
+                }
+            ]
+        }
+    },
+    "shag": {
+        "word": "shag",
+        "related": [
+            "lor sor"
+        ],
+        "usage": "Unlike in English, the term has no sexual meaning in Singlish.<br> Sometimes spelled 'shack', which may be an overcorrection from people mistakenly believing it originally comes from English <i>shack</i>. It is also partly due to the unvoiced /k/ and voiced /g/ often not being distinguished systematically in Singlish spelling (indeed, it is properly pronounced as an unvoiced /k/ in this case). The two are often interchanged in spelling, especially depending on whether one is using Hokkien (k) or Mandarin (g) conventions - a quirk which even carries over to words derived from other languages, such as this one.",
+        "etyNotes": "Clipping of <i>shagged out</i>, either borrowed from the original English phrase or from the Singlish sense of @{shagged out}, but has entirely lost its vulgar, crude, or sexual connotations. The English term probably originated from the UK slang use of <i>shag</i> to mean \"have sex with\". The sense of \"exhausted; very tired\" is extremely dated in modern UK English, and is neither known nor used by many speakers.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "shagged out",
+                "lit": "(dated, slang, vg.) exhausted; very tired, as if from having had sex",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "shagged",
+                    "out"
+                ],
+                "etyLit": [
+                    "(dated, slang, vg.) exhausted; very tired; (vg.) having had sex",
+                    "thoroughly; completely; intensifier"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "exhausted; extremely tired",
+                    "example": "Cannot, I @{damn} shag already. We stop and get some @{cendol} first @{ba}.",
+                    "synonyms": [
+                        "shagged out"
+                    ]
+                },
+                {
+                    "definition": "exhausting; extremely tiring",
+                    "example": "I had a really shag day at work yesterday. I only @{pang kang} at 12 am @{sia}.",
+                    "synonyms": [
+                        "sien"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "expression of exhaustion, despair, or frustration in a particularly exhausting or tiresome situation",
+                    "example": "@{Walao}, have to redo the whole design I just spent the past 2 weeks making. Shag man.",
+                    "synonyms": [
+                        "sien"
+                    ]
+                },
+                {
+                    "definition": "expression of commiseration in response to a disappointing, unfortunate, tiresome etc. situation for someone else; 'damn, that sucks, buddy'",
+                    "example": "- @{Haiz}… apparently I would have gotten third place but @{kena} DQ @{cos} of some weird rule.<br>- @{Wah}, shag."
+                }
+            ]
+        }
+    },
+    "senang diri": {
+        "word": "senang diri",
+        "related": [
+            "sedia",
+            "rehatkan diri"
+        ],
+        "usage": "While originally a military command, it and other common command words such as @{sedia} are universally understood by Singaporeans due to their daily use in e.g. schools.<br>When used as a command, the second-last syllable is stressed and held for a longer time.",
+        "category": [
+            "ns"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "senang",
+                "lit": "easy; comfortable; pleased; content; at ease"
+            },
+            {
+                "lang": "malay",
+                "roman": "diri",
+                "lit": "stand"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a relaxed standing position with hands clasped behind one’s back and feet shoulder-width apart; at ease"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(military) a command given to enter into senang diri position; 'at ease'"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(military) to enter into senang diri position"
+                },
+                {
+                    "definition": "(military) to stand in senang diri position; to stand at ease",
+                    "example": "I ask y'all senang diri or @{rehatkan diri}? Ah adjust some more! @{Kan ni na}, @{chao recruits|chao recruit}, whole lot @{knock it down}!"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(military) standing in senang diri position; at ease",
+                    "example": "Wah Jasprit so @{siao on}, wait for the bus also senang diri."
+                }
+            ]
+        }
     }
 }

@@ -116,8 +116,8 @@
         <div class="nyms-flex">
             <div class="nyms-flex-results">
             <% for(let i = 0; i < word.related.length; i++){ %>
-                <a class="nyms-list" href=<%- `./?q=${word.related[i].replace(/ /g,"%20")}` %>>
-                    <%= word.related[i] %></a>
+                <a class="nyms-list" href=<%- `./?q=${formatIdLink(word.related[i].replace(/ /g,"%20"))}` %>>
+                    <%- formatId(word.related[i]).trim() %></a>
             <% } %>
             </div>
         </div>
