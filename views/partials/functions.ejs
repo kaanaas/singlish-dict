@@ -1,4 +1,27 @@
 <%
+    formatIdLink = function (s) {
+        // makes word#{_id} link to specific meaning of the word where _id is coded as #[word][idNumber]
+        let regExStr = /\#([0-9]{1,})/g;
+        let match = s.match(regExStr);
+        if (match) {
+            let id = match[0].substring(1, match[0].length);
+            let word = s.replace(match[0], '');
+            s = word + '#' + word + id;
+        }
+        return s;
+    }
+
+    formatId = function (s) {
+        // displays word#{_id} as just word_[sub]id
+        let regExStr = /\#([0-9]{1,})/g;
+        let match = s.match(regExStr);
+        if (match) {
+            let id = match[0].substring(1, match[0].length);
+            s = s.replace(match[0], `<sub>${id}</sub>`);
+        }
+        return s;
+    }
+
     // @{} link function
     formatDyno = function (s) {
         // internal links
@@ -17,6 +40,8 @@
                     w = match[i].substring(2, bar);
                     wUrl = match[i].substring(bar+1, match[i].length - 1).replace(/ /g,"%20");
                 }
+                wUrl = formatIdLink(w);
+                w = formatId(w);
                 s = s.replace(match[i], `\<a href="./?q=${wUrl}" class="underline">\<i>${w}\</i>\</a>`);
             }
         }
@@ -73,29 +98,6 @@
                     s = "\<p style=\"color:rgb(192, 2, 25);\">" + s + "\</p>";
                 }
             }
-        }
-        return s;
-    }
-
-    formatIdLink = function (s) {
-        // makes word#{_id} link to specific meaning of the word where _id is coded as #[word][idNumber]
-        let regExStr = /\#\{([0-9]{1,})\}/g;
-        let match = s.match(regExStr);
-        if (match) {
-            let id = match[0].substring(2, match[0].length - 1);
-            let word = s.replace(match[0], '');
-            s = word + '#' + word + id;
-        }
-        return s;
-    }
-
-    formatId = function (s) {
-        // displays word#{_id} as just word_[sub]id
-        let regExStr = /\#\{([0-9]{1,})\}/g;
-        let match = s.match(regExStr);
-        if (match) {
-            let id = match[0].substring(2, match[0].length - 1);
-            s = s.replace(match[0], `<sub>${id}</sub>`);
         }
         return s;
     }
