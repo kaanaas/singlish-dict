@@ -30793,14 +30793,21 @@
                 },
                 {
                     "definition": "dirty; sloppy; slobby; unkempt",
-                    "example": "I can't believe he's dressed so lup sup for his own wedding..."
+                    "example": "I can't believe he's dressed so lup sup for his own wedding...",
+                    "synonyms": [
+                        "selekeh"
+                    ]
                 }
             ]
         },
         "related": [
             "cheeko",
             "ti ko",
-            "gor kee chiu"
+            "gor kee chiu",
+            "uncle",
+            "auntie",
+            "obiang",
+            "obit"
         ],
         "category": [
             "insults"
@@ -31308,8 +31315,6 @@
             "verb": [
                 {
                     "definition": "tackle a task without necessarily having the requisite knowledge or skills to do so",
-                    "example": "If you've ever walked past a Singapore Pools outlet and found yourself itching for a bet and prepared to “just whack” on any match...",
-                    "exampleSource": "2008, David Ngiau, Weekend Today, 30 August, 55",
                     "synonyms": [
                         "just whack",
                         "whack"
@@ -31317,7 +31322,7 @@
                 },
                 {
                     "definition": "do (especially eat) hurriedly or greedily; wallop",
-                    "example": "When the restaurant first came up with its all-you-can-eat promo, hundreds of Singaporean office workers descended upon it at lunchtime to try their luck at <i>whacking</i> the promising buffet.",
+                    "example": "Don't just gasak, take your time to savour its delicate flavours.",
                     "synonyms": [
                         "wallop",
                         "whack",
@@ -31626,7 +31631,13 @@
         "meanings": {
             "interjection": [
                 {
-                    "definition": "expression of defeat, hopelessness, resignation, or loss; 'game over'; 'it's over'"
+                    "definition": "expression of defeat, hopelessness, resignation, or loss; 'game over'; 'it's over'",
+                    "synonyms": [
+                        "habis",
+                        "mati",
+                        "si liao",
+                        "die liao"
+                    ]
                 },
                 {
                     "definition": "expression of victory or finality; 'game over'; 'it's over'"
@@ -38797,8 +38808,11 @@
             "ai si",
             "si gin ah",
             "die",
-            "laugh die me"
+            "laugh die me",
+            "si liao",
+            "die liao"
         ],
+        "etyNotes": "While it exists across all Chinese languages, the SInglish term follows the Hokkien pronunciation.",
         "origin": [
             {
                 "lang": "min nan / general chinese",
@@ -38838,6 +38852,87 @@
                 {
                     "definition": "damned; bloody",
                     "example": "@{Damn} @{suay}… always @{kena} some  screeching @{si gin ah} on my 13 hour plane rides."
+                }
+            ]
+        },
+        "particles": [
+            {
+                "particle": "liao",
+                "meaning": "See @{si liao}.",
+                "effect": "finality; despair"
+            }
+        ]
+    },
+    "si liao": {
+        "word": "si liao",
+        "related": [
+            "si#2",
+            "die",
+            "win liao lor"
+        ],
+        "origin": [
+            {
+                "lang": "min nan / general chinese",
+                "simplified": "死",
+                "traditional": "死",
+                "roman": "sí",
+                "romanization": "poj",
+                "lit": "die; death; damned; screwed"
+            },
+            {
+                "lang": "min nan",
+                "roman": "liáu",
+                "lit": "particle indicating perfective aspect or change of state; already; (approximately) past tense marker",
+                "simplified": "了",
+                "traditional": "了"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "expressing that something is over and cannot be undone or rectified, and its consequences are inevitable",
+                    "synonyms": [
+                        "gg",
+                        "mati",
+                        "die liao",
+                        "habis"
+                    ]
+                }
+            ]
+        }
+    },
+    "die liao": {
+        "word": "die liao",
+        "related": [
+            "si#2",
+            "die",
+            "win liao lor"
+        ],
+        "etyNotes": "Likely influenced by @{si liao}, or is a partial calque from the term.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "die",
+                "lit": "become dead; stop living; pass away"
+            },
+            {
+                "lang": "min nan",
+                "roman": "liáu",
+                "lit": "particle indicating perfective aspect or change of state; already; (approximately) past tense marker",
+                "simplified": "了",
+                "traditional": "了"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "expressing that something is over and cannot be undone or rectified, and its consequences are inevitable",
+                    "synonyms": [
+                        "si liao",
+                        "gg",
+                        "mati",
+                        "habis"
+                    ]
                 }
             ]
         }
@@ -39938,6 +40033,261 @@
                     "definition": "potstickers, a type of distinctly sail-shaped Chinese dumpling usually stuffed with a ground meat like pork or beef, and vegetables such as chives. It has a vaguely triangular cross-section, with a flat base that is often intentionally burnt slightly when pan-frying to produce a crispy texture.",
                     "example": "... the dumplings were crunchy, and pan-fried fresh. And that chive goodness truly did not hold back. The flavour was vibrant and the guo tie skin had that perfect springy kick.",
                     "exampleSource": "2023 August 17, Amanda Ng. SethLui.com, \"10 places to find the best fried dumplings in Singapore\". https://sethlui.com/fried-dumplings-food-guide-singapore/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "siong": {
+        "word": "siong",
+        "related": [
+            "garang"
+        ],
+        "etyNotes": "Conflated with Mandarin 凶, xiōng (\"fierce; ferocious; terrible\"), which is a homophone in Singaporean Mandarin pronunciation.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "伤",
+                "traditional": "傷",
+                "roman": "siong",
+                "lit": "injure; injurious; hurt, (slang) extremely difficult; tough, (as siuⁿ) excessively; too"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "extremely difficult; tough",
+                    "example": "Life was @{si peh} siong for Singapore’s early immigrants, like those who worked as @{coolies|coolie} and the @{Samsui women}."
+                }
+            ]
+        }
+    },
+    "sian": {
+        "word": "sian",
+        "related": [
+            "lor sor"
+        ],
+        "usage": "The interjection is often altered by adding any number of trailing 'z's to e.g. <i>sianzz</i>, to emphasise or intensify the feeling conveyed and further colloqualize the term. This is similar to the formation of e.g. @{rabz} from @{rabak}.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "𤺪",
+                "traditional": "𤺪",
+                "roman": "siān",
+                "lit": "tired"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "boring; tiresome; insipid",
+                    "example": "This lecture @{damn} sian, @{somemore} had to wake up so early for it. Waste time @{sia}.",
+                    "synonyms": [
+                        "leceh"
+                    ]
+                },
+                {
+                    "definition": "bored; tired; sick of something",
+                    "example": "Wah, adult life @{shag} @{sia}. Work everyday until I sian."
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "expression of frustration, boredom, listlessness etc.",
+                    "example": "Sian! Have to change the design again!"
+                }
+            ]
+        }
+    },
+    "selekeh": {
+        "word": "selekeh",
+        "related": [
+            "uncle",
+            "auntie",
+            "obiang",
+            "obit"
+        ],
+        "category": [
+            "insults"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "selekeh",
+                "lit": "dirty; filthy; stained; indecent"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "unkempt; messy; sloppy; dirty",
+                    "synonyms": [
+                        "lap sap"
+                    ]
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://prpm.dbp.gov.my/cari1?keyword=selekeh",
+                "name": "PRPM - selekeh"
+            }
+        ]
+    },
+    "seh": {
+        "word": "seh",
+        "related": [
+            "hoseh",
+            "paiseh"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "势",
+                "traditional": "勢",
+                "roman": "sè",
+                "lit": "power; poise; standing; authority"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "with poise; composed; solid; calm",
+                    "synonyms": [
+                        "steady#1"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(used in compounds) poise; confidence; power",
+                    "example": "@{Eh} bro, you @{ho seh bo}?"
+                }
+            ]
+        }
+    },
+    "habis": {
+        "word": "habis",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "habis",
+                "lit": "finish; complete"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to finish; to complete"
+                },
+                {
+                    "definition": "to be finished; to be used up; to be gone",
+                    "example": "The @{nasi padang} at this stall used to be so popular that after 12:30 it usually habis @{already}.",
+                    "synonyms": [
+                        "finish"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "finished; completed"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "expression of finality; expressing that something is over and cannot be undone or rectified",
+                    "synonyms": [
+                        "gg",
+                        "mati",
+                        "die liao",
+                        "si liao"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "gone case",
+            "liao"
+        ]
+    },
+    "hae bee": {
+        "word": "hae bee",
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "虾米",
+                "traditional": "蝦米",
+                "roman": "hê-bí",
+                "lit": "small, dried shrimp"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "small, dried shrimp used as an ingredient in many dishes",
+                    "example": "There is only one way I always cook my ‘petai’, that is with pounded chili, dried shrimps (hae bee) and assam water. This dish makes my guests come scrambling for more.",
+                    "exampleSource": "2010 May, audrey. Audrey Cooks, \"Petai with dried shrimp sambal\". https://www.audreycooks.com/dried-shrimp-with-petai/https://www.audreycooks.com/dried-shrimp-with-petai/"
+                },
+                {
+                    "definition": "<i>short for</i> @{hae bee hiam} (though this usage is technically incorrect)",
+                    "synonyms": [
+                        "hae bee hiam"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "hae bee hiam": {
+        "word": "hae bee hiam",
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "虾米莶",
+                "traditional": "蝦米薟",
+                "roman": "hê-bí-hiam",
+                "lit": "dry spiced sambal composed of small dried shrimp, desiccated coconut shavings, chilli, lemongrass, peppercorns, shallots, garlic, turmeric, galangal, and various other spices, traditionally combined by roughly pounding in a mortar and pestle before frying",
+                "etyPath": [
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "虾米",
+                    "莶"
+                ],
+                "etyTrad": [
+                    "蝦米",
+                    "薟"
+                ],
+                "etyRoman": [
+                    "hê-bí",
+                    "hiam"
+                ],
+                "etyLit": [
+                    "small, dried shrimp",
+                    "spicy; pungent"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dry spiced sambal composed of small dried shrimp, desiccated coconut shavings, chilli, lemongrass, peppercorns, shallots, garlic, turmeric, galangal, and various other spices, traditionally combined by roughly pounding in a mortar and pestle before frying.<br>It is often used as a condiment or ingredient; for example as the filling in @{rempah udang}. It has origins in Peranakan cuisine.",
+                    "example": "Hae Bee Hiam (or as my chat group calls it: HBH) is an age old favourite amongst Singaporeans and Malaysians. ... All Peranakan families have their own versions with some having more ingredients and some less.",
+                    "exampleSource": "2015, annesugarnspice. Anne's Sugar 'N' Spice, \"HAE BEE HIAM (SPICY DRIED PRAWNS)\". https://annesugarnspice.wordpress.com/recipes/hae-bee-hiam-spicy-dried-prawns/"
+                },
+                {
+                    "definition": "(dialectical) @{sambal belacan}",
+                    "synonyms": [
+                        "sambal belacan"
+                    ]
                 }
             ]
         },
