@@ -1,0 +1,1 @@
+const langTerms = ["itek sio"]; module.exports = langTerms;

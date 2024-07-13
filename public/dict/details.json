@@ -39512,5 +39512,437 @@
                 }
             ]
         }
+    },
+    "itek sio": {
+        "word": "itek sio",
+        "related": [
+            "sio",
+            "itek tim"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "baba malay",
+                "roman": "itek",
+                "lit": "duck",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "itik"
+                ],
+                "etyLit": [
+                    "duck"
+                ]
+            },
+            {
+                "lang": "baba malay",
+                "roman": "sio",
+                "lit": "roasted; grilled",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "烧"
+                ],
+                "etyTrad": [
+                    "燒"
+                ],
+                "etyRoman": [
+                    "sio"
+                ],
+                "etyLit": [
+                    "roasted; grilled; hot"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Peranakan dish of dry-roasted duck braised in a soy-based sauce flavoured with coriander and @{assam}. Peranakan recipes are infamous for their extremely long preparation times, it is usually marinated and and itek sio is no different - it is usually marinated and seasoned for at least 6 hours beforehand or if not overnight, before a multi-step cooking process of braising, deep-frying or dry roasting, and braising again.",
+                    "example": "On the origins of itek sio, she says: “Some Peranakan families are Taoists, so they cooked items such as a whole chicken, duck and pork belly after they have been used as prayer offerings in the temple.”",
+                    "exampleSource": "2019 October 1, Kenneth Goh (quoting Violet Oon). The Michelin Guide, \"Recipe: Itek Sio (Peranakan Braised Duck)\". https://guide.michelin.com/sg/en/article/dining-in/recipe-itek-sio-peranakan-braised-duck"
+                }
+            ]
+        }
+    },
+    "ipoh hor fun": {
+        "word": "Ipoh hor fun",
+        "related": [
+            "kway teow"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Ipoh",
+                "lit": "state capital of Perak, Malaysia",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "ipuh"
+                ],
+                "etyLit": [
+                    "the tree Antiaris toxicaria or the plant family Strychnos, or their poisonous saps; poison prepared from the sap of these plants"
+                ]
+            },
+            {
+                "lang": "cantonese",
+                "simplified": "河粉",
+                "traditional": "河粉",
+                "roman": "ho4 fan2",
+                "lit": "flat rice noodle used in Cantonese cuisine; Cantonese equivalent of @{kway teow}",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "沙河粉",
+                    "沙河",
+                    "粉"
+                ],
+                "etyTrad": [
+                    "沙河粉",
+                    "沙河",
+                    "粉"
+                ],
+                "etyRoman": [
+                    "saa1 ho4 fan2",
+                    "saa1 ho4",
+                    "fan2"
+                ],
+                "etyLit": [
+                    "flat rice noodle used in Cantonese cuisine; Cantonese equivalent of @{kway teow}",
+                    "town in Guangdong, China believed to be where hor fun originated from, (lit.) 'sandy river'",
+                    "flour; powder; noodles"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a style of @{hor fun} from Ipoh, Malaysia, especially noted for its silky smooth mouthfeel. It has a clear chicken- or prawn- based gravy, and typically uses shredded chicken and sometimes prawns as the main protein."
+                }
+            ]
+        }
+    },
+    "hor fun": {
+        "word": "hor fun",
+        "related": [
+            "kway teow",
+            "chee cheong fun"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "河粉",
+                "traditional": "河粉",
+                "roman": "ho4 fan2",
+                "lit": "flat rice noodle used in Cantonese cuisine; Cantonese equivalent of @{kway teow}",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "沙河粉",
+                    "沙河",
+                    "粉"
+                ],
+                "etyTrad": [
+                    "沙河粉",
+                    "沙河",
+                    "粉"
+                ],
+                "etyRoman": [
+                    "saa1 ho4 fan2",
+                    "saa1 ho4",
+                    "fan2"
+                ],
+                "etyLit": [
+                    "flat rice noodle used in Cantonese cuisine; Cantonese equivalent of @{kway teow}",
+                    "town in Guangdong, China believed to be where hor fun originated from, (lit.) 'sandy river'",
+                    "flour; powder; noodles"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a flat rice noodle used in Cantonese cuisine; the Cantonese equivalent of @{kway teow}",
+                    "example": "... many local noodle dishes in these countries are made using hor fun noodles. The Indonesian Kwetiau Siram, Thai Pad See Ew and our own @{Char Kway Teow} and Beef and Seafood Hor Fun are just a few examples.",
+                    "exampleSource": "2023 February 14, Azlin Bloor. Singaporean and Malaysian Recipes, \"Homemade Hor Fun Noodles (Flat Rice Noodles)\". https://www.singaporeanmalaysianrecipes.com/homemade-hor-fun-noodles/.",
+                    "synonyms": [
+                        "kway teow"
+                    ]
+                },
+                {
+                    "definition": "a noodle dish, usually consisting of a meat like sliced beef or seafood stir-fried with hor fun noodles, and topped with a silky, savoury, eggy sauce thickened with cornflour. Chefs often aim to produce a @{wok hei} on the noodles when cooking this dish."
+                }
+            ]
+        }
+    },
+    "samsui woman": {
+        "word": "Samsui woman",
+        "related": [
+            "coolie"
+        ],
+        "category": [
+            "locations"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "三水",
+                "traditional": "三水",
+                "roman": "saam1 seoi2",
+                "lit": "name of a district in Guangdong, China",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "三",
+                    "水"
+                ],
+                "etyTrad": [
+                    "三",
+                    "水"
+                ],
+                "etyRoman": [
+                    "saam1",
+                    "seoi2"
+                ],
+                "etyLit": [
+                    "three",
+                    "water; waters"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "woman",
+                "lit": "adult female person"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "women, mostly hailing from @{Samsui} in Guangdong, China but also other regions such as Fujian and Chaozhou, who came to Singapore during the 1920s to 1940s to work as manual labourers, most often in the construction industry. They were usually distinguished by their trademark outfit of a stiff square bright red cloth hat and a dark blue samfu (a traditional Chinese blouse).<br>Samsui women often lived hard lives and earned barely enough to get by on a simple lifestyle. They have often been recognised for their important role in Singapore’s early development.",
+                    "example": "Recently, a Chinatown shophouse mural by Sean Dunston depicting a samsui woman with a cigarette has become the centre of a heated debate.",
+                    "exampleSource": "2024 June 26, Ong Whee Teck. CNA, “Commentary: The controversy over the samsui woman mural is not just about art”. https://www.channelnewsasia.com/commentary/samsui-woman-mural-chinatown-cigarette-smoking-prostitute-art-culture-4434931"
+                }
+            ]
+        }
+    },
+    "samsui": {
+        "word": "Samsui",
+        "category": [
+            "locations"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "三水",
+                "traditional": "三水",
+                "roman": "saam1 seoi2",
+                "lit": "name of a district in Guangdong, China",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "三",
+                    "水"
+                ],
+                "etyTrad": [
+                    "三",
+                    "水"
+                ],
+                "etyRoman": [
+                    "saam1",
+                    "seoi2"
+                ],
+                "etyLit": [
+                    "three",
+                    "water; waters"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a district in Guangdong, China where the majority of @{Samsui women} hailed from"
+                },
+                {
+                    "definition": "<i>short for</i> @{Samsui woman}",
+                    "synonyms": [
+                        "Samsui woman"
+                    ]
+                }
+            ]
+        }
+    },
+    "shee shee": {
+        "word": "shee shee",
+        "usage": "Mostly used by or when talking with children.",
+        "etyNotes": "Probably onomatopoeic.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "shee shee",
+                "lit": "urinate; pee"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(childish) to urinate; to pee",
+                    "synonyms": [
+                        "pang jio"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(childish) urine; pee",
+                    "example": "Mickey kept leaving shee shee all over the floor because he hadn't good control over his bladder yet.",
+                    "synonyms": [
+                        "pang jio"
+                    ]
+                }
+            ]
+        }
+    },
+    "gula melaka": {
+        "word": "gula melaka",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "gula melaka",
+                "lit": "palm sugar; palm jaggery",
+                "etyPath": [
+                    "malay",
+                    "sanskrit",
+                    "malay",
+                    "sanskrit"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    ""
+                ],
+                "etyScript": [
+                    "",
+                    "गुल",
+                    "",
+                    "आमलकी"
+                ],
+                "etyRoman": [
+                    "gula",
+                    "gula",
+                    "Melaka",
+                    "āmalakī"
+                ],
+                "etyLit": [
+                    "sugar",
+                    "unrefined sugar; raw sugar; molasses",
+                    "a state in Malaysia (aka Malacca) or its capital city",
+                    "Phyllanthus emblica, aka the Indian gooseberry tree, whose fruits can be eaten, or used in cooking and Ayurvedic medicine"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a palm sugar made from the sap of coconut palms (although it may be made from a mixture of saps from other palms as well), named after Melaka in Malaysia. It has a complex and rich flavour, and is an integral ingredient in Singaporean and other Asian cuisines. It is usually sold in large, solid, caramel-brown cakes or blocks."
+                }
+            ]
+        },
+        "related": [
+            "sakar"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.frim.gov.my/quicklinks/the-legendary-melaka-tree/",
+                "name": "FRIM - The Legendary Melaka Tree"
+            },
+            {
+                "link": "https://www.inaturalist.org/taxa/68666-Phyllanthus-emblica",
+                "name": "iNaturalist - Myrobalan (Phyllanthus emblica)"
+            }
+        ]
+    },
+    "guo tie": {
+        "word": "guo tie",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "锅贴",
+                "traditional": "鍋貼",
+                "roman": "guō tiē",
+                "lit": "potstickers, a type of sail-shaped Chinese dumpling",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "锅",
+                    "贴"
+                ],
+                "etyTrad": [
+                    "鍋",
+                    "貼"
+                ],
+                "etyRoman": [
+                    "guō",
+                    "tiē"
+                ],
+                "etyLit": [
+                    "pot",
+                    "stick; paste"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "potstickers, a type of distinctly sail-shaped Chinese dumpling usually stuffed with a ground meat like pork or beef, and vegetables such as chives. It has a vaguely triangular cross-section, with a flat base that is often intentionally burnt slightly when pan-frying to produce a crispy texture.",
+                    "example": "... the dumplings were crunchy, and pan-fried fresh. And that chive goodness truly did not hold back. The flavour was vibrant and the guo tie skin had that perfect springy kick.",
+                    "exampleSource": "2023 August 17, Amanda Ng. SethLui.com, \"10 places to find the best fried dumplings in Singapore\". https://sethlui.com/fried-dumplings-food-guide-singapore/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
     }
 }

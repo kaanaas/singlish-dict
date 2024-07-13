@@ -6410,8 +6410,8 @@
         "sipeh"
     ],
     "sia": [
-        "sial",
         "sia",
+        "sial",
         "siol",
         "siala"
     ],
@@ -7803,5 +7803,15 @@
         "rehatkandiri",
         "rihatkan diri",
         "rihatkandiri"
+    ],
+    "cancel last": [
+        "cancel last"
+    ],
+    "revert": [
+        "revert"
+    ],
+    "recce": [
+        "recce",
+        "reccie"
     ]
 }

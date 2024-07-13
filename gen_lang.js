@@ -116,6 +116,15 @@ for (let [lang, count] of Object.entries(langs)) {
             }
         }
     }
+    if (lang.toLowerCase().includes("malay")) {
+        for (let i = 0; i < langTerms[lang].length; i++) {
+            if (!langTerms["malay"].includes(langTerms[lang][i])) {
+                langTerms["malay"].push(langTerms[lang][i]);
+                langs["malay"]++;
+                (langsExclPie["malay"] == null) ? langsExclPie["malay"] = 0 : langsExclPie["malay"]++;
+            }
+        }
+    }
 }
 
 // sort

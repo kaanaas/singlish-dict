@@ -1,1 +1,1 @@
-const cat = ["ang mo kio","dhoby","Dhoby Ghaut","Ghim Moh","Glam","jalan"]; module.exports = cat;
+const cat = ["ang mo kio","dhoby","Dhoby Ghaut","Ghim Moh","Glam","jalan","Samsui","Samsui woman"]; module.exports = cat;
