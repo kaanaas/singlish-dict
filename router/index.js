@@ -24,7 +24,7 @@ const sources = require("../public/sources/sources.json");
 
 router.get("/", async (req, res) => {
     if (req.query.q) {
-        let searchInput = req.query.q.toLowerCase().trim();
+        let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
         let majorFormResult = trie.search(searchInput);
         let prefixResult = trie.startsWith(searchInput);
         let results = [];
@@ -77,6 +77,7 @@ router.get("/", async (req, res) => {
                 showStyle: "display:block;visibility:visible;",
                 alts: altsString,
                 chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"],
+                diacriticList: ["ã", "ẽ", "ĩ", "õ", "ũ"],
                 prefixResult: prefixResult,
                 sources: sources
             });
@@ -139,12 +140,8 @@ function retrieveWord(dict, details, majorFormResult) {
         }
         else {
             word = {
-                "word": majorFormResult,
-                "chinese": [],
-                "literal": "",
-                "phonetics": "",
-                "origin": [],
-                "meanings": []
+                "word": majorFormResult[0],
+                "origin": []
             };
         }
         // console.log(word);

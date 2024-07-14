@@ -1,5 +1,8 @@
 <div class="result" id="result" style=<%= showStyle %>>
     <div class="word">
+        <% if(word && word.word && diacriticList.some(l => word.word.toLowerCase().includes(l))){ %>
+            <p class="note">* The diacritic ◌̃ represents a nasalized vowel.</p>
+        <% } %>
         <div class="word-box">
             <h2><%= word.word %>
                 <span class="variant-tag" id="<%= word.word %><%= variant %>"><%= variant %></span>

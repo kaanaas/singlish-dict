@@ -359,6 +359,13 @@ input[type=text] {
     color: var(--grey-red);
 }
 
+.note {
+    font-size: 0.85em;
+    color: var(--grey-green);
+    font-family: "Crimson Text";
+    font-style: italic;
+}
+
 /* redirected */
 .redir-flex {
     display: flex;
@@ -995,6 +1002,12 @@ iframe {
     margin-top: 0;
     margin-bottom: 1em;
     margin-left: 0.5em;
+}
+
+.nasal-text {
+    font-size: 0.85em;
+    color: var(--grey);
+    font-style: italic;
 }
 
 /* home button */

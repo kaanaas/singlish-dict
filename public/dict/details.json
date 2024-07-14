@@ -538,14 +538,12 @@
                 "simplified": "抑无",
                 "roman": "a̍h-bô",
                 "romanization": "POJ",
-                "lit": "or/if not",
-                "etymology": false
+                "lit": "or/if not"
             },
             {
                 "lang": "english",
                 "roman": "then",
-                "lit": "then",
-                "etymology": false
+                "lit": "then"
             }
         ],
         "meanings": {
@@ -801,7 +799,7 @@
         "meanings": {
             "verb": [
                 {
-                    "definition": "appear to be doing something; put on a display; act like one is doing more than one is busy with",
+                    "definition": "to appear to be doing something; to put on a perfunctory display; to act like one is doing more than one is busy with",
                     "example": "Eh, boss coming, action action a bit! If not he will arrow you to do more @{saikang}.",
                     "synonyms": [
                         "wayang"
@@ -1575,7 +1573,7 @@
         }
     },
     "ah kua": {
-        "word": "ah kua",
+        "word": "ah kuã",
         "related": [
             "ah"
         ],
@@ -2303,7 +2301,7 @@
         }
     },
     "ai kia stead mai": {
-        "word": "ai kia stead mai",
+        "word": "ai kiã stead mai",
         "related": [
             "ai stead mai",
             "kia stead",
@@ -2383,8 +2381,8 @@
             ]
         }
     },
-    "ai pi ai chee": {
-        "word": "ai pi ai chee",
+    "ai pee ai chee": {
+        "word": "aĩ pẽe aĩ chẽe",
         "related": [
             "ai"
         ],
@@ -2455,10 +2453,13 @@
             ]
         }
     },
-    "ai pi ai chee ai tua liap ni": {
-        "word": "ai pi ai chee ai tua liap ni",
+    "ai pee ai chee ai tua liap nee": {
+        "word": "aĩ pẽe aĩ chẽe aĩ tua liap nee",
         "category": [
             "sayings"
+        ],
+        "related": [
+            "ai pee ai chee"
         ],
         "etyNotes": "See @{ai pi ai chee}.",
         "origin": [
@@ -3240,8 +3241,7 @@
             {
                 "lang": "malay",
                 "roman": "alamak",
-                "lit": "oh my god",
-                "etymology": false
+                "lit": "oh my god"
             }
         ],
         "meanings": {
@@ -3529,7 +3529,7 @@
         }
     },
     "an zua": {
-        "word": "an zua",
+        "word": "an zuã",
         "origin": [
             {
                 "lang": "hokkien",
@@ -5247,7 +5247,7 @@
         }
     },
     "au au salakau": {
-        "word": "au au salakau",
+        "word": "au au sãlakau",
         "related": [
             "ah beng",
             "salakau"
@@ -5283,7 +5283,7 @@
         }
     },
     "salakau": {
-        "word": "Salakau",
+        "word": "Sãlakau",
         "related": [
             "ah beng",
             "au au salakau"
@@ -5855,7 +5855,7 @@
         ]
     },
     "bak kwa": {
-        "word": "bak kwa",
+        "word": "bak kwã",
         "related": [
             "bak",
             "dry"
@@ -10932,7 +10932,7 @@
         ]
     },
     "buay pai": {
-        "word": "buay pai",
+        "word": "buay paĩ",
         "origin": [
             {
                 "lang": "hokkien",
@@ -13965,7 +13965,7 @@
         ]
     },
     "chap cheng kia": {
-        "word": "chap cheng kia",
+        "word": "chap cheng kiã",
         "origin": [
             {
                 "lang": "hokkien",
@@ -14055,7 +14055,7 @@
         },
         "related": [
             "basket",
-            "kia"
+            "kiã"
         ],
         "category": [
             "insults"
@@ -15801,7 +15801,7 @@
                 "lit": "grass; weeds"
             }
         ],
-        "etyNotes": "(lit.) 'eat grass; herbivore'",
+        "etyNotes": "(lit.) 'eat grass; herbivore'.",
         "meanings": {
             "verb": [
                 {
@@ -15845,7 +15845,7 @@
                 "lit": "repulsive; dirty; detestable"
             }
         ],
-        "etyNotes": "(lit.) 'eat detestable/dirty'",
+        "etyNotes": "(lit.) 'eat detestable/dirty'.",
         "meanings": {
             "verb": [
                 {
@@ -17442,10 +17442,10 @@
         ]
     },
     "chiu kana kha, kha kana lam pa": {
-        "word": "chiu kana kha, kha kana lam pa",
+        "word": "chiu kãna kha, kha kãna lam pa",
         "related": [
             "lam pa",
-            "kana"
+            "kãna"
         ],
         "origin": [
             {
@@ -17953,7 +17953,8 @@
                 {
                     "definition": "(vulgar, with <i><b>go</b></i>) get lost; go away; piss off.",
                     "synonyms": [
-                        "go fly kite"
+                        "go fly kite",
+                        "chiah sai"
                     ]
                 }
             ]
@@ -18213,10 +18214,10 @@
         }
     },
     "hiong piah": {
-        "word": "hiong piah",
+        "word": "hiong piãh",
         "related": [
-            "pong piah",
-            "tau sar piah"
+            "pong piãh",
+            "tau sar piãh"
         ],
         "category": [
             "cuisine"
@@ -18262,7 +18263,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "a small, round, and hollow pastry with a dense, flaky, and crispy crust, filled with a sweet and sticky filling made of scallion oil and malt. The top of the pastry is usually decorated with a red stamp or sesame seeds.<br>Similar to @{pong piah}, which mostly differs in that it is around twice the size of hiong piah and has a less crispy crust.",
+                    "definition": "a small, round, and hollow pastry with a dense, flaky, and crispy crust, filled with a sweet and sticky filling made of scallion oil and malt. The top of the pastry is usually decorated with a red stamp or sesame seeds.<br>Similar to @{pong piãh}, which mostly differs in that it is around twice the size of hiong piãh and has a less crispy crust.",
                     "synonyms": [
                         "beh teh soh"
                     ]
@@ -18659,8 +18660,7 @@
                 "simplified": "奸",
                 "roman": "kan/kàn",
                 "romanization": "poj",
-                "lit": "evil; adultery; rape; fuck",
-                "etymology": false
+                "lit": "evil; adultery; rape; fuck"
             }
         ],
         "meanings": {
@@ -18738,7 +18738,7 @@
         ]
     },
     "kha kana chiu, chiu kana kha": {
-        "word": "kha kana chiu, chiu kana kha",
+        "word": "kha kãna chiu, chiu kãna kha",
         "related": [
             "kana"
         ],
@@ -18771,7 +18771,7 @@
                 {
                     "definition": "(idiom) lacking physical coordination; clumsy; bumbling.",
                     "synonyms": [
-                        "chiu kana kha, kha kana lam pa",
+                        "chiu kãna kha, kha kãna lam pa",
                         "ak kha ak chiu"
                     ]
                 }
@@ -18810,12 +18810,14 @@
         ]
     },
     "kia stead": {
-        "word": "kia stead",
+        "word": "kiã stead",
         "related": [
             "ai stead mai",
             "pak tor",
             "stead",
-            "steady"
+            "steady",
+            "kiã",
+            "kiã kiã"
         ],
         "origin": [
             {
@@ -18845,7 +18847,7 @@
             "verb": [
                 {
                     "definition": "begin an exclusive and committed relationship; go steady",
-                    "example": "After paktoring for several months, they decided to kia stead and commit to a more serious relationship.",
+                    "example": "After paktoring for several months, they decided to kiã stead and commit to a more serious relationship.",
                     "synonyms": [
                         "stead"
                     ]
@@ -19184,8 +19186,7 @@
                 "simplified": "落气",
                 "roman": "làu-khùi",
                 "romanization": "poj",
-                "lit": "to lose face",
-                "etymology": false
+                "lit": "to lose face"
             }
         ],
         "meanings": {
@@ -19328,8 +19329,7 @@
                 "simplified": "恁母",
                 "roman": "lím-bú",
                 "romanization": "poj",
-                "lit": "your mother",
-                "etymology": false
+                "lit": "your mother"
             }
         ],
         "meanings": {
@@ -19360,8 +19360,7 @@
                 "simplified": "恁爸",
                 "roman": "lím-pē",
                 "romanization": "poj",
-                "lit": "your father",
-                "etymology": false
+                "lit": "your father"
             }
         ],
         "meanings": {
@@ -19381,6 +19380,7 @@
     "lin lao bu": {
         "word": "lin lao bu",
         "related": [
+            "lao bu",
             "limbu",
             "limpeh",
             "lin lao peh",
@@ -19389,7 +19389,7 @@
         "category": [
             "vulgar"
         ],
-        "usage": "Female speaker. Female equivalent of lin lao peh.\r\nMay be considered vulgar or taken as a severe insult, due to its use as the interjection.",
+        "usage": "Female speaker. Female equivalent of @{lin lao peh}.\r\nMay be considered vulgar or taken as a severe insult, due to its use as the interjection.",
         "origin": [
             {
                 "lang": "hokkien",
@@ -19397,8 +19397,7 @@
                 "simplified": "恁老母",
                 "roman": "lín-lāu-bú",
                 "romanization": "poj",
-                "lit": "your (old) mother",
-                "etymology": false
+                "lit": "your (old) mother"
             }
         ],
         "meanings": {
@@ -19421,9 +19420,42 @@
         },
         "etyNotes": "(lit.) 'your mother'."
     },
+    "lao bu": {
+        "word": "lao bu",
+        "related": [
+            "lao peh",
+            "limbu",
+            "limpeh",
+            "lin lao peh",
+            "bu"
+        ],
+        "category": [
+            "terms of address"
+        ],
+        "usage": "Female equivalent of @{lao peh}.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "老母",
+                "simplified": "老母",
+                "roman": "lāu-bú",
+                "romanization": "poj",
+                "lit": "mother"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "mother; term of address for one's mother"
+                }
+            ]
+        },
+        "etyNotes": "(lit.) 'your mother'."
+    },
     "lin lao peh": {
         "word": "lin lao peh",
         "related": [
+            "lao peh",
             "limbu",
             "limpeh",
             "lin lao bu"
@@ -19431,7 +19463,7 @@
         "category": [
             "vulgar"
         ],
-        "usage": "Male speaker. Male equivalent of lin lao bu.",
+        "usage": "Male speaker. Male equivalent of @{lin lao bu}.",
         "origin": [
             {
                 "lang": "hokkien",
@@ -19439,8 +19471,7 @@
                 "simplified": "恁老爸",
                 "roman": "lín-lāu-pē",
                 "romanization": "poj",
-                "lit": "your father; your old man",
-                "etymology": false
+                "lit": "your father; your old man"
             }
         ],
         "meanings": {
@@ -19450,6 +19481,35 @@
                     "synonyms": [
                         "limpeh"
                     ]
+                }
+            ]
+        }
+    },
+    "lao peh": {
+        "word": "lao peh",
+        "related": [
+            "lao bu",
+            "limbu",
+            "limpeh",
+            "lin lao peh"
+        ],
+        "category": [
+            "terms of address"
+        ],
+        "usage": "Male equivalent of @{lao bu}.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "老爸",
+                "simplified": "老爸",
+                "roman": "lāu-pē",
+                "lit": "father"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "father; term of address for one's father"
                 }
             ]
         }
@@ -20004,10 +20064,11 @@
         }
     },
     "pong piah": {
-        "word": "pong piah",
+        "word": "pong piãh",
         "related": [
             "beh teh soh",
-            "tau sar piah"
+            "tau sar piãh",
+            "hiong piãh"
         ],
         "category": [
             "cuisine"
@@ -20051,7 +20112,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "a large, round, and hollow pastry with a dense, flaky crust, filled with a sweet and sticky filling made of scallion oil and malt. The top of the pastry is usually decorated with a red stamp or sesame seeds. According to legend, the common people used it for sacrifices, awards, quarrels, and reconciliation in their lives.<br>Similar to @{beh teh soh}/@{hiong piah}, which mostly differs in that it is around half the size of pong piah and has a slightly crispier crust."
+                    "definition": "a large, round, and hollow pastry with a dense, flaky crust, filled with a sweet and sticky filling made of scallion oil and malt. The top of the pastry is usually decorated with a red stamp or sesame seeds. According to legend, the common people used it for sacrifices, awards, quarrels, and reconciliation in their lives.<br>Similar to @{beh teh soh}/@{hiong piãh}, which mostly differs in that it is around half the size of pong piãh and has a slightly crispier crust."
                 }
             ]
         }
@@ -20335,8 +20396,7 @@
             {
                 "lang": "malay",
                 "roman": "sial",
-                "lit": "damn; unlucky",
-                "etymology": false
+                "lit": "damn; unlucky"
             }
         ],
         "meanings": {
@@ -20378,8 +20438,7 @@
                 "simplified": "泻衰",
                 "roman": "sià-soe",
                 "romanization": "POJ",
-                "lit": "to lose face",
-                "etymology": false
+                "lit": "to lose face"
             }
         ],
         "meanings": {
@@ -20793,8 +20852,7 @@
                 "simplified": "媠",
                 "roman": "súi",
                 "romanization": "poj",
-                "lit": "beautiful;  good-looking",
-                "etymology": false
+                "lit": "beautiful;  good-looking"
             }
         ],
         "meanings": {
@@ -21036,8 +21094,7 @@
                 "simplified": "我",
                 "roman": "óa/góa",
                 "romanization": "poj",
-                "lit": "i; me; my",
-                "etymology": false
+                "lit": "i; me; my"
             }
         ],
         "meanings": {
@@ -21065,8 +21122,7 @@
                 "simplified": "哇靠",
                 "roman": "wà kào",
                 "romanization": "pinyin",
-                "lit": "@sound",
-                "etymology": false
+                "lit": "@sound"
             }
         ],
         "meanings": {
@@ -21081,7 +21137,7 @@
         }
     },
     "wa ko": {
-        "word": "wa ko",
+        "word": "wã ko",
         "related": [
             "huat kueh",
             "ma lai gao",
@@ -21133,12 +21189,12 @@
             "noun": [
                 {
                     "definition": "the hell; (what) on earth",
-                    "example": "People say @{si mi} wa ko you also will believe meh?"
+                    "example": "People say @{si mi} wã ko you also will believe meh?"
                 },
                 {
                     "definition": "a traditional Hokkien steamed rice flour cupcake, which is soft, fluffy, and sweet. It is traditionally leavened with baking soda instead of yeast. The cakes are usually coloured in a variety of pale shades, such as pink, green, brown, and blue, but this usually has no bearing on the individual cakes' flavours (though some bakers may incorporate flavours, such as pandan or gula melaka in green- or brown-coloured cakes respectively). Very similar to @{huat kueh} and @{ma lai gao}.",
                     "synonyms": [
-                        "wa ko kueh"
+                        "wã ko kueh"
                     ]
                 }
             ]
@@ -21151,11 +21207,11 @@
         ]
     },
     "wa ko kueh": {
-        "word": "wa ko kueh",
+        "word": "wã ko kueh",
         "related": [
             "huat kueh",
             "ma lai gao",
-            "wa ko"
+            "wã ko"
         ],
         "category": [
             "cuisine"
@@ -21209,7 +21265,7 @@
                 {
                     "definition": "a traditional Hokkien steamed rice flour cupcake, which is soft, fluffy, and sweet. It is traditionally leavened with baking soda instead of yeast. The cakes are usually coloured in a variety of pale shades, such as pink, green, brown, and blue, but this usually has no bearing on the individual cakes' flavours (though some bakers may incorporate flavours, such as pandan or gula melaka in green- or brown-coloured cakes respectively). Very similar to @{huat kueh} and @{ma lai gao}.",
                     "synonyms": [
-                        "wa ko"
+                        "wã ko"
                     ]
                 }
             ]
@@ -24432,7 +24488,8 @@
                 {
                     "definition": "correct; right; righter than right",
                     "synonyms": [
-                        "tioh"
+                        "tioh#1",
+                        "si#1"
                     ],
                     "antonyms": [
                         "salah",
@@ -24447,7 +24504,8 @@
                     "example": "- I'm a patient man. And a patient boss. Corright?<br>- Corright.",
                     "exampleSource": "\r\n2023 February 6, SkillsFutureSG. Youtube, \"The Caring Mob Boss - SkillsFuture Work-Study Programme\". https://www.youtube.com/watch?v=HBbnzsoLdkc",
                     "synonyms": [
-                        "tioh"
+                        "tioh#1",
+                        "si#1"
                     ],
                     "antonyms": [
                         "salah",
@@ -27114,13 +27172,13 @@
                 "traditional": "畀面",
                 "simplified": "畀面",
                 "roman": "bei2 min6-2",
-                "lit": "face; reputation; public image; dignity"
+                "lit": "show respect out of pity or to preserve another's dignity; do something nice or respectful for somebody els even if one is reluctant to do soe"
             }
         ],
         "meanings": {
             "verb": [
                 {
-                    "definition": "to show respect or be respectful to somebody, often just as a favour or out of pity",
+                    "definition": "to show respect or be respectful to somebody, often just as a favour, out of pity, or to preserve another's dignity",
                     "example": "Give her some face lah. At least show up for the meeting."
                 },
                 {
@@ -27145,6 +27203,95 @@
                 "link": "https://www.cantonese.sheik.co.uk/dictionary/words/38559/",
                 "name": "CantoDict - 畀面. www.cantonese.sheik.co.uk"
             }
+        ]
+    },
+    "show face@1": {
+        "word": "show face",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "show",
+                "lit": "display outwardly; appear; make an appearance"
+            },
+            {
+                "lang": "singlish",
+                "roman": "face",
+                "lit": "reputation; public image; dignity; face",
+                "etyPath": [
+                    "min nan / cantonese"
+                ],
+                "etyScript": [
+                    "面"
+                ],
+                "etyTrad": [
+                    "面"
+                ],
+                "etyRoman": [
+                    "poj / jyutping"
+                ],
+                "etyLit": [
+                    "face; reputation; public image; dignity"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to make a token appearance, often without any intention or ability to stay or contribute any more beyond that",
+                    "example": "I'd only show face at home, once a fortnight so my folks know I'm still alive. other times, I'd just be running some personal errands ...",
+                    "exampleSource": "2021 April 3, Alvin Tan. Quora, \"Are you proud to do NS in Singapore? Most Singaporeans I've talked to seemed to hate it and called me lucky for not being a Singaporean.\". https://www.quora.com/Are-you-proud-to-do-NS-in-Singapore-Most-Singaporeans-Ive-talked-to-seemed-to-hate-it-and-called-me-lucky-for-not-being-a-Singaporean/answer/Alvin-Tan-309"
+                },
+                {
+                    "definition": "to appear (as or to be); to put on a perfunctory display; to act, especially acting busy",
+                    "example": "Awas ah, @{dun} do good things so uder orang can see, for you to show face. Or else your @{Lao Peh} upstairs won't @{belanja} you @{wan|one}.",
+                    "exampleSource": "Matthew 6:1, The Singlish Bible. Singlish Bible Wiki. https://singlishbible.fandom.com/wiki/Matthew_6",
+                    "synonyms": [
+                        "wayang",
+                        "action#2"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "face",
+            "lose face",
+            "save face",
+            "give face",
+            "action",
+            "wayang"
+        ],
+        "particles": [
+            {
+                "particle": "only",
+                "meaning": "to merely appear to be doing something; to put on a display; to act like one is doing more than one is busy with; to @{action#2}",
+                "effect": "merely; offering nothing more than appearing"
+            }
+        ]
+    },
+    "show face@2": {
+        "word": "show face",
+        "origin": [
+            {
+                "lang": "general chinese",
+                "traditional": "出面",
+                "simplified": "出面",
+                "roman": "chū miàn",
+                "lit": "appear in public"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to make a public appearance; to show oneself in public",
+                    "example": "Your family drama also @{sia suay} me until I cannot even show face."
+                }
+            ]
+        },
+        "related": [
+            "face",
+            "lose face",
+            "save face",
+            "give face"
         ]
     },
     "falali": {
@@ -27372,7 +27519,7 @@
         ]
     },
     "paiseh": {
-        "word": "paiseh",
+        "word": "paĩseh",
         "related": [
             "hoseh",
             "lau khui",
@@ -27396,7 +27543,7 @@
             "interjection": [
                 {
                     "definition": "sorry",
-                    "example": "Paiseh! Did I knock you? Paiseh paiseh."
+                    "example": "Pai seh! Did I knock you? Pai seh pai seh."
                 },
                 {
                     "definition": "'excuse me'; 'I beg your pardon'",
@@ -27409,7 +27556,7 @@
             "adjective": [
                 {
                     "definition": "embarrassed; shy; ashamed; sorry",
-                    "example": "@{Aiyo}… I damn paiseh to ask his name again.",
+                    "example": "@{Aiyo}… I damn paĩseh to ask his name again.",
                     "antonyms": [
                         "buay paiseh",
                         "buay hiao bai",
@@ -27425,17 +27572,17 @@
         "related": [
             "seh",
             "hoseh",
-            "puay paiseh"
+            "puay paĩseh"
         ],
-        "usage": "Usually in written form. May be read as an initialism ('P. S.') or as the full word, 'paiseh'.",
+        "usage": "Usually in written form. May be read as an initialism ('P. S.') or as the full word, 'paĩseh'.",
         "category": [
             "abbreviations"
         ],
-        "etyNotes": "Abbreviation of @{paiseh}.",
+        "etyNotes": "Abbreviation of @{paĩseh}.",
         "origin": [
             {
                 "lang": "singlish",
-                "roman": "paiseh",
+                "roman": "paĩseh",
                 "lit": "sorry; excuse me; embarrassed",
                 "etyPath": [
                     "hokkien"
@@ -27476,7 +27623,7 @@
         }
     },
     "paiseh piece": {
-        "word": "paiseh piece",
+        "word": "paĩseh piece",
         "related": [
             "seh",
             "hoseh",
@@ -27488,7 +27635,7 @@
         "origin": [
             {
                 "lang": "singlish",
-                "roman": "paiseh",
+                "roman": "paĩseh",
                 "lit": "sorry; excuse me; embarrassed",
                 "etyPath": [
                     "hokkien"
@@ -27522,7 +27669,7 @@
         }
     },
     "buay paiseh": {
-        "word": "buay paiseh",
+        "word": "buay paĩseh",
         "related": [
             "seh",
             "hoseh",
@@ -27580,21 +27727,21 @@
             "adjective": [
                 {
                     "definition": "shameless; unashamed",
-                    "example": "At first I was scared to leave work before the boss @{pang kang}, but now that I'm a few months in I buay paiseh leave at 6:00 sharp.",
+                    "example": "At first I was scared to leave work before the boss @{pang kang}, but now that I'm a few months in I buay paĩseh leave at 6:00 sharp.",
                     "synonyms": [
                         "buay hiao bai",
                         "sia lan",
                         "lao lan"
                     ],
                     "antonyms": [
-                        "paiseh"
+                        "paĩseh"
                     ]
                 }
             ],
             "interjection": [
                 {
                     "definition": "'how shameless!'; exclamation in response to a shameless act",
-                    "example": "Wah this auntie just cut queue like that! Buay paiseh!"
+                    "example": "Wah this auntie just cut queue like that! Buay paĩseh!"
                 }
             ]
         }
@@ -28353,8 +28500,9 @@
                         "mm tioh"
                     ],
                     "antonyms": [
-                        "tioh",
-                        "corright"
+                        "tioh#1",
+                        "corright",
+                        "si"
                     ]
                 }
             ],
@@ -29226,8 +29374,9 @@
                         "mm tioh"
                     ],
                     "antonyms": [
-                        "tioh",
-                        "corright"
+                        "tioh#1",
+                        "corright",
+                        "si#1"
                     ]
                 }
             ],
@@ -29239,7 +29388,7 @@
                         "mm tioh"
                     ],
                     "antonyms": [
-                        "tioh",
+                        "tioh#1",
                         "corright"
                     ]
                 }
@@ -29253,8 +29402,9 @@
                         "mm tioh"
                     ],
                     "antonyms": [
-                        "tioh",
-                        "corright"
+                        "tioh#1",
+                        "corright",
+                        "si#1"
                     ]
                 }
             ]
@@ -29318,7 +29468,8 @@
                     "definition": "correct; right; true",
                     "example": "- You last time were handling this project, right?<br>- Tioh. Why ah?",
                     "synonyms": [
-                        "corright"
+                        "corright",
+                        "si"
                     ],
                     "antonyms": [
                         "salah",
@@ -29331,7 +29482,8 @@
                 {
                     "definition": "correct; right; true",
                     "synonyms": [
-                        "corright"
+                        "corright",
+                        "si"
                     ],
                     "antonyms": [
                         "salah",
@@ -29383,8 +29535,9 @@
                         "bo tioh"
                     ],
                     "antonyms": [
-                        "tioh",
-                        "corright"
+                        "tioh#1",
+                        "corright",
+                        "si#1"
                     ]
                 }
             ],
@@ -29396,7 +29549,7 @@
                         "bo tioh"
                     ],
                     "antonyms": [
-                        "tioh",
+                        "tioh#1",
                         "corright"
                     ]
                 }
@@ -29409,8 +29562,9 @@
                         "mm tioh"
                     ],
                     "antonyms": [
-                        "tioh",
-                        "corright"
+                        "tioh#1",
+                        "corright",
+                        "si#1"
                     ]
                 }
             ]
@@ -29548,6 +29702,7 @@
                     "definition": "(idiom, rude) used to tell someone who is being annoying to go away; 'get lost'; 'go to hell'",
                     "example": "- You know ah, you'd be less stressed if you actually did something about your problems instead of whining to us about them.<br>- Eh, go fly kite lah!",
                     "synonyms": [
+                        "chiah sai",
                         "go fuck spider"
                     ]
                 }
@@ -31776,12 +31931,16 @@
                     "definition": "used at the end of a sentence or statement to form it into a question",
                     "example": "You don’t know.<br>→ You don’t know, isit?",
                     "synonyms": [
-                        "ah"
+                        "ah",
+                        "si#1 *{bo}"
                     ]
                 },
                 {
                     "definition": "used at the start of a sentence or statement to form it into a question, similar in function to auxiliary verbs like <i>do</i>/<i>did</i>.",
-                    "example": "She lost the race, that’s why damn sad.<br>→ Isit she lost the race, that’s why damn sad?"
+                    "example": "She lost the race, that’s why damn sad.<br>→ Isit she lost the race, that’s why damn sad?",
+                    "synonyms": [
+                        "si m si"
+                    ]
                 }
             ]
         }
@@ -32794,13 +32953,18 @@
             "verb": [
                 {
                     "definition": "to walk; to go",
-                    "example": "I jalan halfway to school when it suddenly started raining. Damn @{suay}..."
+                    "example": "I jalan halfway to school when it suddenly started raining. Damn @{suay}...",
+                    "synonyms": [
+                        "kiã#3"
+                    ]
                 },
                 {
                     "definition": "to go for a walk; to take a stroll",
                     "example": "We should start jalaning after dinner, it's good for digestion.",
                     "synonyms": [
-                        "jalan-jalan"
+                        "jalan-jalan",
+                        "kiã kiã",
+                        "gai gai"
                     ]
                 }
             ],
@@ -32809,13 +32973,52 @@
                     "definition": "a walk; a stroll",
                     "example": "My daily jalan to work is 25 minutes from the MRT. Always arrive damn sweaty sia... I probably should get a bike.",
                     "synonyms": [
-                        "jalan-jalan"
+                        "jalan-jalan",
+                        "kiã kiã",
+                        "gai gai"
                     ]
                 }
             ]
         },
         "related": [
             "cepat",
+            "KLKK"
+        ]
+    },
+    "jalan-jalan": {
+        "word": "jalan-jalan",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "berjalan-jalan",
+                "lit": "go for a walk; take a stroll"
+            }
+        ],
+        "etyNotes": "Informal clipping of Malay <i>berjalan-jalan</i>, a conjugated form of <i>jalan</i>. See also @{jalan}.",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to go for a walk; to take a stroll",
+                    "synonyms": [
+                        "jalan",
+                        "kiã kiã",
+                        "gai gai"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a walk; a stroll",
+                    "example": "Many people could benefit from the simplicity of a day's jalan-jalan around their neighbourhood to appreciate the vibrant heritage right at their doorsteps.",
+                    "synonyms": [
+                        "jalan",
+                        "kiã kiã",
+                        "gai gai"
+                    ]
+                }
+            ]
+        },
+        "related": [
             "KLKK"
         ]
     },
@@ -32923,7 +33126,7 @@
         }
     },
     "wa bo kia": {
-        "word": "wa bo kia",
+        "word": "wa bo kiã",
         "related": [
             "phah bang"
         ],
@@ -32982,7 +33185,7 @@
             "noun": [
                 {
                     "definition": "(humorous) a type of male mosquito infected with the Wolbachia parasite, rendering them effectively sterile. They are released in several estates in Singapore as a biological agent to control the population of mosquitoes, and thus reduce the spread of mosquito-borne diseases such as dengue fever.",
-                    "example": "@{Gahmen} release so many wa bo kias, I dunno which one is the real dengue mozzie so end up I just whack all anyway."
+                    "example": "@{Gahmen} release so many wa bo kiãs, I dunno which one is the real dengue mozzie so end up I just whack all anyway."
                 }
             ]
         }
@@ -33571,7 +33774,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "an empty tin can, such as one formerly used to hold condensed milk, which is reused as a drink container. Such a can normally has the lid still attached at one end with a hole poked through its centre, through which a raffia string is threaded to be used as a handle (to prevent having to hold the hot drink can directly).<br>A drink can be ordered for takeaway in such a can by using the specifying adjective @{kong}<sub>2</sub>.",
+                    "definition": "an empty tin can, such as one formerly used to hold condensed milk, which is reused as a drink container. Such a can normally has the lid still attached at one end with a hole poked through its centre, through which a raffia string is threaded to be used as a handle (to prevent having to hold the hot drink can directly).<br>A drink can be ordered for takeaway in such a can by using the specifying adjective @{kong#2}.",
                     "example": "To get it served in a condensed milk tin can, you will need to request it. ... In today’s era, it is a rarity to find coffee to be served in a ‘tee kong’.",
                     "exampleSource": "2021 May 22, Mei Rei Qua. Singapore Foodie, \"Coffee Stall At Choa Chu Kang Serves Traditional Kopi In Condensed Milk Tin Cans\". https://singaporefoodie.com/85-degrees-coffee-condensed-milk-tin-cans/",
                     "synonyms": [
@@ -33650,6 +33853,9 @@
                 }
             ]
         },
+        "category": [
+            "drinks"
+        ],
         "etyNotes": "See @{tee kong}.",
         "related": [
             "bungkus",
@@ -33942,7 +34148,7 @@
         }
     },
     "teh lam pa chir sat": {
-        "word": "teh lam pa chir sat",
+        "word": "tẽh lam pa chir sat",
         "related": [
             "lam pa",
             "sia suay",
@@ -33995,7 +34201,7 @@
             "expression": [
                 {
                     "definition": "(idiom) to harshly criticize oneself or self-flagellate over a mistake, especially one particularly stupid, embarrassing, or causing one to @{lose face}",
-                    "example": "When I found out that swee char bo I had been flirting with all night was my cousin, wah I tell you, want to teh lam pa chir sat already.",
+                    "example": "When I found out that @{swee} @{char bo} I had been flirting with all night was my cousin, @{wah} @{I tell you}, want to teh lam pa chir sat @{already}.",
                     "synonyms": [
                         "giah lam pa chut lai tom toh teng"
                     ]
@@ -34277,7 +34483,7 @@
         "etyNotes": "Meaning of 'pervert; dirty old man' due to the image of a lecherous old man with five unkempt strands of a stubbly or wispy beard or moustache. Also became a slang term for 'catfish' due to the barbels of catfish resembling long, individual strands of hair in a moustache."
     },
     "pai khoa": {
-        "word": "pai khoa",
+        "word": "paĩ khoã",
         "usage": "'Pai' is pronounced with a nasal sound and aspirated p (/pʰ/), which is difficult to represent clearly in English orthography.",
         "origin": [
             {
@@ -34292,7 +34498,7 @@
             "adjective": [
                 {
                     "definition": "ugly; not good-looking; unsightly",
-                    "example": "I look so pai khua in this photo leh. Why you post the one where I look so @{gong gong} sia?",
+                    "example": "I look so paĩ khuã in this photo leh. Why you post the one where I look so @{gong gong} sia?",
                     "synonyms": [
                         "bo sui",
                         "cui"
@@ -37072,12 +37278,12 @@
     "see what see": {
         "word": "see what see",
         "related": [
-            "khoa si mi",
+            "khoã si mi",
             "si mi",
             "see",
-            "khoa"
+            "khoã"
         ],
-        "usage": "Can be used out genuine curiosity or in a threatening and rude manner.",
+        "usage": "Can be used out of genuine curiosity or in a threatening and rude manner.",
         "category": [
             "sayings"
         ],
@@ -37143,14 +37349,14 @@
         }
     },
     "khoa si mi khoa": {
-        "word": "khoa si mi khoa",
+        "word": "khoã si mi khoã",
         "related": [
-            "khoa si mi",
+            "khoã si mi",
             "si mi",
             "see",
-            "khoa"
+            "khoã"
         ],
-        "usage": "Can be used out genuine curiosity or in a threatening and rude manner.",
+        "usage": "Can be used out of genuine curiosity or in a threatening and rude manner.",
         "category": [
             "sayings"
         ],
@@ -37216,13 +37422,13 @@
         }
     },
     "khoa si mi": {
-        "word": "khoa si mi",
+        "word": "khoã si mi",
         "related": [
             "si mi",
             "see",
-            "khoa"
+            "khoã"
         ],
-        "usage": "Can be used out genuine curiosity or in a threatening and rude manner.<br>Often preceded by Hokkien 汝, lí/lú (\"you\"), to mean 'what are <i>you</i> looking at'.",
+        "usage": "Can be used out of genuine curiosity or in a threatening and rude manner.<br>Often preceded by Hokkien 汝, lí/lú (\"you\"), to mean 'what are <i>you</i> looking at'.",
         "category": [
             "sayings"
         ],
@@ -37275,7 +37481,34 @@
                     "definition": "(rarer) what are you looking at; what is it that is so interesting",
                     "synonyms": [
                         "see what see",
-                        "khoa si mi khoa"
+                        "khoã si mi khoã"
+                    ]
+                }
+            ]
+        }
+    },
+    "khoa": {
+        "word": "khoã",
+        "related": [
+            "see",
+            "khoã si mi"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "看",
+                "traditional": "看",
+                "roman": "khoàⁿ",
+                "lit": "look; see"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to look; to see",
+                    "example": "@{Eh}, over there @{what thing} @{ah}? We go @{kaypoh} khua khua a bit.",
+                    "synonyms": [
+                        "see"
                     ]
                 }
             ]
@@ -37484,6 +37717,7 @@
                 "lang": "english",
                 "roman": "also",
                 "lit": "as well; in addition",
+                "type": "tx",
                 "etyPath": [
                     "general chinese",
                     "hokkien",
@@ -38799,6 +39033,79 @@
                     "definition": "(copulative) to be",
                     "example": "@{Oei}! @{Wa} si @{lim peh}, understand?"
                 }
+            ],
+            "interjection": [
+                {
+                    "definition": "correct; right; true",
+                    "example": "- You last time were handling this project, right?<br>- Tioh. Why ah?",
+                    "synonyms": [
+                        "tioh#1",
+                        "corright"
+                    ],
+                    "antonyms": [
+                        "salah",
+                        "mm tioh",
+                        "bo tioh"
+                    ]
+                }
+            ]
+        },
+        "particles": [
+            {
+                "particle": "bo",
+                "meaning": "@{Isit}?; is that it?; is it so?",
+                "effect": "questioning"
+            }
+        ]
+    },
+    "si m si": {
+        "word": "si m si",
+        "related": [
+            "si#1",
+            "bo"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "是",
+                "traditional": "是",
+                "roman": "sī",
+                "romanization": "poj",
+                "lit": "be; yes; indeed"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "毋是",
+                "simplified": "毋是",
+                "roman": "m̄-sī",
+                "romanization": "poj",
+                "lit": "not be"
+            },
+            {
+                "lang": "teochew",
+                "simplified": "唔是",
+                "traditional": "唔是",
+                "roman": "m6 si6",
+                "romanization": "peng'im",
+                "lit": "not be"
+            }
+        ],
+        "etyNotes": "The Hokkien and Teochew words are cognate, and differ only in the characters chosen to represent them (the Teochew one follows that used in Cantonese).",
+        "meanings": {
+            "particle": [
+                {
+                    "definition": "'is it or not?'; used at the start of a sentence or statement to form it into a question, similar in function to auxiliary verbs like do/did.",
+                    "example": "@{Got} chance @{one}.<br>→ Si m si @{got} chance @{one}?",
+                    "synonyms": [
+                        "isit"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(auxiliary) to be or not to be",
+                    "example": "Your car si m si that red @{colour} @{one}?"
+                }
             ]
         }
     },
@@ -38836,7 +39143,7 @@
                 },
                 {
                     "definition": "to be screwed",
-                    "example": "@{Alamak}! Forgot to @{on} the rice cooker. This time really si @{liao}!",
+                    "example": "@{Alamak}! Forgot to @{on} the rice cooker. This time really @{si liao}!",
                     "synonyms": [
                         "hong kan",
                         "mati"
@@ -40294,5 +40601,635 @@
         "category": [
             "cuisine"
         ]
+    },
+    "gin ah": {
+        "word": "gin ah",
+        "related": [
+            "si gin ah"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "囡仔",
+                "traditional": "囡仔",
+                "roman": "gín/kín-á",
+                "lit": "kid; child"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a child; a kid",
+                    "example": "@{Eh} halo dis one whose ginna @{ah}? Belong to @{Salakau} or Semakau?",
+                    "exampleSource": "2021 July 26, Kakis' Club (Facebook post). https://www.facebook.com/watch/?v=147547427409730",
+                    "synonyms": [
+                        "gin ah pee",
+                        "kiã#1"
+                    ]
+                }
+            ]
+        }
+    },
+    "gin ah pee": {
+        "word": "gin ah pee",
+        "related": [
+            "si gin ah"
+        ],
+        "category": [
+            "insults"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "囡仔疕",
+                "traditional": "囡仔疕",
+                "roman": "gín/kín-á-phí",
+                "lit": "kid; child",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "囡仔",
+                    "疕"
+                ],
+                "etyTrad": [
+                    "囡仔",
+                    "疕"
+                ],
+                "etyRoman": [
+                    "gín/kín-á",
+                    "phí"
+                ],
+                "etyLit": [
+                    "kid; child",
+                    "headache; sore; scab"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(sometimes derogatory) a child; a kid",
+                    "example": "slay means that ? everytime hear ginna pis say for every probable response until it becomes a @{no head no tail} reply, @{macam} like oh.....",
+                    "exampleSource": "2024 March 8, whatheheck. Hardwarezone, \"Study finds ‘alamak’ most popular Singlish term; majority did not understand the rising trend of Gen Z lingo, like “slay” and “rizz”\". https://forums.hardwarezone.com.sg/threads/study-finds-alamak-most-popular-singlish-term-majority-did-not-understand-the-rising-trend-of-gen-z-lingo-like-slay-and-rizz.7007880/",
+                    "synonyms": [
+                        "gin ah",
+                        "kiã#1"
+                    ]
+                }
+            ]
+        }
+    },
+    "si gin ah": {
+        "word": "si gin ah",
+        "related": [
+            "si#2",
+            "gin ah",
+            "gin ah pee",
+            "kiã#1"
+        ],
+        "category": [
+            "insults",
+            "vulgar"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "死囡仔",
+                "traditional": "死囡仔",
+                "roman": "sí-gín/kín-á",
+                "lit": "damned kid; brat",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "死",
+                    "囡仔"
+                ],
+                "etyTrad": [
+                    "死",
+                    "囡仔"
+                ],
+                "etyRoman": [
+                    "sí",
+                    "gín/kín-á"
+                ],
+                "etyLit": [
+                    "die; death; damned",
+                    "kid; child"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(slightly vulgar) damned kid; rascal; brat; little ruffian",
+                    "example": "Oh my god, not this si ginna again. @{Help} lah."
+                }
+            ]
+        }
+    },
+    "kia kia": {
+        "word": "kiã kiã",
+        "related": [
+            "kiã#3",
+            "KLKK"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "行行",
+                "traditional": "行行",
+                "roman": "kiâⁿ-kiâⁿ",
+                "lit": "go for a walk; (lit.) 'walk-walk'",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "行"
+                ],
+                "etyTrad": [
+                    "行"
+                ],
+                "etyRoman": [
+                    "kiâⁿ"
+                ],
+                "etyLit": [
+                    "walk"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to go out for a walk or stroll",
+                    "example": "On Sunday I go East Coast Park kiã kiã with my @{steady#2}.",
+                    "synonyms": [
+                        "jalan",
+                        "jalan-jalan",
+                        "gai gai"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a walk; a stroll",
+                    "synonyms": [
+                        "jalan",
+                        "jalan-jalan",
+                        "gai gai"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'let’s go for a walk'; 'let’s go out'",
+                    "synonyms": [
+                        "zao",
+                        "gai gai"
+                    ]
+                }
+            ]
+        }
+    },
+    "gai gai": {
+        "word": "gai gai",
+        "related": [
+            "pok gai",
+            "kiã#3"
+        ],
+        "usage": "Often (but not necessarily) used when talking to children or dogs.",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "街街",
+                "traditional": "街街",
+                "roman": "gaai1 gaai1",
+                "lit": "(lit.) 'street street'; (fig.) 'walk-walk'",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "出街",
+                    "出",
+                    "街"
+                ],
+                "etyTrad": [
+                    "出街",
+                    "出",
+                    "街"
+                ],
+                "etyRoman": [
+                    "ceot1 gaai1",
+                    "ceot1",
+                    "gaai1"
+                ],
+                "etyLit": [
+                    "go out (e.g. to town); go out for a walk",
+                    "leave; go out",
+                    "street"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to go out for a walk",
+                    "example": "My @{ah ma} always bring me go Tampines Mall gai gai when I was small.",
+                    "synonyms": [
+                        "jalan",
+                        "jalan-jalan",
+                        "kiã kiã"
+                    ]
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a walk; a stroll",
+                    "synonyms": [
+                        "jalan",
+                        "jalan-jalan",
+                        "kiã kiã"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'let’s go for a walk'; 'let’s go out'",
+                    "example": "That look on the dog when you say the magic words...'gai gai'",
+                    "exampleSource": "2012 November 3, SGAG (Facebook post). https://www.facebook.com/photo.php?fbid=542304482451211",
+                    "synonyms": [
+                        "zao",
+                        "kiã kiã",
+                        "kiã#3"
+                    ]
+                }
+            ]
+        }
+    },
+    "close eye": {
+        "word": "close eye",
+        "related": [
+            "close one eye",
+            "no eye see"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Rephrasing of English expression <i>with one’s eyes closed</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "with one’s eyes closed",
+                "lit": "easily; effortlessly"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "See @{close eye also can}."
+                }
+            ]
+        }
+    },
+    "close eye also can": {
+        "word": "close eye also can",
+        "related": [
+            "close one eye",
+            "no eye see"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Rephrasing of English <i>with one’s eyes closed</i>. Influenced by the use of @{also} and @{can} in Singlish.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "with one’s eyes closed",
+                "lit": "easily; effortlessly"
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "being able to do something effortlessly and easily, without needing to think or even see what one is doing",
+                    "example": "@{Walao}, her job so easy, I close eye also can do."
+                }
+            ]
+        }
+    },
+    "close one eye": {
+        "word": "close one eye",
+        "related": [
+            "close eye",
+            "no eye see"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Possibly related to the English phrase <i>to close one’s eyes</i>, which can mean to deliberately ignore or try not to see something, although the 'one' here has a different meaning.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "close",
+                "lit": "shut; cover"
+            },
+            {
+                "lang": "english",
+                "roman": "one",
+                "lit": "the first natural number; value represented by 1; unity"
+            },
+            {
+                "lang": "english",
+                "roman": "eye",
+                "lit": "organ used to see"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(idiom) to pretend not to see something; to look the other way; to intentionally let a transgression slide under one’s watch",
+                    "example": "\"Literally the first person I know getting caught for this,\" a netizen said, while others claimed that ICA officers would \"close one eye\" when they bring back chewing gum for personal consumption.",
+                    "exampleSource": "2022 October 25, Ching Shi Jie. AsiaOne, \"Close one eye? Woman says she was stopped by ICA officers over chewing gum, surprising netizens\". https://www.asiaone.com/singapore/close-one-eye-woman-says-she-was-stopped-ica-officers-over-chewing-gum-surprising"
+                },
+                {
+                    "definition": "<i>variant phrasing of</i> @{close eye}",
+                    "synonyms": [
+                        "close eye"
+                    ]
+                }
+            ]
+        }
+    },
+    "senget": {
+        "word": "senget",
+        "related": [
+            "bengkok"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "senget",
+                "lit": "askew; tilted; slanting; not straight to the vertical"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "askew; tilted; slanting; not straight to the vertical",
+                    "example": "The postcards on her wall all a bit senget. Every time I see will trigger my OCD @{sia}."
+                }
+            ]
+        }
+    },
+    "buruk siku": {
+        "word": "buruk siku",
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "(lit.) 'ugly/bad elbow'. Unknown how it came to be related to the idiom’s figurative meaning.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "buruk siku",
+                "lit": "ask or demand a gift one has given is returned",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "buruk",
+                    "siku"
+                ],
+                "etyLit": [
+                    "bad; ugly; evil",
+                    "elbow"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(idiom) one who asks or demands that a gift they have given is returned to them"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(idiom) to ask or demand that a gift one has given is returned",
+                    "example": "Guys how to say buruk siku in @{england}?<br>Just now @{got} scold someone in @{england} bcos she buruk siku but then awkwardly terstop middleway because lost translation dammit :rage:",
+                    "exampleSource": "2016 January 18, Burburi San. Lowyat.net, \"Buruk siku\". https://forum.lowyat.net/topic/3830622/all"
+                }
+            ]
+        }
+    },
+    "senang": {
+        "word": "senang",
+        "related": [
+            "senang diri",
+            "switch off",
+            "close eye"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "senang",
+                "lit": "easy; happy; relaxed; pleased"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(of work, a task, etc.) easy; relaxed",
+                    "example": "This exercise like senang @{only}… @{close eye also can do}."
+                }
+            ]
+        }
+    },
+    "charlie mike": {
+        "word": "Charlie Mike",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "Charlie Mike",
+                "lit": "(military) NATO phonetic alphabet reading of 'CM'; to continue or prolong a mission due to having received new orders or an update in the situation",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "CM",
+                    "continue",
+                    "mission"
+                ],
+                "etyLit": [
+                    "abbreviation of 'continue mission'",
+                    "prolong; keep going; proceed",
+                    "tasks; assignment; duty"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(military) to continue a task, mission, assignment etc., especially one perceived as unpleasant, fatiguing, or tiresome, due to having received new orders or an update in the situation; to have to perform extra duties at or very near the perceived end of a mission or assignment",
+                    "example": "After the defence portion, we headed back to OCS for a Charlie Mike – a 1km Casevac around OCS before ending it at the OCS parade square, where we received our green berets.",
+                    "exampleSource": "2022 May 31, David Goh. Thing Of GOhLD, \"OCS Infantry Professional Term – A New Journey\". https://thingofgohld.wordpress.com/"
+                },
+                {
+                    "definition": "(military, imperative) a command or proclamation given by a commander to announce that a given mission is to be prolonged with extra tasks"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(military) expression of cynicism, incredulity, frustration etc. at receiving extra tasks or having to prolong work on a given mission or piece of work, especially one perceived as unpleasant, fatiguing, or tiresome"
+                }
+            ]
+        },
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "usage": "As with many terms originating in the military, it is also used heavily in civilian contexts due to the near-universality of Singaporean and PR men born after 1949 having been conscripted into national service."
+    },
+    "cancel last": {
+        "word": "cancel last",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "cancel",
+                "lit": "nullify; invalidate; belay"
+            },
+            {
+                "lang": "english",
+                "roman": "last",
+                "lit": "most recent; latest"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(military, imperative) instruction given to ignore a previous statement, instruction, order etc.",
+                    "example": "Cancel last. Looks like @{Cat 1}."
+                }
+            ]
+        },
+        "category": [
+            "ns"
+        ]
+    },
+    "cat 1": {
+        "word": "CAT 1",
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "Category 1",
+                "lit": "classification of weather with heavy rain and/or a risk of lightning strikes",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyRoman": [
+                    "Category",
+                    "1"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyLit": [
+                    "classification; grouping based on certain criteria",
+                    "the first natural number; value of one; unity"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) weather with heavy rain and/or a risk of lightning strikes, which usually results in a cancellation or postponement of outdoor activities",
+                    "example": "This is music to every NS man's ear. ... When there's a CAT 1 alert, there can be no outdoor activity.",
+                    "exampleSource": "2017 February 10, Fabian Koh. \"Celebrating NS50: 'Stand by universe' and other NSmen lingo\". https://www.straitstimes.com/singapore/celebrating-ns50-stand-by-universe-and-other-ns-men-lingo"
+                }
+            ]
+        },
+        "etyNotes": "Abbreviation of 'Category 1', a classification of rain and lightning strike intensity issued by Singapore's NEA. Category 3 refers to clear weather with no rain or lightning risk."
+    },
+    "chiah sai": {
+        "word": "chiah sai",
+        "related": [
+            "chiah",
+            "sai",
+            "pang sai",
+            "berak"
+        ],
+        "category": [
+            "vulgar",
+            "insults"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "食",
+                "simplified": "食",
+                "roman": "chia̍h",
+                "lit": "eat"
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "屎",
+                "simplified": "屎",
+                "roman": "sái",
+                "lit": "faeces; poop; excrement; bodily secretion; (vg.) shit"
+            }
+        ],
+        "etyNotes": "(lit.) 'eat faeces/shit'.",
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "(vulgar, offensive) exclamation of contempt, anger, frustration etc.; 'eat shit!'; 'piss off!'; 'go to hell'",
+                    "example": "Chiah sai @{lah} @{bodoh}, @{go fuck spider}.",
+                    "synonyms": [
+                        "go fly kite",
+                        "go fuck spider"
+                    ]
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(lit.) to consume faeces"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "faeces-eating; shit-eating; consuming waste or garbage, literally or figuratively",
+                    "example": "When i told my relative i am keeping pleco, they scratch their head and dunno what fish i talking about....When i said \"Jiak Sai Hee\", they said \"Orh...jiak sai hee @{si} @{bo}...I tot wat fish....\"",
+                    "exampleSource": "2009 November 6, Arolee999. Arofanatics Fish Talk Forums, \"Are plecos \"Jiak Sai Hee\"? What's your take?\". http://www.arofanatics.com/forums/showthread.php?t=397894&page=3"
+                }
+            ]
+        }
     }
 }

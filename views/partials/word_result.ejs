@@ -6,7 +6,7 @@
     <!-- definitions -->
     <div class="defs">
         <h3 class="defs-leader" name="definitions-leader">definitions</h3>
-        <% if(word.meanings.length==0) { %>
+        <% if(word.word == undefined || word.meanings == undefined || word.meanings.length == 0) { %>
             <br><p><i>no definitions recorded yet!</i></p>
         <% } else { %>
             <% for(const [pos, posDet] of Object.entries(word.meanings)) { %>
@@ -63,13 +63,18 @@
 
 
     <!-- usage notes -->
-    <% if(word.hasOwnProperty("usage")){ %>
-    <% if(word.usage.length > 0){ %>
+    <% let nasalMsg = false; %>
+    <% if(word.word && diacriticList.some(l=> word.word.toLowerCase().includes(l))){ nasalMsg = true; } else { nasalMsg = false; } %>
+    <% if((word.hasOwnProperty("usage") && word.usage.length > 0) || nasalMsg){ %>
     <div class="details">
         <h3>usage notes</h3>
-        <p class="text"><%- formatDyno(word.usage) %></p>
+        <% if(word.hasOwnProperty("usage") && word.usage.length> 0){ %>
+            <p class="text"><%- formatDyno(word.usage) %></p><br>
+        <% } %>
+        <% if(nasalMsg){ %>
+            <p class="nasal-text">* The nasal vowel is almost always unmarked by speakers, though it is very important to the pronunciation of the term. In a dipthong or tripthong, the recommended convention is to mark the final vowel, unless it is spelled using a repeated letter, in which case the first-occurring repeated letter is marked.</p>
+        <% } %>
     </div>
-    <% } %>
     <% } %>
     
 
@@ -89,7 +94,7 @@
                         </div>
                         <div class="sameRow">
                             <h4 class="pt-effect"> — </h4>
-                            <p><%- word.particles[i].meaning %></p>
+                            <p><%- formatDyno(word.particles[i].meaning) %></p>
                         </div>
                         <p class="word-example text"><%- word.particles[i].example %></p>
                         <% if(word.particles[i].hasOwnProperty("exampleSource")){ %>

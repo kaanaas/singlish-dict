@@ -40,7 +40,7 @@
                     w = match[i].substring(2, bar);
                     wUrl = match[i].substring(bar+1, match[i].length - 1).replace(/ /g,"%20");
                 }
-                wUrl = formatIdLink(w);
+                wUrl = formatIdLink(wUrl);
                 w = formatId(w);
                 s = s.replace(match[i], `\<a href="./?q=${wUrl}" class="underline">\<i>${w}\</i>\</a>`);
             }
