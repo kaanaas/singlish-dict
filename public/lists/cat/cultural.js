@@ -1,0 +1,1 @@
+const cat = ["chingay","Deepavali","joget","qing ming"]; module.exports = cat;

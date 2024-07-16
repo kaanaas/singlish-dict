@@ -9,7 +9,10 @@ let cats = ["cuisine",
     "games",
     "drinks",
     "insults",
-    "rhyming slang"
+    "rhyming slang",
+    "cultural"
 ];
+
+cats.sort();
 
 module.exports = cats;

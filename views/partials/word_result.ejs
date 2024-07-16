@@ -96,7 +96,11 @@
                             <h4 class="pt-effect"> — </h4>
                             <p><%- formatDyno(word.particles[i].meaning) %></p>
                         </div>
-                        <p class="word-example text"><%- word.particles[i].example %></p>
+
+                        <% if(word.particles[i].hasOwnProperty("example")){ %>
+                            <p class="word-example text"><%- formatDyno(word.particles[i].example) %></p>
+                        <% } %>
+
                         <% if(word.particles[i].hasOwnProperty("exampleSource")){ %>
                             <% if(word.particles[i].exampleSource == "@comm" ){ %>
                                 <p class="word-example-src">— Community contribution</p>

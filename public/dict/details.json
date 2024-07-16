@@ -2798,15 +2798,15 @@
         ],
         "origin": [
             {
-                "lang": "hokkien",
+                "lang": "min nan",
                 "traditional": "愛莫",
                 "simplified": "爱莫",
                 "roman": "ài-mài",
                 "romanization": "poj",
                 "lit": "(interrogative) (do you) want or not want (sth.)?; 愛 (want) + contraction of 毋愛 (not want)",
                 "etyPath": [
-                    "hokkien",
-                    "hokkien"
+                    "min nan",
+                    "min nan"
                 ],
                 "etyType": [
                     "+"
@@ -2842,10 +2842,72 @@
             ]
         }
     },
+    "mai": {
+        "word": "mai",
+        "related": [
+            "ai",
+            "ai mai"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "莫",
+                "simplified": "莫",
+                "roman": "mài",
+                "lit": "not want; contraction of 毋愛 (not want)",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "毋爱"
+                ],
+                "etyTrad": [
+                    "毋愛"
+                ],
+                "etyRoman": [
+                    "m̄-ài"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "not want"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to not want (something)",
+                    "example": "Mai, last time so embarrassing, I don't want try again @{lah}."
+                },
+                {
+                    "definition": "(auxiliary) do not; don't",
+                    "example": "Khiang @{can} @{already}, mai @{ke khiang}."
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'no'; 'don't'; 'I don't want it'"
+                }
+            ]
+        },
+        "particles": [
+            {
+                "particle": "la",
+                "meaning": "'come on, I don't want it'; 'no thanks'; 'please no'",
+                "effect": "refusal; reinforcement",
+                "example": "Mai la mai la... @{wa} mai."
+            }
+        ]
+    },
     "air-level": {
         "word": "air-level",
         "related": [
-            "geh kiang"
+            "geh kiang",
+            "atas",
+            "chim",
+            "slang"
         ],
         "category": [
             "ns"
@@ -3324,6 +3386,7 @@
     "already": {
         "word": "already",
         "etyNotes": "Direct translation of Min Nan 了, liáu. Modern tone follows the Mandarin reading, <i>liǎo</i> (pinyin).",
+        "usage": "Used at the end of a clause or statement, unlike in English.",
         "origin": [
             {
                 "lang": "english",
@@ -3356,14 +3419,19 @@
                     "definition": "indicating perfective aspect (completion of an action)",
                     "example": "Eat already @{anot}?",
                     "synonyms": [
-                        "liao#1"
+                        "liao#1",
+                        "oredi"
                     ]
                 }
             ],
             "adverb": [
                 {
                     "definition": "used at the end of a clause or sentence to indicate a change of state",
-                    "example": "Faster eat, the food is getting cold already!"
+                    "example": "Faster eat, the food is getting cold already!",
+                    "synonyms": [
+                        "liao#1",
+                        "oredi"
+                    ]
                 }
             ]
         },
@@ -5088,7 +5156,8 @@
         "word": "atas",
         "related": [
             "chim",
-            "air-level"
+            "air-level",
+            "slang"
         ],
         "origin": [
             {
@@ -5895,36 +5964,35 @@
         ],
         "origin": [
             {
-                "lang": "hokkien",
-                "traditional": "肉丸",
-                "simplified": "肉丸",
-                "roman": "bah-oân",
-                "romanization": "poj",
+                "lang": "baba malay",
+                "roman": "bakwan",
                 "lit": "meatball",
                 "etyPath": [
+                    "hokkien",
                     "hokkien",
                     "hokkien"
                 ],
                 "etyType": [
+                    "",
                     "+"
                 ],
                 "etyScript": [
+                    "肉丸",
                     "肉",
                     "丸"
                 ],
                 "etyTrad": [
+                    "肉丸",
                     "肉",
                     "丸"
                 ],
                 "etyRoman": [
+                    "bah-oân",
                     "bah",
                     "oân"
                 ],
-                "etyScheme": [
-                    "poj",
-                    "poj"
-                ],
                 "etyLit": [
+                    "meatball",
                     "meat; pork",
                     "small, roundish object"
                 ]
@@ -10935,7 +11003,7 @@
         "word": "buay paĩ",
         "origin": [
             {
-                "lang": "hokkien",
+                "lang": "min nan",
                 "traditional": "𣍐歹",
                 "simplified": "𫧃歹",
                 "roman": "bōe-pháiⁿ",
@@ -10991,7 +11059,7 @@
         "etyNotes": "袂 is a common alternative character for \"buay\", and has wider Unicode support (since the characters 𫧃/𣍐 do not exist in Mandarin).",
         "origin": [
             {
-                "lang": "hokkien",
+                "lang": "min nan",
                 "traditional": "𣍐使",
                 "simplified": "𫧃使",
                 "roman": "bōe-sái / bē-sái",
@@ -11067,13 +11135,25 @@
                     "definition": "unhappy; dissatisfied",
                     "antonyms": [
                         "song"
+                    ],
+                    "synonyms": [
+                        "not happy"
+                    ]
+                },
+                {
+                    "definition": "uncomfortable; perturbed; disgusted",
+                    "antonyms": [
+                        "song"
+                    ],
+                    "synonyms": [
+                        "kau wei"
                     ]
                 }
             ],
             "interjection": [
                 {
                     "definition": "(rude) used to issue a challenge; 'not happy?'; 'got a problem?'",
-                    "example": "Not happy? Buay song, ah? Complain, lor.",
+                    "example": "@{Not happy}? Buay song, ah? Complain, lor.",
                     "exampleSource": "2000 December 6, Koh Boon Pin. The Straits Times. H8",
                     "synonyms": [
                         "not happy"
@@ -12191,6 +12271,10 @@
                     "synonyms": [
                         "can *{bo}"
                     ]
+                },
+                {
+                    "definition": "used to express that while something is possible or doable, it may not have the intended outcome, be done in the most straightforward manner, prove very effective, etc.",
+                    "example": "I mean, can is can... Just depends how much of this you want to change @{lor}."
                 }
             ]
         },
@@ -12200,7 +12284,14 @@
                 "meaning": "(can is can), of course",
                 "example": "",
                 "exampleSource": "",
-                "effect": "reassurance, confirmation"
+                "effect": "reassurance; confirmation, or reluctance"
+            },
+            {
+                "particle": "lah",
+                "meaning": "I mean technically yes, (can is can)...",
+                "example": "",
+                "exampleSource": "",
+                "effect": "reluctance; doubt"
             },
             {
                 "particle": "one",
@@ -12225,7 +12316,8 @@
             }
         ],
         "related": [
-            "can"
+            "can",
+            "by left"
         ],
         "category": [
             "sayings"
@@ -16709,7 +16801,8 @@
             "chiminology",
             "chimness",
             "atas",
-            "air-level"
+            "air-level",
+            "slang"
         ]
     },
     "chim-chim": {
@@ -20403,15 +20496,16 @@
             "particle": [
                 {
                     "definition": "Used at the end of a clause as an intensifier; adds a degree of coarseness.",
-                    "example": "Aiseh! This stall the chilli power sia!",
+                    "example": "@{Aiseh}! This stall the @{chilli} @{power} sia!",
                     "synonyms": [
-                        "siol"
+                        "siol",
+                        "seh#1"
                     ]
                 }
             ],
             "interjection": [
                 {
-                    "definition": "(vulgar) damn; bastard"
+                    "definition": "(as <i>sial</i>, vulgar) damn; bastard"
                 }
             ]
         },
@@ -38645,8 +38739,9 @@
             {
                 "lang": "english",
                 "roman": "Singaporean",
-                "lit": "island city-state in South-East Asia, officially known as the Republic of Singapore",
+                "lit": "Singaporean; of or pertaining to Singapore; a Singaporean",
                 "etyPath": [
+                    "english",
                     "malay",
                     "sanskrit",
                     "sanskrit",
@@ -38656,10 +38751,12 @@
                 "etyType": [
                     "",
                     "",
+                    "",
                     "+",
                     "+"
                 ],
                 "etyScript": [
+                    "",
                     "",
                     "सिंहपुर",
                     "सिंह",
@@ -38667,6 +38764,7 @@
                     ""
                 ],
                 "etyRoman": [
+                    "Singapore",
                     "Singapura",
                     "siṃhá-pura",
                     "siṃhá",
@@ -38674,6 +38772,7 @@
                     "-an"
                 ],
                 "etyLit": [
+                    "island city-state in South-East Asia, officially known as the Republic of Singapore",
                     "Singapore",
                     "Singapore",
                     "lion",
@@ -39134,7 +39233,7 @@
             "verb": [
                 {
                     "definition": "to die; to pass away",
-                    "example": "Don’t always @{si peh} this @{si peh} that; @{wait later} really si @{then you know}.",
+                    "example": "@{Dun} always @{si peh} this @{si peh} that; @{wait later} really si @{then you know}.",
                     "synonyms": [
                         "khong kha khiao",
                         "uplorry",
@@ -39158,7 +39257,7 @@
             "adjective": [
                 {
                     "definition": "damned; bloody",
-                    "example": "@{Damn} @{suay}… always @{kena} some  screeching @{si gin ah} on my 13 hour plane rides."
+                    "example": "@{Damn} @{suay}… always @{kena} some screeching @{si gin ah} on my 13 hour plane rides."
                 }
             ]
         },
@@ -40443,7 +40542,7 @@
             }
         ]
     },
-    "seh": {
+    "seh@2": {
         "word": "seh",
         "related": [
             "hoseh",
@@ -41231,5 +41330,1108 @@
                 }
             ]
         }
+    },
+    "mai hiam": {
+        "word": "mai hiam",
+        "related": [
+            "mai",
+            "mai hiam buay paĩ"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "莫",
+                "simplified": "莫",
+                "roman": "mài",
+                "lit": "not want; contraction of 毋愛 (not want)",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "毋爱"
+                ],
+                "etyTrad": [
+                    "毋愛"
+                ],
+                "etyRoman": [
+                    "m̄-ài"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "not want"
+                ]
+            },
+            {
+                "lang": "min nan",
+                "simplified": "嫌",
+                "traditional": "嫌",
+                "roman": "hiâm",
+                "lit": "fed up with; dislike; complain; criticize"
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "'don’t complain'; 'don’t criticize'; 'don’t be so picky and choosy'",
+                    "example": "Mai hiam @{lah}, at least they still @{got} give you off-in-lieu @{what}."
+                }
+            ]
+        }
+    },
+    "mai hiam buay pai": {
+        "word": "mai hiam buay paĩ",
+        "related": [
+            "mai",
+            "mai hiam",
+            "buay",
+            "buay paĩ"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "traditional": "莫",
+                "simplified": "莫",
+                "roman": "mài",
+                "lit": "not want; contraction of 毋愛 (not want)",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "毋爱"
+                ],
+                "etyTrad": [
+                    "毋愛"
+                ],
+                "etyRoman": [
+                    "m̄-ài"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "not want"
+                ]
+            },
+            {
+                "lang": "min nan",
+                "simplified": "嫌",
+                "traditional": "嫌",
+                "roman": "hiâm",
+                "lit": "fed up with; dislike; complain; criticize"
+            },
+            {
+                "lang": "min nan",
+                "traditional": "𣍐歹",
+                "simplified": "𫧃歹",
+                "roman": "bōe-pháiⁿ",
+                "romanization": "poj",
+                "lit": "not bad; pretty good",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "𫧃",
+                    "歹"
+                ],
+                "etyTrad": [
+                    "𣍐",
+                    "歹"
+                ],
+                "etyRoman": [
+                    "bōe",
+                    "pháiⁿ"
+                ],
+                "etyScheme": [
+                    "poj",
+                    "poj"
+                ],
+                "etyLit": [
+                    "not; cannot",
+                    "bad; evil"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "'don’t complain or criticize, it’s not that bad'; 'don’t be too picky and choosy'",
+                    "example": "- @{Walao eh}. I got this suit for $180, but Arif told me he got @{lobang} in Bangkok that can do better one for $100.<br>- Ok but still not bad @{what}… Mai hiam buay paĩ."
+                }
+            ]
+        }
+    },
+    "kia@1": {
+        "word": "kiã",
+        "related": [
+            "chap cheng kiã",
+            "paĩ kiã",
+            "gin ah"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "囝",
+                "traditional": "囝",
+                "roman": "kiáⁿ",
+                "lit": "son; child; diminutive suffix"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "child; kid"
+                },
+                {
+                    "definition": "<i>diminutive suffix attached to a descriptor to form a noun for a person related to it</i>",
+                    "example": "Don't be such a @{blur} kia and @{anyhow} follow people @{lah}."
+                }
+            ]
+        }
+    },
+    "kia@2": {
+        "word": "kiã",
+        "related": [
+            "kiãsu",
+            "kiãsi"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "惊",
+                "traditional": "驚",
+                "roman": "kiaⁿ",
+                "lit": "fear; be afraid of; frighten"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to be afraid of; to be scared of; to fear"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "scared of; afraid of; fearing",
+                    "example": "@{Got} some people hopelessly kia @{si#2}, also @{got} some totally @{ai sui mai mia}."
+                }
+            ]
+        }
+    },
+    "kia@3": {
+        "word": "kiã",
+        "related": [
+            "kiã stead"
+        ],
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "行",
+                "traditional": "行",
+                "roman": "kiâⁿ",
+                "lit": "walk; go"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to walk",
+                    "synonyms": [
+                        "kiã kiã",
+                        "jalan",
+                        "jalan-jalan",
+                        "gai gai"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'let’s go for a walk'; 'let’s go out'",
+                    "example": "@{Lai}, lunch time @{oredi}, @{lim peh} hungry. Kiã!",
+                    "synonyms": [
+                        "zao",
+                        "kiã kiã",
+                        "gai gai"
+                    ]
+                }
+            ]
+        }
+    },
+    "joget": {
+        "word": "joget",
+        "category": [
+            "cultural"
+        ],
+        "etyNotes": "The sense of 'dancing; any dance in general', rather than the specific form of traditional Javanese performance, was influenced by its use in Baba Malay.",
+        "origin": [
+            {
+                "lang": "baba malay",
+                "roman": "joget",
+                "lit": "dance; dancing",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "joget"
+                ],
+                "etyLit": [
+                    "type of traditional Javanese song and dance performance; dance"
+                ]
+            },
+            {
+                "lang": "malay",
+                "roman": "joget",
+                "lit": "type of traditional Javanese song and dance performance; dance",
+                "etyPath": [
+                    "javanese"
+                ],
+                "etyScript": [
+                    "ꦗꦺꦴꦒꦺꦠ꧀"
+                ],
+                "etyRoman": [
+                    "jogèt"
+                ],
+                "etyLit": [
+                    "type of traditional Javanese song and dance performance"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dance (in general)"
+                },
+                {
+                    "definition": "a dance form practised by Peranakans at parties and cultural events, influenced by the Malay and Javanese <i>joget</i> and other dance styles.",
+                    "example": "Also known as Chakunchak, Joget can be performed without singing too. Practiced by the Peranakan community, this dance form is usually performed by couples who appear to be playfully teasing each other. The beauty of the dance lies in the fact that the couple does not touch each other as they make rhythmic hand and foot movements.",
+                    "exampleSource": "2024 May 4, Nyonyas & Gentlemen (Facebook post). https://www.facebook.com/photo.php?fbid=409478111887888"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "(sometimes reduplicated as <i>joget-joget</i>) to dance; to dance around",
+                    "example": "I love to watch the little cells joget-joget under the microscope. Funny @{sial}."
+                },
+                {
+                    "definition": "to dance in the Peranakan <i>joget</i> style",
+                    "example": "Let’s joget to nostalgic songs and magical tunes by The Peranakan Voices and The Merrilads band.",
+                    "exampleSource": "2019 October, The Peranakan Association Singapore. \"Joget Siang: Peranakan Tea Dance\". https://www.peranakan.org.sg/2019/10/joget-siang-peranakan-tea-dance/"
+                }
+            ]
+        }
+    },
+    "seh@1": {
+        "word": "seh",
+        "etyNotes": "Further origin of the Malay term is unknown.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "seh / sey",
+                "lit": "(slang) particle used at the end of a statement to emphasize, intensify, and seek agreement"
+            }
+        ],
+        "meanings": {
+            "particle": [
+                {
+                    "definition": "used at the end of a statement to emphasize, intensify, and seek agreement",
+                    "example": "@{Aiseh}, @{cantik} seh that girl.",
+                    "synonyms": [
+                        "sial"
+                    ]
+                }
+            ]
+        }
+    },
+    "mat": {
+        "word": "mat",
+        "related": [
+            "minah"
+        ],
+        "usage": "Male equivalent of a @{minah}.",
+        "etyNotes": "From a clipping of the common Islamic-origin Malay names Mohammed/Muhammad (*and all its variant spellings) and Ahmad, which both ultimately come from the same Arabic root word حَمِدَ, ḥamida (\"thank; praise; exalt\").",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "mat",
+                "lit": "(slang) guy; dude; John Doe",
+                "etyPath": [
+                    "malay",
+                    "arabic",
+                    "malay",
+                    "arabic",
+                    "arabic"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    "",
+                    ""
+                ],
+                "etyScript": [
+                    "",
+                    "أَحْمَد",
+                    "",
+                    "مُحَمَّد",
+                    "حَمِدَ"
+                ],
+                "etyRoman": [
+                    "Ahmad",
+                    "ʔaḥmad",
+                    "Muhammad*",
+                    "muḥammad",
+                    "ḥamida"
+                ],
+                "etyLit": [
+                    "popular Muslim male given name",
+                    "popular Arabic male given name",
+                    "extremely popular Muslim male given name",
+                    "prophet of Islam; extremely popular Arabic male given name, (lit.) praised; exalted; extolled",
+                    "thank; praise; exalt"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(chiefly of a male Malay person) a guy; a dude; a John Doe"
+                },
+                {
+                    "definition": "(possibly derogatory) a Malay man; a male person of Malay ethnicity",
+                    "example": "In its purest form, “@{sial}” means “jinx” but mats have refined the art of using the word to include it at the end of their every sentence.",
+                    "exampleSource": "2008 February 9, herpluginbaby. \"the idiots guide to malay\". https://herpluginbaby.livejournal.com/2974.html"
+                },
+                {
+                    "definition": "(derogatory, likely from a shortening of or association with @{mat rep}) a young, delinquent Malay man, often associated with negative stereotypes such as smoking, drinking, truancy, @{lepaking|lepak}, low education, and a certain style of dress such as tapered jeans and wearing trucker caps intentionally adjusted such that they sit too high on the head",
+                    "example": "It’s a group she knows well having grown up alongside many mats and @{minahs|minah}: “They had problems with money, family and working for a living. A couple of them got into trouble with the law.”",
+                    "exampleSource": "Lee Shu Yu (quoting Nessa Anwar). Centre42, \"Homage to Mat and Minah Reps\". https://www.centre42.sg/editorials/9416/homage-to-mat-and-minah-reps/",
+                    "synonyms": [
+                        "matrep"
+                    ]
+                }
+            ]
+        }
+    },
+    "mat rep": {
+        "word": "mat rep",
+        "related": [
+            "mat",
+            "minah",
+            "step"
+        ],
+        "usage": "Male equivalent of a @{minah rep}. Can be considered the Malay version of an @{Ah Beng} or @{Ah Seng}.",
+        "etyNotes": "From @{mat} + a clipping of English <i>reputation</i>.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "mat",
+                "lit": "(slang) guy; dude; John Doe",
+                "etyPath": [
+                    "malay",
+                    "arabic",
+                    "malay",
+                    "arabic",
+                    "arabic"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    "",
+                    ""
+                ],
+                "etyScript": [
+                    "",
+                    "أَحْمَد",
+                    "",
+                    "مُحَمَّد",
+                    "حَمِدَ"
+                ],
+                "etyRoman": [
+                    "Ahmad",
+                    "ʔaḥmad",
+                    "Muhammad*",
+                    "muḥammad",
+                    "ḥamida"
+                ],
+                "etyLit": [
+                    "popular Muslim male given name",
+                    "popular Arabic male given name",
+                    "extremely popular Muslim male given name",
+                    "prophet of Islam; extremely popular Arabic male given name, (lit.) praised; exalted; extolled",
+                    "thank; praise; exalt"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "reputation",
+                "lit": "image; public standing or perception; clout; what one is known for",
+                "etyPath": [
+                    "latin"
+                ],
+                "etyRoman": [
+                    "reputationem"
+                ],
+                "etyLit": [
+                    "thinking over; reflection; consideration"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a young, delinquent Malay man, often associated with negative stereotypes such as smoking, drinking, truancy, @{lepaking|lepak}, low education, and a certain style of dress such as tapered jeans and wearing trucker caps intentionally adjusted such that they sit too high on the head",
+                    "example": "“[When] mat reps fight, their language is coarse, but the delivery is beautiful. They use a lot of rhythm that is found in pantun [a Malay poetic form],” she explains.",
+                    "exampleSource": "Lee Shu Yu (quoting Nessa Anwar). Centre42, \"Homage to Mat and Minah Reps\". https://www.centre42.sg/editorials/9416/homage-to-mat-and-minah-reps/",
+                    "synonyms": [
+                        "mat"
+                    ]
+                }
+            ]
+        }
+    },
+    "minah rep": {
+        "word": "minah rep",
+        "related": [
+            "minah",
+            "mat",
+            "step"
+        ],
+        "usage": "Female equivalent of a @{mat rep}. Can be considered the Malay version of an @{Ah Lian} or @{Ah Huay}.",
+        "etyNotes": "From @{minah} + a clipping of English <i>reputation</i>.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "minah",
+                "lit": "gal; dudette; Jane Doe",
+                "etyPath": [
+                    "malay",
+                    "arabic",
+                    "arabic"
+                ],
+                "etyScript": [
+                    "",
+                    "أَمِينَة",
+                    "أَمِين"
+                ],
+                "etyRoman": [
+                    "Aminah",
+                    "ʔamīna",
+                    "ʔamīn"
+                ],
+                "etyLit": [
+                    "popular Muslim female given name",
+                    "popular Arabic female given name",
+                    "archangel Gabriel; faithful; loyal; reliable; trustworthy"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "reputation",
+                "lit": "image; public standing or perception; clout; what one is known for",
+                "etyPath": [
+                    "latin"
+                ],
+                "etyRoman": [
+                    "reputationem"
+                ],
+                "etyLit": [
+                    "thinking over; reflection; consideration"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) a young, delinquent Malay woman, often associated with negative stereotypes such as smoking, drinking, truancy, @{lepaking|lepak}, low education, and a certain style of dress; often also a girlfriend of a @{mat rep} or a regular female companion of a group of @{mat reps|mat rep}.",
+                    "synonyms": [
+                        "minah"
+                    ]
+                }
+            ]
+        }
+    },
+    "minah": {
+        "word": "minah",
+        "related": [
+            "minah",
+            "mat",
+            "step"
+        ],
+        "usage": "Female equivalent of a @{mat rep}. Can be considered the Malay version of an @{Ah Lian} or @{Ah Huay}.",
+        "etyNotes": "From a clipping of the common Islamic-origin Malay name Aminah (or its variants, such as Mina, Minah, Amina etc.), in the vein of 'Jane' in English '<i>Jane Doe</i>'.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "minah",
+                "lit": "gal; dudette; Jane Doe",
+                "etyPath": [
+                    "malay",
+                    "arabic",
+                    "arabic"
+                ],
+                "etyScript": [
+                    "",
+                    "أَمِينَة",
+                    "أَمِين"
+                ],
+                "etyRoman": [
+                    "Aminah",
+                    "ʔamīna",
+                    "ʔamīn"
+                ],
+                "etyLit": [
+                    "popular Muslim female given name",
+                    "popular Arabic female given name",
+                    "archangel Gabriel; faithful; loyal; reliable; trustworthy"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(chiefly of a female Malay person) a girl; a gal; a dudette; a Jane Doe"
+                },
+                {
+                    "definition": "(possibly derogatory) a Malay woman; a female person of Malay ethnicity",
+                    "example": "If you are insulted that you are labelled a Minah just because you are a Malay girl, then you should think twice about labelling that girl who sat across you in the train a Minah just because she dresses like what you think 'a Minah' dresses like. Who's labelling who now?",
+                    "exampleSource": "2009 May 27, minahspeak. \"The 5 Golden Facts of Minah-ism.\". https://minahspeak.livejournal.com/9469.html"
+                },
+                {
+                    "definition": "(derogatory, likely from a shortening of or association with @{minah rep}) a young, delinquent Malay woman, often associated with negative stereotypes such as smoking, drinking, truancy, @{lepaking|lepak}, low education, and a certain style of dress; often also a girlfriend of a @{mat rep} or a regular female companion of a group of @{mat reps|mat rep}.",
+                    "example": "Over the years (from the early 2000s I'd say), the reputation of \"@{Minah Reps|minah rep}\" in Singapore began to become more widespread, resulting in people shortening the phrase to just \"Minahs\". Hence, it's no wonder that people (even Malays) find it harder to distinguish between the two.",
+                    "exampleSource": "2017 April 19, Unscripted Paradox. \"What it means to be a Singaporean Minah\". https://unscriptedparadox.blogspot.com/2017/04/what-it-means-to-be-singaporean-minah.html",
+                    "synonyms": [
+                        "minah rep"
+                    ]
+                }
+            ]
+        }
+    },
+    "snake": {
+        "word": "snake",
+        "related": [
+            "pau toh",
+            "snake king"
+        ],
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "Snakes (the animal) have always been associated with deception, treachery, and a two-faced nature across many cultures throughout history, from the serpent in the Garden of Eden of Abrahamic mythology to Aesop’s Fable of the Farmer and the Viper.<br>Compare the similar use of the term in other dialects of English, e.g. Multicultural London English <i>snake</i> (\"a traitor; a rat; an informer; to rat somebody out\").",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "snake",
+                "lit": "long, thin, legless reptile in the suborder Serpentes"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "someone who is always selfishly scheming and plotting; a backstabber; a rat; a treacherous and untrustworthy person; someone who puts on facades to deceive others of their ulterior intentions",
+                    "example": "The specs knew that the snakes in the jungle were nothing compared to the snakes in the Alpha @{coy} office back in camp."
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to scheme against; to backstab; to rat; to be generally treacherous and untrustworthy; to put on facades to deceive others of one's ulterior intentions",
+                    "example": "Peter tried to snake Akmal and make him take the downfall for the whole fiasco, but @{kena} @{kan} when RSM caught wind of his schemes."
+                }
+            ]
+        }
+    },
+    "itek tim": {
+        "word": "itek tim",
+        "related": [
+            "itek sio"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "Both 𤆤 and 𬊈/燖 are so similar in meaning they are interchangeable, and are effectively alternative characters to write the same term (neither exists in Mandarin).",
+        "origin": [
+            {
+                "lang": "baba malay",
+                "roman": "itek",
+                "lit": "duck",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "itik"
+                ],
+                "etyLit": [
+                    "duck"
+                ]
+            },
+            {
+                "lang": "baba malay",
+                "roman": "tim",
+                "lit": "roasted; grilled",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "𤆤/𬊈"
+                ],
+                "etyTrad": [
+                    "𤆤/燖"
+                ],
+                "etyRoman": [
+                    "tīm"
+                ],
+                "etyLit": [
+                    "simmer; boil in water; braise; stew; heat up in hot water; steam"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sour and savoury soup of Peranakan origin, made from boiling duck, @{kiam chye}, chilli, @{assam}, ginger, brandy, and other ingredients. It was often eaten during special occasions such as Chinese New Year.^{1}",
+                    "example": "… known as Itek Tim, this cosy weather soup is being slow-boiled for hours, with hearty duck meat and addictively sour vegetables infused in making a light, savoury broth. Just a sip of it will @{confirm} leave you craving more!",
+                    "exampleSource": "The Meatmen. \"Itek Tim\". https://themeatmen.sg/recipes/itek-tim/"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://babanyonyaperanakans.org/2019/03/23/itek-tim/",
+                "name": "Baba Nyonya Peranakans - Itek Tim"
+            }
+        ]
+    },
+    "shao fan": {
+        "word": "shao fan",
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "少饭",
+                "traditional": "少飯",
+                "roman": "shǎo fàn",
+                "lit": "less rice",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "少",
+                    "饭"
+                ],
+                "etyTrad": [
+                    "少",
+                    "飯"
+                ],
+                "etyRoman": [
+                    "shǎo",
+                    "fàn"
+                ],
+                "etyLit": [
+                    "less; reduce",
+                    "(cooked) rice"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(food ordering) 'less rice'; used to order a smaller portion of rice than normal",
+                    "example": "@{Auntie}, shao fan… I eating low carbs @{one}.",
+                    "antonyms": [
+                        "jia fan"
+                    ]
+                }
+            ]
+        }
+    },
+    "jia fan": {
+        "word": "jia fan",
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "加饭",
+                "traditional": "加飯",
+                "roman": "jiā fàn",
+                "lit": "add rice",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "加",
+                    "饭"
+                ],
+                "etyTrad": [
+                    "加",
+                    "飯"
+                ],
+                "etyRoman": [
+                    "jiā",
+                    "fàn"
+                ],
+                "etyLit": [
+                    "add; more; increase",
+                    "(cooked) rice"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(food ordering) 'add rice'; used to order a larger portion of rice than normal",
+                    "example": "@{Uncle}, @{kui png} @{da bao}, jia fan.",
+                    "antonyms": [
+                        "shao fan"
+                    ]
+                }
+            ]
+        }
+    },
+    "sir": {
+        "word": "sir",
+        "related": [
+            "occifer",
+            "sarjen"
+        ],
+        "usage": "Officers holding higher positions and/or who are significantly older (or more experienced) than the speaker are usually addressed or referred to by their position's titles instead, such as 'CO' or 'OC'.",
+        "category": [
+            "ns"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "sir",
+                "lit": "term of respectful address for a man of higher status or rank, (mil.) term of address for an officer",
+                "etyPath": [
+                    "old french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "sire",
+                    "senior"
+                ],
+                "etyLit": [
+                    "Mr.; sir; master; term of respectful address for a man",
+                    "older; elder"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) title used before a commissioned officer's first name by enlisted men or non-commissioned officers to respectfully address or refer to them. Especially used for an officer who is closer in terms of age, military experience, or familiarity, or is holding a relatively small position such as platoon commander.",
+                    "example": "Sir Jasper, when the next @{IPPT} @{ah}?"
+                }
+            ]
+        }
+    },
+    "sinkie": {
+        "word": "Sinkie",
+        "related": [
+            "Sinkie pwn Sinkie",
+            "SGean"
+        ],
+        "usage": "Usually used in a self-hating, self-deprecating, hostile, or derogatory manner.",
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "Compare similarly-formed derogatory English slang terms such as @{Hongkie}, <i>hippie</i>, and <i>tankie</i>.<br>#{poss} Possibly also a play on the English word <i>sink</i>. This apparently derives from users on the online forum Sammyboy who had emigrated overseas because they perceived Singapore as a 'sinking ship', and thus not worth staying in anymore. Singaporeans who stayed behind were thus derogatorily seen as 'Sinkies' going down with the ship.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "Singapore",
+                "lit": "island city-state in South-East Asia, officially known as the Republic of Singapore",
+                "etyPath": [
+                    "malay",
+                    "sanskrit",
+                    "sanskrit",
+                    "sanskrit"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "सिंहपुर",
+                    "सिंह",
+                    "पुर"
+                ],
+                "etyRoman": [
+                    "Singapura",
+                    "siṃhá-pura",
+                    "siṃhá",
+                    "pura"
+                ],
+                "etyLit": [
+                    "Singapore",
+                    "Singapore",
+                    "lion",
+                    "city"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "-ie",
+                "lit": "diminutive suffix; (sometimes derog.) used to form a noun for a person associated with sth."
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory, offensive) a Singaporean; someone from Singapore",
+                    "example": "i never see the @{sinkie pwn sinkie} attitude with sinkies abroad but when in @{sg}, there are too many sinkies who try to put down others, just seem hateful, etc.",
+                    "exampleSource": "2023 May 12, Akwa123. Harwarezone, \"Sinkies abroad vs Singapore Sinkies\". https://forums.hardwarezone.com.sg/threads/sinkies-abroad-vs-singapore-sinkies.6902643/"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(derogatory, offensive) Singaporean; of or relating to Singapore",
+                    "example": "Sinkie mentality"
+                }
+            ]
+        }
+    },
+    "sinkie pwn sinkie": {
+        "word": "Sinkie pwn Sinkie",
+        "related": [
+            "Sinkie",
+            "SGean"
+        ],
+        "usage": "Often found in the extended expression '<i>Sinkie pwn Sinkie, can sleep well tonight</i>' (or with some variation of '<i>sleeping well</i>'). The expression is used to sarcastically remark that a busybody, @{kaypoh}, @{buay song} Singaporean has successfully caused problems for, shut down, or otherwise <i>pwned</i> other fellow Singaporeans that were just harmlessly minding their own business, and can thus be satisfied at having done their fun-ruining deed for the day.",
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Compare similarly-formed derogatory English slang terms such as @{Hongkie}, <i>hippie</i>, and <i>Tankie</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "Singapore",
+                "lit": "island city-state in South-East Asia, officially known as the Republic of Singapore",
+                "etyPath": [
+                    "malay",
+                    "sanskrit",
+                    "sanskrit",
+                    "sanskrit"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "सिंहपुर",
+                    "सिंह",
+                    "पुर"
+                ],
+                "etyRoman": [
+                    "Singapura",
+                    "siṃhá-pura",
+                    "siṃhá",
+                    "pura"
+                ],
+                "etyLit": [
+                    "Singapore",
+                    "Singapore",
+                    "lion",
+                    "city"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "-ie",
+                "lit": "diminutive suffix; (sometimes derog.) used to form a noun for a person associated with sth."
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(derogatory, offensive) a phrase describing the stereotypical Singaporean 'crab mentality' of being hypercompetitive, selfish, driven by money, averse to creativity and unorthodoxy, wont to complain and nitpick, feeling dissatisfied with others' successes, and needing to step over and put down others to feel successful; encapsulating all the negative and sour traits of the overcompetitive Singaporean mindset",
+                    "example": "“Sinkie pwn Sinkie” is a very real summary of our crab mentality as an entire society.",
+                    "exampleSource": "2022 September 19, Columnist. KUANYEWISM, \"Singapore Is a Country Which Does Not Give Chances to Its Own People\". https://kuanyewism.com/2022/09/singapore-is-a-country-which-does-not-give-chances-to-its-own-people/"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(derogatory, offensive) of or relating to the 'Sinkie pwn Sinkie' attitude",
+                    "example": "Singaporean really defines the term money cannot buy class @{sia}. Sinkie pwn sinkie mentality.<br>Two high income earners, holding a 3-4mil property as asset. Fella still can nicpick until like this… and have “no further comments”… little wonder whole country so depressed. [sic]",
+                    "exampleSource": "2023 September 25, Unregistered. Salary.sg Forums, \"Lawyer Salary\". https://forums.salary.sg/income-jobs/771-lawyer-salary-2017.html#post256670"
+                }
+            ]
+        }
+    },
+    "song": {
+        "word": "song",
+        "etyNotes": "Also in Cantonese as 爽, song2, though the tone used in Singlish almost always follows the Hokkien one.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "爽",
+                "simplified": "爽",
+                "roman": "sóng",
+                "romanization": "poj",
+                "lit": "happy; satisfied; pleased; feel good; enjoyable"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "happy; satisfied; pleased; feeling good; enjoying oneself",
+                    "example": "@{Eh} the bird sit there until so song, why you must go and @{kacau} him?",
+                    "synonyms": [
+                        "shiok"
+                    ],
+                    "antonyms": [
+                        "buay song",
+                        "not happy"
+                    ]
+                },
+                {
+                    "definition": "pleasurable; satisfying; feel-good; enjoyable; comfortable",
+                    "example": "@{Wah} sit on this sofa @{damn} @{song}... I could just @{nua} here all day man.",
+                    "synonyms": [
+                        "shiok"
+                    ],
+                    "antonyms": [
+                        "buay song",
+                        "kau wei"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buay",
+            "song kau kurong"
+        ]
+    },
+    "kau wei": {
+        "word": "kau wei",
+        "related": [
+            "not happy"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien / teochew",
+                "simplified": "厚秽",
+                "traditional": "厚穢",
+                "roman": "kāu-oe̍h",
+                "lit": "uncomfortable; irritated; sweltering"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "physically uncomfortable; irritated; sweltering; sweaty, especially due to itchiness, heat, dirtiness, etc.",
+                    "antonyms": [
+                        "song",
+                        "shiok"
+                    ]
+                },
+                {
+                    "definition": "(fig., mentally rather than physically) disgusted; uncomfortable; perturbed",
+                    "synonyms": [
+                        "buay song"
+                    ],
+                    "antonyms": [
+                        "song",
+                        "shiok"
+                    ]
+                },
+                {
+                    "definition": "(by extension) disgusting; uncomfortable; unsettling; appalling; unpleasant",
+                    "example": "I mean, it just feels damn gao wei to see a singaporean speaking in such a heavy @{angmor} accent.",
+                    "exampleSource": "2010 December 5, Kuanhe. backtrack in time, \\\"Atas\\\". https://backtrackintime.livejournal.com/68242.html",
+                    "antonyms": [
+                        "song",
+                        "shiok"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "The characters appear to be a modern  or phonetic approximation, only attested in a post by Writing in Hokkien (Facebook),^{1} though the provenance of the term itself is extremely well researched and attested.^{2}^{3}^{4} The original characters, if they did exist, are unfortunately now most likely lost to time. This phenomenon is surprisingly common across Chinese languages, including Mandarin.",
+        "references": [
+            {
+                "link": "https://www.facebook.com/hokkianbun/posts/ive-always-thought-that-gao-wei-is-mandarin-turns-out-its-actually-hokkienteoche/1268238059949267/?locale=zh_CN",
+                "name": "Writing in Hokkien - 厚穢 (厚秽) kāu-ue̍h"
+            },
+            {
+                "link": "",
+                "name": "Douglas, C. (1873). Kāu. Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy (p. 200). London: Trübner & Co."
+            },
+            {
+                "link": "",
+                "name": "Ogawa, N. (1931). Kāu-e̍h. Tai-nichi Daijiten [Taiwanese-Japanese Dictionary] (Vol. 1, p. 193). Taihoku (Taipei): Taiwan Governor-General's Office."
+            },
+            {
+                "link": "",
+                "name": "Tsiu, T. (2006). Kāu-ue̍h. Bân-lâm Hong-giân Tāi-sîr-tián [Minnan Dialect Dictionary] (p. 286). Fuzhou: Fujian People's Publishing Hous"
+            }
+        ]
+    },
+    "slang": {
+        "word": "slang",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "slang",
+                "lit": "informal language; language of a particular social group; jargon specific to a field"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an accent perceived as a prestige or upper-class, such as a vaguely British or American accent, especially when put-on, affected, or obviously inauthentic, carrying undertones of being embarrassed or disdainful of a native Singaporean accent, and often used in a way that is entirely inappropriate for and oblivious to the present social context",
+                    "example": "Okay i've got nothing against ppl who speak in perfect english, after all that's what the singapore govt wants us to do ... but pls, CUT THE SLANG ALRIGHT? [sic]",
+                    "exampleSource": "2010 December 5, Kuanhe. backtrack in time, \"Atas\". https://backtrackintime.livejournal.com/68242.html"
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to speak with or put on such an accent"
+                }
+            ]
+        },
+        "related": [
+            "air-level",
+            "ang moh pai",
+            "atas",
+            "banana",
+            "chim",
+            "coconut",
+            "ang moh"
+        ],
+        "etyNotes": "Semantic shift or extension from English <i>slang</i>. While many theories exist, the true further origin of the English term is unknown.^{1}",
+        "references": [
+            {
+                "link": "https://www.oed.com/discover/the-rise-and-rise-of-slang/?tl=true",
+                "name": "OED - The rise and rise of slang"
+            }
+        ]
     }
 }
