@@ -14,6 +14,7 @@ for (const [key, value] of Object.entries(json)) {
         trie.insert(value[i].toLowerCase(), key.toLowerCase());
         // console.log(`- ${value[i]} - added to trie under entry - ${key} -.`);
     }
+    trie.insert(key.toLowerCase(), key.toLowerCase());
 }
 
 // console.log(trie, "\n\n... done!");

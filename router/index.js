@@ -21,6 +21,9 @@ const dict = require("../public/dict/dict.json");
 // Import source details
 const sources = require("../public/sources/sources.json");
 
+// predfeined arrays
+let chineseLangs = ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"];
+let diacriticList = ["ã", "ẽ", "ĩ", "õ", "ũ"];
 
 router.get("/", async (req, res) => {
     if (req.query.q) {
@@ -28,17 +31,19 @@ router.get("/", async (req, res) => {
         let majorFormResult = trie.search(searchInput);
         let prefixResult = trie.startsWith(searchInput);
         let results = [];
+
         // check if mFR is array
         // if more than one majorFormResult is found, show selection page
         if (majorFormResult && Array.isArray(majorFormResult) && majorFormResult.length > 1) {
-            // trim prefix results
-            let pRTemp = [];
-            prefixResult.forEach((result) => {
-                if (result != searchInput) {
-                    pRTemp.push(result);
-                }
-            });
-            prefixResult = pRTemp;
+            // // trim prefix results
+            // let pRTemp = [];
+            // prefixResult.forEach((result) => {
+            //     if (result != searchInput) {
+            //         pRTemp.push(result);
+            //     }
+            // });
+            // prefixResult = pRTemp;
+            prefixResult = prefixResult.filter((result) => result != searchInput && !majorFormResult.includes(result));
 
             majorFormResult.forEach((mfr) => {
                 let result = retrieveWord(dict, details, mfr);
@@ -50,7 +55,8 @@ router.get("/", async (req, res) => {
                 results: results,
                 mFRs: majorFormResult,
                 showStyle: "display:block;visibility:visible;",
-                chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"],
+                chineseLangs: chineseLangs,
+                diacriticList: diacriticList,
                 prefixResult: prefixResult,
                 sources: sources
             });
@@ -58,16 +64,17 @@ router.get("/", async (req, res) => {
 
         // if query is found in trie, return major form of word
         else if (majorFormResult) {
-            let [altsString, wordVars, showVar] = retrieveWord(dict, details, majorFormResult)
+            let [alts, wordVars, showVar] = retrieveWord(dict, details, majorFormResult)
 
             // trim prefix results
             let pRTemp = [];
             prefixResult.forEach((result) => {
-                if (!dict[majorFormResult].includes(result)) {
+                if (!dict[majorFormResult].includes(result) && result != majorFormResult && result != searchInput) {
                     pRTemp.push(result);
                 }
             });
             prefixResult = pRTemp;
+
 
             // render page
             res.render("./index", {
@@ -75,9 +82,9 @@ router.get("/", async (req, res) => {
                 wordVars: wordVars,
                 showVar: showVar,
                 showStyle: "display:block;visibility:visible;",
-                alts: altsString,
-                chineseLangs: ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"],
-                diacriticList: ["ã", "ẽ", "ĩ", "õ", "ũ"],
+                alts: alts,
+                chineseLangs: chineseLangs,
+                diacriticList: diacriticList,
                 prefixResult: prefixResult,
                 sources: sources
             });
@@ -112,19 +119,23 @@ function retrieveWord(dict, details, majorFormResult) {
     // retreive data from details hash object
     let wordVars = [];
     let word = details[majorFormResult];
-    let altsString = "";
+    // let altsString = "";
 
-    // list alternative spellings
-    if (dict[majorFormResult] && dict[majorFormResult].length) {
-        for (let i = 0; i < dict[majorFormResult].length; i++) {
-            if (dict[majorFormResult][i] != majorFormResult) {
-                altsString += dict[majorFormResult][i];
-                if (i < dict[majorFormResult].length - 1 && dict[majorFormResult][i + 1] != majorFormResult) {
-                    altsString += `, `;
-                }
-            }
-        }
-    }
+    // list alternative spellings (OLD CODE - Now just return alts array.)
+    // if (dict[majorFormResult] && dict[majorFormResult].length) {
+    //     for (let i = 0; i < dict[majorFormResult].length; i++) {
+    //         if (dict[majorFormResult][i] != majorFormResult) {
+    //             altsString += dict[majorFormResult][i];
+    //             if (i < dict[majorFormResult].length - 1 && dict[majorFormResult][i + 1] != majorFormResult) {
+    //                 altsString += `, `;
+    //             }
+    //         }
+    //     }
+    // }
+
+    let alts = dict[majorFormResult];
+    // this could save repeating alts in every dict entry
+    // let alts = [majorFormResult, ...dict[majorFormResult]];
 
     // either word not yet defined, or multiple words same spelling
     if (!word) {
@@ -150,7 +161,7 @@ function retrieveWord(dict, details, majorFormResult) {
     if (wordVars.length == 0) wordVars = [word];
     let showVar = (wordVars.length > 1);
 
-    return [altsString, wordVars, showVar];
+    return [alts, wordVars, showVar];
 }
 
 // generate WOTD for landing page

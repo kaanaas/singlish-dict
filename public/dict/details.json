@@ -321,7 +321,7 @@
         "category": [
             "cuisine"
         ],
-        "etyNotes": "Rendered in Mandarin as suànpánzǐ (Pinyin).<br>\r\n<i>note: verification on the Hakka etymology is requested from a native/fluent Hakka speaker!</i>",
+        "etyNotes": "Direct calque from the Hakka name. Rendered in Mandarin as suàn pán zǐ (Pinyin).<br>\r\n<i>note: verification on the Hakka etymology is requested from a native/fluent Hakka speaker!</i>",
         "origin": [
             {
                 "lang": "hakka",
@@ -375,7 +375,7 @@
         "category": [
             "cuisine"
         ],
-        "etyNotes": "Rendered in Mandarin as suànpánzǐ (Pinyin).<br>\r\n<i>note: verification on the Hakka etymology is requested from a native/fluent Hakka speaker!</i>",
+        "etyNotes": "Direct calque from the Hakka name. Rendered in Mandarin as suàn pán zǐ (Pinyin).<br>\r\n<i>note: verification on the Hakka etymology is requested from a native/fluent Hakka speaker!</i>",
         "origin": [
             {
                 "lang": "hakka",
@@ -2175,18 +2175,18 @@
                 },
                 {
                     "definition": "used to emphasize a question sentence",
-                    "example": "Why you so liddat?<br>\r\n→ Why you so liddat ah?"
+                    "example": "@{Why you so liddat}?<br>\r\n→ Why you so liddat ah?"
                 },
                 {
                     "definition": "used to impart a didactic or chiding tone (such as at the end of an imperative clause); may carry a tone of caution.",
-                    "example": "Don't play play.<br>\r\n→ Don't play play ah...",
+                    "example": "@{Don't play play}.<br>\r\n→ Don't play play ah...",
                     "synonyms": [
                         "hor"
                     ]
                 },
                 {
                     "definition": "used to express that the speaker is awaiting confirmation or acknowledgement of the sentence",
-                    "example": "Ah boy, study hard, don't come home too late.<br>\r\n→ Ah boy, study hard, don't come home too late, ah?",
+                    "example": "@{Ah boy}, study hard, don't come home too late.<br>\r\n→ Ah boy, study hard, don't come home too late, ah?",
                     "synonyms": [
                         "hor"
                     ]
@@ -2205,7 +2205,7 @@
                 },
                 {
                     "definition": "expressing continuousness; inexhaustive listing; enumeration",
-                    "example": "The new hire cannot shut up, I tell you. Talking, asking, laughing; really pek chek man.<br>\r\n→ The new hire cannot shut up, I tell you. Talk ah, ask ah, laugh ah; really pek chek man.",
+                    "example": "The new hire cannot shut up, @{I tell you}. Talking, asking, laughing; really @{pek chek} man.<br>\r\n→ The new hire cannot shut up, I tell you. Talk ah, ask ah, laugh ah; really pek chek man.",
                     "synonyms": [
                         "lah"
                     ]
@@ -2225,18 +2225,18 @@
                 },
                 {
                     "definition": "used to issue a challenge, or impart a challenging tone",
-                    "example": "Ah, then? My problem isit?"
+                    "example": "Ah, then? My problem @{isit}?"
                 },
                 {
                     "definition": "expression or exclamation of surprise",
-                    "example": "Ah! So fast dry already?",
+                    "example": "Ah! So fast dry @{already}?",
                     "synonyms": [
                         "wah"
                     ]
                 },
                 {
                     "definition": "ok; acknowledged; used to indicate acknowledgement or approval",
-                    "example": "Ah, sounds good. We go ahead with your plan ba.",
+                    "example": "Ah, sounds good. We go ahead with your plan @{ba}.",
                     "synonyms": [
                         "orh"
                     ]
@@ -3870,7 +3870,9 @@
         "word": "ang moh chu",
         "related": [
             "ang moh",
-            "bungalow"
+            "bungalow",
+            "GCB#1",
+            "chiah hong chu"
         ],
         "origin": [
             {
@@ -6573,13 +6575,13 @@
             "interjection": [
                 {
                     "definition": "(euphemistic) exclamation of anger, frustration, disappointment, surprise, etc.",
-                    "example": "Basket! @{Kena} scammed again! @{Kepala butoh} lah me..."
+                    "example": "Basket! @{Kena} scammed again! @{Kepala butoh} @{lah} me..."
                 }
             ],
             "noun": [
                 {
                     "definition": "(euphemistic) bastard",
-                    "example": "@Eh come here then you know, you bloody basket!"
+                    "example": "@{Eh} come here @{then you know}, bloody basket!"
                 }
             ]
         }
@@ -7069,7 +7071,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "a Malay fermented shrimp paste, used as a condiment in cooking or sauces like @{sambal belacan}"
+                    "definition": "a Malay fermented shrimp paste, used as a condiment in cooking or sauces like @{sambal belacan}."
                 },
                 {
                     "definition": "@{sambal belacan}",
@@ -7402,7 +7404,8 @@
                         "cheeko pek",
                         "ti ko pek",
                         "buaya",
-                        "gor kee chiu"
+                        "gor kee chiu",
+                        "chee hong"
                     ]
                 }
             ],
@@ -7417,7 +7420,8 @@
                         "cheeko pek",
                         "ti ko pek",
                         "ham sap",
-                        "lup sup"
+                        "lup sup",
+                        "chee hong"
                     ]
                 }
             ]
@@ -9635,7 +9639,10 @@
                     ],
                     "antonyms": [
                         "sui",
-                        "chio"
+                        "chio",
+                        "jude",
+                        "jambu",
+                        "cantik"
                     ]
                 },
                 {
@@ -10099,6 +10106,9 @@
         },
         "category": [
             "insults"
+        ],
+        "related": [
+            "sohai"
         ]
     },
     "boleh": {
@@ -11347,7 +11357,11 @@
                     "definition": "crocodile"
                 },
                 {
-                    "definition": "(metaphor) womanizer; playboy"
+                    "definition": "(metaphor) womanizer; playboy",
+                    "synonyms": [
+                        "hongster",
+                        "chee hong"
+                    ]
                 }
             ],
             "verb": [
@@ -11500,11 +11514,16 @@
     },
     "bungalow": {
         "word": "bungalow",
+        "related": [
+            "GCB#1",
+            "ang moh chu",
+            "chiah hong chu"
+        ],
         "origin": [
             {
                 "lang": "english",
                 "roman": "bungalow",
-                "lit": "a large, detached one-storey house",
+                "lit": "large, detached one-storey house",
                 "etyPath": [
                     "hindi"
                 ],
@@ -11807,6 +11826,9 @@
                 "link": "https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3351",
                 "name": "NParks Singapore - Flora and Fauna Web - Citrus × microcarpa"
             }
+        ],
+        "related": [
+            "limau"
         ]
     },
     "calefare": {
@@ -13526,7 +13548,69 @@
             "interjection": [
                 {
                     "definition": "(vulgar, offensive) exclamation of anger, displeasure, frustration, or contempt; 'fuck!'",
-                    "example": "Chao chi bai, @{kena} SOL again!"
+                    "example": "Chao chi bai, @{kena} @{SOL} again!"
+                }
+            ]
+        },
+        "related": [
+            "chao",
+            "chee bai",
+            "CCB",
+            "KNNBCCB"
+        ],
+        "category": [
+            "insults",
+            "vulgar"
+        ],
+        "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words."
+    },
+    "ccb": {
+        "word": "CCB",
+        "etyNotes": "Initialism of @{chao chee bai}.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "chao chee bai",
+                "lit": "(vulgar, offensive) smelly cunt; bitch; exclamation of anger, displeasure, frustration, or contempt; 'fuck!'",
+                "etyPath": [
+                    "hokkien",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "臭膣屄",
+                    "臭",
+                    "膣屄"
+                ],
+                "etyTrad": [
+                    "臭膣屄",
+                    "臭",
+                    "膣屄"
+                ],
+                "etyRoman": [
+                    "chhàu-chi-bai",
+                    "chhàu",
+                    "chi-bai"
+                ],
+                "etyLit": [
+                    "(vulgar, offensive) smelly cunt",
+                    "smelly; repulsive; bad; detestable",
+                    "(vulgar) cunt; vagina; vulva"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar, offensive, initialism) smelly cunt; bitch"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(vulgar, offensive, initialism) exclamation of anger, displeasure, frustration, or contempt; 'fuck!'"
                 }
             ]
         },
@@ -13539,7 +13623,7 @@
             "vulgar",
             "abbreviations"
         ],
-        "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words."
+        "usage": "See @{chao chee bai}."
     },
     "chao keng": {
         "word": "chao keng",
@@ -14132,7 +14216,10 @@
                 {
                     "definition": "(derogatory) bastard; a person born out of an affair, or out of wedlock; term of abuse for a bastard or mixed-race person",
                     "example": "Many migrant Chinese viewed the peranakan as a community of 'culturally-bastardised Chinese'. Derogatory terms such as chap cheng kia (or bastard) were used liberally to describe the peranakan, and were flashpoints in public spaces.",
-                    "exampleSource": "Koh, E. (2007). \"Singapore Stories - Language and Class in Singapore: An investigation into the socio-economic implications of English literacy as a life chance among the ethnic Chinese of Singapore from 1945 to 2000\" [Ph.D thesis, U. W. Aust.]. p.69"
+                    "exampleSource": "Koh, E. (2007). \"Singapore Stories - Language and Class in Singapore: An investigation into the socio-economic implications of English literacy as a life chance among the ethnic Chinese of Singapore from 1945 to 2000\" [Ph.D thesis, U. W. Aust.]. p.69",
+                    "synonyms": [
+                        "chap cheng"
+                    ]
                 },
                 {
                     "definition": "(sometimes derogatory) a person of mixed ethnic heritage",
@@ -14159,6 +14246,108 @@
                 "name": "教育部臺灣閩南語常用詞辭典 - 雜種仔囝"
             }
         ]
+    },
+    "chap cheng": {
+        "word": "chap cheng",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "雜種",
+                "simplified": "杂种",
+                "roman": "cha̍p-chéng",
+                "lit": "(derog.) bastard; mongrel; half-breed",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "杂",
+                    "种"
+                ],
+                "etyTrad": [
+                    "雜",
+                    "種"
+                ],
+                "etyRoman": [
+                    "cha̍p",
+                    "chéng"
+                ],
+                "etyLit": [
+                    "mixed; all kinds",
+                    "ethnicity; breed; kind; sort"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "十種",
+                "simplified": "十种",
+                "roman": "cha̍p-chéng",
+                "lit": "hybrid; crossbreed, (derog.) bastard",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "十",
+                    "种"
+                ],
+                "etyTrad": [
+                    "十",
+                    "種"
+                ],
+                "etyRoman": [
+                    "cha̍p",
+                    "chéng"
+                ],
+                "etyLit": [
+                    "ten",
+                    "ethnicity; breed; kind; sort"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) bastard; a person born out of an affair, or out of wedlock; term of abuse for a bastard or mixed-race person",
+                    "synonyms": [
+                        "chap cheng kia"
+                    ]
+                },
+                {
+                    "definition": "(sometimes derogatory, not necessarily of humans) a hybrid; a crossbreed; a mongrel; a half-breed",
+                    "example": "Short for Chap-cheng, probably. Hokkien for ten bloods. They call us that when we are not looking, ...",
+                    "exampleSource": "1993, Rex Shelley. \"People of The Pear Tree\", Marshall Cavendish International Asia Pte Ltd. ISBN: 9789814346245",
+                    "synonyms": [
+                        "rojak",
+                        "chap cheng kia",
+                        "chapalang"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(sometimes derogatory, not necessarily of humans) hybrid; crossbred; half-breed; mixed",
+                    "example": "Taking Suyin out of classes where girls—they were always girls—pointed at the widow's peak and sang, \"Chap-cheng-chap-cheng-kwei.\"<br>\"Mixed-up devil,\" Grandma Yeh explained to Suyin.",
+                    "exampleSource": "2001, Shirley Geok-lin Lim. \"Joss and Gold\", Marshall Cavendish International Asia Pte Ltd. ISBN: 9789812321428. p.207",
+                    "synonyms": [
+                        "rojak"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "basket"
+        ],
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "杂种/雜種 was probably the original term, but 雜/杂 became conflated with 十 since they are full homophones (both <i>cha̍p</i>) and the term makes sense with either word in Hokkien."
     },
     "chap chye": {
         "word": "chap chye",
@@ -14751,13 +14940,13 @@
             ]
         },
         "related": [
-            "knnbccb",
-            "ccb"
+            "KNNBCCB",
+            "chao chee bai",
+            "CB"
         ],
         "category": [
             "insults",
-            "vulgar",
-            "abbreviations"
+            "vulgar"
         ],
         "usage": "Extremely harsh, crude, vulgar, but at the same time one of the more popular and universally-known Singlish swear words.<br>Bok (2012) suggests that the term, as a term of insult or abuse, used to be gender-specific, and that \"chee bai\" (\"cunt\") would be used to scold women while \"@{lan jiao}\" (\"penis\") would be used to scold men. However, this distinction is lost in current times, and \"chee bai\" is now usually used with no regard for the gender of the opposing party.^{1}",
         "references": [
@@ -14766,6 +14955,61 @@
                 "name": "Bok, S. C. (2012). Not so \"chee bai\" anymore: a look at Hokkien swear words in Singapore and how they have changed over time. NTU. p.38"
             }
         ]
+    },
+    "cb": {
+        "word": "CB",
+        "etyNotes": "Initialism of @{chee bai}.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "chee bai",
+                "lit": "(vulgar, offensive) cunt; bitch; fucker; vagina; vulva; exclamation of anger, displeasure, etc.; 'fuck!'",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "膣屄"
+                ],
+                "etyTrad": [
+                    "膣屄"
+                ],
+                "etyRoman": [
+                    "chi-bai"
+                ],
+                "etyLit": [
+                    "(vulgar, offensive) cunt; vagina; vulva"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar, offensive) cunt; bitch; fucker",
+                    "example": "@{Oei}, CB dog. You think what? Your @{grandfather road} @{isit}?"
+                },
+                {
+                    "definition": "(vulgar, offensive) vagina; vulva"
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "(vulgar, offensive) exclamation of anger, displeasure, frustration, contempt, incredulity etc.; 'cunt!'; 'fuck!'"
+                }
+            ]
+        },
+        "related": [
+            "KNNBCCB",
+            "CCB",
+            "CB leaf",
+            "CB plant",
+            "CB bin"
+        ],
+        "category": [
+            "insults",
+            "vulgar",
+            "abbreviations"
+        ],
+        "usage": "See @{chee bai}."
     },
     "chee bai bin": {
         "word": "chee bai bin",
@@ -14969,7 +15213,8 @@
                         "cheekopek",
                         "buaya",
                         "bian tai",
-                        "gor kee chiu"
+                        "gor kee chiu",
+                        "chee hong"
                     ]
                 }
             ],
@@ -14983,7 +15228,8 @@
                         "ham sap",
                         "ti ko pek",
                         "cheeko pek",
-                        "bian tai"
+                        "bian tai",
+                        "chee hong"
                     ]
                 }
             ],
@@ -16145,7 +16391,9 @@
             "chiah",
             "bungalow",
             "makan angin",
-            "chap lau chu"
+            "chap lau chu",
+            "ang moh chu",
+            "GCB"
         ],
         "origin": [
             {
@@ -16507,6 +16755,9 @@
                 "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=ceddd346-4072-4981-b20d-f771bea7dd81",
                 "name": "2016, Suchitthra Vasu. NLB. Singapore Infopedia - Hainanese chicken rice"
             }
+        ],
+        "related": [
+            "Hainanese"
         ]
     },
     "chicken rice ball": {
@@ -17355,7 +17606,8 @@
                     "synonyms": [
                         "sui",
                         "cantik",
-                        "jude"
+                        "jude",
+                        "jambu"
                     ],
                     "antonyms": [
                         "cui",
@@ -18218,7 +18470,9 @@
     "har cheong": {
         "word": "har cheong",
         "related": [
-            "hae bi hiam"
+            "belacan",
+            "hae bi hiam",
+            "hae ko"
         ],
         "category": [
             "cuisine"
@@ -18237,9 +18491,8 @@
             "noun": [
                 {
                     "definition": "a Chinese fermented shrimp paste, used as a condiment in dishes such as @{har cheong gai}.",
-                    "synonyms": [
-                        "belacan"
-                    ]
+                    "example": "There’re many types of fermented prawn paste. I could smell this one once the bottle was open.<br>OMG, this is potent stuff!<br>It wasn’t @{belachan} ... Nor was it Penang @{hae ko} ... <br>What I had was har cheong, a liquid prawn paste made in Hong Kong. It was a very appetizing grey – oh yum! ...",
+                    "exampleSource": "2022 November 8. KitchenTigress, \"Har Cheong Gai (Prawn Paste Chicken) (I)\". https://kitchentigress.com/how-to-make-har-cheong-gai/"
                 }
             ]
         }
@@ -18786,7 +19039,9 @@
         "word": "kepala butoh",
         "related": [
             "butoh",
-            "chee bai bin"
+            "chee bai bin",
+            "sohai",
+            "cock"
         ],
         "origin": [
             {
@@ -20752,6 +21007,7 @@
                     "definition": "cool-headed; reliable; solid; capable; ready",
                     "example": "Ah Soon damn steady one, never siam work never keng never take MC.",
                     "synonyms": [
+                        "solid",
                         "sei"
                     ],
                     "antonyms": [
@@ -20764,7 +21020,9 @@
                 {
                     "definition": "alright!; nice!",
                     "synonyms": [
-                        "ho seh"
+                        "ho seh",
+                        "solid",
+                        "sui"
                     ]
                 }
             ]
@@ -20957,7 +21215,8 @@
                     "synonyms": [
                         "chio",
                         "cantik",
-                        "jude"
+                        "jude",
+                        "jambu"
                     ],
                     "antonyms": [
                         "cui",
@@ -20967,6 +21226,9 @@
                 },
                 {
                     "definition": "excellent, nice",
+                    "synonyms": [
+                        "solid"
+                    ],
                     "antonyms": [
                         "cui"
                     ]
@@ -20996,7 +21258,10 @@
                     "definition": "'awesome'; 'nice!'; 'beautiful'",
                     "example": "Swee lah! My application got approved.",
                     "synonyms": [
-                        "cantik"
+                        "cantik",
+                        "solid",
+                        "steady#1 *{lah}",
+                        "ho seh"
                     ]
                 }
             ]
@@ -21064,7 +21329,8 @@
                         "cheeko pek",
                         "buaya",
                         "bian tai",
-                        "gor kee chiu"
+                        "gor kee chiu",
+                        "chee hong"
                     ]
                 }
             ],
@@ -21078,7 +21344,8 @@
                         "ham sap",
                         "ti ko pek",
                         "cheeko pek",
-                        "bian tai"
+                        "bian tai",
+                        "chee hong"
                     ]
                 }
             ],
@@ -21544,7 +21811,8 @@
                         "bodoh",
                         "buay kan",
                         "kham gong",
-                        "gong"
+                        "gong",
+                        "sohai"
                     ]
                 }
             ],
@@ -21557,7 +21825,8 @@
                         "butoh",
                         "cockanathan",
                         "clown",
-                        "cock"
+                        "cock",
+                        "sohai"
                     ]
                 }
             ]
@@ -21827,7 +22096,8 @@
         "word": "jude",
         "related": [
             "zhut zhut",
-            "zhut"
+            "zhut",
+            "jambu"
         ],
         "origin": [
             {
@@ -21879,6 +22149,7 @@
                 {
                     "definition": "pretty; beautiful; good-looking",
                     "synonyms": [
+                        "jambu",
                         "sui",
                         "chio",
                         "jude"
@@ -22233,7 +22504,10 @@
                         "sui",
                         "chio",
                         "hamsum",
-                        "yan tau"
+                        "yan tau",
+                        "jambu",
+                        "cantik",
+                        "jude"
                     ]
                 },
                 {
@@ -23050,7 +23324,8 @@
                         "clown",
                         "dum bai",
                         "bodoh",
-                        "butoh"
+                        "butoh",
+                        "sohai"
                     ]
                 }
             ]
@@ -23112,7 +23387,8 @@
                         "clown",
                         "dum bai",
                         "bodoh",
-                        "butoh"
+                        "butoh",
+                        "sohai"
                     ]
                 }
             ]
@@ -23376,7 +23652,8 @@
                         "bodoh",
                         "dum bai",
                         "blur king",
-                        "butoh"
+                        "butoh",
+                        "sohai"
                     ]
                 }
             ]
@@ -25473,7 +25750,7 @@
         "category": [
             "vulgar"
         ],
-        "etyNotes": "Possibly related to the pendulous nature of the testicles, resembling the clapper of a swinging bell. Compare English slang, which instead means 'penis', via <i>thing</i> → <i>ding</i> (also 'ding' or similar in other Germanic languages)."
+        "etyNotes": "Possibly related to the pendulous nature of the testicles, resembling the clapper of a swinging bell. Compare the English slang <i>ding-dong</i>, which instead means 'penis', via <i>thing</i> → <i>ding</i> (also 'ding' or similar in other Germanic languages)."
     },
     "dinobu": {
         "word": "dinobu",
@@ -25773,7 +26050,10 @@
             "verb": [
                 {
                     "definition": "(military, transitive, followed by a number) to do a specified number of push-ups; to do a push-up",
-                    "example": "@{Chao recruit}, this ziploc got more hole than golf course! Drop 20!"
+                    "example": "@{Chao recruit}, this ziploc got more hole than golf course! Drop 20!",
+                    "synonyms": [
+                        "carry on"
+                    ]
                 },
                 {
                     "definition": "(military) to get into a push-up position",
@@ -27590,7 +27870,8 @@
                         "bodoh",
                         "dum bai",
                         "cock fella",
-                        "goondu"
+                        "goondu",
+                        "sohai"
                     ]
                 }
             ],
@@ -27600,7 +27881,8 @@
                     "synonyms": [
                         "bodoh",
                         "dum bai",
-                        "bo idea"
+                        "bo idea",
+                        "sohai"
                     ]
                 }
             ]
@@ -27890,13 +28172,13 @@
                 },
                 {
                     "definition": "used to express a chiding or pleading tone, disapproval, or disappointment",
-                    "example": "Eh… @{Dun} @{liddat} one leh. Can then say can, don’t @{kong wu kong bo}."
+                    "example": "Eh… @{Dun} @{liddat} one leh. @{Can} then say @{can}, don’t @{kong wu kong bo}."
                 }
             ],
             "particle": [
                 {
                     "definition": "used to impart a pleading, annoyed, or disappointed tone, or otherwise emphasize another expression expressing such a sentiment",
-                    "example": "@{Walao} eh, these bicyclists hog the middle of the main road, really make people damn @{tu lan}"
+                    "example": "@{Walao} eh, these bicyclists hog the middle of the main road, really make people damn @{tu lan}."
                 },
                 {
                     "definition": "used at the end of a word or phrase to express surprise, or draw attention to a surprising situation or turn of events, especially when there is a contradiction or subversion of expectations (see usage notes)",
@@ -28103,7 +28385,8 @@
                         "dum bai",
                         "stupiak",
                         "gong",
-                        "kham gong"
+                        "kham gong",
+                        "sohai"
                     ]
                 },
                 {
@@ -29789,7 +30072,7 @@
                 ]
             }
         ],
-        "ngram": "https://books.google.com/ngrams/interactive_chart?content=go+and+fly+a+kite,go+fly+a+kite&year_start=1805&year_end=2019&corpus=en-2019&smoothing=4",
+        "ngram": "https://books.google.com/ngrams/interactive_chart?content=go+and+fly+a+kite,go+fly+a+kite,Go+fly+a+kite&year_start=1805&year_end=2019&corpus=en-2019&smoothing=4",
         "meanings": {
             "expression": [
                 {
@@ -31529,6 +31812,7 @@
         "word": "garang",
         "related": [
             "chiong sua",
+            "hiong",
             "on",
             "onz"
         ],
@@ -33560,7 +33844,9 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "(derogatory) a person of Eurasian descent"
+                    "definition": "(possibly derogatory) a person of Eurasian descent",
+                    "example": "... or as a condiment such as in @{cincalok} which has its origins from the geragok (or krill) fishermen of Malacca (relatively darker skinned descendants of Portuguese who intermarried with the local population and who are often referred to as \"Geragok\").",
+                    "exampleSource": "2010 July 2, Jerome Lim. The Long and Winding Road, \"Aromatherapy and storks on the shores of northern Perak\". https://thelongnwindingroad.wordpress.com/2010/07/02/aromatherapy-and-storks-on-the-shores-of-northern-perak/"
                 }
             ]
         },
@@ -34601,7 +34887,10 @@
                         "sui",
                         "chio",
                         "hamsum",
-                        "yan tau"
+                        "yan tau",
+                        "jambu",
+                        "jude",
+                        "cantik"
                     ]
                 }
             ]
@@ -40646,10 +40935,16 @@
         },
         "category": [
             "cuisine"
+        ],
+        "related": [
+            "hae"
         ]
     },
     "hae bee hiam": {
         "word": "hae bee hiam",
+        "related": [
+            "hae"
+        ],
         "origin": [
             {
                 "lang": "min nan",
@@ -41034,6 +41329,7 @@
     "close one eye": {
         "word": "close one eye",
         "related": [
+            "by left",
             "close eye",
             "no eye see"
         ],
@@ -41214,6 +41510,7 @@
     },
     "cancel last": {
         "word": "cancel last",
+        "usage": "Commonly used outside of military contexts as well.",
         "origin": [
             {
                 "lang": "english",
@@ -42208,8 +42505,7 @@
             ],
             "adjective": [
                 {
-                    "definition": "(derogatory, offensive) Singaporean; of or relating to Singapore",
-                    "example": "Sinkie mentality"
+                    "definition": "(derogatory, offensive) Singaporean; of or relating to Singapore"
                 }
             ]
         }
@@ -42324,7 +42620,7 @@
         },
         "related": [
             "buay",
-            "song kau kurong"
+            "song kao Jurong"
         ]
     },
     "kau wei": {
@@ -42433,5 +42729,2371 @@
                 "name": "OED - The rise and rise of slang"
             }
         ]
+    },
+    "smart 4": {
+        "word": "Smart 4",
+        "related": [
+            "long 4"
+        ],
+        "category": [
+            "ns"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "smart",
+                "lit": "(of a style of dress) good-looking; neat; well-kempt; fine"
+            },
+            {
+                "lang": "english",
+                "roman": "No. 4",
+                "lit": "(mil.) abbreviation of 'Number 4', the designation of the camouflaged combat uniform of the SAF"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a variant of the No. 4 uniform worn by soldiers with the sleeves folded high to the upper arm level, leaving about 4 fingers from the shoulder to the folded section. It is used in most cases when wearing the uniform outside of a combat or training situation."
+                }
+            ]
+        }
+    },
+    "long 4": {
+        "word": "long 4",
+        "related": [
+            "Smart 4"
+        ],
+        "category": [
+            "ns"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "long",
+                "lit": "extended; lengthy"
+            },
+            {
+                "lang": "english",
+                "roman": "No. 4",
+                "lit": "(mil.) abbreviation of 'Number 4', the designation of the camouflaged combat uniform of the SAF"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) a variant of the No. 4 uniform worn by soldiers with the sleeves let down and the cuffs done up. It is used in most cases when wearing the uniform in of a combat or training situation."
+                }
+            ]
+        }
+    },
+    "sohai": {
+        "word": "sohai",
+        "related": [
+            "chee bai",
+            "puki",
+            "pantat"
+        ],
+        "category": [
+            "insults",
+            "vulgar"
+        ],
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "傻𲈹",
+                "traditional": "傻閪",
+                "roman": "so4 hai1",
+                "lit": "stupid cunt; idiot; dumbass; contemptible person",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "傻",
+                    "𲈹"
+                ],
+                "etyTrad": [
+                    "傻",
+                    "閪"
+                ],
+                "etyRoman": [
+                    "so4",
+                    "hai1"
+                ],
+                "etyLit": [
+                    "stupid; dumb; foolish",
+                    "(vg.) cunt; vulva; female genitalia; fucking"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(vulgar, offensive) stupid cunt; stupid fuck"
+                },
+                {
+                    "definition": "(vulgar, offensive) idiot; dumbass; general term of abuse of a contemptible person",
+                    "synonyms": [
+                        "bodoh",
+                        "dum bai",
+                        "cock fella",
+                        "goondu",
+                        "goblok"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(vulgar, offensive) stupid; idiotic",
+                    "example": "@{Nabei} ... Change ur name to sohai dog @{la} @{pcb} delivery 1 food u @{also} cannot do properly",
+                    "exampleSource": "2020 August 2, @divijfn. Twitter (nka X). https://x.com/divijfn/status/1289930248750903297",
+                    "synonyms": [
+                        "bo idea",
+                        "bodoh",
+                        "buay kan",
+                        "kham gong",
+                        "gong",
+                        "dum bai"
+                    ]
+                }
+            ]
+        }
+    },
+    "by left": {
+        "word": "by left",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "by right",
+                "lit": "properly; correctly; in fairness; accordingly",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "by",
+                    "right"
+                ],
+                "etyLit": [
+                    "according to; as per",
+                    "appropriate; correct; true; just"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "left",
+                "lit": "direction opposite of right, indicated by this arrow ←"
+            }
+        ],
+        "meanings": {
+            "preposition": [
+                {
+                    "definition": "(idiom) used to introduce a possibility that subverts or does not conform to the expected, legal, social, etc. protocol",
+                    "example": "By right @{cannot} U-turn here, but by left..."
+                }
+            ]
+        },
+        "related": [
+            "can is can",
+            "close one eye"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "usage": "Used in tandem with a '<i>by right</i>' statement, to express an alternate possibility that subverts the previous statement.",
+        "etyNotes": "Derived humorously as the counterpart of the English phrase <i>by right</i>, just as <i>right</i> is to <i>left</i>."
+    },
+    "hongster": {
+        "word": "hongster",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "风骚",
+                "traditional": "風騷",
+                "roman": "hong-so",
+                "lit": "flirtatious; coquettish; teasing; attractive; playful; promiscuous",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "风",
+                    "骚"
+                ],
+                "etyTrad": [
+                    "風",
+                    "騷"
+                ],
+                "etyRoman": [
+                    "hong",
+                    "so"
+                ],
+                "etyLit": [
+                    "demeanor; promiscuous; lewd; dissolute; love; sexual attraction",
+                    "provoke; flirty; coquettish"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "-ster",
+                "lit": "sb. who does or is associated with sth."
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(of a man) a flirt; a womanizer; a playboy; a promiscuous man",
+                    "synonyms": [
+                        "buaya"
+                    ]
+                },
+                {
+                    "definition": "(of a girl or woman) a flirt; a coquette; a tease; an attractive and playful girl; a promiscuous woman"
+                }
+            ]
+        },
+        "related": [
+            "buaya",
+            "chee hong",
+            "chio bu",
+            "chiongster",
+            "cockster",
+            "kengster",
+            "tiong sim is a lie hongster never die"
+        ],
+        "usage": "While the original Hokkien term only applied to female persons, the Singlish term is used for either gender."
+    },
+    "chee hong": {
+        "word": "chee hong",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "痴风",
+                "traditional": "痴風",
+                "roman": "chhi-hong",
+                "lit": "lustful; thirsty; skirt-chasing",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "痴",
+                    "风"
+                ],
+                "etyTrad": [
+                    "痴",
+                    "風"
+                ],
+                "etyRoman": [
+                    "chhi",
+                    "hong"
+                ],
+                "etyLit": [
+                    "crazy about; infatuated; foolish; deluded",
+                    "demeanor; promiscuous; lewd; dissolute; love; sexual attraction"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "lustful; skirt-chasing; thirsty for women; simping"
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a skirt-chaser; a pervert; someone thirsty for women; a simp",
+                    "example": "In my @{paikai|pai kia} phase in my youngster years we call some who is such a simp, a cheehong, that they are willing to go to war with china for a woman. [sic]",
+                    "exampleSource": "2023 March 1, moonraiser. Hardwarezone, \"u all remember this term called \"chee hong\"\". https://forums.hardwarezone.com.sg/threads/u-all-remember-this-term-called-chee-hong.6877693/page-2",
+                    "synonyms": [
+                        "buaya",
+                        "cheeko",
+                        "ti ko",
+                        "bian tai"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "buaya",
+            "cheeko",
+            "cheeko pek",
+            "hongster"
+        ],
+        "usage": "insults"
+    },
+    "tiong sim": {
+        "word": "tiong sim",
+        "related": [
+            "tiong sim is a lie, hongster never die",
+            "hongster"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "忠心",
+                "traditional": "忠心",
+                "roman": "tiong-sim",
+                "lit": "loyalty; faithfulness; devotion"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "loyalty; faithfulness; devotion",
+                    "example": "@{I tell you} @{ah}, Alice @{got} no tiongsim @{one}. 1 year change 4 boyfriend."
+                }
+            ]
+        }
+    },
+    "tiong sim is a lie, hongster never die": {
+        "word": "tiong sim is a lie, hongster never die",
+        "related": [
+            "tiong sim",
+            "hongster",
+            "never die before"
+        ],
+        "usage": "Usually used in a cynical, sardonic, and pithy manner when someone gets cheated on by their partner.",
+        "category": [
+            "sayings",
+            "rhyming slang"
+        ],
+        "etyNotes": "See @{tiong sim} and @{hongster}.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "忠心",
+                "traditional": "忠心",
+                "roman": "tiong-sim",
+                "lit": "loyalty; faithfulness; devotion"
+            },
+            {
+                "lang": "english",
+                "roman": "is a lie",
+                "lit": "be untrue; be misleading; be deceiving"
+            },
+            {
+                "lang": "singlish",
+                "roman": "hongster",
+                "lit": "flirt; coquette; womanizer; playboy; promiscuous person",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "风骚",
+                    "风",
+                    "骚",
+                    ""
+                ],
+                "etyTrad": [
+                    "風騷",
+                    "風",
+                    "騷",
+                    ""
+                ],
+                "etyRoman": [
+                    "hong-so",
+                    "hong",
+                    "so",
+                    "-ster"
+                ],
+                "etyLit": [
+                    "flirtatious; coquettish; teasing; attractive; playful; promiscuous",
+                    "demeanor; promiscuous; lewd; dissolute; love; sexual attraction",
+                    "provoke; flirty; coquettish",
+                    "sb. who does or is associated with sth."
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "never",
+                "lit": "will not; did not; has not",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "never"
+                ],
+                "etyLit": [
+                    "not ever"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "die",
+                "lit": "stop living; become dead; fade off or away"
+            }
+        ],
+        "meanings": {
+            "proverb": [
+                {
+                    "definition": "faithfulness and loyalty is overrated, and will result in heartbreak and betrayal, while cheaters and those who flirt and sleep around will never get their hearts broken",
+                    "synonyms": [
+                        "hongster never die, tiong sim is a lie"
+                    ]
+                }
+            ]
+        }
+    },
+    "hongster never die, tiong sim is a lie": {
+        "word": "hongster never die, tiong sim is a lie",
+        "related": [
+            "tiong sim",
+            "hongster",
+            "never die before"
+        ],
+        "usage": "Usually used in a cynical, sardonic, and pithy manner when someone gets cheated on by their partner. Variant form of @{tiong sim is a lie, hongster never die}.",
+        "category": [
+            "sayings",
+            "rhyming slang"
+        ],
+        "etyNotes": "See @{tiong sim} and @{hongster}.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "hongster",
+                "lit": "flirt; coquette; womanizer; playboy; promiscuous person",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "风骚",
+                    "风",
+                    "骚",
+                    ""
+                ],
+                "etyTrad": [
+                    "風騷",
+                    "風",
+                    "騷",
+                    ""
+                ],
+                "etyRoman": [
+                    "hong-so",
+                    "hong",
+                    "so",
+                    "-ster"
+                ],
+                "etyLit": [
+                    "flirtatious; coquettish; teasing; attractive; playful; promiscuous",
+                    "demeanor; promiscuous; lewd; dissolute; love; sexual attraction",
+                    "provoke; flirty; coquettish",
+                    "sb. who does or is associated with sth."
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "never",
+                "lit": "will not; did not; has not",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "never"
+                ],
+                "etyLit": [
+                    "not ever"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "die",
+                "lit": "stop living; become dead; fade off or away"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "忠心",
+                "traditional": "忠心",
+                "roman": "tiong-sim",
+                "lit": "loyalty; faithfulness; devotion"
+            },
+            {
+                "lang": "english",
+                "roman": "is a lie",
+                "lit": "be untrue; be misleading; be deceiving"
+            }
+        ],
+        "meanings": {
+            "proverb": [
+                {
+                    "definition": "faithfulness and loyalty is overrated, and will result in heartbreak and betrayal, while cheaters and those who flirt and sleep around will never get their hearts broken",
+                    "synonyms": [
+                        "tiong sim is a lie, hongster never die"
+                    ]
+                }
+            ]
+        }
+    },
+    "siam bu": {
+        "word": "siam bu",
+        "related": [
+            "diao hua",
+            "viet bu",
+            "siam diu",
+            "bu"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Siam",
+                "lit": "former name of Thailand; Thai; Siamese",
+                "etyPath": [
+                    "thai"
+                ],
+                "etyScript": [
+                    "สยาม"
+                ],
+                "etyRoman": [
+                    "sà-yǎam"
+                ],
+                "etyLit": [
+                    "former name of Thailand"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "母",
+                "simplified": "母",
+                "roman": "bú",
+                "romanization": "poj",
+                "lit": "mother; female"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Thai girl; a woman of Thai ethnicity, especially a young and attractive one working at a @{siam diu} (Thai disco).",
+                    "example": "The extent some of these men decorate their favourite Siam Bu with Garlands and sashes is insane. With each garland and sash ranging from $10 to $10,000, some spend thousands a night just to impress.",
+                    "exampleSource": "2020 January 15, Ming Feng. Seedly, \"Ever Wondered How A Thai Disco Worker (Siam Bu) Makes Money? They Can Make More Than $6,620 per Month!\". https://blog.seedly.sg/how-siam-bu-thai-disco-workers-make-money-salary-commission-referral-fee/"
+                }
+            ]
+        }
+    },
+    "siam diu": {
+        "word": "siam diu",
+        "related": [
+            "diao hua",
+            "siam bu"
+        ],
+        "etyNotes": "'Diu' is cognate with 'diao' in @{diao hua}, which is derived from Mandarin.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Siam",
+                "lit": "former name of Thailand; Thai; Siamese",
+                "etyPath": [
+                    "thai"
+                ],
+                "etyScript": [
+                    "สยาม"
+                ],
+                "etyRoman": [
+                    "sà-yǎam"
+                ],
+                "etyLit": [
+                    "former name of Thailand"
+                ]
+            },
+            {
+                "lang": "cantonese",
+                "traditional": "吊",
+                "simplified": "吊",
+                "roman": "diu3",
+                "lit": "hang"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Thai disco or nightclub, usually featuring young, attractive Thai hostesses (or hostesses from other countries in the region) who customers can @{diao hua} for (pay to hang flower garlands or coloured sashes on) in exchange for their time and attention. Unlike a stereotypical club, siam dius usually feature a cozier atmosphere (in part due to a smaller size) and calmer music genres, with one of the most popular being manyao (slow Chinese pop).",
+                    "example": "TBH, all the entertainment you need at a siam diu is laid out in front of you — talking, drinking and playing games with the siam bus.",
+                    "exampleSource": "2023 April 5, Nicole Yong. Zula, \"11 Siam Dius In Singapore To Add Entertainment To Your Nightlife, Based On Local Recommendations\". https://zula.sg/siam-diu-singapore/"
+                }
+            ]
+        }
+    },
+    "viet bu": {
+        "word": "viet bu",
+        "related": [
+            "diao hua",
+            "siam bu",
+            "siam diu",
+            "bu"
+        ],
+        "etyNotes": "Exact meaning or origin of the Chinese words for 'Viet' are unknown, and whether the word is an exonym derived from the Chinese words or a native Vietnamese name is not known either. However, they first appear in ancient oracle bone writing in these forms.",
+        "origin": [
+            {
+                "lang": "vietnamese",
+                "roman": "Việt",
+                "lit": "Vietnamese; Vietnam",
+                "etyPath": [
+                    "old chinese",
+                    "old chinese"
+                ],
+                "etyScript": [
+                    "越",
+                    "戉"
+                ],
+                "etyTrad": [
+                    "越",
+                    "戉"
+                ],
+                "etyRoman": [
+                    "yuè",
+                    "yuè"
+                ],
+                "etyLit": [
+                    "Vietnam; Vietnamese; beyond",
+                    "type of ancient battleaxe"
+                ]
+            },
+            {
+                "lang": "hokkien",
+                "traditional": "母",
+                "simplified": "母",
+                "roman": "bú",
+                "romanization": "poj",
+                "lit": "mother; female"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Vietnamese girl; a woman of Vietnamese nationality, ethnicity, etc., especially a young and attractive one",
+                    "example": "Viet bu @{kpkb} @{Ah Pek} for standing near her in the MRT.",
+                    "exampleSource": "2022 May 9, NUS - No Use Singapore (Facebook post). https://www.facebook.com/nousesg/videos/viet-bu-kpkb-ah-pek-for-standing-near-her-in-the-mrt/545145850543092/"
+                }
+            ]
+        }
+    },
+    "song kao jurong": {
+        "word": "song kao Jurong",
+        "related": [
+            "song",
+            "buay song",
+            "not happy",
+            "shiok",
+            "kau wei"
+        ],
+        "category": [
+            "sayings",
+            "rhyming slang"
+        ],
+        "etyNotes": "The ultimate etymology of the word 'jurong' is unclear, and is suggested to be either from Malay <i>jerung</i> (\"shark\"), <i>jurang</i> (\"gorge; gap\"), or <i>penjuru</i> (\"corner\" - Penjuru is still the name of a subregion of Jurong).^{1}<br>The choice of Jurong in this idiom is most likely just for the rhyme (as with other Singlish rhyming slang like @{yaya papaya}). It may also be related to how Jurong is often perceived as extremely @{ulu} (remote and far out of the way), and is thus a stand-in for some arbitrary distant location which one is swept away to in their overwhelming satisfaction.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "爽",
+                "traditional": "爽",
+                "roman": "sóng",
+                "lit": "happy; satisfied; pleased; feel good; enjoyable"
+            },
+            {
+                "lang": "hokkien",
+                "simplified": "到",
+                "traditional": "到",
+                "roman": "kàu",
+                "lit": "arrive; to; until; to the extent that"
+            },
+            {
+                "lang": "malay",
+                "roman": "Jurong",
+                "lit": "major district or geographical area in the west of Singapore",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "Sungei Jurong"
+                ],
+                "etyLit": [
+                    "name of a river which flows in the Jurong area"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "to be so satisfied and pleased that one is taken all the way to Jurong",
+                    "example": "@{Wa} @{eh sai} 予汝 @{song}<br>Song kao Jurong<br>But whatever you do some people still gon’ be @{buay song}",
+                    "exampleSource": "2014, ShiGGa Shay - \"LimPeh\". LimPeh - EP, Ginette Chittick."
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.nhb.gov.sg/~/media/nhb/files/places/trails/jurong/jurong%20heritage_24042015_preview.pdf?la=en",
+                "name": "National Heritage Board (Singapore) - Jurong Heritage Trail. p.3"
+            }
+        ]
+    },
+    "coolie": {
+        "word": "coolie",
+        "related": [
+            "Samsui woman"
+        ],
+        "etyNotes": "Contrary to what many believe, Mandarin 苦力, kǔ lì was not the origin of the term in English, and was likely only related (and used as the Mandarin word for 'coolie') from it coincidentally sounding similar to the English word.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "coolie",
+                "lit": "manual labourer, usu. Chinese or Indian, imported from their countries to work as indentured labourers",
+                "etyPath": [
+                    "hindustani",
+                    "old turkish"
+                ],
+                "etyScript": [
+                    "क़ुली",
+                    "قل"
+                ],
+                "etyRoman": [
+                    "qulī",
+                    "qul"
+                ],
+                "etyLit": [
+                    "slave; porter; servant",
+                    "slave"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "manual labourers, usually ethnically Chinese, who emigrated from China to Singapore in three waves between 1823 - 1927 in hope for a better life — though most would only find work as indentured labourers. They were usually associated with a guild corresponding to their native language or hometown on arrival. Coolies formed an essential part of early Singapore’s labour force. Their work was difficult and backbreaking, and they often faced additional hardships such as exploitation, mistreatment, and abuse by their managers and brokers.^{1}",
+                    "example": "In the 1930s, coolie quarters were a common sight in Chinatown. The coolies lived in deplorable and unsanitary conditions with little light and poor ventilation.",
+                    "exampleSource": "2015 October 1, Lim Tin Seng. NLB - BiblioAsia, \"Triads, Coolies and Pimps: Chinatown in Former Times\". https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/coolies/"
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=1934198c-b5bf-4980-abc7-0aeb29ed39c9",
+                "name": "2016, Naidu Ratnala Thulaja. NLB. Singapore Infopedia - Chinese coolies"
+            }
+        ]
+    },
+    "sinseh": {
+        "word": "sinseh",
+        "related": [
+            "MC"
+        ],
+        "category": [
+            "terms of address"
+        ],
+        "etyNotes": "Cognate with <i>sensei</i> (\"master; teacher\"), borrowed into English via Japanese and ultimately from the same Chinese root.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "先生",
+                "traditional": "先生",
+                "roman": "sin-seⁿ",
+                "lit": "doctor; honorific for older men; teacher, (lit.) 'born earlier'"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional Chinese physician; term of address for a traditional Chinese physician",
+                    "example": "Beat your fellow Sinsehs to rise to the rank of Master Sinseh! Prescribe TCM herbs and remedies with pin-point accuracy to relieve your patients of their ailments!",
+                    "exampleSource": "Eu Yan Sang, \"144 Anniversary Master Sinseh Game\". https://www.euyansang.com.sg/en/master-sinseh-game-888842590252.html"
+                }
+            ]
+        }
+    },
+    "somemore": {
+        "word": "somemore",
+        "usage": "May be used before or after the illustrative clause or statement.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "some",
+                "lit": "few; unspecified amount of anything"
+            },
+            {
+                "lang": "english",
+                "roman": "more",
+                "lit": "additional; greater than"
+            }
+        ],
+        "meanings": {
+            "adverb": [
+                {
+                    "definition": "in addition; on top of that; moreover; 'what’s more'",
+                    "example": "My local hawker centre food @{lagi} nicer than your @{atas} cafe… somemore cost less than half the price."
+                }
+            ]
+        }
+    },
+    "solid": {
+        "word": "solid",
+        "related": [
+            "solid chap",
+            "solid bird bird"
+        ],
+        "etyNotes": "From a semantic extension of the English slang use.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "solid",
+                "lit": "firm; fast; strong, (slang) excellent; reliable",
+                "etyPath": [
+                    "old french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "solide",
+                    "solidus"
+                ],
+                "etyLit": [
+                    "firm; fast; secure; solid",
+                    "solid; firm; whole"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "excellent; great",
+                    "example": "We all think the new plan is @{damn} solid.",
+                    "synonyms": [
+                        "got standard"
+                    ]
+                },
+                {
+                    "definition": "reliable; resolute; fast; calm and cool",
+                    "example": "My 2@{IC} @{damn} solid. Can trust him to keep the others in line.",
+                    "synonyms": [
+                        "steady#1",
+                        "sei"
+                    ]
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'excellent!'; 'nice!'; positive exclamation of gratitude, praise, admiration, respect, affirmation, etc.",
+                    "example": "Solid! Good work, everyone.",
+                    "synonyms": [
+                        "sui",
+                        "ho seh",
+                        "steady#1 *{lah}"
+                    ],
+                    "antonyms": [
+                        "jialat"
+                    ]
+                }
+            ]
+        }
+    },
+    "solid chap": {
+        "word": "solid chap",
+        "related": [
+            "solid",
+            "solid bird bird",
+            "sei",
+            "steady#1",
+            "ho seh"
+        ],
+        "usage": "Usually only used to describe men. The adjective @{steady#1} can be used instead when describing a woman (or any person in general) of similar nature.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "solid",
+                "lit": "reliable; calm and cool; excellent; great",
+                "etyPath": [
+                    "english",
+                    "old french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "solid",
+                    "solide",
+                    "solidus"
+                ],
+                "etyLit": [
+                    "firm; fast; strong, (slang) excellent; reliable",
+                    "firm; fast; secure; solid",
+                    "solid; firm; whole"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "chap",
+                "lit": "man; guy; fellow",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "chapman"
+                ],
+                "etyLit": [
+                    "merchant; dealer; buyer"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a great, reliable fellow",
+                    "example": "I @{sumpah} that Mark is a solid chap; have known him since army days."
+                }
+            ],
+            "interjection": [
+                {
+                    "definition": "'good man!'; positive exclamation of gratitude, praise, admiration, respect, affirmation, etc. towards a man, especially when they have done a favour for the speaker or something commendable",
+                    "example": "Solid chap! Appreciate it @{brudder}, good stuff."
+                }
+            ]
+        }
+    },
+    "solid bird bird": {
+        "word": "solid bird bird",
+        "related": [
+            "solid",
+            "solid chap",
+            "happy like bird",
+            "sei",
+            "steady#1",
+            "ho seh",
+            "bird bird"
+        ],
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "#{poss} Possibly from a vulgar sense of 'bird' (see @{bird bird}), in which case it may be related to the formations @{die cock stand} or @{cock steam}.<br>#{dubious} As 'bird' (slang, \"a girl or woman\") can be seen as the female equivalent of 'chap', it could also have been a counterpart to @{solid chap}, though this use of 'bird' is not common in Singapore English.<br>However, the most likely case is that 'bird' was either chosen as a nonsense word, or was translated from an expression from another language that is now lost to time.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "solid",
+                "lit": "reliable; calm and cool; excellent; great",
+                "etyPath": [
+                    "english",
+                    "old french",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "solid",
+                    "solide",
+                    "solidus"
+                ],
+                "etyLit": [
+                    "firm; fast; strong, (slang) excellent; reliable",
+                    "firm; fast; secure; solid",
+                    "solid; firm; whole"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "bird",
+                "lit": "animal in the class Aves, having feathers, wings, a beak, and laying eggs"
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "extremely good; excellent; intensified form of @{solid}",
+                    "example": "The curry chicken solid bird bird, next time I pass away also must have cater for y’all to eat.",
+                    "exampleSource": "2023 August 10, mayiduosg (Instagram post). https://www.instagram.com/mayiduosg/p/Cvw0bpgJGT-/?img_index=1",
+                    "synonyms": [
+                        "got standard"
+                    ]
+                }
+            ]
+        }
+    },
+    "carry on": {
+        "word": "carry on",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "carry on",
+                "lit": "keep going; continue; proceed"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "(military, transitive, followed by a number) to do a specified number of push-ups",
+                    "example": "@{Ah}, your buddy late, whose problem? My problem @{ah}? Never mind, you carry on 20 first while we wait.",
+                    "synonyms": [
+                        "down"
+                    ]
+                },
+                {
+                    "definition": "(military) to proceed with doing a punishment or forfeit in general"
+                }
+            ]
+        },
+        "related": [
+            "knock it down"
+        ],
+        "category": [
+            "ns"
+        ]
+    },
+    "gcb@1": {
+        "word": "GCB",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "good",
+                "lit": "great; pleasant; favourable; positive; of worth, etc."
+            },
+            {
+                "lang": "english",
+                "roman": "class",
+                "lit": "category; set; grouping"
+            },
+            {
+                "lang": "english",
+                "roman": "bungalow",
+                "lit": "large, detached one-storey house",
+                "etyPath": [
+                    "hindi"
+                ],
+                "etyScript": [
+                    "बंगला"
+                ],
+                "etyRoman": [
+                    "baṅglā"
+                ],
+                "etyLit": [
+                    "Bengali"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of landed property in Singapore which fulfils certain requirements, such as having a minimum of 1,400 square metres of land area and being located in specified Good-Class Bungalow Areas. They are only allowed to be purchased and owned by Singaporean citizens, and are often seen as a prestigious status symbol of the richest of the rich in Singapore. Some may have historical and cultural significance in and of themselves, such as the preserved colonial black-and-white houses that are mostly owned by the state.^{1}^{2}"
+                }
+            ]
+        },
+        "related": [
+            "bungalow",
+            "ang moh chu",
+            "chiah hong chu"
+        ],
+        "etyNotes": "Abbreviation of English <i>good-class bungalow</i>.",
+        "references": [
+            {
+                "link": "https://www.99.co/singapore/insider/good-class-bungalows-gcb-singapore/",
+                "name": "2024 June 14, Ryan Ong. 99.co Property News Insider, \"Good Class Bungalow (GCB): What’s the big deal about Good Class Bungalows in Singapore?\""
+            },
+            {
+                "link": "https://www.wtg.com.sg/good-class-bungalow/facts",
+                "name": "WTG Property, \"https://www.wtg.com.sg/good-class-bungalow/facts\""
+            }
+        ],
+        "category": [
+            "abbreviations"
+        ]
+    },
+    "gcb@2": {
+        "word": "GCB",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "good",
+                "lit": "great; pleasant; favourable; positive; well-behaved, etc."
+            },
+            {
+                "lang": "english",
+                "roman": "Christian",
+                "lit": "follower of Christianity and Jesus Christ",
+                "etyPath": [
+                    "old french",
+                    "latin",
+                    "ancient greek"
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "Χρῑστιᾱνός"
+                ],
+                "etyRoman": [
+                    "chrestien",
+                    "Chrīstiānus",
+                    "Khrīstiānós"
+                ],
+                "etyLit": [
+                    "Christian",
+                    "Christian",
+                    "Christian"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "boy",
+                "lit": "young male person"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(slightly derogatory) a young man or boy who (at least in public presentation) is a staunch Christian, stays away from vices, dresses modestly, often listens to gospel music or Christian rock, and enjoys broadcasting their faithfulness and devoutness on social media such as by regularly posting Bible verses. Often includes several negative stereotypes, such as a tendency to moralize and evangelize without social or self-awareness, having a very narrow worldview, and being oblivious to the extent of their own unintentional or intentional racism, prejudices, condescension, etc."
+                }
+            ]
+        },
+        "category": [
+            "abbreviations"
+        ],
+        "related": [
+            "GCG"
+        ],
+        "usage": "The male equivalent of a @{GCG}. Also used in other Englishes, such as in some parts of the USA.",
+        "etyNotes": "Initialism of English <i>good Christian boy</i>."
+    },
+    "gcg": {
+        "word": "GCG",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "good",
+                "lit": "great; pleasant; favourable; positive; well-behaved, etc."
+            },
+            {
+                "lang": "english",
+                "roman": "Christian",
+                "lit": "follower of Christianity and Jesus Christ",
+                "etyPath": [
+                    "old french",
+                    "latin",
+                    "ancient greek"
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "Χρῑστιᾱνός"
+                ],
+                "etyRoman": [
+                    "chrestien",
+                    "Chrīstiānus",
+                    "Khrīstiānós"
+                ],
+                "etyLit": [
+                    "Christian",
+                    "Christian",
+                    "Christian"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "girl",
+                "lit": "young female person"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(slightly derogatory) a young woman or girl who (at least in public presentation) is a staunch Christian, stays away from vices, dresses modestly, often listens to gospel music or Christian rock, and enjoys broadcasting their faithfulness and devoutness on social media such as by regularly posting Bible verses. Often includes several negative stereotypes, such as a tendency to moralize and evangelize without social or self-awareness, having a very narrow worldview, and being oblivious to the extent of their own unintentional or intentional racism, prejudices, condescension, etc."
+                }
+            ]
+        },
+        "category": [
+            "abbreviations"
+        ],
+        "related": [
+            "GCB"
+        ],
+        "usage": "The male equivalent of a @{GCB}. Also used in other Englishes, such as in some parts of the USA.",
+        "etyNotes": "Initialism of English <i>good Christian girl</i>."
+    },
+    "hiong": {
+        "word": "hiong",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "凶",
+                "traditional": "凶",
+                "roman": "hiong",
+                "lit": "fierce; aggressive; ferocious"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "fierce; aggressive; ferocious",
+                    "example": "In my experience, the most hiong of @{chiongsters} are secretly the @{GCG}s."
+                }
+            ]
+        },
+        "related": [
+            "garang",
+            "siao"
+        ]
+    },
+    "ha": {
+        "word": "hã",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "哈",
+                "traditional": "哈",
+                "roman": "hâⁿ",
+                "lit": "expression of confusion, doubt, surprise, amusement, questioning, sarcasm, etc.; particle used to form a question"
+            },
+            {
+                "lang": "english",
+                "roman": "huh",
+                "lit": "expression of confusion, doubt, surprise, amusement, questioning, sarcasm, etc.; particle used to form a question"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "expression of confusion, curiosity, doubt etc.",
+                    "example": "Hãr? Really @{got} such thing @{meh}?",
+                    "synonyms": [
+                        "eh"
+                    ]
+                },
+                {
+                    "definition": "expression used to communicate that the speaker has not heard or understood something properly, or to ask for clarification; 'come again?'; 'pardon?'",
+                    "example": "Hah? @{What thing}? Say again.",
+                    "synonyms": [
+                        "si mi"
+                    ]
+                },
+                {
+                    "definition": "expression of disappointment, displeasure, pleading, etc.",
+                    "example": "Hã? Why @{leh}? I thought today can slack @{one}.",
+                    "synonyms": [
+                        "si mi"
+                    ]
+                }
+            ],
+            "particle": [
+                {
+                    "definition": "<i>variant form of @{ah#1}</i>",
+                    "synonyms": [
+                        "ah#1"
+                    ]
+                },
+                {
+                    "definition": "used to express surprise, amusement, etc.",
+                    "example": "@{Orhhhhh|orh}... Is @{liddat} ha.",
+                    "synonyms": [
+                        "ah#1"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "paĩ seh"
+        ],
+        "etyNotes": "<i>Huh</i> is one of the few words in the English language with tones like Chinese languages."
+    },
+    "hae cho": {
+        "word": "hae cho",
+        "etyNotes": "(lit.) 'prawn date'.",
+        "usage": "Sometimes used interchangeably with the very similar @{ngoh hiang}, which differs in that it may not have prawns as its primary filling ingredient or may not use prawns at all.",
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "虾枣",
+                "traditional": "蝦棗",
+                "roman": "hê-chó",
+                "lit": "fried rolls with a filling of seasoned prawn, pork, water chestnuts etc. wrapped in beancurd skin and a coating of egg",
+                "etyPath": [
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "虾",
+                    "枣"
+                ],
+                "etyTrad": [
+                    "蝦",
+                    "棗"
+                ],
+                "etyRoman": [
+                    "hê",
+                    "chó"
+                ],
+                "etyLit": [
+                    "prawn; shrimp",
+                    "edible fruit of the Ziziphus jujuba tree, a.k.a. Chinese date or jujube"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a roll with a filling of seasoned prawn, pork, water chestnuts, and other ingredients wrapped in beancurd skin and deep-fried with a coating of egg. The rolls are usually seasoned with @{ngoh hiang} (five-spice) powder, and served with a sweet plum or chilli sauce and dark soya sauce as a dip. The name means 'prawn date', as originally the rolls were shaped more like shorter, oblong capsules resembling Chinese dates, but modern versions often come as a long roll sliced into smaller pieces as it takes less effort to prepare. Likely originated in Teochew or Hokkien cuisine.",
+                    "example": "If it’s crispy, typically Teochew snacks you crave, they have it all – Hae Cho (Prawn Rolls) and the Liver Rolls too.",
+                    "exampleSource": "2017 March 9, Makan Kakis. Makan Kakis on Gold 905, \"TeoCHEW on this!\". https://makankakiswithdenise.wordpress.com/2017/03/09/teochew-on-this/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "hae ko": {
+        "word": "hae ko",
+        "etyNotes": "(lit.) 'prawn paste'. It may also be from 虾膎/蝦膎, hê-kê (\"prawn paste\"), which is the word used in Taiwan.",
+        "usage": "Sometimes known as @{petis udang}, from the Malay word for the condiment.",
+        "origin": [
+            {
+                "lang": "min nan",
+                "simplified": "虾膏",
+                "traditional": "蝦膏",
+                "roman": "hê-chó",
+                "lit": "fermented shrimp paste",
+                "etyPath": [
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "虾",
+                    "膏"
+                ],
+                "etyTrad": [
+                    "蝦",
+                    "膏"
+                ],
+                "etyRoman": [
+                    "hê",
+                    "chó"
+                ],
+                "etyLit": [
+                    "prawn; shrimp",
+                    "paste; cream; fat"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a prawn paste used as a condiment in cooking, such as as a primary ingredient in @{rojak} sauce. It may be fermented or non-fermented. It sometimes has a thick, molasses-like consistency and black colour, due to the molasses and/or sugar that is often added to it.",
+                    "example": "This black/brownish dressing dominantly contains a black shrimp paste called @{petis udang} or hae ko ...",
+                    "exampleSource": "2009 May 26. Sunflower Food Galore, \"Rojak\". https://sunflower-recipes.blogspot.com/2009/05/rojak.html",
+                    "synonyms": [
+                        "petis udang"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "hae",
+            "har cheong",
+            "belacan",
+            "kicap"
+        ]
+    },
+    "petis udang": {
+        "word": "petis udang",
+        "usage": "Sometimes known as @{hae ko}, from the Hokkien word for the condiment.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "petis udang",
+                "lit": "black shrimp paste",
+                "etyPath": [
+                    "javanese",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "ꦥꦼꦠꦶꦱ꧀",
+                    ""
+                ],
+                "etyRoman": [
+                    "petis",
+                    "udang"
+                ],
+                "etyLit": [
+                    "black shrimp paste",
+                    "prawn; shrimp"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a sweetened prawn paste used as a condiment in cooking, such as as a primary ingredient in @{rojak} sauce. It may be fermented or non-fermented. It has a thick, molasses-like consistency and black colour, due to the molasses and/or sugar that is often added to it.",
+                    "example": "Petis udang is a shrimp paste that has syrupy texture. It is commonly used in local street foods such as @{popiah} spring rolls, @{Asam} @{laksa}, @{chee cheong fan} rice rolls and @{rojak} salads.",
+                    "exampleSource": "Rong Tai Investment Pte Ltd, \"LEMON BRAND SHRIMP PASTE 220GM\". https://www.halalshoppe.com.sg/lemon-brand-petis-udang-220gmx24cup",
+                    "synonyms": [
+                        "hae ko"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "har cheong",
+            "belacan"
+        ]
+    },
+    "hae mee": {
+        "word": "hae mee",
+        "usage": "May refer to any of the various Hokkien prawn noodle dishes. More commonly known as either @{prawn mee} or @{Hokkien mee} in Singapore.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "虾面",
+                "traditional": "蝦麵",
+                "roman": "hê-mī",
+                "lit": "prawn noodles",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "虾",
+                    "面"
+                ],
+                "etyTrad": [
+                    "蝦",
+                    "麵"
+                ],
+                "etyRoman": [
+                    "hê",
+                    "mī"
+                ],
+                "etyLit": [
+                    "prawn; shrimp",
+                    "wheat noodles"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a soup noodle dish of Hokkien origin, featuring prawns and pork (usually ribs or slices of meat) and yellow noodles in a spicy, savoury bowl of soup. The soup is made from fried prawn shells and heads boiled, simmered, and strained into an intensely flavourful stock, together with other ingredients such as pork stock, fried shallots, and chilli.",
+                    "example": "... known simply as @{prawn mee} in Singapore, but as hae mee or har mee in Penang. This noodle dish is all about the broth. Rich and heady with deep depths of prawn flavour, shimmering orange from the prawn oil.",
+                    "exampleSource": "2023 April 14, Rosheen Kaul. The Sydney Morning Herald - Good Food, \"Rosheen Kaul’s hokkien hae mee (pork and prawn noodle soup)\". https://www.smh.com.au/goodfood/recipes/rosheen-kaul-s-hokkien-hae-mee-pork-and-prawn-noodle-soup-20230412-p5d008.html",
+                    "synonyms": [
+                        "prawn mee"
+                    ]
+                },
+                {
+                    "definition": "a dry noodle dish of Hokkien origin, usually using a mixture of yellow noodles and rice noodles stir-fried with prawns, squid, pork slices, @{fish cake}, lard, eggs, spring onions, and other ingredients, together with a savoury sauce made of prawn stock. It is usually served with a sliced @{calamansi} or other lime and a dollop of @{sambal} @{chilli}.",
+                    "synonyms": [
+                        "Hokkien mee"
+                    ]
+                },
+                {
+                    "definition": "any of the other variants of a prawn noodle dish, usually of Hokkien or other South Chinese origin",
+                    "synonyms": [
+                        "Hokkien mee"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "related": [
+            "hae",
+            "mee",
+            "har"
+        ]
+    },
+    "hae": {
+        "word": "hae",
+        "usage": "Often used, for example, in prawn-related puns. Hokkien equivalent of @{har}.",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "虾",
+                "traditional": "蝦",
+                "roman": "hê",
+                "lit": "prawn; shrimp"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "prawn; shrimp",
+                    "synonyms": [
+                        "har"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "related": [
+            "bo he hae ma ho"
+        ]
+    },
+    "har": {
+        "word": "har",
+        "usage": "Often used, for example, in prawn-related puns. Cantonese equivalent of @{hae}.",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "虾",
+                "traditional": "蝦",
+                "roman": "haa1",
+                "lit": "prawn; shrimp"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "prawn; shrimp",
+                    "synonyms": [
+                        "har"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine",
+            "nature"
+        ]
+    },
+    "hainanese": {
+        "word": "Hainanese",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "海南",
+                "traditional": "海南",
+                "roman": "hǎi nán",
+                "lit": "island and province off the coast of mainland China, (lit.) 'south of the sea'"
+            },
+            {
+                "lang": "english",
+                "roman": "-ese",
+                "lit": "used to form demonym or other word for something of a place, country, culture, etc."
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "of or relating to Hainan or its people, ethnicity, culture, background, etc."
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a language with several dialects spoken by the Hainanese people and their diaspora, which is a part of the Min family"
+                },
+                {
+                    "definition": "a person of or relating to Hainan or its people, ethnicity, culture, background, etc."
+                }
+            ]
+        },
+        "usage": "The Hainanese people and culture are well known for their culinary contributions to Singaporean cuisine."
+    },
+    "hainanese pork chop": {
+        "word": "Hainanese pork chop",
+        "related": [
+            "Hainanese"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "Hainanese",
+                "lit": "of or relating to Hainan or its people, ethnicity, culture, background, etc.",
+                "etyPath": [
+                    "mandarin",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "海南",
+                    ""
+                ],
+                "etyTrad": [
+                    "海南",
+                    ""
+                ],
+                "etyRoman": [
+                    "hǎi nán",
+                    "-ese"
+                ],
+                "etyLit": [
+                    "island and province off the coast of mainland China, (lit.) 'south of the sea'",
+                    "used to form demonym or other word for something of a place, country, culture, etc."
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "pork chop",
+                "lit": "cut of meat taken from a section perpendicular to a pig's spine, such as a rib",
+                "etyPath": [
+                    "english",
+                    "old french",
+                    "latin",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "pork",
+                    "porc",
+                    "porcus",
+                    "chop"
+                ],
+                "etyLit": [
+                    "pig meat",
+                    "pig; pork",
+                    "domestic pig; pig",
+                    "cut of meat, often from a rib"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dish featuring a deep-fried, usually boneless cut of pork pounded flat, marinated and seasoned with a mix of Asian and Western condiments such as soya sauce and Worcestershire sauce, then breaded (traditionally with British cream cracker crumbs) and deep-fried. It is usually drizzled with a tomato-based gravy with mixed vegetables and served with a helping of white rice.<br>It was developed by @{Hainanese} chefs serving in British colonial households for the Western palate, and is similar to Western dishes such as the German schnitzel. The pork may sometimes be substituted for chicken, in which case it is known as a Hainanese chicken chop.",
+                    "example": "Hainanese pork chop is definitely an East meets West food. The pork chop is crispy on the outside and tender inside and the lightly tangy, sweet sauce to go with the pork chop is just heavenly.",
+                    "exampleSource": "Cookin1, \"Hainanese Pork Chop With Rice (Serves 2)\". https://www.cookin1.com/product/hainanese-pork-chop-with-rice/"
+                }
+            ]
+        }
+    },
+    "hainanese steamboat": {
+        "word": "Hainanese steamboat",
+        "related": [
+            "Hainanese",
+            "steamboat"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "See @{steamboat}.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "Hainanese",
+                "lit": "of or relating to Hainan or its people, ethnicity, culture, background, etc.",
+                "etyPath": [
+                    "mandarin",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "海南",
+                    ""
+                ],
+                "etyTrad": [
+                    "海南",
+                    ""
+                ],
+                "etyRoman": [
+                    "hǎi nán",
+                    "-ese"
+                ],
+                "etyLit": [
+                    "island and province off the coast of mainland China, (lit.) 'south of the sea'",
+                    "used to form demonym or other word for something of a place, country, culture, etc."
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "steamboat",
+                "lit": "style of hot pot with a thin, less oily broth",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "steamboat",
+                    "steam",
+                    "boat"
+                ],
+                "etyLit": [
+                    "ship or vessel propelled with steam power; steamer",
+                    "gaseous form of water",
+                    "vessel used on water for transport"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a style of @{steamboat} invented by @{Hainansese} immigrants to Singapore, using a clear chicken stock and often featuring plenty of seafood",
+                    "example": "We were there to eat mookata one night and after eating, a friend commented that there was another yummy hainanese steamboat place at Golden Mile Tower ... it is one of those eating place where a lot of Hainanese goes to because the flavour of the food there can provide that Hainanese nostalgia. [sic]",
+                    "exampleSource": "2013 February 21, Maureen. Miss Tam Chiak, \"Golden Mile Thien Kee Steamboat – Traditional Hainanese Chicken Rice and Steamboat\". https://www.misstamchiak.com/golden-mile-thien-kee-steamboat/"
+                }
+            ]
+        }
+    },
+    "steamboat": {
+        "word": "steamboat",
+        "related": [
+            "Hainanese steamboat"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "So named due to the shape of the pot used at steamboat restaurants, which usually has a chimney-like protrusion in the middle for smoke and steam to escape from, hence resembling the chimney of a steam-powered ship.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "steamboat",
+                "lit": "ship or vessel propelled with steam power; steamer",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "steam",
+                    "boat"
+                ],
+                "etyLit": [
+                    "ship or vessel propelled with steam power; steamer",
+                    "gaseous form of water",
+                    "vessel used on water for transport"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of communal meal where diners sit around a large, boiling hot pot of stock or broth and dip in various pieces of food, such as thinly-sliced meats, fishballs, vegetables, mushrooms, noodles etc. for just long enough that they become cooked, then typically eat them with a dip or sauce. It has origins in ancient China.",
+                    "example": "Marina Bay, @{wah}, their steamboat the best @{last time}. Best in Singapore. And now it's gone.",
+                    "exampleSource": "2015, Neil Humphreys. \"Marina Bay Sins\". Marshall Cavendish International. ISBN: 9781739879471"
+                }
+            ]
+        }
+    },
+    "haiz": {
+        "word": "haiz",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "haiya",
+                "lit": "exclamation of distress, grief, horror, disappointment, etc.; 'it's done for'; 'oh no'; 'alas'; 'how awful!'",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "害矣"
+                ],
+                "etyTrad": [
+                    "害矣"
+                ],
+                "etyRoman": [
+                    "hāi--ah"
+                ],
+                "etyLit": [
+                    "exclamation of distress, grief, horror, disappointment etc.; 'it's done for'; 'oh no'; 'alas'; 'how awful!'"
+                ]
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "expression of disappointment, annoyance, weariness, etc.",
+                    "example": "Haiz... this week I OT every day until like 8 plus. @{Si beh} @{shag} @{sia}."
+                }
+            ]
+        },
+        "related": [
+            "aduh",
+            "aiyah",
+            "aiyoh",
+            "aiyoyo",
+            "haiyo",
+            "rabz",
+            "rabz kebabz",
+            "sienz"
+        ],
+        "etyNotes": "From an alteration of the interjection @{haiya}, or possibly from an alteration of Hokkien 害, hāi, alone. The alteration slightly changes the meaning of the term and the emotion conveyed.",
+        "references": [
+            {
+                "link": "https://itaigi.tw/k/%E6%85%98%E4%BA%86/%E5%AE%B3%E7%9F%A3/h%C4%81i--ah",
+                "name": "iTaigi - 害矣"
+            },
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/5878/",
+                "name": "教育部臺灣閩南語常用詞辭典 -害(3)"
+            }
+        ]
+    },
+    "haiya": {
+        "word": "haiya",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "害矣",
+                "traditional": "害矣",
+                "roman": "hāi--ah",
+                "lit": "exclamation of distress, grief, horror, disappointment, etc.; 'it's done for'; 'oh no'; 'alas'; 'how awful!'"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "exclamation of distress, grief, horror, disappointment, etc.; 'it's done for'; 'oh no'; 'alas'; 'how awful!'",
+                    "example": "Haiya is the MSG of word. All the flavour inside. Your bus come late? Haiya. You run out of milk? Haiya. Your baby born with three arm? Haiya.",
+                    "exampleSource": "2021 April 28, Nigel Ng. mrnigelng (Youtube), \"Uncle Roger Explain HAIYAA vs FUIYOH (Animated #shorts)\". https://www.youtube.com/watch?v=b_g3Ri5nkk8",
+                    "synonyms": [
+                        "haiyo",
+                        "aiyah",
+                        "aiyoh",
+                        "aiyoyo",
+                        "alamak"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "haiz",
+            "aduh"
+        ],
+        "etyNotes": "Possibly also influenced by Cantonese 𲈹呀/閪呀, hai1 aa1, a vulgar interjection referring to the female genitalia (see @{sohai}).",
+        "references": [
+            {
+                "link": "https://itaigi.tw/k/%E6%85%98%E4%BA%86/%E5%AE%B3%E7%9F%A3/h%C4%81i--ah",
+                "name": "iTaigi - 害矣"
+            },
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/5878/",
+                "name": "教育部臺灣閩南語常用詞辭典 -害(3)"
+            }
+        ]
+    },
+    "haiyo": {
+        "word": "haiyo",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "害矣",
+                "traditional": "害矣",
+                "roman": "hāi--ah",
+                "lit": "exclamation of distress, grief, horror, disappointment, etc.; 'it's done for'; 'oh no'; 'alas'; 'how awful!'"
+            },
+            {
+                "lang": "tamil",
+                "simplified": "ஐயோ",
+                "roman": "aiyō",
+                "lit": "alas; woe; oh no"
+            },
+            {
+                "lang": "general chinese",
+                "traditional": "哎喲",
+                "simplified": "哎哟",
+                "roman": "āiyō",
+                "romanization": "pinyin",
+                "lit": "ouch; oh dear"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "exclamation of distress, grief, horror, disappointment, etc.; 'it's done for'; 'oh no'; 'alas'; 'how awful!'",
+                    "synonyms": [
+                        "haiya",
+                        "aiyah",
+                        "aiyoh",
+                        "aiyoyo",
+                        "alamak"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "haiz",
+            "aduh"
+        ],
+        "etyNotes": "Most likely a mixing of @{haiya} and @{aiyo}, or possibly from Tamil ஹையோ, haiyō.",
+        "references": [
+            {
+                "link": "https://itaigi.tw/k/%E6%85%98%E4%BA%86/%E5%AE%B3%E7%9F%A3/h%C4%81i--ah",
+                "name": "iTaigi - 害矣"
+            },
+            {
+                "link": "https://sutian.moe.edu.tw/zh-hant/su/5878/",
+                "name": "教育部臺灣閩南語常用詞辭典 -害(3)"
+            }
+        ]
+    },
+    "hakka": {
+        "word": "Hakka",
+        "etyNotes": "The word <i>Hakka</i> is probably an exonym that was adopted by the Hakkas, likely from Cantonese 客家, haak3 gaa1 due to the long history of interactions (oftentimes hateful, bloody, and brutal) between the two peoples.",
+        "origin": [
+            {
+                "lang": "hakka",
+                "simplified": "客家",
+                "traditional": "客家",
+                "roman": "hag5 ga1",
+                "lit": "(lit.) 'guest families'; subgroup of Chinese people with a wide historical dispersion, and their language, culture, etc."
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "of or relating to the Hakka, a subgroup of Chinese people with a wide historical dispersion (now concentrated in and around Guangdong, Fujian, and Jiangxi in China, as well as in a diaspora all over the world), and their language, culture, background, etc."
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "a language family of several related languages and dialects spoken by the Hakka people and their diaspora, one of which (Taiwanese Hakka) is a national language of Taiwan"
+                },
+                {
+                    "definition": "a person of Hakka ethnicity, culture, background, etc.",
+                    "example": "Of all Singaporean Hakkas, the most famous is almost certainly the founding father, Lee Kuan Yew."
+                }
+            ]
+        }
+    },
+    "yong tau foo": {
+        "word": "yong tau foo",
+        "origin": [
+            {
+                "lang": "min nan / cantonese",
+                "simplified": "酿豆腐",
+                "traditional": "釀豆腐",
+                "roman": "yōng-tāu-fū / joeng6 dau6 fu6",
+                "romanization": "poj / jyutping",
+                "lit": "originally Hakka dish of tofu, vegetables, mushrooms, etc. stuffed with a mixture of ground pork and/or fish paste",
+                "etyPath": [
+                    "hakka",
+                    "hakka",
+                    "hakka"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "酿豆腐",
+                    "酿",
+                    "豆腐"
+                ],
+                "etyTrad": [
+                    "釀豆腐",
+                    "釀",
+                    "豆腐"
+                ],
+                "etyScheme": [
+                    "guangdong",
+                    "guangdong",
+                    "guangdong"
+                ],
+                "etyRoman": [
+                    "ngiong4 têu4 fu4",
+                    "ngiong4",
+                    "têu4 fu4"
+                ],
+                "etyLit": [
+                    "Hakka dish of tofu stuffed with ground pork and fried or braised",
+                    "stuff a filling into sth. and cook; ferment",
+                    "tofu"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dish originally from Hakka cuisine, consisting of various items such as tofu, vegetables, mushrooms, etc. stuffed with a mixture of ground pork and/or fish paste. In Singapore, items are usually chosen from a display at a yong tau foo stall, and often include a number of other items, such as fried wontons, sausages, @{sotong}, noodles, rice, etc. The chosen items are then cooked in one of various styles, such as @{dry}, @{soup}, in a @{laksa} broth, with curry, etc., and served with a sweet bean sauce and @{chilli}.",
+                    "example": "Yong tau foo is a Hakka dish that has become ubiquitous with the office lunch crowd and tables “choped” (or reserved) with tissue packets and umbrellas.",
+                    "exampleSource": "2024 March 7, Lu Yawen. Hungrygowhere, \"14 must-try yong tau foo stalls for a comforting bowl of YTF\". https://hungrygowhere.com/what-to-eat/yong-tau-foo-singapore/",
+                    "synonyms": [
+                        "YTF"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "Hakka yong tau foo"
+        ],
+        "category": [
+            "cuisine"
+        ]
+    },
+    "ytf": {
+        "word": "YTF",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "yong tau foo",
+                "lit": "originally Hakka dish of tofu, vegetables, mushrooms, etc. stuffed with a mixture of ground pork and/or fish paste",
+                "etyPath": [
+                    "min nan / cantonese",
+                    "hakka",
+                    "hakka",
+                    "hakka"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "酿豆腐",
+                    "酿豆腐",
+                    "酿",
+                    "豆腐"
+                ],
+                "etyTrad": [
+                    "釀豆腐",
+                    "釀豆腐",
+                    "釀",
+                    "豆腐"
+                ],
+                "etyRoman": [
+                    "yōng-tāu-fū / joeng6 dau6 fu6",
+                    "ngiong4 têu4 fu4",
+                    "ngiong4",
+                    "têu4 fu4"
+                ],
+                "etyScheme": [
+                    "poj / jyutping",
+                    "guangdong",
+                    "guangdong",
+                    "guangdong"
+                ],
+                "etyLit": [
+                    "originally Hakka dish of tofu, vegetables, mushrooms, etc. stuffed with a mixture of ground pork and/or fish paste",
+                    "Hakka dish of tofu stuffed with ground pork and fried or braised",
+                    "stuff a filling into sth. and cook; ferment",
+                    "tofu"
+                ]
+            }
+        ],
+        "etyNotes": "Abbreviation of @{yong tau foo}.",
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>abbreviation of</i> @{yong tau foo}.",
+                    "synonyms": [
+                        "yong tau foo"
+                    ]
+                },
+                {
+                    "definition": "<i>abbreviation of</i> @{Hakka yong tau foo}.",
+                    "synonyms": [
+                        "yong tau foo"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "Hakka yong tau foo"
+        ],
+        "category": [
+            "cuisine",
+            "abbreviations"
+        ]
+    },
+    "hakka yong tau foo": {
+        "word": "Hakka yong tau foo",
+        "etyNotes": "See also @{Hakka} and @{yong tau foo}. While it is originally a Hakka dish, the versions common in Singapore and around South-East Asia have diverged quite significantly from the original dish, and thus the traditional Hakka version where it is found is now often qualified as such.",
+        "origin": [
+            {
+                "lang": "hakka",
+                "simplified": "客家",
+                "traditional": "客家",
+                "roman": "hag5 ga1",
+                "lit": "(lit.) 'guest families'; subgroup of Chinese people with a wide historical dispersion, and their language, culture, etc."
+            },
+            {
+                "lang": "min nan / cantonese",
+                "simplified": "酿豆腐",
+                "traditional": "釀豆腐",
+                "roman": "yōng-tāu-fū / joeng6 dau6 fu6",
+                "romanization": "poj / jyutping",
+                "lit": "originally Hakka dish of tofu, vegetables, mushrooms, etc. stuffed with a mixture of ground pork and/or fish paste",
+                "etyPath": [
+                    "hakka",
+                    "hakka",
+                    "hakka"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "酿豆腐",
+                    "酿",
+                    "豆腐"
+                ],
+                "etyTrad": [
+                    "釀豆腐",
+                    "釀",
+                    "豆腐"
+                ],
+                "etyScheme": [
+                    "guangdong",
+                    "guangdong",
+                    "guangdong"
+                ],
+                "etyRoman": [
+                    "ngiong4 têu4 fu4",
+                    "ngiong4",
+                    "têu4 fu4"
+                ],
+                "etyLit": [
+                    "Hakka dish of tofu stuffed with ground pork and fried or braised",
+                    "stuff a filling into sth. and cook; ferment",
+                    "tofu"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dish of Hakka origin, traditionally consisting of tofu stuffed with a paste of ground pork which is then pan-fried or braised. In Singapore, the dish often includes a number of other items, especially the \"Hakka Three Treasures\" of @{brinjal}, bitter melon, and chilli peppers, which are also stuffed with the same paste.",
+                    "example": "This Hakka Yong Tau Foo (@{YTF}) recipe was my granny’s who migrated from China to Singapore many many years ago. ... My granny used to cook this dish for us without fail every time we go to her place for Lunar New Year reunion dinner and I used to dislike it a lot. But now that I’m all grown up and she is no longer with us, I’m starting to appreciate and even crave for her YTF every now and then.",
+                    "exampleSource": "2024 March 7, Jamie. Spice N' Pans, \"TRADITIONAL HAKKA YONG TAU FOO 祖传客家酿豆腐\". https://www.spicenpans.com/traditional-hakka-yong-tau-foo/",
+                    "synonyms": [
+                        "YTF"
+                    ]
+                },
+                {
+                    "definition": "a more traditional variant of Singapore-style @{yong tau foo}",
+                    "synonyms": [
+                        "yong tau foo",
+                        "YTF"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "Hakka yong tau foo"
+        ],
+        "category": [
+            "cuisine"
+        ]
+    },
+    "halal": {
+        "word": "halal",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "halal",
+                "lit": "permissible or lawful according to Muslim religious beliefs",
+                "etyPath": [
+                    "arabic"
+                ],
+                "etyScript": [
+                    "حَلَال"
+                ],
+                "etyRoman": [
+                    "ḥalāl"
+                ],
+                "etyLit": [
+                    "permissible; legal; allowed"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "permissible or lawful according to Muslim religious beliefs, such as regarding consumption of food",
+                    "antonyms": [
+                        "haram"
+                    ]
+                },
+                {
+                    "definition": "(fig.) appropriate; socially acceptable",
+                    "antonyms": [
+                        "haram"
+                    ]
+                }
+            ]
+        }
+    },
+    "haram": {
+        "word": "haram",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "haram",
+                "lit": "forbidden or unlawful according to Muslim religious beliefs",
+                "etyPath": [
+                    "arabic"
+                ],
+                "etyScript": [
+                    "حَرَام"
+                ],
+                "etyRoman": [
+                    "ḥarām"
+                ],
+                "etyLit": [
+                    "forbidden; illegal; taboo"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "forbidden, unlawful, or sinful according to Muslim religious beliefs, such as regarding consumption of food",
+                    "antonyms": [
+                        "halal"
+                    ]
+                },
+                {
+                    "definition": "(fig.) inappropriate; socially unacceptable; taboo",
+                    "antonyms": [
+                        "halal"
+                    ]
+                }
+            ]
+        }
+    },
+    "jambu": {
+        "word": "jambu",
+        "usage": "When used to describe a cute girl or woman, it has no sexual or lecherous connotation.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "jambu",
+                "lit": "any plant of the genus Syzygium or its edible fruit, (slang) cute; adorable; pretty; beautiful",
+                "etyPath": [
+                    "javanese / old javanese",
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "ꦗꦩ꧀ꦧꦸ",
+                    "जम्बु"
+                ],
+                "etyRoman": [
+                    "jambu",
+                    "jambu"
+                ],
+                "etyLit": [
+                    "any plant of the genus Syzygium or its edible fruit",
+                    "Syzygium cumini or its edible fruit"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "any plant of the genus <i>Syzygium</i> or its edible fruit, but most commonly <i>Syzygium aqueum</i>,^{1} which bears pear-shaped fruits around 5 - 8 cm in length which transition from pale green to red as they ripen. The fruits have a tart, mild taste, and are commonly eaten as they are or as an ingredient in @{rojak}."
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "(of a girl or woman) cute; adorable; pretty; beautiful",
+                    "synonyms": [
+                        "cantik",
+                        "sui",
+                        "chio"
+                    ],
+                    "antonyms": [
+                        "cui",
+                        "pai khoa"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "jude",
+            "step jambu"
+        ],
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3153",
+                "name": "NParks Singapore - Flora and Fauna Web - Syzygium aqueum (Burm. f.) Alston"
+            }
+        ]
+    },
+    "soc": {
+        "word": "SOC",
+        "category": [
+            "ns",
+            "abbreviations"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "standard",
+                "lit": "used as a basis of normalcy, comparison, or judgement"
+            },
+            {
+                "lang": "english",
+                "roman": "obstacle course",
+                "lit": "series of physical challenges or stations hindering ordinary movement which one must overcome in order",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "obstacle",
+                    "course"
+                ],
+                "etyLit": [
+                    "obstruction; sth. that blocks progress",
+                    "path; route; defined series"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(military) an obstacle or assault course which combat-fit soldiers have to attempt as part of training, consisting of physical stations such as a low wall, vaults, balancing beam, apex ladder, etc."
+                }
+            ]
+        }
     }
 }

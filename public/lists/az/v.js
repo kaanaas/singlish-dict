@@ -1,1 +1,1 @@
-const vList = ["vadai","very the","virus","void deck","vomit blood"]; module.exports = vList;
+const vList = ["vadai","very the","viet bu","virus","void deck","vomit blood"]; module.exports = vList;

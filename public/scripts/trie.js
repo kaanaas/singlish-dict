@@ -33,6 +33,10 @@ class Trie {
 
     // Word insertion with major spelling(s)
     insert(word, majorForm) {
+        // // prevent double entries (NOTE!!: adding this removes ability to return multiple hits)
+        // if (this.search(word)) {
+        //     return false;
+        // }
         let node = this.root;
         for (let i = 0; i < word.length; i++) {
             // check each letter in word sequentially
