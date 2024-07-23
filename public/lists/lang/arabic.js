@@ -1,1 +1,1 @@
-const langTerms = ["Ali Baba bag","coffee shop","halal","haram","mat","mat rep","minah","minah rep","rehatkan diri"]; module.exports = langTerms;
+const langTerms = ["Ali Baba bag","coffee shop","halal","haram","mat","mat rep","minah","minah rep","rehatkan diri","shiok"]; module.exports = langTerms;

@@ -1,0 +1,1 @@
+const langTerms = ["storemando"]; module.exports = langTerms;

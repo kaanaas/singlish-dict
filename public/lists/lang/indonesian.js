@@ -1,0 +1,1 @@
+const langTerms = ["sup"]; module.exports = langTerms;
