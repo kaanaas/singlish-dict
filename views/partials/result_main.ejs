@@ -96,7 +96,7 @@
                             </div>
                             <% } %>
                         <% } else if(langName.toLowerCase() == "singlish") { %>
-                            <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman %></a></h4>
+                            <h4><a href="./?q=<%= formatIdLink(word.origin[i].roman.toLowerCase()) %>"><%- formatId(word.origin[i].roman) %></a></h4>
                         <% } else { %>
                             <h4><%- formatDyno(word.origin[i].roman) %></h4>
                         <% } %>
@@ -164,7 +164,7 @@
                                     </div>
                                     <% } %>
                                 <% } else if(langName.toLowerCase() == "singlish") { %>
-                                    <h4><a href="./?q=<%= word.origin[i].roman.toLowerCase() %>"><%= word.origin[i].roman %></a></h4>
+                                    <h4><a href="./?q=<%= formatIdLink(word.origin[i].roman.toLowerCase()) %>"><%- formatId(word.origin[i].roman) %></a></h4>
                                 <% } else { %>
                                     <h4 style="margin: 0;"><%- formatDyno(word.origin[i].roman) %></h4>
                                 <% } %>
@@ -252,7 +252,7 @@
                                         </div>
                                         <% } %>
                                     <% } else if(langName.toLowerCase() == "singlish") { %>
-                                        <h4><a href="./?q=<%= word.origin[i].etyRoman[j].toLowerCase() %>"><%= word.origin[i].etyRoman[j] %></a></h4>
+                                        <h4><a href="./?q=<%= formatIdLink(word.origin[i].etyRoman[j].toLowerCase()) %>"><%- formatId(word.origin[i].etyRoman[j]) %></a></h4>
                                     <% } else { %>
                                         <h4 style="margin: 0;"><%- formatDyno(word.origin[i].etyRoman[j].replace(/,/g, ", ")) %></h4>
                                     <% } %>

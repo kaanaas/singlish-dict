@@ -8988,7 +8988,9 @@
         "word": "bo jio",
         "related": [
             "bo",
-            "pang seh"
+            "pang seh",
+            "fly aeroplane",
+            "open jio"
         ],
         "category": [
             "sayings"
@@ -9027,7 +9029,7 @@
                 ],
                 "etyLit": [
                     "no; not; don't",
-                    "invite"
+                    "invite; beckon"
                 ]
             }
         ],
@@ -9035,7 +9037,10 @@
             "verb": [
                 {
                     "definition": "to not invite somebody to a social event or activity; to leave someone out when hanging out",
-                    "example": "Anyone else wants, feel free to come along - entry is free, don't say I bojio hor!"
+                    "example": "Anyone else wants, feel free to come along - entry is free, don't say I bojio hor!",
+                    "antonyms": [
+                        "jio"
+                    ]
                 }
             ],
             "interjection": [
@@ -9366,12 +9371,13 @@
             ]
         }
     },
-    "bo pakai": {
-        "word": "bo pakai",
+    "bo pakeh": {
+        "word": "bo pakeh",
         "related": [
             "bo",
             "bo liao"
         ],
+        "etyNotes": "As Baba Malay spelling was never standardized, 'pakeh' may also often be found spelled as 'pakay', 'pake', etc.",
         "origin": [
             {
                 "lang": "hokkien",
@@ -9382,9 +9388,18 @@
                 "lit": "no; not have"
             },
             {
-                "lang": "malay",
-                "roman": "pakai",
-                "lit": "wear (clothes); use"
+                "lang": "baba malay",
+                "roman": "pakeh",
+                "lit": "wear (clothes); use",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "pakai"
+                ],
+                "etyLit": [
+                    "wear (clothes); use"
+                ]
             }
         ],
         "meanings": {
@@ -13804,7 +13819,8 @@
                     "exampleSource": "2022 May 10, Ifritus. Hardwarezone, \"After reading what Ng Eng Heng said, I teared up and feel damn proud to be a Chao Keng warrior!\", https://forums.hardwarezone.com.sg/threads/after-reading-what-ng-eng-heng-said-i-teared-up-and-feel-damn-proud-to-be-a-chao-keng-warrior.6746658/",
                     "synonyms": [
                         "keng king",
-                        "kengster"
+                        "kengster",
+                        "snake king#2"
                     ]
                 }
             ]
@@ -16253,7 +16269,7 @@
             "chiah",
             "keng",
             "take cover",
-            "snake",
+            "snake#2",
             "ponteng",
             "idle king",
             "khiao kha yo lam pa"
@@ -16311,7 +16327,9 @@
                     "synonyms": [
                         "tuang",
                         "eat snake",
-                        "makan ular"
+                        "makan ular",
+                        "take cover",
+                        "snake#2"
                     ]
                 }
             ]
@@ -16617,6 +16635,10 @@
     },
     "chicken backside": {
         "word": "chicken backside",
+        "related": [
+            "itchy backside",
+            "sell backside"
+        ],
         "origin": [
             {
                 "lang": "english",
@@ -16626,7 +16648,22 @@
             {
                 "lang": "english",
                 "roman": "backside",
-                "lit": "buttocks; anatomical rear end"
+                "lit": "buttocks; anatomical rear end",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "back",
+                    "side"
+                ],
+                "etyLit": [
+                    "rear; behind",
+                    "face; flank"
+                ]
             }
         ],
         "meanings": {
@@ -18246,7 +18283,6 @@
         "related": [
             "snake",
             "keng",
-            "take cover",
             "ponteng"
         ],
         "origin": [
@@ -18302,7 +18338,9 @@
                     "synonyms": [
                         "tuang",
                         "makan ular",
-                        "chiah chua"
+                        "take cover",
+                        "chiah chua",
+                        "snake#2"
                     ]
                 }
             ]
@@ -20077,7 +20115,9 @@
                     "synonyms": [
                         "tuang",
                         "eat snake",
-                        "chiah chua"
+                        "chiah chua",
+                        "take cover",
+                        "snake#2"
                     ]
                 }
             ]
@@ -31353,7 +31393,8 @@
             "mc king",
             "musang king",
             "sabo king",
-            "snake king"
+            "snake king#1",
+            "snake king#2"
         ],
         "category": [
             "insults"
@@ -32871,7 +32912,8 @@
                     "example": "Because we got stuck with two keng kings in our group of four, Johan and I had to pick up the slack and @{carry} the project for the entire year.",
                     "synonyms": [
                         "kengster",
-                        "chao keng warrior"
+                        "chao keng warrior",
+                        "snake king#2"
                     ]
                 }
             ]
@@ -32931,7 +32973,8 @@
                     "example": "Because we got stuck with two keng kings in our group of four, Johan and I had to pick up the slack and @{carry} the project for the entire year.",
                     "synonyms": [
                         "keng king",
-                        "chao keng warrior"
+                        "chao keng warrior",
+                        "snake king#2"
                     ]
                 }
             ]
@@ -33645,7 +33688,9 @@
     "itchy backside": {
         "word": "itchy backside",
         "related": [
-            "itchy"
+            "itchy",
+            "chicken backside",
+            "sell backside"
         ],
         "usage": "Comparable to English phrases such as <i>itchy feet</i>.",
         "category": [
@@ -33661,7 +33706,7 @@
             {
                 "lang": "english",
                 "roman": "backside",
-                "lit": "buttocks; rear end",
+                "lit": "buttocks; anatomical rear end",
                 "etyPath": [
                     "english",
                     "english"
@@ -42293,11 +42338,12 @@
             ]
         }
     },
-    "snake": {
+    "snake@1": {
         "word": "snake",
         "related": [
             "pau toh",
-            "snake king"
+            "snake king#1",
+            "steady"
         ],
         "category": [
             "insults"
@@ -42324,6 +42370,90 @@
                 }
             ]
         }
+    },
+    "snake@2": {
+        "word": "snake",
+        "related": [
+            "snake king#2",
+            "keng",
+            "ponteng",
+            "idle king",
+            "khiao kha yo lam pa"
+        ],
+        "category": [
+            "insults"
+        ],
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "eat snake",
+                "lit": "slack off; skive; play truant; take time off work",
+                "type": "c",
+                "etyPath": [
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "食蛇",
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyTrad": [
+                    "食蛇",
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyRoman": [
+                    "chia̍h-chôa",
+                    "chia̍h-chōa",
+                    "thau-chia̍h-chōa",
+                    "thau-chia̍h",
+                    "chōa"
+                ],
+                "etyLit": [
+                    "slack off; skive; play truant; take time off work",
+                    "clipping of 偷食迣",
+                    "(lit.) slyly take trips or runs; (fig.) skive; sneakily slack off; slyly take time off work",
+                    "slyly eat; sneakily take (food, etc.)",
+                    "(measure word) trips; runs; frequency of occurrences"
+                ]
+            }
+        ],
+        "etyNotes": "Elision of Singlish expression @{eat snake}, itself a direct calque of Hokkien 食蛇, chia̍h-chôa.^{1} See @{chiah chua} for further details.",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to slack off; to skive; to take time off work; to play truant",
+                    "example": "",
+                    "synonyms": [
+                        "tuang",
+                        "makan ular",
+                        "chiah chua",
+                        "eat snake",
+                        "take cover"
+                    ]
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.languagecouncils.sg/mandarin/ch/learning-resources/singaporean-mandarin-database/terms/skiving-off-colloquially-known-as-jiak-tsua",
+                "name": "languagecouncils.sg. 吃蛇; skiving off (colloquially known as jiak tsua)"
+            }
+        ]
     },
     "itek tim": {
         "word": "itek tim",
@@ -46657,5 +46787,759 @@
         "category": [
             "insults"
         ]
+    },
+    "sell backside": {
+        "word": "sell backside",
+        "related": [
+            "chiah chao",
+            "chicken business",
+            "itchy backside",
+            "chicken backside"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sell",
+                "romanization": "",
+                "lit": "trade e.g. goods or services in exchange for money",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "roman": "backside",
+                "lit": "buttocks; anatomical rear end",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "back",
+                    "side"
+                ],
+                "etyLit": [
+                    "rear; behind",
+                    "face; flank"
+                ]
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to prostitute oneself; to sell one’s body",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(figurative) to have to scrounge or do unpleasant things for money because of a change in situation, such as one having fallen on hard times",
+                    "example": "Wah, GST gonna become 10% soon… not careful @{later} have to sell backside just to eat @{liao}.",
+                    "exampleSource": "",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sayur lodeh": {
+        "word": "sayur lodeh",
+        "related": [
+            "lontong",
+            "sayur"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sayur lodeh",
+                "romanization": "",
+                "lit": "dish of vegetables stewed in a coconut-milk-based curry",
+                "etyPath": [
+                    "malay",
+                    "javanese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "ꦭꦺꦴꦝꦺꦃ"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "sayur",
+                    "lodhèh"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "vegetable",
+                    "cooked until soft"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a dish consisting of vegetables stewed until soft in a coconut-milk-based curry. It has origins in Javanese cuisine, in the city of Yogyakarta. In Singaporean Peranakan cuisine, compressed rice cylinders called @{lontong} or nasi impit are often added to it, to create a dish that is also referred to as @{lontong}.",
+                    "example": "While sayur lodeh is straightforward to make, its origins are complex. Some scholars believe the tradition stretches back to central Java’s civilisational heyday in the 10th Century, …",
+                    "exampleSource": "2020 May 12, Scott Anthony. BBC, \"A Javanese dish to banish the plague\". https://www.bbc.com/travel/article/20200506-a-javanese-dish-to-banish-the-plague",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sayur manis": {
+        "word": "sayur manis",
+        "related": [
+            "sayur"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine",
+            "nature"
+        ],
+        "phonetics": "",
+        "etyNotes": "(lit.) 'sweet vegetable'. Also known as <i>cekur manis</i>, from <i>cekur</i>, the Malay word for the unrelated genus <i>Kaempferia</i> (in the ginger family).",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sayur manis",
+                "romanization": "",
+                "lit": "Breynia androgyna, a green leafy shrub often used as a vegetable",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyTrad": false,
+                "etyRoman": [
+                    "sayur",
+                    "manis"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "vegetable",
+                    "sweet"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>Breynia androgyna</i>, a green leafy shrub often used as a vegetable in Singaporean cuisine, such as in soups and stir-fries.^{1} It is toxic when eaten raw in large quantities.",
+                    "example": "Stir-fried with red peppers, shallots and egg in a thin, juicy gravy, sayur manis tasted both rich and nutritious, like very good spinach.",
+                    "exampleSource": "2014 August 14, Konstantin Kakaes. NPR - The Salt, \"Sayur Manis: Delicious, But Also Deadly, Greens From Borneo\". https://www.npr.org/sections/thesalt/2014/08/14/340358325/sayur-manis-delicious-but-also-deadly-greens-from-borneo",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://www.nparks.gov.sg/florafaunaweb/flora/2/4/2427",
+                "name": "NParks Singapore - Flora and Fauna Web - Breynia androgyna (L.) Chakrab. & N.P.Balakr."
+            }
+        ]
+    },
+    "stupiak": {
+        "word": "stupiak",
+        "related": [
+            "piak",
+            "spiak",
+            "goondu"
+        ],
+        "usage": "Often accompanied by the gesture or miming of slapping one’s forehead.",
+        "category": [
+            "insults"
+        ],
+        "phonetics": "",
+        "etyNotes": "Portmanteau of <i>stupid</i> and @{piak}, in the sense of someone or something being so stupid that one cannot help but slap one’s forehead in disbelief.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "stupid",
+                "romanization": "",
+                "lit": "idiotic; dumb; unintelligent",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "singlish",
+                "simplified": "",
+                "traditional": "",
+                "roman": "piak",
+                "romanization": "",
+                "lit": "hit; slap, (onom.) sound of a hit or slap",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "or"
+                ],
+                "etyScript": [
+                    "拍",
+                    "擗"
+                ],
+                "etyTrad": [
+                    "拍",
+                    "擗"
+                ],
+                "etyRoman": [
+                    "phiak",
+                    "phia̍k/pia̍k"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "hit; slap; clap; whack; have sex with, (onom.) sound of a hit or slap",
+                    "hit, (onom.) sound of a hit; sound of a flap or flutter"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "to be so stupid that one cannot help but slap one’s forehead in disbelief",
+                    "example": "More of the finest e-Stupiaks in our sunny island set to pounding @{Ah Beng} @{techno|tetno}! @{Huat} huat @{huat ah}!",
+                    "exampleSource": "2019 October 13, Sg Stupiak e-Scooters (Facebook post). https://www.facebook.com/2053305934937447/videos/2531464166933141",
+                    "synonyms": [
+                        "bodoh",
+                        "dum bai",
+                        "bo idea",
+                        "gong",
+                        "kham gong"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sorry no cure": {
+        "word": "sorry no cure",
+        "related": [],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "The equivalent English expression would be something like 'sorry <b>is</b> no cure'. This expression is an example of the copula deletion that is common in Singlish grammar, e.g. 'He <b>is</b> always like that' → 'He always @{liddat}'.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sorry",
+                "romanization": "",
+                "lit": "expression of remorse, apology, regret etc.",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "no",
+                "romanization": "",
+                "lit": "not; not at all",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "cure",
+                "romanization": "",
+                "lit": "sth. that heals; solution to a problem",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "used to express that a simple apology will not make things right or solve the problem that has been created",
+                    "example": "Sorry no cure, Anwar, whether you’re merely citing a historical source or just a slip of the tongue ... Anwar could not have used the @{K-word|keling} at a more inopportune time.",
+                    "exampleSource": "2023 December 25, Nehru Sathiamoorthy. \"Sorry no cure, Anwar, whether you’re merely citing a historical source or just a slip of the tongue\". https://focusmalaysia.my/sorry-no-cure-anwar-whether-youre-merely-citing-a-historical-source-or-just-a-slip-of-the-tongue/",
+                    "synonyms": [
+                        "sorry no pakeh"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sorry no pakeh": {
+        "word": "sorry no pakeh",
+        "related": [
+            "bo pakai"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "See @{sorry no cure}.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sorry",
+                "romanization": "",
+                "lit": "expression of remorse, apology, regret etc.",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "no",
+                "romanization": "",
+                "lit": "not; not at all",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "baba malay",
+                "roman": "pakeh",
+                "lit": "wear (clothes); use",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "pakai"
+                ],
+                "etyLit": [
+                    "wear (clothes); use"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "used to express that a simple apology will not make things right or solve the problem that has been created",
+                    "example": "@{Wah} @{champion} @{ah} you... this time your sorry no pakeh.",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "sorry no cure"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "syt": {
+        "word": "SYT",
+        "related": [
+            "jambu",
+            "chio#1",
+            "sui",
+            "jude",
+            "cantik"
+        ],
+        "usage": "Mostly limited to online forums. Often used in a lewd or suggestive context.",
+        "category": [
+            "abbreviations"
+        ],
+        "phonetics": "",
+        "etyNotes": "Abbreviation of English phrase <i>sweet young thing</i>.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sweet young thing",
+                "romanization": "",
+                "lit": "attractive girl or young woman; well-mannered and pleasant girl",
+                "etyPath": [
+                    "english",
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "sweet",
+                    "young",
+                    "thing"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "pleasant; pleasing",
+                    "youthful; not old; at an early age",
+                    "entity; being; object; concept, etc."
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an attractive, youthful-looking girl or woman; a pretty young lady",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "xmm",
+                        "chio bu",
+                        "leng lui"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "jio": {
+        "word": "jio",
+        "usage": "",
+        "related": [
+            "open jio"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "traditional": "招",
+                "simplified": "招",
+                "roman": "chio",
+                "romanization": "poj",
+                "lit": "invite; beckon"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to invite, especially to hang out or to a social event or activity",
+                    "example": "My friends jio me come along for their Taiwan trip, but I @{got} not enough leave to go.",
+                    "antonyms": [
+                        "bo jio"
+                    ]
+                }
+            ]
+        }
+    },
+    "open jio": {
+        "word": "open jio",
+        "usage": "",
+        "related": [
+            "jio",
+            "bojio",
+            "open"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "open",
+                "lit": "public; free to access"
+            },
+            {
+                "lang": "singlish",
+                "roman": "jio",
+                "lit": "invite, esp. to a social event or activity",
+                "etyPath": [
+                    "hokkien"
+                ],
+                "etyScript": [
+                    "招"
+                ],
+                "etyTrad": [
+                    "招"
+                ],
+                "etyRoman": [
+                    "chio"
+                ],
+                "etyScheme": [
+                    "poj"
+                ],
+                "etyLit": [
+                    "invite; beckon"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an open invitation; an invitation made public, or addressed to anyone in a general group or audience",
+                    "example": "Open jio to my house this weekend guys, we gonna watch World Cup Final."
+                }
+            ],
+            "verb": [
+                {
+                    "definition": "to make an open invitation; to invite everyone in a general group or audience",
+                    "example": "We need 4 more players for soccer this Friday @{leh}, shall I open jio in my work groupchat?"
+                }
+            ]
+        }
+    },
+    "champion": {
+        "word": "champion",
+        "phonetics": "[ˈt͡ʃæ:mˌpiən]",
+        "usage": "Almost always emphasized in a sentence, with stress on both syllables, and pronounced with the first vowel held for a longer time.",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "champion",
+                "romanization": "",
+                "lit": "ultimate winner of a contest; fighter for a cause",
+                "etyPath": [
+                    "old french",
+                    "medieval latin",
+                    "latin"
+                ],
+                "etyRoman": [
+                    "champiun",
+                    "campio",
+                    "campus"
+                ],
+                "etyLit": [
+                    "champion; fighter",
+                    "fighter; combatant",
+                    "field; plain"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(sarcastic, of a person) having made an immense mistake; having done something unbelievably outrageous",
+                    "example": "@{Wah}, champion @{ah} you! Fall in late, still want talk back to @{lim peh} @{some more}!"
+                }
+            ],
+            "noun": [
+                {
+                    "definition": "(sarcastic, pejorative) someone that is the epitome of something; someone unbelievably outrageous",
+                    "example": "Amri is really the champion of @{flying aeroplane|fly aeroplane} @{sia}. Like already fifth time in a row he @{chut} excuse; can become SIA pilot @{already}.",
+                    "synonyms": [
+                        "king"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "power"
+        ]
+    },
+    "snake king@1": {
+        "word": "snake king",
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "snake#1",
+                "lit": "scheme against; backstab; rat; be treacherous and untrustworthy; sb. who acts in such a manner",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "snake"
+                ],
+                "etyLit": [
+                    "long, thin, legless reptile in the suborder Serpentes"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "king",
+                "lit": "(suffix, usu. sarcastic or pejorative) the epitome of sth.",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "king"
+                ],
+                "etyLit": [
+                    "(usu. male) the ruler of a monarchy; a powerful or preeminent person"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "someone who is always selfishly scheming and plotting; a serial backstabber; a rat; someone who is the epitome of a treacherous and untrustworthy person; someone who constantly puts on facades to deceive others of their ulterior intentions",
+                    "example": "",
+                    "exampleSource": ""
+                }
+            ]
+        },
+        "related": [
+            "snake",
+            "king"
+        ]
+    },
+    "snake king@2": {
+        "word": "snake king",
+        "related": [
+            "keng king",
+            "keng",
+            "ponteng",
+            "idle king",
+            "khiao kha yo lam pa",
+            "tuang",
+            "makan ular",
+            "chiah chua",
+            "eat snake",
+            "take cover",
+            "snake"
+        ],
+        "category": [
+            "insults"
+        ],
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "snake#2",
+                "lit": "slack off; skive; play truant; take time off work",
+                "etyPath": [
+                    "singlish",
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan",
+                    "min nan"
+                ],
+                "etyType": [
+                    "c",
+                    "",
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "食蛇",
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyTrad": [
+                    "",
+                    "食蛇",
+                    "食迣",
+                    "偷食迣",
+                    "偷食",
+                    "迣"
+                ],
+                "etyRoman": [
+                    "eat snake",
+                    "chia̍h-chôa",
+                    "chia̍h-chōa",
+                    "thau-chia̍h-chōa",
+                    "thau-chia̍h",
+                    "chōa"
+                ],
+                "etyLit": [
+                    "slack off; skive; play truant; take time off work",
+                    "slack off; skive; play truant; take time off work",
+                    "clipping of 偷食迣",
+                    "(lit.) slyly take trips or runs; (fig.) skive; sneakily slack off; slyly take time off work",
+                    "slyly eat; sneakily take (food, etc.)",
+                    "(measure word) trips; runs; frequency of occurrences"
+                ]
+            },
+            {
+                "lang": "singlish",
+                "roman": "king",
+                "lit": "(suffix, usu. sarcastic or pejorative) the epitome of sth.",
+                "etyPath": [
+                    "english"
+                ],
+                "etyRoman": [
+                    "king"
+                ],
+                "etyLit": [
+                    "(usu. male) the ruler of a monarchy; a powerful or preeminent person"
+                ]
+            }
+        ],
+        "etyNotes": "See @{chiah chua} for further details.",
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "someone who constantly tries to shirk work or responsibility, regardless of whether they are successful or good at doing so",
+                    "example": "",
+                    "synonyms": [
+                        "kengster",
+                        "chao keng warrior",
+                        "keng king"
+                    ]
+                }
+            ]
+        }
     }
 }
