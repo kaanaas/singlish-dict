@@ -4451,10 +4451,11 @@
             ],
             "adjective": [
                 {
-                    "definition": "random; untidy; careless",
+                    "definition": "random; untidy; careless; slipshod",
                     "example": "Why is your folder so anyhow one? All these files don't need just delete lah.",
                     "synonyms": [
-                        "chin chai"
+                        "chin chai",
+                        "half-past-six"
                     ]
                 }
             ]
@@ -20024,9 +20025,10 @@
                     ]
                 },
                 {
-                    "definition": "sloppy",
+                    "definition": "sloppy; careless",
                     "synonyms": [
-                        "anyhow whack"
+                        "anyhow whack",
+                        "half past six"
                     ]
                 },
                 {
@@ -37362,6 +37364,9 @@
     },
     "suay@2": {
         "word": "suay",
+        "related": [
+            "half-past-six"
+        ],
         "origin": [
             {
                 "lang": "mandarin",
@@ -37382,7 +37387,8 @@
                 {
                     "definition": "random; casual; disorderly; as one pleases",
                     "synonyms": [
-                        "anyhow"
+                        "anyhow",
+                        "chin chai"
                     ]
                 }
             ],
@@ -37391,7 +37397,8 @@
                     "definition": "randomly; casually; as one pleases",
                     "synonyms": [
                         "anyhow",
-                        "anyhowly"
+                        "anyhowly",
+                        "chin chai"
                     ]
                 }
             ]
@@ -47541,5 +47548,559 @@
                 }
             ]
         }
+    },
+    "suck thumb": {
+        "word": "suck thumb",
+        "related": [
+            "lan lan suck thumb",
+            "tahan"
+        ],
+        "usage": "",
+        "category": [
+            "sayings"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "[to] suck [one’s] thumb",
+                "romanization": "",
+                "lit": "to put one’s thumb in one’s mouth; often seen as a childlike action",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "suck",
+                    "thumb"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "draw into one’s mouth by creating a region of lower pressure",
+                    "short, thick, opposable digit of each hand"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "to bear with something unpleasant or unfavourable without complaint; to accept the current situation and having to wait around while nothing can be done",
+                    "example": "Why is it wrong to “suck thumb” at work? … I hope that more people will stand up for their rights and ask reasonably for restitution …",
+                    "exampleSource": "2023 May 7, Author (anonymous). Loopholes Singapore, \"Why is it wrong to “suck thumb” at work?\". https://loopholes.sg/climbing-in-progress/why-is-it-wrong-to-suck-thumb-at-work/",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "snowskin": {
+        "word": "snowskin",
+        "related": [],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "Calque of Mandarin term.",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "simplified": "冰皮",
+                "traditional": "冰皮",
+                "roman": "bīng pí",
+                "romanization": "",
+                "lit": "type of pastry crust made from glutinous rice flour",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "冰",
+                    "皮"
+                ],
+                "etyTrad": [
+                    "冰",
+                    "皮"
+                ],
+                "etyRoman": [
+                    "bīng",
+                    "pí"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "ice",
+                    "skin"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of pastry crust made from glutinous rice flour, resulting in a translucent, frosty, slightly chewy skin",
+                    "example": "Also irresistible is the newly launched Mango Pomelo Snowskin Mooncake (S$95 nett for four), a refreshing blend of mango and pomelo enveloped in melt-in-the-mouth snowskin.",
+                    "exampleSource": "2024 July 11. The Business Times, \"Moonlit treasures for the Mid-Autumn Festival\". https://www.businesstimes.com.sg/lifestyle/bt-luxe/moonlit-treasures-mid-autumn-festival",
+                    "synonyms": false,
+                    "antonyms": false
+                },
+                {
+                    "definition": "(attributive) describing food which has such a skin, especially mooncakes, which often come in a wide variety of novelty flavours and attractive pastel colours when made with snowskin.",
+                    "example": "Whether you prefer classic white lotus paste mooncakes or the pillowy snowskin variants, there’s something for everyone this moon festival.",
+                    "exampleSource": "2023 August 25, Ethan Kan. Tatler, \"Mid-Autumn Festival 2023: The best mooncakes in Singapore to sweeten your festivities\". https://www.tatlerasia.com/dining/food/mid-autumn-festival-2023-the-best-mooncakes-in-singapore",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "soya bean": {
+        "word": "soya bean",
+        "related": [
+            "tau",
+            "green bean"
+        ],
+        "usage": "",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "soya",
+                "romanization": "",
+                "lit": "the legume Glycine max or substances derived from it; soya sauce",
+                "etyPath": [
+                    "dutch",
+                    "satsuma japanese",
+                    "japanese",
+                    "early modern chinese"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "orthog."
+                ],
+                "etyScript": [
+                    "",
+                    "醤油",
+                    "醤油",
+                    "酱油"
+                ],
+                "etyTrad": [
+                    "",
+                    "そい",
+                    "しょうゆ",
+                    "醬油"
+                ],
+                "etyRoman": [
+                    "soja",
+                    "soi",
+                    "shōyu",
+                    "jiàng yóu"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "soya",
+                    "soya sauce",
+                    "soya sauce",
+                    "soya sauce"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "bean",
+                "romanization": "",
+                "lit": "plant of the family Fabaceae producing edible seeds, or the seeds thereof",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the edible seeds of the legume plant <i>Glycine max</i>, which are widely used in Asian cuisine — such as in soya sauce, desserts like @{tau huay}, and drinks like @{tau huay chui}.",
+                    "example": "Soya bean products (e.g. beancurd, tempeh and soya milk) belong to the meat and alternatives food group and this food group provides protein, which is an essential nutrient that serves numerous functions.",
+                    "exampleSource": "2022 November 15. HealthHub.sg, \"Soya Bean — The Unique Plant Protein\". https://www.healthhub.sg/live-healthy/soya_unique_plant_protein",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "soya bean milk": {
+        "word": "soya bean milk",
+        "related": [
+            "tau",
+            "soya bean",
+            "tau huay",
+            "green bean"
+        ],
+        "usage": "",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "soya",
+                "romanization": "",
+                "lit": "the legume Glycine max or substances derived from it; soya sauce",
+                "etyPath": [
+                    "dutch",
+                    "satsuma japanese",
+                    "japanese",
+                    "early modern chinese"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "orthog."
+                ],
+                "etyScript": [
+                    "",
+                    "醤油",
+                    "醤油",
+                    "酱油"
+                ],
+                "etyTrad": [
+                    "",
+                    "そい",
+                    "しょうゆ",
+                    "醬油"
+                ],
+                "etyRoman": [
+                    "soja",
+                    "soi",
+                    "shōyu",
+                    "jiàng yóu"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "soya",
+                    "soya sauce",
+                    "soya sauce",
+                    "soya sauce"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "bean",
+                "romanization": "",
+                "lit": "plant of the family Fabaceae producing edible seeds, or the seeds thereof",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "milk",
+                "romanization": "",
+                "lit": "opaque, whitish liquid produced by mammals; liquid similar in appearance pressed from a plant source",
+                "etyPath": [],
+                "etyType": [],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [],
+                "etyScheme": false,
+                "etyLit": []
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "an opaque, creamy-white to white drink produced from @{soya beans|soya bean}. It is made by soaking the beans overnight, then grinding or blending them until smooth and boiling the mixture. The milk is then obtained by straining away the soya bean pulp, and is usually sweetened before serving. It is a popular traditional drink which has been enjoyed in Singapore for generations.",
+                    "example": "He sells fresh soya bean milk and @{tau huey} (soybean pudding) at Tiong Bahru Market. And when I say fresh, I mean FRESH.",
+                    "exampleSource": "2019 August 17, Cassilda Lee. Miss Tam Chiak, \"Teck Seng Soya Bean Milk – You Wouldn’t Want to Eat Any Other Tau Huey After This\". https://www.misstamchiak.com/teck-seng-soya-bean-milk/",
+                    "synonyms": [
+                        "tau huay chui"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "half past six": {
+        "word": "half past six",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "half past six",
+                "romanization": "",
+                "lit": "6:30 (am or pm)"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "sloppy; careless; slipshod; of poor quality; incompetent; uninterested",
+                    "example": "We can talk about half-past-six attitude, mentality or character to describe persons or individuals. We can talk about “half-past-six” products and quality and after-sales services. There are also “half-past-six” marriages, relationships and quality of life.",
+                    "exampleSource": "2018 July 21, Datuk Abu Bakar Abdul Hamid. The New Straits Times, \"Staying clear of the half-past-six conundrum\". https://www.nst.com.my/opinion/letters/2018/07/392816/staying-clear-half-past-six-conundrum",
+                    "synonyms": [
+                        "anyhow",
+                        "luan"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "chin chai"
+        ],
+        "category": [
+            "insults"
+        ],
+        "etyNotes": "The exact origin behind the phrase is unknown. Various etymologies have been suggested, such as how 18:30 (6:30 pm) is around the time when many people finish work, thus not caring or bothering any further; it has also been suggested to bear resemblance to two thumbs pointing down, a flaccid penis, someone drooping in fatigue, etc."
+    },
+    "ham chim peng": {
+        "word": "ham chim peng",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "咸煎饼",
+                "traditional": "鹹煎餅",
+                "roman": "haam4 zin1 beng2",
+                "romanization": "",
+                "lit": "Chinese deep-fried dough snack topped with sesame seeds",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "咸",
+                    "煎饼"
+                ],
+                "etyTrad": [
+                    "鹹",
+                    "煎餅"
+                ],
+                "etyRoman": [
+                    "haam4",
+                    "zin1 beng2"
+                ],
+                "etyLit": [
+                    "salty",
+                    "fried pancake or flatbread"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Southern Chinese deep-fried dough snack topped with sesame seeds. It has a hollow centre, which is sometimes filled with a filling such as @{tau sar} or five spice powder.",
+                    "example": "The distinctive look and flavor of Ham Chim Peng comes from the key ingredient: the red-colored Chinese fermented bean curd (@{南腐乳|fu yu}), or “bean cheese.”",
+                    "exampleSource": "2016 February 1, Judy. The Woks Of Life, \"CANTONESE FRIED DOUGH – 咸煎饼 (HAM CHIM PENG)\". https://thewoksoflife.com/ham-chim-peng-fried-dough/"
+                }
+            ]
+        },
+        "related": [
+            "ham sap",
+            "you tiao"
+        ],
+        "category": [
+            "cuisine"
+        ]
+    },
+    "hammer": {
+        "word": "hammer",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "hammer",
+                "romanization": "",
+                "lit": "strike with a hammer or other blunt item; hit hard"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "put pressure on; make heavy demands of",
+                    "example": "I @{kena} hammered at work all week, so glad it's over and can enjoy the weekend @{liao}."
+                }
+            ]
+        }
+    },
+    "handphone": {
+        "word": "handphone",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "hand",
+                "romanization": "",
+                "lit": "part of the body below the wrist including the palm and fingers"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "phone",
+                "type": "clip",
+                "lit": "device used to make calls, send messages, run applications, etc.",
+                "etyPath": [
+                    "english",
+                    "french",
+                    "ancient greek",
+                    "ancient greek"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "τῆλε",
+                    "φωνή"
+                ],
+                "etyRoman": [
+                    "telephone",
+                    "téléphone",
+                    "têle",
+                    "phōnḗ"
+                ],
+                "etyLit": [
+                    "device used to make calls,send messages etc.",
+                    "telephone",
+                    "far away; far",
+                    "sound; voice; speech"
+                ]
+            },
+            {
+                "lang": "mandarin",
+                "simplified": "手机",
+                "traditional": "手機",
+                "roman": "shǒu jī",
+                "romanization": "",
+                "lit": "mobile phone",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "手",
+                    "机"
+                ],
+                "etyTrad": [
+                    "手",
+                    "機"
+                ],
+                "etyRoman": [
+                    "shǒu",
+                    "jī"
+                ],
+                "etyLit": [
+                    "hand; machine; device"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a mobile phone; a smartphone"
+                }
+            ]
+        },
+        "etyNotes": "Possibly influenced by calquing from the Mandarin term and various similar terms in other Asian languages."
+    },
+    "hang flower": {
+        "word": "hang flower",
+        "origin": [
+            {
+                "lang": "mandarin",
+                "traditional": "吊花",
+                "simplified": "吊花",
+                "roman": "diào huā",
+                "lit": "hang flowers",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "吊",
+                    "花"
+                ],
+                "etyTrad": [
+                    "吊",
+                    "花"
+                ],
+                "etyRoman": [
+                    "diào",
+                    "huā"
+                ],
+                "etyLit": [
+                    "hang",
+                    "flower"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>variation of</i> @{diao hua}",
+                    "example": "@{Sohai} I go flower joints never hang flower just drink alcohol also get to @{piak} the girls there",
+                    "exampleSource": "2022 April 8, Yumiko. Hardwarezone, \\\"MAN SPENDS ALL HIS MONEY HANG FLOWER FOR SIAMBU, 1 MONTH NO MONEY EAT\\\". https://forums.hardwarezone.com.sg/threads/man-spends-all-his-money-hang-flower-for-siambu-1-month-no-money-eat.6729225/",
+                    "synonyms": [
+                        "diao hua"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "siam diu"
+        ],
+        "etyNotes": "Direct calque of Mandarin term."
     }
 }

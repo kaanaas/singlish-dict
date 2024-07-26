@@ -1,0 +1,1 @@
+const langTerms = ["soya bean","soya bean milk"]; module.exports = langTerms;

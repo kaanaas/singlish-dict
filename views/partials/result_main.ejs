@@ -191,6 +191,8 @@
                                 <% } else if(j == 0 && word.origin[i].type && word.origin[i].type != "") { %>
                                     <% if(word.origin[i].type == "tx" || word.origin[i].type == "c"){ %>
                                         <p class="ortho-origin ortho-arrow" title="calque or direct translation">↻</p>
+                                    <% } else if(word.origin[i].type == "clip" || word.origin[i].type == "elision"){ %>
+                                        <p class="ortho-origin ortho-arrow" title="clipping, shortening, or elision">✂</p>
                                     <% } else { %>
                                         <p class="ortho-origin ortho-arrow"><%= word.origin[i].type %></p>
                                     <% } %>
