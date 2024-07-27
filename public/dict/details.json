@@ -48102,5 +48102,30 @@
             "siam diu"
         ],
         "etyNotes": "Direct calque of Mandarin term."
+    },
+    "hanna": {
+        "word": "hanna",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "#{poss}哈哪",
+                "traditional": "#{poss}哈哪",
+                "roman": "hâⁿ--ná",
+                "romanization": "",
+                "lit": "(imitative) 'blah blah'; 'yada yada'"
+            }
+        ],
+        "meanings": {
+            "interjection": [
+                {
+                    "definition": "'yeah, yeah'; 'alright, enough'; 'OK, whatever'; 'yada yada yada'; used to indicate disinterest, impatience, irritation, or dismissal with someone else's prattling, nagging, drivel, behaviour, @{pattern}, etc.",
+                    "example": "- @{Ah girl}, check you @{got} remember to bring passport, extra jacket...<br>- Hanna, hanna. I know @{lah}."
+                }
+            ]
+        },
+        "related": [
+            "lor sor"
+        ],
+        "etyNotes": "#{poss} Likely a colloquial imitation of idle, uninteresting drivel; if so, the Chinese characters were probably never standardized. Compare similar Mandarin internet slang 嗯哪 or 嗯呐, ǹg na (\"yeah; uh-huh; expression of acceptance or acknowledgement\")."
     }
 }
