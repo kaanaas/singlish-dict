@@ -783,7 +783,8 @@
                 {
                     "definition": "to boast; to show off",
                     "synonyms": [
-                        "yaya"
+                        "yaya",
+                        "hao lian"
                     ]
                 }
             ]
@@ -3251,7 +3252,8 @@
                         "yaya",
                         "sia lan",
                         "lao lan",
-                        "cockster"
+                        "cockster",
+                        "hao lian"
                     ]
                 }
             ]
@@ -9174,7 +9176,8 @@
     "bo liao": {
         "word": "bo liao",
         "related": [
-            "bo"
+            "bo",
+            "happening"
         ],
         "origin": [
             {
@@ -9424,7 +9427,9 @@
     "bo rasa": {
         "word": "bo rasa",
         "related": [
-            "bo"
+            "bo",
+            "bo liao",
+            "happening"
         ],
         "origin": [
             {
@@ -17349,7 +17354,8 @@
         },
         "related": [
             "anyhow whack",
-            "relak"
+            "relak",
+            "happy can already"
         ],
         "particles": [
             {
@@ -23045,6 +23051,7 @@
                 "lit": "characteristic sequence, arrangement, method, or set of behaviours"
             }
         ],
+        "etyNotes": "#{poss} Possibly a translation from a Chinese phrase such as 耍花招 (Pinyin: shuǎ huā zhāo), which can mean 'to do a pattern' as in a sequence of performative and flourishes in wushu, but can also mean 'to play a cheap trick on; to cheat; to dupe'.",
         "meanings": {
             "noun": [
                 {
@@ -35034,6 +35041,13 @@
                 "lang": "malay",
                 "roman": "siput gonggong",
                 "lit": "Laevistrombus canarium, a.k.a. dog conch, an edible marine snail",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
                 "etyRoman": [
                     "siput",
                     "gonggong"
@@ -35047,7 +35061,10 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "<i>Laevistrombus canarium</i>, an edible marine snail found in the region around South-East Asia. It is eaten in Malay cuisine."
+                    "definition": "<i>Laevistrombus canarium</i>, an edible marine snail found in the region around South-East Asia. It is eaten in Malay cuisine.",
+                    "synonyms": [
+                        "siput"
+                    ]
                 }
             ]
         },
@@ -35055,6 +35072,11 @@
             "nature",
             "cuisine"
         ],
+        "related": [
+            "siput",
+            "siput sedut"
+        ],
+        "usage": "Also known as simply @{siput}, which may also refer to another snail species, @{siput sedut}.",
         "etyNotes": "The English common name of the species, \"dog conch\", is a calque from the Malay name."
     },
     "bagus": {
@@ -40892,7 +40914,9 @@
     "sian": {
         "word": "sian",
         "related": [
-            "lor sor"
+            "lor sor",
+            "bo rasa",
+            "happening"
         ],
         "usage": "The interjection is often altered by adding any number of trailing 'z's to e.g. <i>sianzz</i>, to emphasise or intensify the feeling conveyed and further colloqualize the term. This is similar to the formation of e.g. @{rabz} from @{rabak}.",
         "origin": [
@@ -40910,7 +40934,8 @@
                     "definition": "boring; tiresome; insipid",
                     "example": "This lecture @{damn} sian, @{somemore} had to wake up so early for it. Waste time @{sia}.",
                     "synonyms": [
-                        "leceh"
+                        "leceh",
+                        "bo liao"
                     ]
                 },
                 {
@@ -48127,5 +48152,655 @@
             "lor sor"
         ],
         "etyNotes": "#{poss} Likely a colloquial imitation of idle, uninteresting drivel; if so, the Chinese characters were probably never standardized. Compare similar Mandarin internet slang 嗯哪 or 嗯呐, ǹg na (\"yeah; uh-huh; expression of acceptance or acknowledgement\")."
+    },
+    "soon kueh": {
+        "word": "soon kueh",
+        "related": [
+            "kueh",
+            "ang lu kueh"
+        ],
+        "usage": "",
+        "category": [
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "teochew / hokkien",
+                "simplified": "笋粿",
+                "traditional": "筍粿",
+                "roman": "sung2 guê2",
+                "romanization": "peng’im",
+                "lit": "Teochew steamed dumpling filled with julienned bamboo shoots and other ingredients",
+                "etyPath": [
+                    "teochew / hokkien",
+                    "teochew / hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "笋",
+                    "粿"
+                ],
+                "etyTrad": [
+                    "筍",
+                    "粿"
+                ],
+                "etyRoman": [
+                    "sung2",
+                    "guê2"
+                ],
+                "etyScheme": [
+                    "peng’im",
+                    "peng’im"
+                ],
+                "etyLit": [
+                    "bamboo shoot",
+                    "@{kueh}"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Teochew steamed dumpling with a translucent skin of mixed rice and tapioca flour, filled with julienned bamboo shoots, @{bangkuang}, and other ingredients (such as dried shrimp or mushrooms for their umami flavour). It is sometimes pressed into decorative shapes with a mold, and is often served with @{chilli} and a sweet soya sauce.",
+                    "example": "Soon kueh deserves more attention than it gets. … it’s an old-school snack that is both healthy and tasty.",
+                    "exampleSource": "2024 February 5, Germaine Tan. Eatbook, \"20 Traditional Soon Kueh Stalls In Singapore That Your Grandparents Will Approve Of\". https://eatbook.sg/soon-kueh/",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "siput sedut": {
+        "word": "siput sedut",
+        "related": [
+            "siput gonggong"
+        ],
+        "usage": "Also known as simply @{siput} (which may also refer to another snail species, @{siput gonggong}), or sometimes @{chut-chut}.",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "etyNotes": "(lit.) 'sucking/inhaling snail'.",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "siput sedut",
+                "romanization": "",
+                "lit": "Cerithidea obtusa; dish featuring Cerithidea obtusa cooked in gravy or otherwise",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "siput",
+                    "sedut"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "snail; any shelled mollusc",
+                    "suck; inhale (w. the mouth, nose, etc.)"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>Cerithidea obtusa</i> (or sometimes other closely related species such as <i>C. quadrata</i>), an edible marine snail with a cone-shaped shell popular in Malay cuisine. It is typically prepared in a sambal or coconut milk-based curry gravy, and is eaten by slurping or sucking the meat out of the shell (hence the Malay name). The tip of the shell is usually snipped off to facilitate this.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "chut-chut",
+                        "siput"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "a dish prepared using siput sedut as the main ingredient, usually cooked in a coconut milk-based curry gravy or sambal",
+                    "example": "The siput sedut was also really good and tasty, except that I felt the gravy could have been just slightly thicker and a bit more savoury.",
+                    "exampleSource": "2019 July 6. Halal Eats In Singapore, \"Aroma Kampung at Joo Chiat Complex\", https://halalfoodblog.wordpress.com/2019/07/06/aroma-kampung-at-joo-chiat-complex/",
+                    "synonyms": [
+                        "chut-chut",
+                        "siput"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "siput": {
+        "word": "siput",
+        "usage": "May refer to any snail, such as @{siput sedut} (@{chut-chut}) or @{siput gonggong}.",
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "phonetics": "",
+        "origin": [
+            {
+                "lang": "malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "siput",
+                "romanization": "",
+                "lit": "snail; any shelled mollusc"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>Laevistrombus canarium</i>, an edible marine snail found in the region around South-East Asia. It is eaten in Malay cuisine.",
+                    "synonyms": [
+                        "siput gonggong"
+                    ]
+                },
+                {
+                    "definition": "<i>Cerithidea obtusa</i> (or sometimes other closely related species such as <i>C. quadrata</i>), an edible marine snail with a cone-shaped shell popular in Malay cuisine. It is typically prepared in a sambal or coconut milk-based curry gravy, and is eaten by slurping or sucking the meat out of the shell (hence the Malay name). The tip of the shell is usually snipped off to facilitate this.",
+                    "example": "",
+                    "exampleSource": "",
+                    "synonyms": [
+                        "chut-chut",
+                        "siput sedut"
+                    ],
+                    "antonyms": false
+                },
+                {
+                    "definition": "a dish prepared using siput sedut as the main ingredient, usually cooked in a coconut milk-based curry gravy or sambal",
+                    "synonyms": [
+                        "chut-chut",
+                        "siput sedut"
+                    ],
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "sarong party girl": {
+        "word": "sarong party girl",
+        "related": [
+            "ang moh",
+            "AMDK",
+            "AMDL"
+        ],
+        "usage": "",
+        "category": [],
+        "phonetics": "",
+        "etyNotes": "",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "sarong party",
+                "romanization": "",
+                "lit": "party for expatriates, usually well-off Western professionals, where guests dress up in sarongs",
+                "etyPath": [
+                    "malay",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": false,
+                "etyTrad": false,
+                "etyRoman": [
+                    "sarung",
+                    "party"
+                ],
+                "etyScheme": false,
+                "etyLit": [
+                    "traditional lower garment worn in various forms by South-East and South Asians, usu. a light, decoratively-printed cloth tied around the waist",
+                    "social event or gathering for fun and entertainment"
+                ]
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "girl",
+                "romanization": "",
+                "lit": "young female human"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "(derogatory) an Asian girl who goes to parties and other social events with the intention of hooking up with white expatriate men or other non-Asian foreigners; an Asian girl who dates a white expatriate man or other foreigner, especially if said girl is perceived to be attracted to their supposed racial or socioeconomic privilege",
+                    "example": "Maureen was a vivacious, totally dolled-up lady and the dream woman of every hot-blooded @{ang moh}. She was the foremother and immeasurably higher-class version of the sarong party girl.",
+                    "exampleSource": "2019, Various (excerpt from Kenneth Liang). On Air: Untold Stories from Caldecott Hill - An Unlikely Broadcaster (Part 1). ISBN: 9789814868112",
+                    "synonyms": false,
+                    "antonyms": false
+                }
+            ]
+        },
+        "particles": []
+    },
+    "hao lian": {
+        "word": "hao lian",
+        "etyNotes": "Supposedly originated in Teochew, before being borrowed into Hokkien.",
+        "origin": [
+            {
+                "lang": "teochew / hokkien",
+                "simplified": "好脸",
+                "traditional": "好臉",
+                "roman": "hàu-lián",
+                "romanization": "poj",
+                "lit": "boast; brag; be arrogant"
+            }
+        ],
+        "meanings": {
+            "verb": [
+                {
+                    "definition": "to boast; to brag; to be arrogant",
+                    "synonyms": [
+                        "yaya",
+                        "action#1"
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "arrogant; boastful; braggardly; conceited; narcissistic",
+                    "example": "\"Maybe some people will say I'm hao lian (a show-off), I'm proud @{already}, get award @{already} ... Even last time, when I saw actors get international awards and choose their scripts, I would feel like they're hao lian.\"",
+                    "exampleSource": "2024 April 24, Drima Chakraborty (quoting Mark Lee). AsiaOne, \"'Maybe they'll say I'm hao lian': Mark Lee on challenging himself after winning first international award for Wonderland\". https://www.asiaone.com/entertainment/theyll-say-im-hao-lian-mark-lee-challenging-himself-winning-first-international-award-wonderland-chai-yee-wei",
+                    "synonyms": [
+                        "action#1",
+                        "yaya",
+                        "sia lan",
+                        "lao lan",
+                        "cockster",
+                        "aksi",
+                        "aksi borak"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "insults"
+        ]
+    },
+    "happening": {
+        "word": "happening",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "happening",
+                "romanization": "",
+                "lit": "present participle of 'happen'; presently occurring"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "lively; trendy; bustling; vibrant; fashionable; exciting",
+                    "example": "As an Eastie, it’s tough to admit, but the West’s pretty happening as well. For starters, you’ve got the pair of Westgate and JEM located right at the doorstep of Jurong East MRT for some retail therapy.",
+                    "exampleSource": "2023 November 7, TSL. TheSmartLocal, \"Guide To Neighbourhoods In Singapore: Pick Your Next Place To Live In Or Visit\". https://thesmartlocal.com/read/singapore-neighbourhoods-guide/"
+                }
+            ]
+        },
+        "related": [
+            "bo liao",
+            "bo rasa",
+            "no kick",
+            "sian"
+        ],
+        "etyNotes": "Also used as a slang term in several dialects of English."
+    },
+    "happy can already": {
+        "word": "happy can already",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "欢喜着好",
+                "traditional": "歡喜著好",
+                "roman": "hoaⁿ-hí tio̍h hó",
+                "romanization": "",
+                "lit": "(proverb) being happy is good enough",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "欢喜",
+                    "着",
+                    "好"
+                ],
+                "etyTrad": [
+                    "歡喜",
+                    "著",
+                    "好"
+                ],
+                "etyRoman": [
+                    "hoaⁿ-hí",
+                    "tio̍h",
+                    "hó"
+                ],
+                "etyLit": [
+                    "happy; joyful",
+                    "already; then",
+                    "good; great"
+                ]
+            }
+        ],
+        "meanings": {
+            "expression": [
+                {
+                    "definition": "(proverb) being joyful and content with life is good enough; used to remind one that finding joy and happiness are more important in life than e.g. material goods, wealth, social standing and reputation, etc."
+                },
+                {
+                    "definition": "'suit yourself'; 'whatever floats your boat'; do whatever pleases you",
+                    "example": "- Wah she @{damn} weird @{sia}, I never before see people eat @{prata} with @{kicap manis}... <br>- @{Aiyah}, happy can already."
+                }
+            ]
+        },
+        "related": [
+            "already",
+            "can",
+            "chin chai",
+            "anyhow"
+        ],
+        "category": [
+            "sayings"
+        ]
+    },
+    "happy like bird": {
+        "word": "happy like bird",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "happy as a lark / jaybird / box of birds",
+                "romanization": "",
+                "lit": "extremely happy; overjoyed; carefree"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(simile) very happy; ecstatic; overjoyed; jumping with joy",
+                    "example": "You @{got} see her new puppy? She happy like bird, play whole day @{never} stop.",
+                    "synonyms": [
+                        "happy like shark"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Several idiomatic English similes make a comparison between happiness and birds; the Singlish simile is likely an alteration of one or more of them."
+    },
+    "hati babi": {
+        "word": "hati babi",
+        "origin": [
+            {
+                "lang": "baba malay",
+                "simplified": "",
+                "traditional": "",
+                "roman": "hati babi",
+                "romanization": "",
+                "lit": "traditional Peranakan pork meatball dish, (lit.) 'pig's liver'",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "hati",
+                    "babi"
+                ],
+                "etyLit": [
+                    "liver",
+                    "pig; pork"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional Peranakan pork meatball dish made from a mixture of ground pork and pig's liver (sometimes substituted with liver from other animals, such as chicken) with soya sauce, coriander, shallots, etc., which is shaped into bite-sized balls, stuffed into pieces of pig's caul (intestinal lining), and pan-fried.",
+                    "example": "Hati Babi Bungkus is one of the most traditional peranakan dish, served with mustard green salad. Only when we can get stocks of the pig caul lining(pig stomach lining) can we then prepare this delicacy. [sic]",
+                    "exampleSource": "2016 November 4, The Peranakan (Facebook post). https://www.facebook.com/ThePeranakanSG/posts/%C4%8Fid-you-know-hati-babi-bungkus-is-one-of-the-most-traditional-peranakan-dish-ser/1805107066398597/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ],
+        "usage": "Sometimes also known as 'hati babi bungkus' (see @{bungkus}), from the Malay word for 'wrapped'; literally 'wrapped pig's liver'."
+    },
+    "happy like shark": {
+        "word": "happy like shark",
+        "origin": [
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "happy as a lark",
+                "romanization": "",
+                "lit": "extremely happy; overjoyed; carefree"
+            },
+            {
+                "lang": "english",
+                "simplified": "",
+                "traditional": "",
+                "roman": "shark",
+                "romanization": "",
+                "lit": "cartilaginous, scaleless fish in the clade Selachimorpha, often an apex predator in its habitat"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "(simile) very happy; ecstatic; overjoyed; jumping with joy",
+                    "example": "i'm happy like shark that i have ONE rc that @{dun} break everytime i run it......just that during the \"off season\" got nothing to do to it....",
+                    "exampleSource": "2006 March 22, overtki11. RCTech, \"EPMTs check in here. (a subsidiary of TNT)\". https://www.rctech.net/forum/singapore-r-c-racers/13602-epmts-check-here-subsidiary-tnt-2050.html",
+                    "synonyms": [
+                        "happy like bird"
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "sayings"
+        ],
+        "etyNotes": "Probably an alteration of English <i>happy as a lark</i>, with <i>shark</i> replacing <i>lark</i> due to their sounding similar."
+    },
+    "har cheong gai": {
+        "word": "har cheong gai",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "虾酱鸡",
+                "traditional": "蝦醬雞",
+                "roman": "haa1 zoeng3 gai1",
+                "romanization": "",
+                "lit": "prawn paste chicken",
+                "etyPath": [
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "虾酱",
+                    "鸡"
+                ],
+                "etyTrad": [
+                    "蝦醬",
+                    "雞"
+                ],
+                "etyRoman": [
+                    "haa1 zoeng3",
+                    "gai1"
+                ],
+                "etyLit": [
+                    "prawn paste; shrimp paste",
+                    "chicken"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a fried chicken dish originating in Singaporean Cantonese cuisine. It usually consists of chicken wings, marinated overnight in Cantonese prawn paste (@{har cheong}) and a seasoned batter before being deep-fried, resulting in a fried chicken that is far more intensely flavourful and bursting with umami than is found in any other cuisine. It is a very popular dish at most @{zi chars|zi char} in Singapore, Malaysia, and beyond.",
+                    "example": "She told me that to make really good Har Cheong Gai, you have to get a specific brand of shrimp sauce from Hong Kong.",
+                    "exampleSource": "2014 June 17, Leslie Tay. ieatishootipost, \"Prawn Paste Chicken (Har Cheong Gai) Recipe: The Zi Char Version\". https://ieatishootipost.sg/prawn-paste-chicken-har-cheong-gai-recipe-the-cze-char-version/"
+                }
+            ]
+        },
+        "related": [
+            "belacan",
+            "hae ko",
+            "har",
+            "har cheong"
+        ],
+        "category": [
+            "cuisine"
+        ]
+    },
+    "har gao": {
+        "word": "har gao",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "虾饺",
+                "traditional": "蝦餃",
+                "roman": "haa1 gaau2",
+                "romanization": "",
+                "lit": "Cantonese prawn dumpling",
+                "etyScript": [
+                    "虾",
+                    "饺"
+                ],
+                "etyTrad": [
+                    "蝦",
+                    "餃"
+                ],
+                "etyRoman": [
+                    "haa1",
+                    "gaau2"
+                ],
+                "etyLit": [
+                    "prawn; shrimp",
+                    "filled dumpling; wonton"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a traditional Cantonese prawn dumpling, served as a dim sum dish. It consists of prawn meat wrapped in a dumpling skin, which is pleated in a characteristic sail-like shape. When steamed, the skin turns translucent. It is often served with a dumpling soya sauce or chilli oil for dipping.",
+                    "example": "I’ll even dare to stick my neck out and claim that har gow might be the #1 dim sum item of all time. At least, I wouldn’t be surprised if they were.",
+                    "exampleSource": "2015 March 10, Judy. The Woks Of Life, \"HAR GOW (DIM SUM SHRIMP DUMPLINGS)\". https://thewoksoflife.com/har-gow/"
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "har lok": {
+        "word": "har lok",
+        "origin": [
+            {
+                "lang": "cantonese",
+                "simplified": "虾碌",
+                "traditional": "蝦碌",
+                "roman": "haa1 luk1",
+                "romanization": "",
+                "lit": "dish of fried shell-on prawns in a tomato and soy sauce; prawns with the shell on",
+                "etyPath": [
+                    "cantonese",
+                    "english",
+                    "cantonese",
+                    "cantonese",
+                    "cantonese"
+                ],
+                "etyType": [
+                    "",
+                    "&",
+                    "+",
+                    ""
+                ],
+                "etyScript": [
+                    "虾碌",
+                    "",
+                    "虾",
+                    "碌",
+                    "辘"
+                ],
+                "etyTrad": [
+                    "蝦碌",
+                    "",
+                    "蝦",
+                    "碌",
+                    "轆"
+                ],
+                "etyRoman": [
+                    "haa1 luk1",
+                    "hard luck",
+                    "haa1",
+                    "luk1",
+                    "luk1"
+                ],
+                "etyLit": [
+                    "mistake; bungle; blunder",
+                    "misfortune; difficulty; adversity",
+                    "prawn; shrimp",
+                    "round object; roll",
+                    "round object; roll; wheel"
+                ]
+            },
+            {
+                "lang": "cantonese",
+                "simplified": "烙",
+                "traditional": "烙",
+                "roman": "lok3",
+                "romanization": "",
+                "lit": "pan-fry"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a Cantonese dish of large, pan-fried or seared, shell-on prawns pan-fried in a tomato- and soy-based sauce",
+                    "example": "The key to Har Loke prawns is to really give the shells a really good char so that the sauce is infused with a smoky flavour.",
+                    "exampleSource": "2016 February 6, Leslie Tay. ieatishootipost, \"XXO Har Loke Prawns Recipe: Xtra Xtra Ordinary!\". https://ieatishootipost.sg/xxo-har-loke-prawns-xtra-xtra-ordinary/"
+                }
+            ]
+        },
+        "related": [
+            "har"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "etyNotes": "The dish was apparently named after a literal interpretation of each of the characters in 虾碌/蝦碌, haa1 luk1, which was a Cantonese phonetic pseudo-loan from English <i>hard luck</i>. However, the similar-sounding 烙, lok3 (\"pan-fry\") likely influenced the use of 'lok'.<br>The traditional form of 碌 is slightly different but shares the same Unicode space."
     }
 }
