@@ -1,1 +1,1 @@
-const cat = ["chingay","Deepavali","joget","qing ming"]; module.exports = cat;
+const cat = ["Chingay","Deepa Raya","Deepavali","Hari Raya","Hari Raya Aidiladha","Hari Raya Aidilfitri","Hari Raya Haji","Hari Raya Puasa","joget","Qing Ming"]; module.exports = cat;

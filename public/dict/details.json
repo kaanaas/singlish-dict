@@ -17490,7 +17490,7 @@
         ]
     },
     "chingay": {
-        "word": "chingay",
+        "word": "Chingay",
         "origin": [
             {
                 "lang": "hokkien",
@@ -20627,7 +20627,7 @@
         }
     },
     "qing ming": {
-        "word": "qing ming",
+        "word": "Qing Ming",
         "origin": [
             {
                 "lang": "mandarin",
@@ -32181,7 +32181,8 @@
                         "sat khi",
                         "sat",
                         "stylo",
-                        "stylo milo"
+                        "stylo milo",
+                        "step"
                     ],
                     "antonyms": [
                         "obit",
@@ -34170,7 +34171,6 @@
             "locations",
             "nature"
         ],
-        "etyNotes": "Clipping of English <i>glamorous</i>. Used informally in some fixed English phrases, such as <i>glam rock</i> and <i>glam up</i>.",
         "references": [
             {
                 "link": "https://www.nparks.gov.sg/nparksbuzz/issue-46-vol-3-2020/facts/gelam-tree",
@@ -36413,6 +36413,10 @@
     "sat khi": {
         "word": "sat khi",
         "usage": "In a way, the Hokkien counterpart to English <i>slay</i>.",
+        "related": [
+            "glam",
+            "stylo"
+        ],
         "origin": [
             {
                 "lang": "hokkien",
@@ -42469,7 +42473,6 @@
             "verb": [
                 {
                     "definition": "to slack off; to skive; to take time off work; to play truant",
-                    "example": "",
                     "synonyms": [
                         "tuang",
                         "makan ular",
@@ -45341,8 +45344,8 @@
     "step": {
         "word": "step",
         "related": [
-            "gerek",
-            "sat khi"
+            "sat khi",
+            "stylo"
         ],
         "etyNotes": "Possibly from <i>step</i> meaning a (confident and cool) manner of walking or gait, or a shortening of a longer English phrase such as '<i>to step out of one’s comfort zone</i>'. Seems to have originated from the late millennial to early Gen Z Malay community. Could also have come from some Malay slang term, either from an alteration of an existing Malay word or a new coinage.",
         "origin": [
@@ -45366,7 +45369,10 @@
             "adjective": [
                 {
                     "definition": "cool; hip; of high status, etc.",
-                    "example": "@{Wah}, step @{sial!}"
+                    "example": "@{Wah}, step @{sial!}",
+                    "synonyms": [
+                        "step"
+                    ]
                 }
             ]
         }
@@ -45907,20 +45913,15 @@
     },
     "storemando": {
         "word": "storemando",
-        "related": [],
         "usage": "Usually used humorously to ridicule how easy and fortunate the life of a storeman is compared to those in other far more @{siong} NS vocations, such as commandos.",
         "category": [
             "ns"
         ],
-        "phonetics": "",
         "etyNotes": "Portmanteau of English <i>storeman</i> and <i>commando</i>",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "storeman",
-                "romanization": "",
                 "lit": "sb. who works in a store or warehouse",
                 "etyPath": [
                     "english",
@@ -45929,13 +45930,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "store",
                     "-man"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "place where items are kept or held",
                     "person working or specialized in an area"
@@ -45943,24 +45941,18 @@
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "commando",
-                "romanization": "",
                 "lit": "small, highly trained combat force specialised in difficult operations or raids; soldier in such a force",
                 "etyPath": [
                     "afrikaans",
                     "portuguese",
                     "latin"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "kommando",
                     "comando",
                     "commendare"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "militia; raid; raiding party",
                     "command; order; commando",
@@ -45971,32 +45963,20 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "(military, slightly derogatory) a soldier whose vocation is as a storeman, or in the supply division",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "(military, slightly derogatory) a soldier whose vocation is as a storeman, or in the supply division"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sup": {
         "word": "sup",
-        "related": [],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay / indonesian",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sup",
-                "romanization": "",
                 "lit": "soup",
                 "etyPath": [
                     "english",
@@ -46007,14 +45987,11 @@
                     "or",
                     ""
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "soup",
                     "soep",
                     "soupe"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "liquid-based dish with water or stock and other ingredients",
                     "soup",
@@ -46027,16 +46004,12 @@
                 {
                     "definition": "(used in compounds) soup",
                     "example": "In the wee hours of about 2 to 3 AM after work, Baharudeen cooked Tulang together with chilis and tomatoes for his own consumption. As you guessed it, this formed the early version of Sup Tulang. ",
-                    "exampleSource": "2019 December 4, Victor Fong. Ricemedia, \"This Mutton Soup You Didn’t Even Know Existed Was Invented In Singapore\". https://www.ricemedia.co/food-features-sup-tulang/",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2019 December 4, Victor Fong. Ricemedia, \"This Mutton Soup You Didn’t Even Know Existed Was Invented In Singapore\". https://www.ricemedia.co/food-features-sup-tulang/"
                 }
             ],
             "adjective": [
                 {
                     "definition": "(of food, usually noodles) with soup served as part of the main dish instead of on the side",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "soup"
                     ],
@@ -46045,37 +46018,27 @@
                     ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "soup": {
         "word": "soup",
         "related": [
             "green bean soup"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "soup",
-                "romanization": "",
                 "lit": "liquid-based dish with water or stock and other ingredients; broth",
                 "etyPath": [
                     "french"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "soupe"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "soup"
                 ]
@@ -46085,8 +46048,6 @@
             "adjective": [
                 {
                     "definition": "(of food, usually noodles) with soup served as part of the main dish instead of on the side",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "sup"
                     ],
@@ -46095,8 +46056,7 @@
                     ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sure got": {
         "word": "sure got",
@@ -46106,24 +46066,12 @@
             "have"
         ],
         "usage": "See @{have} and @{got}.",
-        "category": [],
-        "phonetics": "",
         "etyNotes": "Grammatically, equivalent to either a shortening of English <i>for sure</i> or a clipping of <i>surely</i>.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sure",
-                "romanization": "",
-                "lit": "certain; definite",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "certain; definite"
             },
             {
                 "lang": "singlish",
@@ -46144,16 +46092,12 @@
             "verb": [
                 {
                     "definition": "to have for certain; to definitely exist, possess, or have occurred",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "sure have"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sure have": {
         "word": "sure have",
@@ -46163,24 +46107,12 @@
             "have"
         ],
         "usage": "See @{have} and @{got}.",
-        "category": [],
-        "phonetics": "",
         "etyNotes": "Grammatically, equivalent to either a shortening of English <i>for sure</i> or a clipping of <i>surely</i>.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sure",
-                "romanization": "",
-                "lit": "certain; definite",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "certain; definite"
             },
             {
                 "lang": "singlish",
@@ -46201,16 +46133,12 @@
             "verb": [
                 {
                     "definition": "to have for certain; to definitely exist or possess",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "sure got"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "selar": {
         "word": "selar",
@@ -46222,26 +46150,18 @@
             "nature",
             "cuisine"
         ],
-        "phonetics": "",
         "etyNotes": "Possibly due to the prominent brownish striped markings on the fish's sides, which resemble grill or burn marks.",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "[ikan] selar",
-                "romanization": "",
                 "lit": "Atule mate, a.k.a. yellowtail scad",
                 "etyPath": [
                     "malay"
                 ],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "#{likely} selar"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "brand (w. fire or hot iron); mark"
                 ]
@@ -46250,15 +46170,10 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "<i>Atule mate</i> (also known as the yellowtail scad), a widespread tropical marine fish which is commonly used as a food species",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "<i>Atule mate</i> (also known as the yellowtail scad), a widespread tropical marine fish which is commonly used as a food species"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sotong": {
         "word": "sotong",
@@ -46266,21 +46181,16 @@
             "blur like sotong",
             "blur"
         ],
-        "usage": "",
         "category": [
             "nature",
             "cuisine",
             "insults"
         ],
-        "phonetics": "",
         "etyNotes": "Sense of 'an absentminded or oblivious person' is from the phrase @{blur sotong}.",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sotong",
-                "romanization": "",
                 "lit": "squid; cuttlefish"
             }
         ],
@@ -46289,22 +46199,16 @@
                 {
                     "definition": "squid; cuttlefish",
                     "example": "These sotong pieces were eaten with @{chilli} sauce. It was mouth-wateringly delicious. ... Usually Ah Chin would manage to sell 10 dried sotong.",
-                    "exampleSource": "2009, Soo Cham. A Mother's Tears. Institut Terjemahan Negara Malaysia. ISBN: 9789830683546. p.108",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2009, Soo Cham. A Mother's Tears. Institut Terjemahan Negara Malaysia. ISBN: 9789830683546. p.108"
                 },
                 {
                     "definition": "someone who is always confused, oblivious, or slow to think; an absentminded fool",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "blur sotong"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sozai": {
         "word": "sozai",
@@ -46313,12 +46217,9 @@
             "si gin ah",
             "leng zai"
         ],
-        "usage": "",
         "category": [
             "insults"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "cantonese / hakka",
@@ -46360,156 +46261,94 @@
             "noun": [
                 {
                     "definition": "a fool; a moron; a silly person",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "bodoh",
                         "dum bai",
                         "cock",
                         "clown",
                         "goondu"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "(affectionate) silly kid; kiddo",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "gin ah pee"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sumpah": {
         "word": "sumpah",
         "related": [
             "confirm"
         ],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sumpah",
-                "romanization": "",
-                "lit": "promise",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "promise"
             }
         ],
         "meanings": {
             "verb": [
                 {
                     "definition": "to promise; to swear; to pledge",
-                    "example": "I sumpah, I @{never} see this person before in my life.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "I sumpah, I @{never} see this person before in my life."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "so si": {
         "word": "so si",
-        "related": [],
-        "usage": "",
         "category": [
             "drinks"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "hokkien",
                 "simplified": "锁匙",
                 "traditional": "鎖匙",
                 "roman": "só-sî",
-                "romanization": "",
-                "lit": "key",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "key"
             }
         ],
         "meanings": {
             "noun": [
                 {
-                    "definition": "a key",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "a key"
                 },
                 {
-                    "definition": "(metonym) Beck’s beer, a lager brewed by Brauerei Beck & Co. in Bremen; so nicknamed because its logo is a key",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "(metonym) Beck’s beer, a lager brewed by Brauerei Beck & Co. in Bremen; so nicknamed because its logo is a key"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "soon hock": {
         "word": "soon hock",
         "related": [
             "ikan"
         ],
-        "usage": "",
         "category": [
             "nature",
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "cantonese",
                 "simplified": "笋壳",
                 "traditional": "筍殼",
                 "roman": "seon2 hok3",
-                "romanization": "",
-                "lit": "Oxyeleotris marmorata, a.k.a. marble goby",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "Oxyeleotris marmorata, a.k.a. marble goby"
             }
         ],
         "meanings": {
             "noun": [
                 {
-                    "definition": "<i>Oxyeleotris marmorata</i> (commonly known as the marble goby), a large goby which lives in fresh and brackish water bodies such as rivers. It is a very popular fish in Chinese cuisine due to its large size (typically around 30 cm, but reaching up to 65 cm) and succulent white flesh.",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "<i>Oxyeleotris marmorata</i> (commonly known as the marble goby), a large goby which lives in fresh and brackish water bodies such as rivers. It is a very popular fish in Chinese cuisine due to its large size (typically around 30 cm, but reaching up to 65 cm) and succulent white flesh."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "shiok": {
         "word": "shiok",
@@ -46517,16 +46356,11 @@
             "steam"
         ],
         "usage": "<i>Shiok</i> is probably one of the most richly historied words in any language that continues to be used to this day, and is pronounced nearly the same way to capture the same emotion as it was by satisfied humans thousands of years ago. Jesus probably used the word - it comes from his native language, after all.",
-        "category": [],
-        "phonetics": "",
         "etyNotes": "* Either via Punjabi,^{1} or directly into Malay from Classical Persian. Its use as an interjection may be from Punjabi.<br>#{dubious} The Malay term has also been suggested to be a shortened form of Malay <i>seronok</i> (\"happy; fun; pleasant; enjoyable\"),^{3} a borrowing from some East Austroasiatic language.",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "syok",
-                "romanization": "",
                 "lit": "interesting; fun; feel good; enjoyable; interested",
                 "etyPath": [
                     "punjabi",
@@ -46545,14 +46379,12 @@
                     "شَوْق",
                     "שוקא"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "shauk",
                     "šoḵ",
                     "šawq",
                     "šwq"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "interest; eagerness; desire; longing",
                     "desire; zeal; cheerful; spirited",
@@ -46578,7 +46410,6 @@
                 },
                 {
                     "definition": "(of food) delicious; pleasurable; extremely satisfying",
-                    "example": "",
                     "synonyms": [
                         "sedap",
                         "ho chiah"
@@ -46586,7 +46417,6 @@
                 },
                 {
                     "definition": "happy; satisfied; pleased; feeling good; ecstatic; enjoying oneself",
-                    "example": "",
                     "synonyms": [
                         "song",
                         "steam"
@@ -46599,11 +46429,7 @@
             ],
             "interjection": [
                 {
-                    "definition": "used to express extreme pleasure or admiration",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "used to express extreme pleasure or admiration"
                 }
             ]
         },
@@ -46828,27 +46654,14 @@
             "itchy backside",
             "chicken backside"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sell",
-                "romanization": "",
-                "lit": "trade e.g. goods or services in exchange for money",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "trade e.g. goods or services in exchange for money"
             },
             {
                 "lang": "english",
@@ -46874,22 +46687,14 @@
         "meanings": {
             "verb": [
                 {
-                    "definition": "to prostitute oneself; to sell one’s body",
-                    "example": "",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "definition": "to prostitute oneself; to sell one’s body"
                 },
                 {
                     "definition": "(figurative) to have to scrounge or do unpleasant things for money because of a change in situation, such as one having fallen on hard times",
-                    "example": "Wah, GST gonna become 10% soon… not careful @{later} have to sell backside just to eat @{liao}.",
-                    "exampleSource": "",
-                    "synonyms": false,
-                    "antonyms": false
+                    "example": "Wah, GST gonna become 10% soon… not careful @{later} have to sell backside just to eat @{liao}."
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sayur lodeh": {
         "word": "sayur lodeh",
@@ -46897,19 +46702,13 @@
             "lontong",
             "sayur"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sayur lodeh",
-                "romanization": "",
                 "lit": "dish of vegetables stewed in a coconut-milk-based curry",
                 "etyPath": [
                     "malay",
@@ -46922,12 +46721,10 @@
                     "",
                     "ꦭꦺꦴꦝꦺꦃ"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "sayur",
                     "lodhèh"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "vegetable",
                     "cooked until soft"
@@ -46939,33 +46736,25 @@
                 {
                     "definition": "a dish consisting of vegetables stewed until soft in a coconut-milk-based curry. It has origins in Javanese cuisine, in the city of Yogyakarta. In Singaporean Peranakan cuisine, compressed rice cylinders called @{lontong} or nasi impit are often added to it, to create a dish that is also referred to as @{lontong}.",
                     "example": "While sayur lodeh is straightforward to make, its origins are complex. Some scholars believe the tradition stretches back to central Java’s civilisational heyday in the 10th Century, …",
-                    "exampleSource": "2020 May 12, Scott Anthony. BBC, \"A Javanese dish to banish the plague\". https://www.bbc.com/travel/article/20200506-a-javanese-dish-to-banish-the-plague",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2020 May 12, Scott Anthony. BBC, \"A Javanese dish to banish the plague\". https://www.bbc.com/travel/article/20200506-a-javanese-dish-to-banish-the-plague"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sayur manis": {
         "word": "sayur manis",
         "related": [
             "sayur"
         ],
-        "usage": "",
         "category": [
             "cuisine",
             "nature"
         ],
-        "phonetics": "",
         "etyNotes": "(lit.) 'sweet vegetable'. Also known as <i>cekur manis</i>, from <i>cekur</i>, the Malay word for the unrelated genus <i>Kaempferia</i> (in the ginger family).",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sayur manis",
-                "romanization": "",
                 "lit": "Breynia androgyna, a green leafy shrub often used as a vegetable",
                 "etyPath": [
                     "malay",
@@ -46974,12 +46763,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyTrad": false,
                 "etyRoman": [
                     "sayur",
                     "manis"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "vegetable",
                     "sweet"
@@ -46991,9 +46778,7 @@
                 {
                     "definition": "<i>Breynia androgyna</i>, a green leafy shrub often used as a vegetable in Singaporean cuisine, such as in soups and stir-fries.^{1} It is toxic when eaten raw in large quantities.",
                     "example": "Stir-fried with red peppers, shallots and egg in a thin, juicy gravy, sayur manis tasted both rich and nutritious, like very good spinach.",
-                    "exampleSource": "2014 August 14, Konstantin Kakaes. NPR - The Salt, \"Sayur Manis: Delicious, But Also Deadly, Greens From Borneo\". https://www.npr.org/sections/thesalt/2014/08/14/340358325/sayur-manis-delicious-but-also-deadly-greens-from-borneo",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2014 August 14, Konstantin Kakaes. NPR - The Salt, \"Sayur Manis: Delicious, But Also Deadly, Greens From Borneo\". https://www.npr.org/sections/thesalt/2014/08/14/340358325/sayur-manis-delicious-but-also-deadly-greens-from-borneo"
                 }
             ]
         },
@@ -47015,30 +46800,16 @@
         "category": [
             "insults"
         ],
-        "phonetics": "",
         "etyNotes": "Portmanteau of <i>stupid</i> and @{piak}, in the sense of someone or something being so stupid that one cannot help but slap one’s forehead in disbelief.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "stupid",
-                "romanization": "",
-                "lit": "idiotic; dumb; unintelligent",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "idiotic; dumb; unintelligent"
             },
             {
                 "lang": "singlish",
-                "simplified": "",
-                "traditional": "",
                 "roman": "piak",
-                "romanization": "",
                 "lit": "hit; slap, (onom.) sound of a hit or slap",
                 "etyPath": [
                     "hokkien",
@@ -47059,7 +46830,6 @@
                     "phiak",
                     "phia̍k/pia̍k"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "hit; slap; clap; whack; have sex with, (onom.) sound of a hit or slap",
                     "hit, (onom.) sound of a hit; sound of a flap or flutter"
@@ -47078,67 +46848,32 @@
                         "bo idea",
                         "gong",
                         "kham gong"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sorry no cure": {
         "word": "sorry no cure",
-        "related": [],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "The equivalent English expression would be something like 'sorry <b>is</b> no cure'. This expression is an example of the copula deletion that is common in Singlish grammar, e.g. 'He <b>is</b> always like that' → 'He always @{liddat}'.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sorry",
-                "romanization": "",
-                "lit": "expression of remorse, apology, regret etc.",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "expression of remorse, apology, regret etc."
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "no",
-                "romanization": "",
-                "lit": "not; not at all",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "not; not at all"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "cure",
-                "romanization": "",
-                "lit": "sth. that heals; solution to a problem",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "sth. that heals; solution to a problem"
             }
         ],
         "meanings": {
@@ -47149,54 +46884,30 @@
                     "exampleSource": "2023 December 25, Nehru Sathiamoorthy. \"Sorry no cure, Anwar, whether you’re merely citing a historical source or just a slip of the tongue\". https://focusmalaysia.my/sorry-no-cure-anwar-whether-youre-merely-citing-a-historical-source-or-just-a-slip-of-the-tongue/",
                     "synonyms": [
                         "sorry no pakeh"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sorry no pakeh": {
         "word": "sorry no pakeh",
         "related": [
             "bo pakai"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
         "etyNotes": "See @{sorry no cure}.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sorry",
-                "romanization": "",
-                "lit": "expression of remorse, apology, regret etc.",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "expression of remorse, apology, regret etc."
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "no",
-                "romanization": "",
-                "lit": "not; not at all",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "not; not at all"
             },
             {
                 "lang": "baba malay",
@@ -47218,15 +46929,12 @@
                 {
                     "definition": "used to express that a simple apology will not make things right or solve the problem that has been created",
                     "example": "@{Wah} @{champion} @{ah} you... this time your sorry no pakeh.",
-                    "exampleSource": "",
                     "synonyms": [
                         "sorry no cure"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "syt": {
         "word": "SYT",
@@ -47241,15 +46949,11 @@
         "category": [
             "abbreviations"
         ],
-        "phonetics": "",
         "etyNotes": "Abbreviation of English phrase <i>sweet young thing</i>.",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sweet young thing",
-                "romanization": "",
                 "lit": "attractive girl or young woman; well-mannered and pleasant girl",
                 "etyPath": [
                     "english",
@@ -47260,14 +46964,11 @@
                     "+",
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "sweet",
                     "young",
                     "thing"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "pleasant; pleasing",
                     "youthful; not old; at an early age",
@@ -47279,22 +46980,17 @@
             "noun": [
                 {
                     "definition": "an attractive, youthful-looking girl or woman; a pretty young lady",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "xmm",
                         "chio bu",
                         "leng lui"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "jio": {
         "word": "jio",
-        "usage": "",
         "related": [
             "open jio"
         ],
@@ -47322,7 +47018,6 @@
     },
     "open jio": {
         "word": "open jio",
-        "usage": "",
         "related": [
             "jio",
             "bojio",
@@ -47380,10 +47075,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "champion",
-                "romanization": "",
                 "lit": "ultimate winner of a contest; fighter for a cause",
                 "etyPath": [
                     "old french",
@@ -47428,7 +47120,6 @@
         "category": [
             "insults"
         ],
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "singlish",
@@ -47462,9 +47153,7 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "someone who is always selfishly scheming and plotting; a serial backstabber; a rat; someone who is the epitome of a treacherous and untrustworthy person; someone who constantly puts on facades to deceive others of their ulterior intentions",
-                    "example": "",
-                    "exampleSource": ""
+                    "definition": "someone who is always selfishly scheming and plotting; a serial backstabber; a rat; someone who is the epitome of a treacherous and untrustworthy person; someone who constantly puts on facades to deceive others of their ulterior intentions"
                 }
             ]
         },
@@ -47564,7 +47253,6 @@
             "verb": [
                 {
                     "definition": "someone who constantly tries to shirk work or responsibility, regardless of whether they are successful or good at doing so",
-                    "example": "",
                     "synonyms": [
                         "kengster",
                         "chao keng warrior",
@@ -47580,19 +47268,13 @@
             "lan lan suck thumb",
             "tahan"
         ],
-        "usage": "",
         "category": [
             "sayings"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "[to] suck [one’s] thumb",
-                "romanization": "",
                 "lit": "to put one’s thumb in one’s mouth; often seen as a childlike action",
                 "etyPath": [
                     "english",
@@ -47601,13 +47283,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "suck",
                     "thumb"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "draw into one’s mouth by creating a region of lower pressure",
                     "short, thick, opposable digit of each hand"
@@ -47619,22 +47298,16 @@
                 {
                     "definition": "to bear with something unpleasant or unfavourable without complaint; to accept the current situation and having to wait around while nothing can be done",
                     "example": "Why is it wrong to “suck thumb” at work? … I hope that more people will stand up for their rights and ask reasonably for restitution …",
-                    "exampleSource": "2023 May 7, Author (anonymous). Loopholes Singapore, \"Why is it wrong to “suck thumb” at work?\". https://loopholes.sg/climbing-in-progress/why-is-it-wrong-to-suck-thumb-at-work/",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2023 May 7, Author (anonymous). Loopholes Singapore, \"Why is it wrong to “suck thumb” at work?\". https://loopholes.sg/climbing-in-progress/why-is-it-wrong-to-suck-thumb-at-work/"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "snowskin": {
         "word": "snowskin",
-        "related": [],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
         "etyNotes": "Calque of Mandarin term.",
         "origin": [
             {
@@ -47642,7 +47315,6 @@
                 "simplified": "冰皮",
                 "traditional": "冰皮",
                 "roman": "bīng pí",
-                "romanization": "",
                 "lit": "type of pastry crust made from glutinous rice flour",
                 "etyPath": [
                     "mandarin",
@@ -47663,7 +47335,6 @@
                     "bīng",
                     "pí"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "ice",
                     "skin"
@@ -47675,20 +47346,15 @@
                 {
                     "definition": "a type of pastry crust made from glutinous rice flour, resulting in a translucent, frosty, slightly chewy skin",
                     "example": "Also irresistible is the newly launched Mango Pomelo Snowskin Mooncake (S$95 nett for four), a refreshing blend of mango and pomelo enveloped in melt-in-the-mouth snowskin.",
-                    "exampleSource": "2024 July 11. The Business Times, \"Moonlit treasures for the Mid-Autumn Festival\". https://www.businesstimes.com.sg/lifestyle/bt-luxe/moonlit-treasures-mid-autumn-festival",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2024 July 11. The Business Times, \"Moonlit treasures for the Mid-Autumn Festival\". https://www.businesstimes.com.sg/lifestyle/bt-luxe/moonlit-treasures-mid-autumn-festival"
                 },
                 {
                     "definition": "(attributive) describing food which has such a skin, especially mooncakes, which often come in a wide variety of novelty flavours and attractive pastel colours when made with snowskin.",
                     "example": "Whether you prefer classic white lotus paste mooncakes or the pillowy snowskin variants, there’s something for everyone this moon festival.",
-                    "exampleSource": "2023 August 25, Ethan Kan. Tatler, \"Mid-Autumn Festival 2023: The best mooncakes in Singapore to sweeten your festivities\". https://www.tatlerasia.com/dining/food/mid-autumn-festival-2023-the-best-mooncakes-in-singapore",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2023 August 25, Ethan Kan. Tatler, \"Mid-Autumn Festival 2023: The best mooncakes in Singapore to sweeten your festivities\". https://www.tatlerasia.com/dining/food/mid-autumn-festival-2023-the-best-mooncakes-in-singapore"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "soya bean": {
         "word": "soya bean",
@@ -47696,20 +47362,14 @@
             "tau",
             "green bean"
         ],
-        "usage": "",
         "category": [
             "nature",
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "soya",
-                "romanization": "",
                 "lit": "the legume Glycine max or substances derived from it; soya sauce",
                 "etyPath": [
                     "dutch",
@@ -47740,7 +47400,6 @@
                     "shōyu",
                     "jiàng yóu"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "soya",
                     "soya sauce",
@@ -47750,18 +47409,8 @@
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "bean",
-                "romanization": "",
-                "lit": "plant of the family Fabaceae producing edible seeds, or the seeds thereof",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "plant of the family Fabaceae producing edible seeds, or the seeds thereof"
             }
         ],
         "meanings": {
@@ -47769,13 +47418,10 @@
                 {
                     "definition": "the edible seeds of the legume plant <i>Glycine max</i>, which are widely used in Asian cuisine — such as in soya sauce, desserts like @{tau huay}, and drinks like @{tau huay chui}.",
                     "example": "Soya bean products (e.g. beancurd, tempeh and soya milk) belong to the meat and alternatives food group and this food group provides protein, which is an essential nutrient that serves numerous functions.",
-                    "exampleSource": "2022 November 15. HealthHub.sg, \"Soya Bean — The Unique Plant Protein\". https://www.healthhub.sg/live-healthy/soya_unique_plant_protein",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2022 November 15. HealthHub.sg, \"Soya Bean — The Unique Plant Protein\". https://www.healthhub.sg/live-healthy/soya_unique_plant_protein"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "soya bean milk": {
         "word": "soya bean milk",
@@ -47785,20 +47431,14 @@
             "tau huay",
             "green bean"
         ],
-        "usage": "",
         "category": [
             "nature",
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "soya",
-                "romanization": "",
                 "lit": "the legume Glycine max or substances derived from it; soya sauce",
                 "etyPath": [
                     "dutch",
@@ -47829,7 +47469,6 @@
                     "shōyu",
                     "jiàng yóu"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "soya",
                     "soya sauce",
@@ -47839,33 +47478,13 @@
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "bean",
-                "romanization": "",
-                "lit": "plant of the family Fabaceae producing edible seeds, or the seeds thereof",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "plant of the family Fabaceae producing edible seeds, or the seeds thereof"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "milk",
-                "romanization": "",
-                "lit": "opaque, whitish liquid produced by mammals; liquid similar in appearance pressed from a plant source",
-                "etyPath": [],
-                "etyType": [],
-                "etyScript": false,
-                "etyTrad": false,
-                "etyRoman": [],
-                "etyScheme": false,
-                "etyLit": []
+                "lit": "opaque, whitish liquid produced by mammals; liquid similar in appearance pressed from a plant source"
             }
         ],
         "meanings": {
@@ -47876,22 +47495,17 @@
                     "exampleSource": "2019 August 17, Cassilda Lee. Miss Tam Chiak, \"Teck Seng Soya Bean Milk – You Wouldn’t Want to Eat Any Other Tau Huey After This\". https://www.misstamchiak.com/teck-seng-soya-bean-milk/",
                     "synonyms": [
                         "tau huay chui"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "half past six": {
         "word": "half past six",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "half past six",
-                "romanization": "",
                 "lit": "6:30 (am or pm)"
             }
         ],
@@ -47924,7 +47538,6 @@
                 "simplified": "咸煎饼",
                 "traditional": "鹹煎餅",
                 "roman": "haam4 zin1 beng2",
-                "romanization": "",
                 "lit": "Chinese deep-fried dough snack topped with sesame seeds",
                 "etyPath": [
                     "cantonese",
@@ -47973,10 +47586,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "hammer",
-                "romanization": "",
                 "lit": "strike with a hammer or other blunt item; hit hard"
             }
         ],
@@ -47994,16 +47604,11 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "hand",
-                "romanization": "",
                 "lit": "part of the body below the wrist including the palm and fingers"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "phone",
                 "type": "clip",
                 "lit": "device used to make calls, send messages, run applications, etc.",
@@ -48042,7 +47647,6 @@
                 "simplified": "手机",
                 "traditional": "手機",
                 "roman": "shǒu jī",
-                "romanization": "",
                 "lit": "mobile phone",
                 "etyPath": [
                     "mandarin",
@@ -48136,7 +47740,6 @@
                 "simplified": "#{poss}哈哪",
                 "traditional": "#{poss}哈哪",
                 "roman": "hâⁿ--ná",
-                "romanization": "",
                 "lit": "(imitative) 'blah blah'; 'yada yada'"
             }
         ],
@@ -48159,12 +47762,9 @@
             "kueh",
             "ang lu kueh"
         ],
-        "usage": "",
         "category": [
             "cuisine"
         ],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "teochew / hokkien",
@@ -48207,13 +47807,10 @@
                 {
                     "definition": "a Teochew steamed dumpling with a translucent skin of mixed rice and tapioca flour, filled with julienned bamboo shoots, @{bangkuang}, and other ingredients (such as dried shrimp or mushrooms for their umami flavour). It is sometimes pressed into decorative shapes with a mold, and is often served with @{chilli} and a sweet soya sauce.",
                     "example": "Soon kueh deserves more attention than it gets. … it’s an old-school snack that is both healthy and tasty.",
-                    "exampleSource": "2024 February 5, Germaine Tan. Eatbook, \"20 Traditional Soon Kueh Stalls In Singapore That Your Grandparents Will Approve Of\". https://eatbook.sg/soon-kueh/",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2024 February 5, Germaine Tan. Eatbook, \"20 Traditional Soon Kueh Stalls In Singapore That Your Grandparents Will Approve Of\". https://eatbook.sg/soon-kueh/"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "siput sedut": {
         "word": "siput sedut",
@@ -48225,15 +47822,11 @@
             "nature",
             "cuisine"
         ],
-        "phonetics": "",
         "etyNotes": "(lit.) 'sucking/inhaling snail'.",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "siput sedut",
-                "romanization": "",
                 "lit": "Cerithidea obtusa; dish featuring Cerithidea obtusa cooked in gravy or otherwise",
                 "etyPath": [
                     "malay",
@@ -48242,13 +47835,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "siput",
                     "sedut"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "snail; any shelled mollusc",
                     "suck; inhale (w. the mouth, nose, etc.)"
@@ -48259,13 +47849,10 @@
             "noun": [
                 {
                     "definition": "<i>Cerithidea obtusa</i> (or sometimes other closely related species such as <i>C. quadrata</i>), an edible marine snail with a cone-shaped shell popular in Malay cuisine. It is typically prepared in a sambal or coconut milk-based curry gravy, and is eaten by slurping or sucking the meat out of the shell (hence the Malay name). The tip of the shell is usually snipped off to facilitate this.",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "chut-chut",
                         "siput"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "a dish prepared using siput sedut as the main ingredient, usually cooked in a coconut milk-based curry gravy or sambal",
@@ -48274,12 +47861,10 @@
                     "synonyms": [
                         "chut-chut",
                         "siput"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "siput": {
         "word": "siput",
@@ -48288,14 +47873,10 @@
             "nature",
             "cuisine"
         ],
-        "phonetics": "",
         "origin": [
             {
                 "lang": "malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "siput",
-                "romanization": "",
                 "lit": "snail; any shelled mollusc"
             }
         ],
@@ -48309,25 +47890,20 @@
                 },
                 {
                     "definition": "<i>Cerithidea obtusa</i> (or sometimes other closely related species such as <i>C. quadrata</i>), an edible marine snail with a cone-shaped shell popular in Malay cuisine. It is typically prepared in a sambal or coconut milk-based curry gravy, and is eaten by slurping or sucking the meat out of the shell (hence the Malay name). The tip of the shell is usually snipped off to facilitate this.",
-                    "example": "",
-                    "exampleSource": "",
                     "synonyms": [
                         "chut-chut",
                         "siput sedut"
-                    ],
-                    "antonyms": false
+                    ]
                 },
                 {
                     "definition": "a dish prepared using siput sedut as the main ingredient, usually cooked in a coconut milk-based curry gravy or sambal",
                     "synonyms": [
                         "chut-chut",
                         "siput sedut"
-                    ],
-                    "antonyms": false
+                    ]
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "sarong party girl": {
         "word": "sarong party girl",
@@ -48336,17 +47912,10 @@
             "AMDK",
             "AMDL"
         ],
-        "usage": "",
-        "category": [],
-        "phonetics": "",
-        "etyNotes": "",
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "sarong party",
-                "romanization": "",
                 "lit": "party for expatriates, usually well-off Western professionals, where guests dress up in sarongs",
                 "etyPath": [
                     "malay",
@@ -48355,13 +47924,10 @@
                 "etyType": [
                     "+"
                 ],
-                "etyScript": false,
-                "etyTrad": false,
                 "etyRoman": [
                     "sarung",
                     "party"
                 ],
-                "etyScheme": false,
                 "etyLit": [
                     "traditional lower garment worn in various forms by South-East and South Asians, usu. a light, decoratively-printed cloth tied around the waist",
                     "social event or gathering for fun and entertainment"
@@ -48369,10 +47935,7 @@
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "girl",
-                "romanization": "",
                 "lit": "young female human"
             }
         ],
@@ -48381,13 +47944,10 @@
                 {
                     "definition": "(derogatory) an Asian girl who goes to parties and other social events with the intention of hooking up with white expatriate men or other non-Asian foreigners; an Asian girl who dates a white expatriate man or other foreigner, especially if said girl is perceived to be attracted to their supposed racial or socioeconomic privilege",
                     "example": "Maureen was a vivacious, totally dolled-up lady and the dream woman of every hot-blooded @{ang moh}. She was the foremother and immeasurably higher-class version of the sarong party girl.",
-                    "exampleSource": "2019, Various (excerpt from Kenneth Liang). On Air: Untold Stories from Caldecott Hill - An Unlikely Broadcaster (Part 1). ISBN: 9789814868112",
-                    "synonyms": false,
-                    "antonyms": false
+                    "exampleSource": "2019, Various (excerpt from Kenneth Liang). On Air: Untold Stories from Caldecott Hill - An Unlikely Broadcaster (Part 1). ISBN: 9789814868112"
                 }
             ]
-        },
-        "particles": []
+        }
     },
     "hao lian": {
         "word": "hao lian",
@@ -48438,10 +47998,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "happening",
-                "romanization": "",
                 "lit": "present participle of 'happen'; presently occurring"
             }
         ],
@@ -48470,7 +48027,6 @@
                 "simplified": "欢喜着好",
                 "traditional": "歡喜著好",
                 "roman": "hoaⁿ-hí tio̍h hó",
-                "romanization": "",
                 "lit": "(proverb) being happy is good enough",
                 "etyPath": [
                     "hokkien",
@@ -48529,10 +48085,7 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "happy as a lark / jaybird / box of birds",
-                "romanization": "",
                 "lit": "extremely happy; overjoyed; carefree"
             }
         ],
@@ -48557,10 +48110,7 @@
         "origin": [
             {
                 "lang": "baba malay",
-                "simplified": "",
-                "traditional": "",
                 "roman": "hati babi",
-                "romanization": "",
                 "lit": "traditional Peranakan pork meatball dish, (lit.) 'pig's liver'",
                 "etyPath": [
                     "malay",
@@ -48598,18 +48148,12 @@
         "origin": [
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "happy as a lark",
-                "romanization": "",
                 "lit": "extremely happy; overjoyed; carefree"
             },
             {
                 "lang": "english",
-                "simplified": "",
-                "traditional": "",
                 "roman": "shark",
-                "romanization": "",
                 "lit": "cartilaginous, scaleless fish in the clade Selachimorpha, often an apex predator in its habitat"
             }
         ],
@@ -48638,7 +48182,6 @@
                 "simplified": "虾酱鸡",
                 "traditional": "蝦醬雞",
                 "roman": "haa1 zoeng3 gai1",
-                "romanization": "",
                 "lit": "prawn paste chicken",
                 "etyPath": [
                     "cantonese",
@@ -48692,7 +48235,6 @@
                 "simplified": "虾饺",
                 "traditional": "蝦餃",
                 "roman": "haa1 gaau2",
-                "romanization": "",
                 "lit": "Cantonese prawn dumpling",
                 "etyScript": [
                     "虾",
@@ -48733,7 +48275,6 @@
                 "simplified": "虾碌",
                 "traditional": "蝦碌",
                 "roman": "haa1 luk1",
-                "romanization": "",
                 "lit": "dish of fried shell-on prawns in a tomato and soy sauce; prawns with the shell on",
                 "etyPath": [
                     "cantonese",
@@ -48782,7 +48323,6 @@
                 "simplified": "烙",
                 "traditional": "烙",
                 "roman": "lok3",
-                "romanization": "",
                 "lit": "pan-fry"
             }
         ],
@@ -48802,5 +48342,705 @@
             "cuisine"
         ],
         "etyNotes": "The dish was apparently named after a literal interpretation of each of the characters in 虾碌/蝦碌, haa1 luk1, which was a Cantonese phonetic pseudo-loan from English <i>hard luck</i>. However, the similar-sounding 烙, lok3 (\"pan-fry\") likely influenced the use of 'lok'.<br>The traditional form of 碌 is slightly different but shares the same Unicode space."
+    },
+    "hari raya": {
+        "word": "Hari Raya",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Hari Raya",
+                "lit": "holiday or festival; Eid",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "hari",
+                    "raya"
+                ],
+                "etyLit": [
+                    "day",
+                    "big; great"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Hari Raya Puasa, also known as Hari Raya Aidilfitri, the Muslim festival day marking the end of the fasting month of Ramadan. It is a public holiday in Singapore.",
+                    "example": "You'll see pockets of families rocking the traditional Malay outfits in the same colour again this Hari Raya. It’s a cultural tradition observed by families to symbolise unity.",
+                    "exampleSource": "2024 April 9, Cam Khalid. TimeOut, \"Guide to Hari Raya Aidilfitri in Singapore\". https://www.timeout.com/singapore/things-to-do/guide-to-hari-raya-aidilfitri-in-singapore",
+                    "synonyms": [
+                        "Hari Raya Puasa",
+                        "Hari Raya Aidilftri"
+                    ]
+                },
+                {
+                    "definition": "Hari Raya Haji, also known as Hari Raya Aidiladha, the Muslim festival day celebrating the haj, as well as the story of Ibrahim and Ismail in the Quran. It is a public holiday in Singapore.",
+                    "synonyms": [
+                        "Hari Raya Haji",
+                        "Hari Raya Aidiladha"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "Deepa Raya"
+        ],
+        "category": [
+            "cultural"
+        ],
+        "usage": "The term is used to refer to either of the two festivals.",
+        "etyNotes": "(lit.) 'big/great day'; can be used in Malay to refer to any festival or celebration in general, though the two most important ones are usually the Muslim festivals of Eid al-Fitr and Eid al-Adha."
+    },
+    "stylo milo": {
+        "word": "stylo milo",
+        "related": [
+            "sat khi",
+            "sat",
+            "step"
+        ],
+        "category": [
+            "rhyming slang"
+        ],
+        "etyNotes": "As with most Singlish rhyming slang, the additional term 'milo' is used just for the rhyme.",
+        "origin": [
+            {
+                "lang": "singlish",
+                "roman": "stylo",
+                "lit": "stylish; fashionable; elegantly dressed; cool",
+                "etyPath": [
+                    "english",
+                    "english"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "stylish",
+                    "-o"
+                ],
+                "etyLit": [
+                    "fashionable; elegantly dressed; cool",
+                    "colloquializing suffix"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "Milo",
+                "lit": "Nestlé chocolate-flavoured malted drink and drink powder product",
+                "etyPath": [
+                    "ancient greek"
+                ],
+                "etyScript": [
+                    "Μῆλος"
+                ],
+                "etyRoman": [
+                    "Mêlos"
+                ],
+                "etyLit": [
+                    "Milo of Croton, six-time Olympic wrestling champion who competed between c. 540 - 512 BC"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "stylish; fashionable; cool",
+                    "example": "During the tea break, I remember seeing this exotic petite tanned beauty with a stylo milo leather jacket on and damn was she gorgeous.",
+                    "exampleSource": "2021, Cassius Ribhkus (Sukhbir Cheema). TOUCHFUL. The Eksentrika. p.22",
+                    "synonyms": [
+                        "stylo",
+                        "gerek",
+                        "glam"
+                    ],
+                    "antonyms": [
+                        "obiang",
+                        "obit",
+                        "unglam"
+                    ]
+                }
+            ]
+        }
+    },
+    "stylo": {
+        "word": "stylo",
+        "related": [
+            "sat khi",
+            "sat",
+            "step"
+        ],
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "stylish",
+                "lit": "fashionable; elegantly dressed; cool"
+            },
+            {
+                "lang": "english",
+                "roman": "-o",
+                "lit": "colloquializing suffix"
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "stylish; fashionable; elegantly dressed; cool",
+                    "example": "I had a classmate — one day he went to Cathay in his new dancing shoes and white pants to see a picture show. You know what happen? A gangster came up to him and ask, '@{Wah}, somebody stylo, @{ah}? You think this area belong to you? Trying to make me @{lau kui}, @{is it}?' @{I tell you}, that guy ran for his life.",
+                    "exampleSource": "2009, Angelia Poon, Philip Holden, Shirley Lim (editors), Darren Shiau (excerpt). Writing Singapore: An Historical Anthology of Singapore Literature. National Arts Council. ISBN: 9789971694586. p.559",
+                    "synonyms": [
+                        "stylo milo",
+                        "gerek",
+                        "glam"
+                    ],
+                    "antonyms": [
+                        "obiang",
+                        "obit",
+                        "unglam"
+                    ]
+                }
+            ]
+        }
+    },
+    "satay": {
+        "word": "satay",
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "sate/satay",
+                "lit": "grilled, spiced meat on skewers served with peanut sauce",
+                "etyPath": [
+                    "javanese",
+                    "tamil"
+                ],
+                "etyScript": [
+                    "ꦱꦠꦺ",
+                    "சதை"
+                ],
+                "etyRoman": [
+                    "saté",
+                    "catai"
+                ],
+                "etyLit": [
+                    "satay",
+                    "flesh"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "charcoal-grilled, spiced meat, usually mutton (@{kambing}), chicken (@{ayam}), or beef (variously <i>sapi</i>, <i>lembu</i>, or <i>daging</i>) on bamboo skewers (traditionally coconut leaf stems). It is usually served with a peanut sauce (@{kuah}) in a bowl for dipping, with raw cucumber and onion as well as cubed @{ketupat} on the side. Variants include a Chinese version which uses pork and a tablespoon of puréed pineapple in each bowl of sauce.<br>It traces its history back to similar Arab skewered meat dishes like shish kebab. The version known today which uses characteristic local spices like turmeric and ginger likely originated in Java, from where it then spread to the rest of Indonesia and Malaysia. The Singaporean version is smaller than the Indonesian version, possibly to increase the surface area to volume ratio of each piece to maximize the ratio of seasoning and desirable charred outer layer to meat."
+                }
+            ]
+        }
+    },
+    "she": {
+        "word": "she",
+        "usage": "Commonly used by older Peranakans, especially less educated ladies.",
+        "etyNotes": "Direct calque of Malay <i>dia</i>, which does not distinguish between masculine and feminine.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "she",
+                "lit": "3rd-person feminine personal pron.",
+                "type": "c",
+                "etyPath": [
+                    "malay"
+                ],
+                "etyRoman": [
+                    "dia"
+                ],
+                "etyLit": [
+                    "he; she; him; her; 3rd person personal pron."
+                ]
+            }
+        ],
+        "meanings": {
+            "pronoun": [
+                {
+                    "definition": "<i>3rd-person personal pronoun</i>; he or she",
+                    "example": "@{I tell you} already, Joel will @{gasak} my @{kueh pie tee}. She love it; it's his favourite."
+                }
+            ]
+        }
+    },
+    "study mama": {
+        "word": "study mama",
+        "related": [
+            "drama mama"
+        ],
+        "etyNotes": "Rough translation of the Mandarin term.",
+        "origin": [
+            {
+                "lang": "english",
+                "roman": "study",
+                "lit": "learn; take an academic course; be a student of; read"
+            },
+            {
+                "lang": "mandarin",
+                "simplified": "陪读妈妈",
+                "traditional": "陪讀妈妈",
+                "roman": "péi dú mā mā",
+                "lit": "mother who accompanies their child overseas when they go to study",
+                "etyPath": [
+                    "mandarin",
+                    "mandarin",
+                    "mandarin",
+                    "mandarin"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    "+"
+                ],
+                "etyScript": [
+                    "陪读",
+                    "陪",
+                    "读",
+                    "妈妈"
+                ],
+                "etyTrad": [
+                    "陪讀",
+                    "陪",
+                    "讀",
+                    "妈妈"
+                ],
+                "etyRoman": [
+                    "péi dú",
+                    "péi",
+                    "dú",
+                    "mā mā"
+                ],
+                "etyLit": [
+                    "to accompany one’s child overseas when they go to study",
+                    "accompany; follow",
+                    "read; study",
+                    "mother"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a mother, usually from Mainland China, who accompanies their child overseas when they go to study as a scholar"
+                }
+            ]
+        }
+    },
+    "bak hu": {
+        "word": "bak hu",
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "肉拊",
+                "traditional": "肉拊",
+                "roman": "bah-hú",
+                "lit": "meat floss",
+                "etyPath": [
+                    "hokkien",
+                    "hokkien"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "肉",
+                    "拊"
+                ],
+                "etyTrad": [
+                    "肉",
+                    "拊"
+                ],
+                "etyRoman": [
+                    "bah",
+                    "hú"
+                ],
+                "etyLit": [
+                    "meat; flesh",
+                    "rub; wipe; beat; process; break down "
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a meat floss made by stewing a meat, usually pork, chicken, or beef (though others such as fish are sometimes used) together with spices and sugar until soft enough to be pulled into individual fibres. It is then further beaten and broken down while being heated e.g. by frying in a large wok until it is dry and slightly crispy. The finished product has a texture similar to coarse wool. It is a common topping used to add protein and flavour to various dishes and confectioneries, such as on the popular bakery staple of pork or chicken floss buns.",
+                    "example": "Bak Hu can be eaten as is or as a topping for congee, rice, noodles, and stir fries. We like to eat it with white bread.",
+                    "exampleSource": "2023 January 6, Linda. Roti & Rice, \"Bak Hu (Pork Floss)\". https://www.rotinrice.com/bak-hu-pork-floss/"
+                }
+            ]
+        },
+        "related": [
+            "bak",
+            "bak kwa"
+        ],
+        "references": [
+            {
+                "link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjLu__DjMyHAxUK1zgGHd75LF8QFnoECBkQAQ&url=https%3A%2F%2Fsutian.moe.edu.tw%2Fzh-hant%2Fsu%2F2675%2F&usg=AOvVaw37tJmW5cifu_AyqRIn21jJ&opi=89978449",
+                "name": "教育部臺灣閩南語常用詞辭典 - 肉拊"
+            }
+        ]
+    },
+    "deepa raya": {
+        "word": "Deepa Raya",
+        "origin": [
+            {
+                "lang": "tamil",
+                "simplified": "தீபாவளி",
+                "roman": "tīpāvaḷi",
+                "lit": "Deepavali, the Hindu 'festival of light'",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "दीपावलि"
+                ],
+                "etyRoman": [
+                    "dīpāvali"
+                ],
+                "etyLit": [
+                    "row of lights"
+                ]
+            },
+            {
+                "lang": "malay",
+                "roman": "hari raya",
+                "lit": "holiday or festival; Eid",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "hari",
+                    "raya"
+                ],
+                "etyLit": [
+                    "day",
+                    "big; great"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "The name given to the occasional period when the Hindu festival of @{Deepavali} and the Muslim festival of @{Hari Raya Puasa} coincide or occur very close to one another, leading to an extended period of festivities and holidays in Singapore and Malaysia. This happens because their dates are determined by the Hindu and Muslim calendars respectively, which do not line up with one another."
+                }
+            ]
+        },
+        "related": [
+            "deepavali",
+            "Hari Raya",
+            "Hari Raya Aidilfitri",
+            "Hari Raya Puasa"
+        ],
+        "category": [
+            "cultural"
+        ],
+        "etyNotes": "Portmanteau of the names of the two festivals."
+    },
+    "hari raya aidiladha": {
+        "word": "Hari Raya Aidiladha",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Hari Raya",
+                "lit": "holiday or festival; Eid",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "hari",
+                    "raya"
+                ],
+                "etyLit": [
+                    "day",
+                    "big; great"
+                ]
+            },
+            {
+                "lang": "malay",
+                "roman": "Aidiladha",
+                "lit": "Muslim festival celebrating Ibrahim's willingness to sacrifice his son Ismail",
+                "etyPath": [
+                    "arabic",
+                    "arabic",
+                    "arabic"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "عِيد الْأَضْحَى",
+                    "عِيد",
+                    "الْأَضْحَى"
+                ],
+                "etyRoman": [
+                    "ʕīd al-ʔaḍḥā",
+                    "ʕīd",
+                    "al-ʔaḍḥā"
+                ],
+                "etyLit": [
+                    "Muslim festival celebrating Ibrahim's willingness to sacrifice his son Ismail",
+                    "festival; holiday",
+                    "[the] sacrifice; victim"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Muslim festival day celebrating the haj, as well as the story of Ibrahim and Ismail in the Quran. It is a public holiday in Singapore.",
+                    "synonyms": [
+                        "Hari Raya Haji",
+                        "Hari Raya"
+                    ],
+                    "example": "On this morning, festivities beign with a prayer service held in an open place, which is generally well-attended. Hari Raya Aidilahda is a time of sacrifice, ...",
+                    "exampleSource": "2018 October 10, Asiapac Editorial. Gateway to Malay Culture. Asiapac Books Pte Ltd. ISBN: 9789812299062. p.67"
+                }
+            ]
+        },
+        "related": [
+            "Hari Raya",
+            "Hari Raya Puasa",
+            "Hari Raya Aidilfitri",
+            "Deepa Raya"
+        ],
+        "category": [
+            "cultural"
+        ],
+        "usage": "May be referred to as simply @{Hari Raya}, which can also be used to refer to any number of other Muslim festivals, most often @{Hari Raya Puasa}."
+    },
+    "hari raya haji": {
+        "word": "Hari Raya Haji",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Hari Raya",
+                "lit": "holiday or festival; Eid",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "hari",
+                    "raya"
+                ],
+                "etyLit": [
+                    "day",
+                    "big; great"
+                ]
+            },
+            {
+                "lang": "malay",
+                "roman": "haji",
+                "lit": "pilgrimage to Mecca, or sb. who has completed the pilgrimage",
+                "etyPath": [
+                    "arabic",
+                    "arabic"
+                ],
+                "etyType": [
+                    "&",
+                    "+"
+                ],
+                "etyScript": [
+                    "حَجِّيّ",
+                    "حَجّ"
+                ],
+                "etyRoman": [
+                    "ḥajjiyy",
+                    "ḥajj"
+                ],
+                "etyLit": [
+                    "pilgrimage to Mecca",
+                    "one who has completed the pilgrimage to Mecca"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Muslim festival day celebrating the haj, as well as the story of Ibrahim and Ismail in the Quran. It is a public holiday in Singapore.",
+                    "synonyms": [
+                        "Hari Raya Aidiladha",
+                        "Hari Raya"
+                    ],
+                    "example": "Muslims sacrifice a suitable animal and distribute the meat ... In Malaysia, there are no celebrations as such for Hari Raya Haji, which is thus a much quieter festival than @{Hari Raya Puasa} even though, in religious or spiritual terms, Hari Raya Haji is a far greater festival.",
+                    "exampleSource": "2015 December 30, Ghulam-Sarwar Yousof. One Hundred and One Things Malay. Partridge Publishing Singapore. ISBN: 9781482855340"
+                }
+            ]
+        },
+        "related": [
+            "Hari Raya",
+            "Hari Raya Puasa",
+            "Hari Raya Aidilfitri",
+            "Deepa Raya"
+        ],
+        "category": [
+            "cultural"
+        ],
+        "usage": "May be referred to as simply @{Hari Raya}, which can also be used to refer to any number of other Muslim festivals, most often @{Hari Raya Puasa}."
+    },
+    "hari raya aidilfitri": {
+        "word": "Hari Raya Aidilfitri",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Hari Raya",
+                "lit": "holiday or festival; Eid",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "hari",
+                    "raya"
+                ],
+                "etyLit": [
+                    "day",
+                    "big; great"
+                ]
+            },
+            {
+                "lang": "malay",
+                "roman": "Aidilfitri",
+                "lit": "Muslim festival celebrating Ibrahim's willingness to sacrifice his son Ismail",
+                "etyPath": [
+                    "arabic",
+                    "arabic",
+                    "arabic"
+                ],
+                "etyType": [
+                    "",
+                    "+"
+                ],
+                "etyScript": [
+                    "عِيد اَلْفِطْر",
+                    "عِيد",
+                    "اَلْفِطْر"
+                ],
+                "etyRoman": [
+                    "ʕīd al-fiṭr",
+                    "ʕīd",
+                    "al-fiṭr"
+                ],
+                "etyLit": [
+                    "Muslim festival celebrating the end of the fasting month of Ramadan",
+                    "festival; holiday",
+                    "[the] breaking of a fast"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Muslim festival day celebrating the end of the fasting month of Ramadan. It is a public holiday in Singapore.",
+                    "synonyms": [
+                        "Hari Raya Puasa",
+                        "Hari Raya"
+                    ],
+                    "example": "On this morning, festivities beign with a prayer service held in an open place, which is generally well-attended. Hari Raya Aidilahda is a time of sacrifice, ...",
+                    "exampleSource": "2018 October 10, Asiapac Editorial. Gateway to Malay Culture. Asiapac Books Pte Ltd. ISBN: 9789812299062. p.67"
+                }
+            ]
+        },
+        "related": [
+            "Hari Raya",
+            "Hari Raya Haji",
+            "Hari Raya Aidiladha",
+            "Deepa Raya"
+        ],
+        "category": [
+            "cultural"
+        ],
+        "usage": "May be referred to as simply @{Hari Raya}, which can also be used to refer to any number of other Muslim festivals, most often @{Hari Raya Haji}."
+    },
+    "hari raya puasa": {
+        "word": "Hari Raya Puasa",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "Hari Raya",
+                "lit": "holiday or festival; Eid",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "hari",
+                    "raya"
+                ],
+                "etyLit": [
+                    "day",
+                    "big; great"
+                ]
+            },
+            {
+                "lang": "malay",
+                "roman": "puasa",
+                "lit": "fast; fasting",
+                "etyPath": [
+                    "sanskrit"
+                ],
+                "etyScript": [
+                    "उपवास"
+                ],
+                "etyRoman": [
+                    "upavāsa"
+                ],
+                "etyLit": [
+                    "fast; fasting"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "the Muslim festival day celebrating the end of the fasting month of Ramadan. It is a public holiday in Singapore.",
+                    "synonyms": [
+                        "Hari Raya Aidilftri",
+                        "Hari Raya"
+                    ],
+                    "example": "On the morning of Hari Raya Puasa, Muslims will attend mosque for the traditional @{Hari Raya} prayers. Afterwards they will say to each other \"Selamat Hari Raya! Maaf zahir batin!\", which means \"Happy Hari Raya! I seek forgiveness from you!\"",
+                    "exampleSource": "2016 September 15, Kelly Jackson-Nash. CultureShock! Singapore. Marshall Cavendish International"
+                }
+            ]
+        },
+        "related": [
+            "Hari Raya",
+            "Hari Raya Haji",
+            "Hari Raya Aidiladha",
+            "Deepa Raya"
+        ],
+        "category": [
+            "cultural"
+        ],
+        "usage": "May be referred to as simply @{Hari Raya}, which can also be used to refer to any number of other Muslim festivals, most often @{Hari Raya Haji}."
     }
 }
