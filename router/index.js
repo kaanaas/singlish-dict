@@ -140,7 +140,6 @@ function retrieveWord(dict, details, majorFormResult) {
     // either word not yet defined, or multiple words same spelling
     if (!word) {
         word = details[`${majorFormResult}@1`];
-        // dummy word without details
         if (word) {
             let v = 1;
             while (word) {
@@ -150,7 +149,9 @@ function retrieveWord(dict, details, majorFormResult) {
             }
         }
         else {
+            // dummy word without details
             word = {
+                // this line could be causing single letter result bug
                 "word": majorFormResult[0],
                 "origin": []
             };

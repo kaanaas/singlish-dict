@@ -16,16 +16,19 @@
                     <!-- check if examples are given -->
                     <li class="definition"><%- formatDyno(posDet[j].definition) %></li> 
                     <% if(posDet[j].example && posDet[j].example.length != 0){ %>
-                        <p class="word-example"><%- formatDyno(posDet[j].example) %></p>
-                        <% if (posDet[j].exampleSource && posDet[j].exampleSource.length > 0) { %>
-                            <% if(posDet[j].exampleSource == "@comm" || posDet[j].exampleSource == ""){ %>
-                            <p class="word-example-src"></p>
+                        <% let example = posDet[j].example %>
+                        <% for (let iEg = 0; iEg < example.length; iEg++) { %>
+                            <p class="word-example"><%- formatDyno(example[iEg]["eg"]) %></p>
+                            <% if (example[iEg]["src"] && example[iEg]["src"].length > 0) { %>
+                                <% if(example[iEg]["src"] == "@comm" || example[iEg]["src"] == ""){ %>
+                                <p class="word-example-src"></p>
+                                <% } else { %>
+                                <p class="word-example-src">— <%- example[iEg]["src"] %></p>
+                                <% } %>
                             <% } else { %>
-                            <p class="word-example-src">— <%- posDet[j].exampleSource %></p>
-                            <% } %>
-                        <% } else { %>
-                            <p class="word-example-src"></p>
-                        <% } %>  
+                                <p class="word-example-src"></p>
+                            <% } %>  
+                        <% } %>
                     <% } %>
                     <!-- syno/antonyms -->
                     <% if((posDet[j].synonyms && posDet[j].synonyms.length > 0) || (posDet[j].antonyms && posDet[j].antonyms.length > 0)){ %>

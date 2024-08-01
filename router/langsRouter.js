@@ -12,6 +12,7 @@ app.set("views", path.join(__dirname, "/views"));
 
 
 // Import langs lists
+const details = require("../public/dict/details.json");
 const langs = require("../public/lists/lang/langs.json");
 const langsExclPie = require("../public/lists/lang/langsExclPie.json");
 let langsPie = Object.assign({}, langs);
@@ -23,6 +24,7 @@ let langsArray = [];
 let dashArray = [];
 let colourArray = [];
 let goldenAngle = 137.508;
+let totalEntries = Object.keys(details).length;
 
 for (const [lang, count] of Object.entries(langs)) {
     totalCount += count;
@@ -98,7 +100,8 @@ router.get("/langs", async (req, res) => {
             radius: radius,
             dashArray: dashArray,
             langsArray: langsArray,
-            colourArray: colourArray
+            colourArray: colourArray,
+            totalEntries: totalEntries
         });
     }
 })

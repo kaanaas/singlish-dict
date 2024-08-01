@@ -1,0 +1,1 @@
+const langTerms = ["suku"]; module.exports = langTerms;

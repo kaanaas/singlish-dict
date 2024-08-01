@@ -17,6 +17,7 @@
                     <p class="langs-msg">This page lists all recorded languages of origin for entries defined in the dictionary.</p>
                     <p class="langs-msg">Click on a language name for a full list of all terms with origins in that language.</p>
                     <p class="langs-msg">Note that etymologies are typically only traced back to the primary or secondary ancestors of a term, and so older ancestors may not always be included.</p>
+                    <p class="langs-msg">As many words have more than one language of origin, the total percentages add up to more than 100%; this is intentional.</p>
                 </div>
                 <hr>
                 <div name="body-wrapper" class="langs-body-wrapper">
@@ -33,7 +34,10 @@
                                     onclick="focusThis(event)"
                                     
                                 />
-                                <text class="percent-text not-selectable" x="50%" y="50%"><%= +(100* dashArray[i] / (2*Math.PI*radius)).toFixed(2) %>%</text>
+                                <!-- OLD -->
+                                <!-- <text class="percent-text not-selectable" x="50%" y="50%"><%= +(100* dashArray[i] / (2*Math.PI*radius)).toFixed(2) %>%</text> -->
+                                <!-- NEW -->
+                                <text class="percent-text not-selectable" x="50%" y="50%"><%= (+(100* langs[langsArray[i]] / totalEntries)).toFixed(2) %>%</text>
                                 <text class="lang-name-text not-selectable" x="50%" y="96%"><%= langsArray[i] %></text>
                             </g>
                         <% } %>
@@ -41,13 +45,15 @@
                     <div class="langs-wrapper">
                         <div class="langs-header">
                             <p class="langs-col langs-id langs-header-col">Language:</p>
-                            <p class="langs-col langs-header-col">Entries:</p>
+                            <p class="langs-col langs-header-col langs-count">Entries:</p>
+                            <p class="langs-col langs-header-col langs-percent-header">%</p>
                         </div>
                         <br style="line-height: 0.5em;">
                     <% for(const [lang, count] of Object.entries(langs)){ %>
                         <div class="langs-line">
                             <p class="langs-col langs-id"><a href="./langs?l=<%- lang.toLowerCase() %>"><%- lang %></a></p>
                             <p class="langs-col langs-count"><%= count %></p>
+                            <p class="langs-col langs-percent"><%= (+(100* count / totalEntries)).toFixed(2) %>%</p>
                         </div>
                     <% } %>
                     </div>

@@ -1,0 +1,1 @@
+const langTerms = ["hawker","hawker centre","hawker stall"]; module.exports = langTerms;

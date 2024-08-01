@@ -1422,13 +1422,23 @@ footer {
 }
 
 .langs-id {
-    padding-right: 15vmin;
+    padding-right: 8vmin;
     font-style: italic;
+}
+
+.langs-percent-header {
+    text-align: center;
 }
 
 .langs-count {
     text-align: right;
-    padding-right: 1em;
+    padding-right: 2em;
+}
+
+.langs-percent {
+    color: var(--grey-green);
+    text-align: right;
+    padding-right: .1em;
 }
 
 /* languages pie svg */
