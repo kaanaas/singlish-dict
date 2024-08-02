@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const path = require('path');
+const natural = require('natural');
 
 const app = express();
 
@@ -18,98 +19,127 @@ const trie = require("../public/scripts/generate_trie");
 const details = require("../public/dict/details.json");
 const dict = require("../public/dict/dict.json");
 
+// Import reverse indices
+const rindexP = require("../public/lists/reverse_indexP.json");
+const rindexS = require("../public/lists/reverse_indexS.json");
+
 // Import source details
 const sources = require("../public/sources/sources.json");
 
-// predfeined arrays
+// predefined arrays
 let chineseLangs = ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"];
 let diacriticList = ["ã", "ẽ", "ĩ", "õ", "ũ"];
 
 router.get("/", async (req, res) => {
-    if (req.query.q) {
-        let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
-        let majorFormResult = trie.search(searchInput);
-        let prefixResult = trie.startsWith(searchInput);
-        let results = [];
+    // Singlish direct search
+    if (req.query.stype == undefined || req.query.stype == "sg") {
+        if (req.query.q) {
+            let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
+            let majorFormResult = trie.search(searchInput);
+            let prefixResult = trie.startsWith(searchInput);
+            let results = [];
 
-        // check if mFR is array
-        // if more than one majorFormResult is found, show selection page
-        if (majorFormResult && Array.isArray(majorFormResult) && majorFormResult.length > 1) {
-            // // trim prefix results
-            // let pRTemp = [];
-            // prefixResult.forEach((result) => {
-            //     if (result != searchInput) {
-            //         pRTemp.push(result);
-            //     }
-            // });
-            // prefixResult = pRTemp;
-            prefixResult = prefixResult.filter((result) => result != searchInput && !majorFormResult.includes(result));
+            // check if mFR is array
+            // if more than one majorFormResult is found, show selection page
+            if (majorFormResult && Array.isArray(majorFormResult) && majorFormResult.length > 1) {
+                // // trim prefix results
+                // let pRTemp = [];
+                // prefixResult.forEach((result) => {
+                //     if (result != searchInput) {
+                //         pRTemp.push(result);
+                //     }
+                // });
+                // prefixResult = pRTemp;
+                prefixResult = prefixResult.filter((result) => result != searchInput && !majorFormResult.includes(result));
 
-            majorFormResult.forEach((mfr) => {
-                let result = retrieveWord(dict, details, mfr);
-                results.push(result);
-            });
+                majorFormResult.forEach((mfr) => {
+                    let result = retrieveWord(dict, details, mfr);
+                    results.push(result);
+                });
 
-            res.render("./index", {
-                searchInput: searchInput,
-                results: results,
-                mFRs: majorFormResult,
-                showStyle: "display:block;visibility:visible;",
-                chineseLangs: chineseLangs,
-                diacriticList: diacriticList,
-                prefixResult: prefixResult,
-                sources: sources
-            });
+                res.render("./index", {
+                    searchInput: searchInput,
+                    results: results,
+                    mFRs: majorFormResult,
+                    showStyle: "display:block;visibility:visible;",
+                    chineseLangs: chineseLangs,
+                    diacriticList: diacriticList,
+                    prefixResult: prefixResult,
+                    sources: sources
+                });
+            }
+
+            // if query is found in trie, return major form of word
+            else if (majorFormResult) {
+                let [alts, wordVars, showVar] = retrieveWord(dict, details, majorFormResult)
+
+                // trim prefix results
+                let pRTemp = [];
+                prefixResult.forEach((result) => {
+                    if (!dict[majorFormResult].includes(result) && result != majorFormResult && result != searchInput) {
+                        pRTemp.push(result);
+                    }
+                });
+                prefixResult = pRTemp;
+
+
+                // render page
+                res.render("./index", {
+                    searchInput: searchInput,
+                    wordVars: wordVars,
+                    showVar: showVar,
+                    showStyle: "display:block;visibility:visible;",
+                    alts: alts,
+                    chineseLangs: chineseLangs,
+                    diacriticList: diacriticList,
+                    prefixResult: prefixResult,
+                    sources: sources
+                });
+            }
+
+            // if search query not found in Trie
+            else {
+                res.render("./not_found", {
+                    searchInput: searchInput,
+                    prefixResult: prefixResult,
+                    sources: sources
+                });
+            }
         }
-
-        // if query is found in trie, return major form of word
-        else if (majorFormResult) {
-            let [alts, wordVars, showVar] = retrieveWord(dict, details, majorFormResult)
-
-            // trim prefix results
-            let pRTemp = [];
-            prefixResult.forEach((result) => {
-                if (!dict[majorFormResult].includes(result) && result != majorFormResult && result != searchInput) {
-                    pRTemp.push(result);
-                }
-            });
-            prefixResult = pRTemp;
-
-
-            // render page
-            res.render("./index", {
-                searchInput: searchInput,
-                wordVars: wordVars,
-                showVar: showVar,
-                showStyle: "display:block;visibility:visible;",
-                alts: alts,
-                chineseLangs: chineseLangs,
-                diacriticList: diacriticList,
-                prefixResult: prefixResult,
-                sources: sources
-            });
-        }
-
-        // if search query not found in Trie
         else {
-            res.render("./not_found", {
-                searchInput: searchInput,
-                prefixResult: prefixResult,
-                sources: sources
-            });
+            let wotd = Wotd(details);
+            if (wotd == false || typeof (wotd) != "string") {
+                res.render("./index_blank");
+            } else {
+                let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.98;     // around 2% have multiple hits
+                res.render("./index_landing", {
+                    wotd: wotd,
+                    progress: progress
+                });
+            }
         }
     }
-    else {
-        let wotd = Wotd(details);
-        if (wotd == false || typeof (wotd) != "string") {
-            res.render("./index_blank");
-        } else {
-            let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.98;     // around 2% have multiple hits
-            res.render("./index_landing", {
-                wotd: wotd,
-                progress: progress
-            });
+
+    // English type search
+    else if (req.query.stype == "en") {
+        let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
+        let stemInput = natural.PorterStemmer.stem(searchInput);
+        let enResultP = false, enResultS = false;
+
+        if (rindexP.hasOwnProperty(stemInput)) {
+            enResultP = rindexP[stemInput];
         }
+        if (rindexP.hasOwnProperty(stemInput)) {
+            enResultS = rindexS[stemInput];
+        }
+
+        res.render("./index_en", {
+            searchInput: searchInput,
+            stemInput: stemInput,
+            checkedEn: true,
+            enResultP: enResultP,
+            enResultS: enResultS
+        });
     }
 })
 

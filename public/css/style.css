@@ -279,24 +279,51 @@ input[type=text] {
     box-shadow: 0 2px 8px var(--bg-shadow);
 }
 
+.search-type-wrapper {
+    position: relative;
+    margin: auto;
+    padding: .75em 5em 0 1em;
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.search-type-option-div {
+    cursor: pointer;
+}
+
+.search-type-wrapper label {
+    font-family: "Crimson Text";
+    color: var(--bg-darken);
+    cursor: pointer;
+    text-wrap: nowrap;
+}
+
+.search-type-radio {
+    cursor: pointer;
+}
+
 /* more options bar */
 .more-options {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 2em;
     margin-left: 5vmin;
     margin-right: 5vmin;
+    flex-wrap: wrap;
 }
 
 .more-options a, 
 .more-options p {
     color: var(--subh);
+    margin: 0 1em 0.5em 1em;
     font-size: 0.85em;
     font-family: "Prata";
     /* font-style: italic; */
     z-index: 3;
     cursor: pointer;
+    text-wrap: nowrap;
 }
 
 /* result */

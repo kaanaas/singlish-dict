@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <%- include("./partials/head") %>
+
+    <body>
+        <%- include("./partials/banner") %>
+        <div class="content">
+            <div class="def-box" id="def-box">
+                <!-- search -->
+                <%- include("./partials/search_container") %>
+
+                <!-- result -->
+                <% if(enResultP && enResultP.length > 0){ %>
+                    <%- include("./partials/prefix", {
+                        headerText: "entries matching",
+                        result: enResultP,
+                        searchInput: searchInput
+                    }) %>
+                <% } %>
+                <!-- result -->
+                <% if(enResultS && enResultS.length > 0){ %>
+                    <%- include("./partials/prefix", {
+                        headerText: "other entries possibly related to",
+                        result: enResultS,
+                        searchInput: searchInput
+                    }) %>
+                <% } %>
+
+                <!-- starts with also -->
+                <!-- add prefix searching functionality here -->
+            </div>
+        </div>
+
+        <%- include("./partials/scripts") %>
+        <%- include("./partials/footer") %>
+
+        <!-- vercel analytics -->
+        <script>
+            window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+        </script>
+        <script defer src="/_vercel/insights/script.js"></script>
+    </body>
+
+</html>

@@ -1,9 +1,21 @@
 <div class="search-container">
-    <form class="search-form" action="./" method="get" id="search-form" autocomplete="off">
-        <div class="search-box">
-            <input type="text" id="search-input" name="q" placeholder="What thing?">
+    <form action="./" method="get" id="search-form" autocomplete="off">
+        <div class="content search-type-wrapper">
+            <div class="search-type-option-div">
+                <input type="radio" id="sg-sg" name="stype" class="search-type-radio" value="sg" <%= (typeof checkedEn == 'undefined' && typeof checkedZh == 'undefined') ? "checked": '' %>>
+                <label for="sg-sg">Search Singlish Entries</label>
+            </div>
+            <div class="search-type-option-div">
+                <input type="radio" id="en-sg" name="stype" class="search-type-radio" value="en" <%= typeof checkedEn != 'undefined' ? "checked" : '' %>>
+                <label for="en-sg">Search Entries using English</label>
+            </div>
         </div>
-        <button class="search-button" id="search-button"><i class="fa-solid fa-magnifying-glass"></i></button>
+        <div class="search-form">
+            <div class="search-box">
+                <input type="text" id="search-input" name="q" placeholder="What thing?">
+            </div>
+            <button class="search-button" id="search-button"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
     </form>
     <%- include("./more_options") %>
 </div>

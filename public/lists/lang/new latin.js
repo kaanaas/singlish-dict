@@ -1,0 +1,1 @@
+const langTerms = ["tactical movement"]; module.exports = langTerms;
