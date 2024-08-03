@@ -149,7 +149,9 @@ router.get("/", async (req, res) => {
             stemInput: stemInput,
             checkedEn: true,
             enResultP: enResultP,
-            enResultS: enResultS
+            enResultS: enResultS,
+
+            sources: sources
         });
     }
 })

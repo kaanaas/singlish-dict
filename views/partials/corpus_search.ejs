@@ -10,7 +10,7 @@
     <% for(let i = 0; i < result.length; i++){ %>    
         <li>
             <a href="./?q=<%- formatIdLink(result[i][0]) %>"><%- formatId(result[i][0]) %></a>
-            <p>... <%- formatDyno(result[i][1]) %> ...</p>
+            <p>... <%- typeof result[i][1] !='undefined' ? formatDyno(result[i][1]) : "" %> ...</p>
         </li>
     <% } %>
     </ul>
