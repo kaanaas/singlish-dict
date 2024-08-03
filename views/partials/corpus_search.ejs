@@ -9,8 +9,8 @@
     <% result = result.sort(); %>
     <% for(let i = 0; i < result.length; i++){ %>    
         <li>
-            <a href="./?q=<%- formatIdLink(result[i]) %>"><%- formatId(result[i]) %></a>
-            <p>TEST</p>
+            <a href="./?q=<%- formatIdLink(result[i][0]) %>"><%- formatId(result[i][0]) %></a>
+            <p>... <%- formatDyno(result[i][1]) %> ...</p>
         </li>
     <% } %>
     </ul>

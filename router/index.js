@@ -136,7 +136,7 @@ router.get("/", async (req, res) => {
             enResultS = rindexS[stemInput];
         }
 
-        // search details[searchInput] for result
+        // search details[searchInput] for result (OR maybe this can be built directly into the reverse index)
         // if cannot find (?) give start of first def.
         // else if in both P and S top prio
         // else if in P second prio
