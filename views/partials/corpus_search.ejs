@@ -1,0 +1,17 @@
+<hr class="hr-pale">
+
+<div class="result">
+    <div class="not-found">
+        <h4><%= typeof headerText != 'undefined' ? headerText : "entries starting with" %></h4>
+        <h3>'<%= searchInput %>'</h3>
+    </div>
+    <ul class="corpus-list">
+    <% result = result.sort(); %>
+    <% for(let i = 0; i < result.length; i++){ %>    
+        <li>
+            <a href="./?q=<%- formatIdLink(result[i]) %>"><%- formatId(result[i]) %></a>
+            <p>TEST</p>
+        </li>
+    <% } %>
+    </ul>
+</div>

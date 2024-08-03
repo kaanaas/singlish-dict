@@ -1,0 +1,70 @@
+:root {
+    --bg: #A02333;
+    --bg-darken: #951818;
+    --bg-shadow-solid: #401313;
+    --bg-shadow: #40131355;
+    --offwhite: #f5f5fd;
+    --black: #2c0912;
+    --grey: #8a767d;
+    --purp: #6b3488;
+    --subh: #b99725;
+    --subh-lighter: #d8be8a;
+    --subh-lightest: #f0daaf;
+    --subh-darker: #997705;
+    --grey-green: #6d946d;
+    --grey-red: #b46d8d;
+    --grey-red-pale: #d3c2c9;
+}
+
+@font-face {
+    font-family: "SimSunCut";
+    src: url("./fonts/SimSunCut.woff2")format("woff2"),
+}
+
+@font-face {
+    font-family: "Prata";
+    src: url("./fonts/Prata.ttf")format("ttf"),
+}
+
+/* corpus */
+.corpus-list {
+    margin-left: 0;
+    list-style-type: '❧';
+    list-style-position: outside;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+/* css specific to small screens width */
+@media screen and (max-width: 630px) {
+    .corpus-list {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+    }
+}
+
+li::marker {
+    color: var(--purp);
+}
+
+.corpus-list li {
+    font-family: "Crimson Text";
+    margin-bottom: 0.6em;
+    padding-left: 1em;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    -webkit-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+}
+
+.corpus-list a {
+    font-family: "Prata";
+    font-weight: bold;
+    font-size: 1.333em;
+    color: var(--black);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: var(--subh-lighter);
+}

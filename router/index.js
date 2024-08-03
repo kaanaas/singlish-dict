@@ -133,6 +133,14 @@ router.get("/", async (req, res) => {
             enResultS = rindexS[stemInput];
         }
 
+        // search details[searchInput] for result
+        // if cannot find (?) give start of first def.
+        // else if in both P and S top prio
+        // else if in P second prio
+        //      give excerpt "(pos.) ... abdfb s dbf *WORD* df ad ...."
+        // else (in S) low prio
+        //      give excerpt "... abdfb s dbf *WORD* df ad ...."
+
         res.render("./index_en", {
             searchInput: searchInput,
             stemInput: stemInput,

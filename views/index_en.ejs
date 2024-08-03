@@ -1,6 +1,10 @@
 <!DOCTYPE HTML>
 <html lang="en">
     <%- include("./partials/head") %>
+    <head>
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="css/style_corpus.css" type="text/css">
+    </head>
 
     <body>
         <%- include("./partials/banner") %>
@@ -11,7 +15,7 @@
 
                 <!-- result -->
                 <% if(enResultP && enResultP.length > 0){ %>
-                    <%- include("./partials/prefix", {
+                    <%- include("./partials/corpus_search", {
                         headerText: "entries matching",
                         result: enResultP,
                         searchInput: searchInput
@@ -19,7 +23,7 @@
                 <% } %>
                 <!-- result -->
                 <% if(enResultS && enResultS.length > 0){ %>
-                    <%- include("./partials/prefix", {
+                    <%- include("./partials/corpus_search", {
                         headerText: "other entries possibly related to",
                         result: enResultS,
                         searchInput: searchInput
