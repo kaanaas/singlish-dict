@@ -32,123 +32,123 @@ let diacriticList = ["ã", "ẽ", "ĩ", "õ", "ũ"];
 
 router.get("/", async (req, res) => {
     // Singlish direct search
-    if (req.query.stype == undefined || req.query.stype == "sg") {
-        if (req.query.q) {
-            let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
-            let majorFormResult = trie.search(searchInput);
-            let prefixResult = trie.startsWith(searchInput);
-            let results = [];
-
-            // check if mFR is array
-            // if more than one majorFormResult is found, show selection page
-            if (majorFormResult && Array.isArray(majorFormResult) && majorFormResult.length > 1) {
-                // // trim prefix results
-                // let pRTemp = [];
-                // prefixResult.forEach((result) => {
-                //     if (result != searchInput) {
-                //         pRTemp.push(result);
-                //     }
-                // });
-                // prefixResult = pRTemp;
-                prefixResult = prefixResult.filter((result) => result != searchInput && !majorFormResult.includes(result));
-
-                majorFormResult.forEach((mfr) => {
-                    let result = retrieveWord(dict, details, mfr);
-                    results.push(result);
-                });
-
-                res.render("./index", {
-                    searchInput: searchInput,
-                    results: results,
-                    mFRs: majorFormResult,
-                    showStyle: "display:block;visibility:visible;",
-                    chineseLangs: chineseLangs,
-                    diacriticList: diacriticList,
-                    prefixResult: prefixResult,
-                    sources: sources
-                });
-            }
-
-            // if query is found in trie, return major form of word
-            else if (majorFormResult) {
-                let [alts, wordVars, showVar] = retrieveWord(dict, details, majorFormResult)
-
-                // trim prefix results
-                let pRTemp = [];
-                prefixResult.forEach((result) => {
-                    if (!dict[majorFormResult].includes(result) && result != majorFormResult && result != searchInput) {
-                        pRTemp.push(result);
-                    }
-                });
-                prefixResult = pRTemp;
-
-
-                // render page
-                res.render("./index", {
-                    searchInput: searchInput,
-                    wordVars: wordVars,
-                    showVar: showVar,
-                    showStyle: "display:block;visibility:visible;",
-                    alts: alts,
-                    chineseLangs: chineseLangs,
-                    diacriticList: diacriticList,
-                    prefixResult: prefixResult,
-                    sources: sources
-                });
-            }
-
-            // if search query not found in Trie
-            else {
-                res.render("./not_found", {
-                    searchInput: searchInput,
-                    prefixResult: prefixResult,
-                    sources: sources
-                });
-            }
-        }
-        else {
-            let wotd = Wotd(details);
-            if (wotd == false || typeof (wotd) != "string") {
-                res.render("./index_blank");
-            } else {
-                let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.98;     // around 2% have multiple hits
-                res.render("./index_landing", {
-                    wotd: wotd,
-                    progress: progress
-                });
-            }
-        }
-    }
-
-    // English type search
-    else if (req.query.stype == "en") {
+    // if (req.query.stype == undefined || req.query.stype == "sg") {
+    if (req.query.q) {
         let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
-        let stemInput = natural.PorterStemmer.stem(searchInput);
-        let enResultP = false, enResultS = false;
+        let majorFormResult = trie.search(searchInput);
+        let prefixResult = trie.startsWith(searchInput);
+        let results = [];
 
-        if (rindexP.hasOwnProperty(stemInput)) {
-            enResultP = rindexP[stemInput];
+        // check if mFR is array
+        // if more than one majorFormResult is found, show selection page
+        if (majorFormResult && Array.isArray(majorFormResult) && majorFormResult.length > 1) {
+            // // trim prefix results
+            // let pRTemp = [];
+            // prefixResult.forEach((result) => {
+            //     if (result != searchInput) {
+            //         pRTemp.push(result);
+            //     }
+            // });
+            // prefixResult = pRTemp;
+            prefixResult = prefixResult.filter((result) => result != searchInput && !majorFormResult.includes(result));
+
+            majorFormResult.forEach((mfr) => {
+                let result = retrieveWord(dict, details, mfr);
+                results.push(result);
+            });
+
+            res.render("./index", {
+                searchInput: searchInput,
+                results: results,
+                mFRs: majorFormResult,
+                showStyle: "display:block;visibility:visible;",
+                chineseLangs: chineseLangs,
+                diacriticList: diacriticList,
+                prefixResult: prefixResult,
+                sources: sources
+            });
         }
-        if (rindexP.hasOwnProperty(stemInput)) {
-            enResultS = rindexS[stemInput];
+
+        // if query is found in trie, return major form of word
+        else if (majorFormResult) {
+            let [alts, wordVars, showVar] = retrieveWord(dict, details, majorFormResult)
+
+            // trim prefix results
+            let pRTemp = [];
+            prefixResult.forEach((result) => {
+                if (!dict[majorFormResult].includes(result) && result != majorFormResult && result != searchInput) {
+                    pRTemp.push(result);
+                }
+            });
+            prefixResult = pRTemp;
+
+
+            // render page
+            res.render("./index", {
+                searchInput: searchInput,
+                wordVars: wordVars,
+                showVar: showVar,
+                showStyle: "display:block;visibility:visible;",
+                alts: alts,
+                chineseLangs: chineseLangs,
+                diacriticList: diacriticList,
+                prefixResult: prefixResult,
+                sources: sources
+            });
         }
 
-        // search details[searchInput] for result
-        // if cannot find (?) give start of first def.
-        // else if in both P and S top prio
-        // else if in P second prio
-        //      give excerpt "(pos.) ... abdfb s dbf *WORD* df ad ...."
-        // else (in S) low prio
-        //      give excerpt "... abdfb s dbf *WORD* df ad ...."
-
-        res.render("./index_en", {
-            searchInput: searchInput,
-            stemInput: stemInput,
-            checkedEn: true,
-            enResultP: enResultP,
-            enResultS: enResultS
-        });
+        // if search query not found in Trie
+        else {
+            res.render("./not_found", {
+                searchInput: searchInput,
+                prefixResult: prefixResult,
+                sources: sources
+            });
+        }
     }
+    else {
+        let wotd = Wotd(details);
+        if (wotd == false || typeof (wotd) != "string") {
+            res.render("./index_blank");
+        } else {
+            let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.98;     // around 2% have multiple hits
+            res.render("./index_landing", {
+                wotd: wotd,
+                progress: progress
+            });
+        }
+    }
+    // }
+
+    // // English type search
+    // else if (req.query.stype == "en") {
+    //     let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
+    //     let stemInput = natural.PorterStemmer.stem(searchInput);
+    //     let enResultP = false, enResultS = false;
+
+    //     if (rindexP.hasOwnProperty(stemInput)) {
+    //         enResultP = rindexP[stemInput];
+    //     }
+    //     if (rindexP.hasOwnProperty(stemInput)) {
+    //         enResultS = rindexS[stemInput];
+    //     }
+
+    //     // search details[searchInput] for result
+    //     // if cannot find (?) give start of first def.
+    //     // else if in both P and S top prio
+    //     // else if in P second prio
+    //     //      give excerpt "(pos.) ... abdfb s dbf *WORD* df ad ...."
+    //     // else (in S) low prio
+    //     //      give excerpt "... abdfb s dbf *WORD* df ad ...."
+
+    //     res.render("./index_en", {
+    //         searchInput: searchInput,
+    //         stemInput: stemInput,
+    //         checkedEn: true,
+    //         enResultP: enResultP,
+    //         enResultS: enResultS
+    //     });
+    // }
 })
 
 
