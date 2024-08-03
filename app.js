@@ -11,6 +11,7 @@ app.set("views", path.join(__dirname, "/views"));
 
 app.listen(port);
 
+// main page
 const index = require("./router/index");
 app.get("/", index);
 
@@ -27,7 +28,7 @@ app.get("/langs", langsRouter);
 const catsRouter = require("./router/catsRouter");
 app.get("/cat", catsRouter);
 
-// cats page
+// AZ page
 const azRouter = require("./router/azRouter");
 app.get("/letter/:id?", azRouter);
 
