@@ -124,7 +124,8 @@ router.get("/", async (req, res) => {
     // English type search
     else if (req.query.stype == "en") {
         let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
-        let stemInput = natural.PorterStemmer.stem(searchInput);
+        // let stemInput = natural.PorterStemmer.stem(searchInput);
+        let stemInput = nlp(searchInput).compute("root").text("root");
         let enResultP = false, enResultS = false;
 
         if (rindexP.hasOwnProperty(stemInput)) {
