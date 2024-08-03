@@ -10,6 +10,8 @@ gen_lang.js
 detail_cleanup.js
 dict_cleanup.js
 reverse_index.js
+reverse_index_natural.js
+tokenizing_test.js
 public/css/styles_insert.css
 public/dict/dict_simple.json
 public/dict/dict*copy.json

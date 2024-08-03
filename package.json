@@ -5,7 +5,6 @@
         "dotenv": "^16.4.5",
         "ejs": "^3.1.10",
         "express": "^4.19.2",
-        "natural": "^7.1.0",
         "singlish-dict": "file:"
     },
     "name": "singlish-dict",

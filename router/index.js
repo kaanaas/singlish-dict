@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const path = require("path");
+/* NOTE: natural DOES NOT WORK with vercel, use compromise instead */
 // const natural = require("natural");
 const nlp = require("compromise");
 
