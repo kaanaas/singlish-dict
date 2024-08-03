@@ -1,7 +1,11 @@
 const express = require("express");
 const router = express.Router();
 const path = require("path");
-const natural = require("natural");
+try {
+    const natural = require("natural");
+} catch (e) {
+    console.log(e);
+}
 
 const app = express();
 
