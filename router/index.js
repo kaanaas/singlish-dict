@@ -1,11 +1,8 @@
 const express = require("express");
 const router = express.Router();
 const path = require("path");
-try {
-    const natural = require("natural");
-} catch (e) {
-    console.log(e);
-}
+// const natural = require("natural");
+const nlp = require("compromise");
 
 const app = express();
 
