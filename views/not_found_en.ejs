@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <%- include("./partials/head") %>
+    <head>
+        <!-- Stylesheet -->
+        <link rel="stylesheet" href="css/style_corpus.css" type="text/css">
+    </head>
+
+    <body>
+        <%- include("./partials/banner") %>
+
+        <div class="content">
+            <div class="def-box">
+                <%- include("./partials/search_container") %>
+
+                <% if(prefixResult.length > 0){ %>
+                    <%- include("./partials/prefix", {
+                        headerText: "entries starting with",
+                        result: prefixResult,
+                        searchInput: searchInput
+                    }) %>
+                <% } else { %>
+                    <div class="result" id="not-found">
+                        <div class="not-found">
+                            <h3><%= searchInput %></h3>
+                            <p>cannot find.</p>
+                            <span style="font-size: 1.75em;">😿</span>
+                        </div>
+                    </div>
+                    <div class="result">
+                        <p class="not-found not-found-msg">Perhaps try a synonym - your search may be listed under something else!</p>
+                        <p class="not-found not-found-msg">
+                            Or did you mean to <a href="./?stype=sg&q=<%= searchInput %>">➤ search directly for a Singlish term?</a></p>
+                    </div>
+                <% } %>
+            </div>
+        </div>
+
+        <%- include("./partials/scripts") %>
+        <%- include("./partials/footer") %>
+
+    </body>
+
+</html>

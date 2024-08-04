@@ -29,7 +29,8 @@
 /* corpus */
 .corpus-list {
     margin-left: 0;
-    list-style-type: '❧';
+    padding-left: 0;
+    list-style-type: none;
     list-style-position: outside;
     columns: 2;
     -webkit-columns: 2;
@@ -52,7 +53,8 @@ li::marker {
 .corpus-list li {
     font-family: "Crimson Text";
     margin-bottom: 0.6em;
-    padding-left: 1em;
+    padding-left: .75em;
+    padding-right: .75em;
     page-break-inside: avoid;
     break-inside: avoid;
     -webkit-break-inside: avoid;
@@ -64,6 +66,32 @@ li::marker {
     font-weight: bold;
     font-size: 1.333em;
     color: var(--black);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: var(--subh-lighter);
+}
+
+.corpus-text {
+    font-family: "Literata";
+    font-size: .85em;
+    color: var(--grey-green);
+}
+
+.corpus-text a {
+    font-family: "Literata"!important;
+    font-weight: bold;
+    font-size: 1em;
+    color: var(--grey-green);
+}
+
+.corpus-text b {
+    font-family: "Literata";
+    font-size: 1em;
+    color: var(--black);
+}
+
+.not-found-msg a {
+    font-family: "Crimson Text";
     text-decoration: underline;
     text-underline-offset: 2px;
     text-decoration-color: var(--subh-lighter);

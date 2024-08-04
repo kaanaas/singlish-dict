@@ -7,10 +7,16 @@
     </div>
     <ul class="corpus-list">
     <% result = result.sort(); %>
-    <% for(let i = 0; i < result.length; i++){ %>    
+    <!-- sep first result for hr so no need check lots of if statements -->
+    <li>
+        <a href="./?q=<%- formatIdLink(result[0][0]) %>"><%- formatId(result[0][0]) %></a>
+        <p class="corpus-text"><%- typeof result[0][1] !='undefined' ? formatDyno(result[0][1]) : "" %> ...</p>
+    </li>
+    <% for(let i = 1; i < result.length; i++){ %>    
+        <hr>
         <li>
             <a href="./?q=<%- formatIdLink(result[i][0]) %>"><%- formatId(result[i][0]) %></a>
-            <p>... <%- typeof result[i][1] !='undefined' ? formatDyno(result[i][1]) : "" %> ...</p>
+            <p class="corpus-text"><%- typeof result[i][1] !='undefined' ? formatDyno(result[i][1]) : "" %> ...</p>
         </li>
     <% } %>
     </ul>

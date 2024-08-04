@@ -24,7 +24,7 @@
                 <!-- result -->
                 <% if(enResultS && enResultS.length > 0){ %>
                     <%- include("./partials/corpus_search", {
-                        headerText: "other entries possibly related to",
+                        headerText: "entries possibly related to",
                         result: enResultS,
                         searchInput: searchInput
                     }) %>
@@ -32,6 +32,10 @@
 
                 <!-- starts with also -->
                 <!-- add prefix searching functionality here -->
+
+                <!-- not found in english, but found in singlish -->
+                
+
             </div>
         </div>
         <%- include("./partials/scripts") %>

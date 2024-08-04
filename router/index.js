@@ -132,27 +132,37 @@ router.get("/", async (req, res) => {
         if (rindexP.hasOwnProperty(stemInput)) {
             enResultP = rindexP[stemInput];
         }
-        if (rindexP.hasOwnProperty(stemInput)) {
+        if (rindexS.hasOwnProperty(stemInput)) {
             enResultS = rindexS[stemInput];
         }
+        if (!enResultP && !enResultS) {
+            res.render("./not_found_en", {
+                searchInput: searchInput,
+                prefixResult: [],
+                checkedEn: true,
 
-        // search details[searchInput] for result (OR maybe this can be built directly into the reverse index)
-        // if cannot find (?) give start of first def.
-        // else if in both P and S top prio
-        // else if in P second prio
-        //      give excerpt "(pos.) ... abdfb s dbf *WORD* df ad ...."
-        // else (in S) low prio
-        //      give excerpt "... abdfb s dbf *WORD* df ad ...."
+                sources: sources
+            });
+        }
+        else {
+            // search details[searchInput] for result (OR maybe this can be built directly into the reverse index)
+            // if cannot find (?) give start of first def.
+            // else if in both P and S top prio
+            // else if in P second prio
+            //      give excerpt "(pos.) ... abdfb s dbf *WORD* df ad ...."
+            // else (in S) low prio
+            //      give excerpt "... abdfb s dbf *WORD* df ad ...."
 
-        res.render("./index_en", {
-            searchInput: searchInput,
-            stemInput: stemInput,
-            checkedEn: true,
-            enResultP: enResultP,
-            enResultS: enResultS,
+            res.render("./index_en", {
+                searchInput: searchInput,
+                stemInput: stemInput,
+                checkedEn: true,
+                enResultP: enResultP,
+                enResultS: enResultS,
 
-            sources: sources
-        });
+                sources: sources
+            });
+        }
     }
 })
 
