@@ -1,0 +1,1 @@
+const langTerms = ["Hinghua","tai chi"]; module.exports = langTerms;

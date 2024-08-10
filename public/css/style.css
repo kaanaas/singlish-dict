@@ -367,6 +367,11 @@ input[type=text] {
     font-size: 1.5em!important;
 }
 
+.plus-within {
+    font-size: 1.75em !important;
+    font-weight: bold;
+}
+
 .arrow {
     margin-right: 1em;
 }

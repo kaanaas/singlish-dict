@@ -29,7 +29,7 @@ const rindexS = require("../public/lists/reverse_indexS.json");
 const sources = require("../public/sources/sources.json");
 
 // predefined arrays
-let chineseLangs = ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan"];
+let chineseLangs = ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan", "hinghua"];
 let diacriticList = ["ã", "ẽ", "ĩ", "õ", "ũ"];
 
 router.get("/", async (req, res) => {
@@ -125,43 +125,59 @@ router.get("/", async (req, res) => {
     // English type search
     else if (req.query.stype == "en") {
         let searchInput = req.query.q.toLowerCase().trim().normalize('NFD').replace(/\p{Diacritic}/gu, '');     // removes ending spaces and punctuations, diacritics, etc.
-        // let stemInput = natural.PorterStemmer.stem(searchInput);
-        let stemInput = nlp(searchInput).compute("root").text("root");
-        let enResultP = false, enResultS = false;
+        // prevent searching strings that are way too short
+        if (searchInput.length >= 2) {
+            // let stemInput = natural.PorterStemmer.stem(searchInput);
+            let stemInput = nlp(searchInput).compute("root").text("root");
+            let enResultP = false, enResultS = false;
 
-        if (rindexP.hasOwnProperty(stemInput)) {
-            enResultP = rindexP[stemInput];
-        }
-        if (rindexS.hasOwnProperty(stemInput)) {
-            enResultS = rindexS[stemInput];
-        }
-        if (!enResultP && !enResultS) {
-            res.render("./not_found_en", {
-                searchInput: searchInput,
-                prefixResult: [],
-                checkedEn: true,
+            if (rindexP.hasOwnProperty(stemInput)) {
+                enResultP = rindexP[stemInput];
+            }
+            if (rindexS.hasOwnProperty(stemInput)) {
+                enResultS = rindexS[stemInput];
+            }
+            if (!enResultP && !enResultS) {
+                res.render("./not_found_en", {
+                    searchInput: searchInput,
+                    prefixResult: [],
+                    checkedEn: true,
 
-                sources: sources
-            });
-        }
-        else {
-            // search details[searchInput] for result (OR maybe this can be built directly into the reverse index)
-            // if cannot find (?) give start of first def.
-            // else if in both P and S top prio
-            // else if in P second prio
-            //      give excerpt "(pos.) ... abdfb s dbf *WORD* df ad ...."
-            // else (in S) low prio
-            //      give excerpt "... abdfb s dbf *WORD* df ad ...."
+                    sources: sources
+                });
+            }
+            else {
+                // search details[searchInput] for result (OR maybe this can be built directly into the reverse index)
+                // if cannot find (?) give start of first def.
+                // else if in both P and S top prio
+                // else if in P second prio
+                //      give excerpt "(pos.) ... abdfb s dbf *WORD* df ad ...."
+                // else (in S) low prio
+                //      give excerpt "... abdfb s dbf *WORD* df ad ...."
 
-            res.render("./index_en", {
-                searchInput: searchInput,
-                stemInput: stemInput,
-                checkedEn: true,
-                enResultP: enResultP,
-                enResultS: enResultS,
+                res.render("./index_en", {
+                    searchInput: searchInput,
+                    stemInput: stemInput,
+                    checkedEn: true,
+                    enResultP: enResultP,
+                    enResultS: enResultS,
 
-                sources: sources
-            });
+                    sources: sources
+                });
+            }
+        } else {
+            // go back to home page if query is too short
+            let wotd = Wotd(details);
+            if (wotd == false || typeof (wotd) != "string") {
+                res.render("./index_blank");
+            } else {
+                let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.98;     // around 2% have multiple hits
+                res.render("./index_landing", {
+                    wotd: wotd,
+                    checkedEn: true,
+                    progress: progress
+                });
+            }
         }
     }
 })

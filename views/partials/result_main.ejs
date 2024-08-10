@@ -185,6 +185,8 @@
                                         <p class="ortho-origin ortho-arrow" title="calque or direct translation">↻</p>
                                     <% } else if(word.origin[i].etyType[j-1]=="re" || word.origin[i].etyType[j-1]=="x2"){ %>
                                         <p class="ortho-origin ortho-arrow" title="reduplication">⇇</p>
+                                    <% } else if(word.origin[i].etyType[j-1]=="++"){ %>
+                                        <p class="ortho-origin ortho-arrow plus-within">+</p>
                                     <% } else { %>
                                         <p class="ortho-origin ortho-arrow"><%= word.origin[i].etyType[j-1] %></p>
                                     <% } %>
@@ -193,6 +195,8 @@
                                         <p class="ortho-origin ortho-arrow" title="calque or direct translation">↻</p>
                                     <% } else if(word.origin[i].type == "clip" || word.origin[i].type == "elision"){ %>
                                         <p class="ortho-origin ortho-arrow" title="clipping, shortening, or elision">✂</p>
+                                    <% } else if(word.origin[i].type == "re" || word.origin[i].type == "x2" ){ %>
+                                        <p class="ortho-origin ortho-arrow" title="reduplication">⇇</p>
                                     <% } else { %>
                                         <p class="ortho-origin ortho-arrow"><%= word.origin[i].type %></p>
                                     <% } %>
