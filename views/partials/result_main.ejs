@@ -80,7 +80,7 @@
                                 <% } else { %>
                                     <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
                                 <% } %>
-                                <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                                <p class="ortho-roman"><%= word.origin[i].roman %></p>
                             </div>
                         <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
                             <!-- Other alt-script languages -->
@@ -91,7 +91,7 @@
                                     <p class="romanization"><%= word.origin[i].romanization %>:</p>
                                 <% } %>
                                 <% if(word.origin[i].roman != undefined && word.origin[i].roman != "") { %>
-                                    <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                                    <p class="ortho-roman"><%= word.origin[i].roman %></p>
                                 <% } %>
                             </div>
                             <% } %>
@@ -148,7 +148,7 @@
                                                 <%- formatDyno(word.origin[i].traditional) %></h3>
                                         </div>
                                         <div class="roman-flex-ext">
-                                            <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                                            <p class="ortho-roman"><%= word.origin[i].roman %></p>
                                         </div>
                                     </div>
                                 <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
@@ -158,7 +158,7 @@
                                         <h3 class="non-bold non-chinese"><%- formatDyno(word.origin[i].simplified) %></h3>
                                         <div class="roman-flex-ext">
                                         <% if(word.origin[i].roman != undefined && word.origin[i].roman != "") { %>
-                                            <p class="ortho-roman"><%= word.origin[i].roman.toLowerCase() %></p>
+                                            <p class="ortho-roman"><%= word.origin[i].roman %></p>
                                         <% } %>
                                         </div>
                                     </div>
@@ -224,7 +224,7 @@
                                                     <p class="romanization">(pinyin)</p>
                                                 <% } %>
                                             <% } else { %>
-                                                <p class="romanization">(<%= word.origin[i].etyScheme[j].toLowerCase() %>)</p>
+                                                <p class="romanization">(<%= word.origin[i].etyScheme[j] %>)</p>
                                             <% } %>
                                         <% } %>
                                     </div>
@@ -240,7 +240,7 @@
                                                 <%- formatDyno(word.origin[i].etyTrad[j]) %></h3>
                                         </div>
                                         <div class="roman-flex-ext">
-                                            <p class="ortho-roman"><%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %></p>
+                                            <p class="ortho-roman"><%= word.origin[i].etyRoman[j].replace(/,/g, ", ") %></p>
                                         </div>
                                     </div>
                                     <% } else if(word.origin[i].etyScript && word.origin[i].etyScript[j] != undefined && word.origin[i].etyScript[j] != "") { %>
@@ -251,7 +251,7 @@
                                             <div class="roman-flex-ext">
                                                 <p class="ortho-roman">
                                                 <% if(word.origin[i].etyScript[j] !="" && word.origin[i].etyRoman){ %>
-                                                    <%= word.origin[i].etyRoman[j].toLowerCase().replace(/,/g, ", ") %>
+                                                    <%= word.origin[i].etyRoman[j].replace(/,/g, ", ") %>
                                                 <% } %>
                                                 </p>
                                             </div>

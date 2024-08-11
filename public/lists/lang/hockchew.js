@@ -1,0 +1,1 @@
+const langTerms = ["Hockchew"]; module.exports = langTerms;
