@@ -56,7 +56,7 @@
                         <% if(i == 0 || word.origin[i].lang.toLowerCase() != word.origin[i-1].lang.toLowerCase()){ %>
                             <p class="ortho-origin small-caps"><%= langName %>:</p>
                         <% } %>
-                        <% if(chineseLangs.some(l => langName.toLowerCase().includes(l))){ %>
+                        <% if(chineseLangs.some(l => langName.toLowerCase().includes(l)) || (langName.toLowerCase().includes("japanese") && word.origin[i].traditional && word.origin[i].traditional != "")){ %>
                             <!-- Chinese languages -->
                             <div name="chinese-chars">
                                 <h3 class="chinese-chars simp" name="show" title="Click for Traditional" style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">

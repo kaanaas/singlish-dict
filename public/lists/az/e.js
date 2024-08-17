@@ -1,1 +1,1 @@
-const eList = ["earpiece","eat snake","ee","eeyer","egg prata","eh","eh hiao","eh sai","eh sai bo","elephant","else what","encik","end up","england","enthu","epok-epok","et","et blade","et stick","extra","eye power"]; module.exports = eList;
+const eList = ["earpiece","eat snake","ee","eeyer","egg prata","eh","eh hiao","eh sai","eh sai bo","elephant","else what","encik","end up","england","enthu","epok-epok","et","et blade","et stick","ex","extra","eye power"]; module.exports = eList;
