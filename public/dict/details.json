@@ -4946,6 +4946,7 @@
             {
                 "lang": "japanese",
                 "simplified": "あのね",
+                "traditional": "あのね",
                 "roman": "ano ne",
                 "lit": "feminine or childish intj. or filler word; 'hey...', 'well...'"
             }
@@ -17342,7 +17343,8 @@
         },
         "related": [
             "basket",
-            "cham#2"
+            "cham#2",
+            "Baba"
         ],
         "category": [
             "insults"
@@ -17451,7 +17453,8 @@
         },
         "related": [
             "basket",
-            "kiã"
+            "kiã",
+            "Baba"
         ],
         "category": [
             "insults"
@@ -18448,7 +18451,9 @@
             "cheeko pek",
             "hongster"
         ],
-        "usage": "insults"
+        "category": [
+            "insults"
+        ]
     },
     "chee sin": {
         "word": "chee sin",
@@ -22520,8 +22525,8 @@
         ],
         "etyNotes": "Further etymology unknown."
     },
-    "cino": {
-        "word": "cino",
+    "-cino": {
+        "word": "-cino",
         "origin": [
             {
                 "lang": "italian",
@@ -22541,7 +22546,7 @@
                 ],
                 "etyRoman": [
                     "Kapuziner",
-                    "frate cappuccino",
+                    "[frate] cappuccino",
                     "cappuccio",
                     "-ino"
                 ],
@@ -22556,7 +22561,7 @@
         "meanings": {
             "adjective": [
                 {
-                    "definition": "(drink ordering) made with a base of milk, or condensed milk and water, with the preceding drink layered on top",
+                    "definition": "(drink ordering, suffix) made with a base of milk, or condensed milk and water, with the preceding drink layered on top",
                     "example": [
                         {
                             "eg": "Auntie, one @{teh cino} @{kah dai} and one @{miloccino} please."
@@ -22566,12 +22571,13 @@
             ]
         },
         "related": [
-            "kepala"
+            "kepala",
+            "teh-cino"
         ],
         "category": [
             "drinks"
         ],
-        "etyNotes": "Shortening of <i>cappuccino</i>. Likely from the same ultimate etymological root as Malay @{kepala}."
+        "etyNotes": "Clipping of <i>cappuccino</i>. Likely from the same ultimate etymological root as Malay @{kepala}."
     },
     "climb on top": {
         "word": "climb on top",
@@ -37096,20 +37102,26 @@
         "meanings": {
             "noun": [
                 {
-                    "definition": "A widely-spoken Southern Min (Min Nan) language (or family of related languages / dialects) spoken by people from parts of Fujian including Quanzhou, Zhangzhou, Amoy, etc. and its diaspora, especially in maritime South-East Asia (where it used to be the lingua franca amongst Chinese communities) and Taiwan (where it is an official language).",
+                    "definition": "a widely-spoken Southern Min (Min Nan) language (or family of related languages / dialects) spoken by people from parts of Fujian including Quanzhou, Zhangzhou, Amoy, etc. and its diaspora, especially in maritime South-East Asia (where it used to be the lingua franca amongst Chinese communities) and Taiwan (where it is an official language).",
                     "example": [
                         {
                             "eg": "Hokkien songs are for the man-in-the-street. Patrons feel that Hokkien lyrics relate more to their lives, and love, happiness and sadness are described explicitly.",
                             "src": "1988 September 2, Guan Libing (quoting A.C. Chua). The Straits Times, \"Hokkien pop is the rage\". p.6"
                         },
                         {
-                            "eg": "I stumbled upon the programme Happy Can Already on Toggle and was delighted that it was in Hokkien, @{Teochew} and Cnatonese, althoguh predominantly in Hokkien.",
+                            "eg": "I stumbled upon the programme Happy Can Already on Toggle and was delighted that it was in Hokkien, @{Teochew} and Cantonese, although predominantly in Hokkien.",
                             "src": "2017 February 8, Cindy Tan (quoting A.C. Chua). Today, \"Variety show Happy Can Already worth another run\". p.31"
                         }
                     ]
                 },
                 {
-                    "definition": "(dated) a person of Hokkien ethnicity, culture, background, etc."
+                    "definition": "a person of Hokkien ethnicity, culture, background, etc.",
+                    "example": [
+                        {
+                            "eg": "Visit monuments in which decisions that shaped modern Singapore were made, landmarks that the Armenians, British, and Scots established, or discover the history and culture of the Hokkiens along Telok Ayer Street.",
+                            "src": "2012 January 26. Today (Afternoon Edition), \"Things To Do: Monumental Walking Tours\". p.11"
+                        }
+                    ]
                 },
                 {
                     "definition": "(rare) Fujian, a province in China"
@@ -38672,7 +38684,8 @@
     "ikan bilis": {
         "word": "ikan bilis",
         "related": [
-            "ikan"
+            "ikan",
+            "tee poh"
         ],
         "category": [
             "cuisine",
@@ -58655,7 +58668,8 @@
             "bungkus",
             "dabao",
             "pau",
-            "puay"
+            "puay",
+            "tee poh"
         ],
         "category": [
             "drinks"
@@ -58741,7 +58755,8 @@
             "bak kut teh",
             "tiao he",
             "teh halia",
-            "teh tarik"
+            "teh tarik",
+            "teh-cino"
         ],
         "category": [
             "drinks"
@@ -58919,7 +58934,8 @@
         "word": "teh tarik",
         "related": [
             "teh",
-            "agak tarik"
+            "agak tarik",
+            "teh-cino"
         ],
         "category": [
             "drinks"
@@ -63265,5 +63281,534 @@
             "whole jin gang"
         ],
         "etyNotes": "While the Min Nan etymology makes the most sense, as it has a semantic basis, the Cantonese term is also often cited (albeit said to be a purely phonetic borrowing from some other language in the region, possibly including a Min Nan one). It is also present as a colloquial term in various forms in various Sinitic languages and dialects, such as Wu, Beijing Mandarin, and @{Hockchew}. There is even a term <i>hầm bà lằng</i> (\"mixed; miscellaneous; including everything\") in Vietnamese, which is very likely a borrowing of one of these Sinitic terms."
+    },
+    "tongkat": {
+        "word": "tongkat",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "tongkat",
+                "lit": "walking stick; staff"
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a staff; a cane; a walking stick",
+                    "example": [
+                        {
+                            "eg": "\"I’ll be more than 80 at the time, so I may need a tongkat … If I can’t use the tongkat to help me walk on the bridge, I'll use the tongkat on the people who built the bridge\"!",
+                            "src": "2004, Ramon V. Navaratnam (quoting Mahathir Mohamad). Winds of Change: Malaysia's Economic Transition from Dr. Mahathir Mohamad to Abdullah Ahmad Badawi. Pelanduk Publications. ISBN: 9789679789058. p.161"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "tongkat ali"
+        ]
+    },
+    "tongkat ali": {
+        "word": "tongkat ali",
+        "related": [
+            "tongkat"
+        ],
+        "category": [
+            "nature"
+        ],
+        "etyNotes": "(lit.) ‘Ali’s walking stick’.",
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "tongkat ali",
+                "lit": "Eurycoma longifolia (or sometimes also Polyalthia bullata)",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "",
+                    "",
+                    "عَلِيّ"
+                ],
+                "etyRoman": [
+                    "tongkat",
+                    "Ali",
+                    "ʕaliyy"
+                ],
+                "etyLit": [
+                    "walking stick; staff",
+                    "Muslim male given name",
+                    "Muslim male given name; high; exalted; great"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "Eurycoma longifolia (or sometimes also the similar-looking species Polyalthia bullata), a bitter-tasting medicinal plant traditionally used as an aphrodisiac, sexual health supplement, analgesic, general medicine, and food additive or supplement",
+                    "example": [
+                        {
+                            "eg": "The jungle shrub — popularly known as Tongkat Ali (Walking Stick Ali) — is a traditional sex tonic, long peddled by roadside medicine men and sold by the inch.",
+                            "src": "1990. South. South Publications Limited. ed.111-116, p.5"
+                        },
+                        {
+                            "eg": "He made me drink the boiled root of tongkat ali (Eurycoma longifolia) to flush the liver and kidneys of impurities. (Yes, it’s also an aphrodisiac.)",
+                            "src": "2014, Andrew Johnson. AJ’s Food Roots. Landmark Books Pte Ltd. p.9"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "tong chye": {
+        "word": "tong chye",
+        "related": [
+            "kiam chye"
+        ],
+        "category": [
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "冬菜",
+                "traditional": "冬菜",
+                "roman": "tong-chhài",
+                "lit": "preserved Chinese cabbage (bok choy)",
+                "etyPath": [
+                    "mandarin"
+                ],
+                "etyScript": [
+                    "冬菜"
+                ],
+                "etyTrad": [
+                    "冬菜"
+                ],
+                "etyRoman": [
+                    "dōng cài"
+                ],
+                "etyLit": [
+                    "preserved Chinese cabbage (bok choy)"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a type of finely-diced, salted, and preserved Chinese cabbage (bok choy, <i>Brassica rapa chinensis</i>) used in Chinese cuisine"
+                }
+            ]
+        }
+    },
+    "toman": {
+        "word": "toman",
+        "related": [
+            "ikan"
+        ],
+        "category": [
+            "nature",
+            "cuisine"
+        ],
+        "origin": [
+            {
+                "lang": "malay",
+                "roman": "ikan toman",
+                "lit": "Channa micropeltes (giant snakehead)",
+                "etyPath": [
+                    "malay",
+                    "malay"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyRoman": [
+                    "ikan",
+                    "toman"
+                ],
+                "etyLit": [
+                    "fish",
+                    "snakehead fish"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "<i>Channa micropeltes</i> (a.k.a. giant snakehead), a predatory tropical freshwater fish native to South-East Asia. It is a popular food species due to its versatile, tender meat and large size, with some specimens growing up to 1.3 m long and weighing 20 kg.^{1} Its meat is also traditionally believed to have wound-healing properties. It is sometimes kept as a pet fish in large aquariums."
+                },
+                {
+                    "definition": "any other fish in the genus <i>Channa</i> (collectively known as snakeheads), such as <i>C. melanoptera</i> or <i>C. striatus</i>, predatory tropical freshwater fish native to Asia. They are often popular food species in their native ranges."
+                }
+            ]
+        },
+        "references": [
+            {
+                "link": "https://fishbase.mnhn.fr/summary/SpeciesSummary.php?genusname=Channa&speciesname=micropeltes",
+                "name": "FishBase — Channa micropeltes"
+            }
+        ]
+    },
+    "teochew": {
+        "word": "Teochew",
+        "origin": [
+            {
+                "lang": "teochew",
+                "simplified": "潮州",
+                "traditional": "潮州",
+                "roman": "dio5 ziu1",
+                "lit": "Chaozhou, Guangdong, a prefecture in China",
+                "etyPath": [
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "潮",
+                    "州"
+                ],
+                "etyTrad": [
+                    "潮",
+                    "州"
+                ],
+                "etyRoman": [
+                    "dio5",
+                    "ziu1"
+                ],
+                "etyLit": [
+                    "tide; wave; rising tide",
+                    "province; prefecture; state"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a widely-spoken Southern Min (Min Nan) language with several related dialects spoken by people from parts of Chaoshan (a region in Guangdong, China) and its diaspora, especially in maritime South-East Asia. It is closely related to other Min Nan languages, such as @{Hokkien}.",
+                    "example": [
+                        {
+                            "eg": "I was entranced by the fluting and cascading Teochew inside. ... At the same time, I was an outsider because there was no music in my Teochew.",
+                            "src": "1993 July 4, Lee Siew Hua. The Straits Times, \"Teochew: Close to my heart but foreign to my tongue\". p.2"
+                        },
+                        {
+                            "eg": "I stumbled upon the programme Happy Can Already on Toggle and was delighted that it was in Hokkien, @{Teochew} and Cantonese, although predominantly in Hokkien.",
+                            "src": "2017 February 8, Cindy Tan. Today, \"Variety show Happy Can Already worth another run\". p.31"
+                        }
+                    ]
+                },
+                {
+                    "definition": "a person of Teochew ethnicity, culture, background, etc.",
+                    "example": [
+                        {
+                            "eg": "Teochews tend to use English more often than other major dialect groups ... When speaking to grandparents, the Teochews are twice as likely to have used English as their cousins, the @{Hokkien}s.",
+                            "src": "1983 October 9. The Straits Times, \"Teochews tend to use English more often\". p.12"
+                        },
+                        {
+                            "eg": "A troop of 115 Teochews from Singapore will be making tracks to their ancestral homeland in Swatow in south-eastern China tomorrow to join 4,000 other Teochews for a global gathering of members of the dialect group.",
+                            "src": "1997 November 16. The Straits Times, \"115 Teochews from S'pore to attend global gathering in Swatow\". p.38"
+                        }
+                    ]
+                },
+                {
+                    "definition": "Chaozhou, a prefecture-level city in China",
+                    "example": [
+                        {
+                            "eg": "More than 20 types of such preserved fruit from the Teochew and Swatow districts in China will be on display at the exhibition ...",
+                            "src": "1993 February 2. The Straits Times, \"'Sour kanna' at exhibition on Teochew culture\". p.18"
+                        },
+                        {
+                            "eg": "Since the freezing of Japanese assets by Britain, Japanese occupying some parts of Swatow and Teochew retaliated by refusing passage of money from  the Japanese-occupied to \"free\" areas in the two places mentioned.",
+                            "src": "1941 October 16. Malaya Tribune, \"Remittances To More China Areas\". p.5"
+                        }
+                    ]
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "of or relating to the Teochew ethnolinguistic community and its people, language, ethnicity, culture, background, etc.",
+                    "example": [
+                        {
+                            "eg": "Are you losing touch with your own Teochew Culture? ... Savour authentic Teochew dishes and embark on a journey with us as we bring you on a trip to the origins of Teochew & Teowchew cuisine. We will also share how the dishes are delicately prepared in the true Teochew way. Get to enjoy live opera performance of Teochew Opera.",
+                            "src": "2010 January 4, Teochew City Seafood Restaurant. Today (advertisements column). p.22"
+                        }
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "locations",
+            "cultural"
+        ]
+    },
+    "teochew porridge": {
+        "word": "Teochew porridge",
+        "etyNotes": "Known as 糜, muê5 (\"congee; rice porridge\") in Teochew.",
+        "related": [
+            "Teochew"
+        ],
+        "origin": [
+            {
+                "lang": "teochew",
+                "simplified": "潮州",
+                "traditional": "潮州",
+                "roman": "dio5 ziu1",
+                "lit": "Chaozhou, Guangdong, a prefecture in China",
+                "etyPath": [
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "潮",
+                    "州"
+                ],
+                "etyTrad": [
+                    "潮",
+                    "州"
+                ],
+                "etyRoman": [
+                    "dio5",
+                    "ziu1"
+                ],
+                "etyLit": [
+                    "tide; wave; rising tide",
+                    "province; prefecture; state"
+                ]
+            },
+            {
+                "lang": "english",
+                "roman": "porridge",
+                "lit": "dish of grains boiled in liquid (e.g. water) until thick",
+                "etyPath": [
+                    "english",
+                    "anglo-norman",
+                    "english",
+                    "old french"
+                ],
+                "etyType": [
+                    "",
+                    "+",
+                    ""
+                ],
+                "etyRoman": [
+                    "pottage",
+                    "potage",
+                    "porray",
+                    "poree"
+                ],
+                "etyLit": [
+                    "thick stew of vegetables, grains, and other miscellaneous foods; oat porridge",
+                    "soup or stew cooked in a pot",
+                    "medieval leek pudding simmered with other vegetables in milk or broth",
+                    "leek; leek soup"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a thin rice congee typical of @{Teochew} cuisine, typically flavoured with simple and savoury ingredients such as salted or preserved vegetables (@{kiam chye}) or fish @{tee poh}, @{tau pok} in soya sauce, etc. It is eaten as a staple with other dishes, and is often seen as a simple, unglamourous, everyman's food.",
+                    "example": [
+                        {
+                            "eg": "News of Singapore Airlines introducing Teochew dishes across all cabin classes on Monday was eagerly lapped up by travellers ... passengers will get to enjoy dishes such as Teochew porridge, @{bak chor mee} and braised duck with rice.",
+                            "src": "2016 November 3. Today, \"Getting the right Teochew dishes\". p.50"
+                        },
+                        {
+                            "eg": "If you are tired of rich and oily food and want a refreshing change, have a meal of Teochew porridge with a variety of dishes.",
+                            "src": "1994 May 6, Sim Ai Ling. Weekend East, \"Teochew porridge for a refreshing change\". p.21"
+                        }
+                    ]
+                }
+            ]
+        },
+        "category": [
+            "cuisine"
+        ]
+    },
+    "tee poh": {
+        "word": "tee poh",
+        "origin": [
+            {
+                "lang": "teochew",
+                "simplified": "铁脯",
+                "traditional": "鐵脯",
+                "roman": "tih4 bou2",
+                "lit": "dried and smoked flounder fish with bones",
+                "etyPath": [
+                    "teochew",
+                    "teochew"
+                ],
+                "etyType": [
+                    "+"
+                ],
+                "etyScript": [
+                    "铁",
+                    "脯"
+                ],
+                "etyTrad": [
+                    "鐵",
+                    "脯"
+                ],
+                "etyRoman": [
+                    "tih4",
+                    "bou2"
+                ],
+                "etyLit": [
+                    "iron",
+                    "dried meat"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "air-dried and smoked flounder with bones, used as a key umami ingredient in authentic Teochew cuisine as well as dishes from other related cuisines",
+                    "example": [
+                        {
+                            "eg": "That was how tee po came about – sole fish bones are not thrown out but sun dried and smoked. The result, a slice of crispy dry fish bone that harbours all the oceanic umami and saltiness.",
+                            "src": "2016 March 17, Victoria Lim. Makansutra, \"Tee Po: That iconic sliver and flavour of Teochew cuisine\". https://makansutra.com/tee-po-that-iconic-sliver-and-flavour-of-teochew-cuisine/. acc 2024 August 18"
+                        }
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "tee kong",
+            "ikan bilis"
+        ],
+        "category": [
+            "cuisine"
+        ]
+    },
+    "teh-cino": {
+        "word": "teh-cino",
+        "origin": [
+            {
+                "lang": "hokkien",
+                "simplified": "茶",
+                "traditional": "茶",
+                "roman": "tê",
+                "lit": "tea; drink made by infusing leaves of Camilla sinensis in water"
+            },
+            {
+                "lang": "singlish",
+                "roman": "-cino",
+                "type": "clip",
+                "lit": "made w. a base of milk, or condensed milk and water, w. the preceding drink layered on top",
+                "etyPath": [
+                    "italian",
+                    "german",
+                    "italian",
+                    "italian",
+                    "italian"
+                ],
+                "etyType": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "+"
+                ],
+                "etyRoman": [
+                    "cappuccino",
+                    "Kapuziner",
+                    "[frate] cappuccino",
+                    "cappuccio",
+                    "-ino"
+                ],
+                "etyLit": [
+                    "espresso coffee with steamed or frothed milk, so named due to dark brown colour resembling Capuchin monks' habits",
+                    "Capuchin (monk of the Capuchin order)",
+                    "Capuchin (monk of the Capuchin order)",
+                    "hood; monk's cowl",
+                    "suffix used to indicate a profession or form a diminutive"
+                ]
+            }
+        ],
+        "meanings": {
+            "adjective": [
+                {
+                    "definition": "a base of milk, or condensed milk and water, with sweetened black tea layered on top in a milk-tea ratio of around 1:1. The milk is usually frothed, with the resulting drink being similar in composition and texture to @{teh tarik}; however, among other differences, teh-cino is often served with the layers of milk and tea not fully mixed."
+                }
+            ]
+        },
+        "related": [
+            "teh",
+            "-cino",
+            "teh tarik"
+        ],
+        "category": [
+            "drinks"
+        ],
+        "etyNotes": "See also @{teh} and @{-cino}."
+    },
+    "baba": {
+        "word": "Baba",
+        "origin": [
+            {
+                "lang": "malay / baba malay",
+                "roman": "Baba",
+                "lit": "male Peranakan or descendant of Peranakans; honorific term for a non-Malay but Straits-born man",
+                "etyPath": [
+                    "translingual"
+                ],
+                "etyRoman": [
+                    "baba"
+                ],
+                "etyLit": [
+                    "father"
+                ]
+            }
+        ],
+        "meanings": {
+            "noun": [
+                {
+                    "definition": "a male Peranakan or descendant of Peranakans",
+                    "example": [
+                        {
+                            "eg": "Most of the Chinese ancestors of the Babas came from Fujian and Guangdong of southern China. Within the Peranakan community, there are Hokkien Baba, Teochew Baba, Cantonese Baba and Hakka Baba.",
+                            "src": "2019, various authors (excerpt by Ng Fooi Beng). A General History Of The Chinese In Singapore, 6C: Peranakan Community and Culture. World Scientific Publishing Company. ISBN: 9789813277656. p.261"
+                        }
+                    ]
+                },
+                {
+                    "definition": "honorific term of address for a male Peranakan"
+                }
+            ],
+            "adjective": [
+                {
+                    "definition": "of or relating to the Peranakan society, culture, ethnicity, language, etc., particularly (but not necessarily, and often not) its traditionally male-related facets",
+                    "example": [
+                        {
+                            "eg": "In other words, @{nyonya} food is not only delicious, it expresses Baba sentiment associated with Baba subjectivity, and Baba identity associated with group identification.",
+                            "src": "2007, Tan Chee-Beng and Sidney Cheung (excerpt by Tan Chee-Beng). Food and Foodways in Asia: Resource, Tradition and Cooking. Taylor & Francis. ISBN: 9781134164615. p.181"
+                        }
+                    ],
+                    "synonyms": [
+                        "Peranakan"
+                    ]
+                }
+            ]
+        },
+        "related": [
+            "Peranakan",
+            "chap cheng",
+            "chap cheng kia",
+            "nyonya",
+            "orang cina bukan cina"
+        ],
+        "category": [
+            "terms of address",
+            "cultural"
+        ],
+        "usage": "Male equivalent of @{Nyonya}. Often used as a synonym or synecdoche for @{Peranakan}.",
+        "etyNotes": "#{poss} Possibly borrowed specifically from an Indo-Iranian source such as Persian بابا, bâbâ (where it is also used as an honorific term), or some Indian language, though this cannot be said for certain."
     }
 }
