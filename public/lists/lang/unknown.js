@@ -1,0 +1,1 @@
+const langTerms = ["toot"]; module.exports = langTerms;
