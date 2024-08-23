@@ -1,1 +1,1 @@
-const langTerms = ["C","DB","SES","corlick","hawker centre","high SES","horrigible","low SES","pretend","terrigible"]; module.exports = langTerms;
+const langTerms = ["C","DB","SES","corlick","hawker centre","high SES","horrigible","low SES","pretend","terrigible","toto"]; module.exports = langTerms;

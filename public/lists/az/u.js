@@ -1,1 +1,1 @@
-const uList = ["uh uh siol","ular","ulu","uncle","understand","understooded","unglam","until","up lorry","upon","upz"]; module.exports = uList;
+const uList = ["uh uh siol","ular","ulu","uncle","understand","understooded","unglam","until","up lorry","upon","upz","uwu bird"]; module.exports = uList;
