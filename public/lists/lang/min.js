@@ -1,0 +1,1 @@
+const langTerms = ["tiang kha","tiang kha pager"]; module.exports = langTerms;

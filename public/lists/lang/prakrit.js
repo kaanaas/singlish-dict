@@ -1,1 +1,1 @@
-const langTerms = ["suku"]; module.exports = langTerms;
+const langTerms = ["suku","vadai"]; module.exports = langTerms;
