@@ -568,11 +568,15 @@ input:checked + .slider:before {
 }
 
 .ortho-box .lit a {
-    color: var(--purp);
+    color: var(--grey-green);
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
     text-decoration-color: var(--subh-lighter);
+}
+
+.ortho-box .lit sub {
+    color: var(--grey-green)!important;
 }
 
 .ortho-origin {
@@ -706,7 +710,7 @@ input:checked + .slider:before {
     font-size: 0.75em;
     font-family: "Literata";
     font-style: italic;
-    color: var(--grey-green);
+    color: var(--grey-green)!important;
     max-width: 16em;
     word-wrap: break-word;
     text-align: center;

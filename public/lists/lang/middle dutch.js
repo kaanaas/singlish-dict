@@ -1,0 +1,1 @@
+const langTerms = ["void deck"]; module.exports = langTerms;

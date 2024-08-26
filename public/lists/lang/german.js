@@ -1,1 +1,1 @@
-const langTerms = ["-cino","Hokkien noodles","fishball noodles","teh-cino","wa bo kiã"]; module.exports = langTerms;
+const langTerms = ["-cino","Hokkien noodles","fishball noodles","rubberband noodles","teh-cino","wa bo kiã","wantan noodles"]; module.exports = langTerms;
