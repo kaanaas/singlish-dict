@@ -1,1 +1,1 @@
-const xList = ["xiao","xmm"]; module.exports = xList;
+const xList = ["xdd","xiao","xiao di di","xiao mei mei","xmm"]; module.exports = xList;
