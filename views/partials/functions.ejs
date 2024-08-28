@@ -88,10 +88,10 @@
                     s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Dubious or unconfirmed" style="color:rgb(207, 96, 6); margin-right:0.15em">\</i>`);
                 }
                 if(word.toLowerCase() == "poss") {
-                    s = s.replace(matchHash[i], `\<i class="fa-solid fa-flag" title="Possible, but not certain" style="color:orange; margin-right:0.15em"">\</i>`);
+                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Possible, but not certain" style="color:orange; margin-right:0.15em"">\</i>`);
                 }
                 if(word.toLowerCase() == "likely") {
-                    s = s.replace(matchHash[i], `\<i class="fa-solid fa-shuffle" title="Likely, but other possible etymologies exist" style="color:mediumspringgreen; margin-right:0.15em"">\</i>`);
+                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Likely, but other possible etymologies exist" style="color:mediumspringgreen; margin-right:0.15em"">\</i>`);
                 }
                 if(word.toLowerCase() == "red") {
                     s = s.replace(matchHash[i], "");
@@ -128,6 +128,67 @@
         }
         s = formatIdLink(s);
 
+        return s;
+    }
+
+    formatSinglishLink = function (s) {
+        s = formatIdLink(s);
+        
+        // special symbols
+        const regExStrHash = /#\{([0-9a-zA-Z ',:\-]{1,})\}/g;
+        const matchHash = s.match(regExStrHash);
+        if (matchHash) {
+            for (let i = 0; i < matchHash.length; i++){ 
+                let word = matchHash[i].substring(2, matchHash[i].length - 1);
+                // special symbols
+                if(word.toLowerCase() == "warn") {
+                    s = s.replace(matchHash[i], ``).substr(1);
+                }
+                if(word.toLowerCase() == "dubious") {
+                    s = s.replace(matchHash[i], ``).substr(1);
+                }
+                if(word.toLowerCase() == "poss") {
+                    s = s.replace(matchHash[i], ``).substr(1);
+                }
+                if(word.toLowerCase() == "likely") {
+                    s = s.replace(matchHash[i], ``).substr(1);
+                }
+                if(word.toLowerCase() == "red") {
+                    s = s.replace(matchHash[i], ``).substr(1);
+                }
+            }
+        }
+        return s;
+    }
+
+    formatSinglish = function (s) {
+        s = formatId(s);
+
+        // special symbols
+        const regExStrHash = /#\{([0-9a-zA-Z ',:\-]{1,})\}/g;
+        const matchHash = s.match(regExStrHash);
+        if (matchHash) {
+            for (let i = 0; i < matchHash.length; i++){ 
+                let word = matchHash[i].substring(2, matchHash[i].length - 1);
+                // special symbols
+                if(word.toLowerCase() == "warn") {
+                    s = s.replace(matchHash[i], `\<i class=\"fa-solid fa-triangle-exclamation\">\</i>`);
+                }
+                if(word.toLowerCase() == "dubious") {
+                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Dubious or unconfirmed" style="color:rgb(207, 96, 6); margin-right:0.15em">\</i>`);
+                }
+                if(word.toLowerCase() == "poss") {
+                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Possible, but not certain" style="color:orange; margin-right:0.15em"">\</i>`);
+                }
+                if(word.toLowerCase() == "likely") {
+                    s = s.replace(matchHash[i], `\<i class="fa-regular fa-circle-question" title="Likely, but other possible etymologies exist" style="color:mediumspringgreen; margin-right:0.15em"">\</i>`);
+                }
+                if(word.toLowerCase() == "red") {
+                    s = s.replace(matchHash[i], "");
+                    s = "\<p style=\"color:rgb(192, 2, 25);\">" + s + "\</p>";
+                }
+            }
+        }
         return s;
     }
 
