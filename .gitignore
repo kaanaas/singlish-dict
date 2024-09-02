@@ -16,6 +16,7 @@ tokenizing_test.js
 public/css/styles_insert.css
 public/dict/dict_simple.json
 public/dict/dict*copy.json
+public/dict/ndd.json
 public/dict/details*copy.json
 public/dict/details*BU.json
 production.bat
