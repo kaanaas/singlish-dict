@@ -1,1 +1,1 @@
-const langTerms = ["Indian rojak","ayam penyet","bedek","chendol","goblok","jambu","joget","petis udang","rojak","sambal","sambal belacan","satay","sayur lodeh","step jambu","wayang"]; module.exports = langTerms;
+const langTerms = ["Indian rojak","ayam penyet","bedek","chendol","goblok","jambu","joget","petis udang","rojak","sambal","sambal belacan","satay","satay bee hoon","satay celup","satay sauce","satay stick","sayur lodeh","step jambu","wayang"]; module.exports = langTerms;
