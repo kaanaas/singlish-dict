@@ -81,7 +81,7 @@
                                     <p class="romanization"><%= word.origin[i].romanization.toLowerCase() %>:</p>
                                 <% } %>
                                 <p class="ortho-roman"><%= word.origin[i].roman %></p>
-                            </div>
+                            </div> 
                         <% } else if(word.origin[i].simplified != undefined && word.origin[i].simplified != "") { %>
                             <!-- Other alt-script languages -->
                             <% if(word.origin[i].simplified != ""){ %>
@@ -138,7 +138,7 @@
                                     <% } %>
                                 </div>
 
-                                <% if(chineseLangs.some(l => langName.includes(l)) || (langName.includes("japanese") && word.origin[i].traditional && word.origin[i].traditional != "")){ %>
+                                <% if(chineseLangs.some(l => langName.includes(l)) || (langName.toLowerCase().includes("japanese") && word.origin[i].traditional && word.origin[i].traditional != "")){ %>
                                     <!-- Chinese languages -->
                                     <div class="chinese-wrapper-ext">
                                         <div name="chinese-chars">
@@ -212,7 +212,7 @@
                                     
                                     <div class="lang-romz-wrapper">
                                         <p class="ortho-origin-ext small-caps"><%= langName %></p>
-                                        <% if(word.origin[i].etyPath[j] && chineseLangs.some(l => word.origin[i].etyPath[j].toLowerCase().includes(l))){ %>
+                                        <% if(word.origin[i].etyPath[j] && chineseLangs.some(l => word.origin[i].etyPath[j].toLowerCase().includes(l)) || word.origin[i].etyPath[j].toLowerCase().includes("mongolian")){ %>
                                             <% if(word.origin[i].etyScheme == false || word.origin[i].etyScheme == undefined || word.origin[i].etyScheme == undefined || word.origin[i].etyScheme[j] == undefined || word.origin[i].etyScheme[j] == ""){ %>
                                                 <% if(word.origin[i].etyPath[j].includes("chinese")){ %>
                                                     <p class="romanization">(pinyin)</p>
@@ -232,7 +232,7 @@
                                     </div>
 
                                     <% if(word.origin[i].etyPath[j] && (chineseLangs.some(l => word.origin[i].etyPath[j].toLowerCase().includes(l))
-                                        || (langName.includes("japanese") && word.origin[i].etyTrad[j] && word.origin[i].etyTrad[j] != ""))){ %>
+                                        || (langName.toLowerCase().includes("japanese") && word.origin[i].etyTrad[j] && word.origin[i].etyTrad[j] != ""))){ %>
                                     <!-- Chinese languages -->
                                     <div class="chinese-wrapper-ext">
                                         <div name="chinese-chars">
@@ -245,6 +245,27 @@
                                             <p class="ortho-roman"><%= word.origin[i].etyRoman[j].replace(/,/g, ", ") %></p>
                                         </div>
                                     </div>
+
+                                    <% } else if(word.origin[i].etyPath[j] && word.origin[i].etyPath[j].toLowerCase().includes("mongolian") && word.origin[i].etyTrad[j] && word.origin[i].etyTrad[j] != ""){
+                                        %>
+                                        <div class="chinese-wrapper-ext">
+                                            <div name="chinese-chars">
+                                                <h3 class="non-bold non-chinese simp" name="show" title="Click for Traditional"
+                                                    style="display: block; visibility: visible; z-index: 2;" onclick="swapChinese(this)">
+                                                    <%- formatDyno(word.origin[i].etyScript[j]) %>
+                                                </h3>
+                                                <h3 class="non-bold mongolian trad" name="hide" title="Click for Cyrillic"
+                                                    style="display: none; visibility: hidden; z-index: -1;" onclick="swapChinese(this)">
+                                                    <%- formatDyno(word.origin[i].etyTrad[j]) %>
+                                                </h3>
+                                            </div>
+                                            <div class="roman-flex-ext">
+                                                <p class="ortho-roman">
+                                                    <%= word.origin[i].etyRoman[j].replace(/,/g, ", " ) %>
+                                                </p>
+                                            </div>
+                                        </div>
+
                                     <% } else if(word.origin[i].etyScript && word.origin[i].etyScript[j] != undefined && word.origin[i].etyScript[j] != "") { %>
                                         <!-- Other alt-script languages -->
                                         <% if(word.origin[i].etyScript[j] != ""){ %>
