@@ -179,4 +179,5 @@ fs.writeFile(outPathExclPie, JSON.stringify(langsExclPie), "utf8", (err) => {
 });
 
 
+console.log(`Langs generated.\n`);
 

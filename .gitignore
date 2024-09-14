@@ -20,6 +20,7 @@ public/dict/ndd.json
 public/dict/details*copy.json
 public/dict/details*BU.json
 production.bat
+gen_sitemap.js
 
 # fonts
 public/css/fonts/NSimSun.ttf

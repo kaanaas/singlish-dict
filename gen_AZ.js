@@ -2,7 +2,7 @@ const fs = require("fs");
 
 let dict = require("./public/dict/dict.json");
 const A = 'abcdefghijklmnopqrstuvwxyz'.split('');
-console.log(A);
+// console.log(A);
 let numWords = [];
 for (let i = 0; i < A.length; i++) {
     const outPath = `./public/lists/az/${A[i]}.js`;
@@ -36,15 +36,15 @@ for (let i = 0; i < A.length; i++) {
     words.sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
     fs.writeFile(outPath, `const ${A[i]}List = ` + JSON.stringify(words) + `; module.exports = ${A[i]}List;`, "utf8", (err) => {
         if (err) throw err;
-        console.log(`Added -${A[i]}- with entries:\n`, words);
+        // console.log(`Added -${A[i]}- with entries:\n`, words);
     });
 }
 
 // num
 fs.writeFile(`./public/lists/az/0-9.js`, `const numList = ` + JSON.stringify(numWords) + `; module.exports = numList;`, "utf8", (err) => {
     if (err) throw err;
-    console.log(`Added -0-9- with entries:\n`, numWords);
+    // console.log(`Added -0-9- with entries:\n`, numWords);
 });
 
 
-
+console.log(`A-Z generated.\n`);
