@@ -80,6 +80,27 @@ for (let [lang, count] of Object.entries(langs)) {
             (langsExclPie[lang] == null) ? langsExclPie[lang] = 0 : langsExclPie[lang]++;
         }
     }
+    if (lang.toLowerCase() == "min") {
+        for (let i = 0; i < langTerms[lang].length; i++) {
+            if (!langTerms["hokkien"].includes(langTerms[lang][i])) {
+                langTerms["hokkien"].push(langTerms[lang][i]);
+                langs["hokkien"]++;
+            }
+            if (!langTerms["teochew"].includes(langTerms[lang][i])) {
+                langTerms["teochew"].push(langTerms[lang][i]);
+                langs["teochew"]++;
+            }
+            if (!langTerms["hockchew"].includes(langTerms[lang][i])) {
+                langTerms["hockchew"].push(langTerms[lang][i]);
+                langs["hockchew"]++;
+            }
+            if (!langTerms["hainanese"].includes(langTerms[lang][i])) {
+                langTerms["hainanese"].push(langTerms[lang][i]);
+                langs["hainanese"]++;
+            }
+            (langsExclPie[lang] == null) ? langsExclPie[lang] = 0 : langsExclPie[lang]++;
+        }
+    }
     if (lang.toLowerCase().includes("hindi") || lang.toLowerCase().includes("urdu")) {
         for (let i = 0; i < langTerms[lang].length; i++) {
             if (!langTerms["hindustani"].includes(langTerms[lang][i])) {

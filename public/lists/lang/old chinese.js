@@ -1,1 +1,1 @@
-const langTerms = ["cheena","viet bu"]; module.exports = langTerms;
+const langTerms = ["OCBC","cheena","orang Cina bukan Cina","viet bu"]; module.exports = langTerms;
