@@ -1,1 +1,1 @@
-const langTerms = ["WALI","berry","champion","jilo","sargen","toto"]; module.exports = langTerms;
+const langTerms = ["WALI","berry","champion","jilo","ownself check ownself","sargen","toto"]; module.exports = langTerms;

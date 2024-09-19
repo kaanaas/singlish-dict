@@ -165,11 +165,11 @@
                             <p class="src-col ref-in-result-id"><%= i+1 %>.&emsp;</p>
                             <% if(word.references[i].link && word.references[i].link != ""){ %>
                                 <a class="src-col" href=<%= word.references[i].link %>>
-                                    <%= word.references[i].name %>
+                                    <%- word.references[i].name %>
                                 </a>
                             <% } else { %>
                                 <p class="src-col nolinkref">
-                                    <%= word.references[i].name %>
+                                    <%- word.references[i].name %>
                                 </p>
                             <% } %>
                         </div>

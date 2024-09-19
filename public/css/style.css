@@ -1043,6 +1043,7 @@ iframe {
     margin-top: 0;
     margin-bottom: 1em;
     margin-left: 0.5em;
+    word-break: break-all;
 }
 
 .nasal-text {
