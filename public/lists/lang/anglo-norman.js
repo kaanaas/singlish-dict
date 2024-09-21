@@ -1,1 +1,1 @@
-const langTerms = ["D&D","Teochew porridge","occifer","pretend","sai kang warrior","topo general","warrant"]; module.exports = langTerms;
+const langTerms = ["D&D","Teochew porridge","fennelite","occifer","pretend","sai kang warrior","topo general","warrant"]; module.exports = langTerms;

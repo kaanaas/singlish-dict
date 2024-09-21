@@ -19,6 +19,7 @@ public/dict/dict*copy.json
 public/dict/ndd.json
 public/dict/details*copy.json
 public/dict/details*BU.json
+views/partials/result_main_OLD.ejs
 production.bat
 gen_sitemap.js
 

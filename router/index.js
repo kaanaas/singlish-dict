@@ -29,7 +29,7 @@ const rindexS = require("../public/lists/reverse_indexS.json");
 const sources = require("../public/sources/sources.json");
 
 // predefined arrays
-let chineseLangs = ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan", "hinghua", "min", "min dong"];
+let chineseLangs = ["hokkien", "cantonese", "teochew", "mandarin", "hakka", "hainanese", "hockchew", "wu", "chinese", "general chinese", "min nan", "hinghua", "min", "min dong", "japanese", "shanghainese"];
 let diacriticList = ["ã", "ẽ", "ĩ", "õ", "ũ"];
 
 router.get("/", async (req, res) => {

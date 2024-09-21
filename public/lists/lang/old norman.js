@@ -1,0 +1,1 @@
+const langTerms = ["gutter"]; module.exports = langTerms;
