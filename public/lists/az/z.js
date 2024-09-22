@@ -1,1 +1,1 @@
-const zList = ["-z","zai","zao","zao hor","zao kng","zao peng","zao sai","zap","zero point","zha","zha boom","zhng","zhu ji","zhun","zhun bo","zhut","zhut zhut","zi char","zo hee","zo pai lang"]; module.exports = zList;
+const zList = ["-z","zai","zao","zao hor","zao kng","zao peng","zao sai","zap","zero point","zha","zha boom","zhng","zhu ji","zhun","zhun bo","zhut","zhut zhut","zi char","zo bo","zo hee","zo pai lang"]; module.exports = zList;

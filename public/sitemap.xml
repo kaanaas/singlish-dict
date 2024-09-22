@@ -1333,7 +1333,7 @@
 	<loc>https://singlish-dict.vercel.app/?q=chiu+kana+kha%2C+kha+kana+lam+pa</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=cho+bo</loc>
+	<loc>https://singlish-dict.vercel.app/?q=zo+bo</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=chocolate+bar</loc>
@@ -2587,6 +2587,18 @@
 	<loc>https://singlish-dict.vercel.app/?q=kan</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kan+cheong</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kan+cheong+spider</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=knn</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=knnb</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kangkong</loc>
 </url>
 <url>
@@ -3094,13 +3106,31 @@
 	<loc>https://singlish-dict.vercel.app/?q=pan+mee</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pang+chance</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pang+jio</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pang+kang</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pang+kiu</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pang+phui</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pang+pua+liap</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pang+sai</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=panggang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pantang</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pantat</loc>
@@ -4667,5 +4697,8 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pai+chiu</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lan+si</loc>
 </url>
 </urlset>
