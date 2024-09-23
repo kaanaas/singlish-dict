@@ -38,7 +38,24 @@
         <% if(!word.hasOwnProperty("origin") || word["origin"].length == 0 || (word["origin"].hasOwnProperty("etyPath") && word["origin"]["etyPath"].length == 0)){ %>
             <div class="ortho-box">
                 <p><i>Origins unknown</i></p>
+                <% if(word.hasOwnProperty("etyNotes")){ %>
+                    <% if(word.etyNotes.length > 0){ %>
+                        <div class="details ety-notes-div" id="ety-notes-<%= word.word %><%= variant %>">
+                            <h3 class="ety-notes-leader">etymology notes</h3>
+                            <p class="text cn-fallback"><%- formatDyno(word.etyNotes) %></p>
+                        </div>
+                    <% } %>
+
+                    <% if(word.hasOwnProperty("ngram")){ %>
+                        <% if(word.ngram.length > 0){ %>
+                        <div class="ngram" id="ngram-<%= word.word %><%= variant %>">
+                            <iframe name="ngram_chart" allowtransparency="true" src="<%- word.ngram %>" marginwidth="0" marginheight="0" hspace="1" vspace="1" frameborder="1" scrolling="yes"></iframe>
+                        </div>
+                        <% } %>
+                    <% } %>
+                <% } %>
             </div>
+            
         <% } else { %>
         <div class="ety-container">
             <!-- main container -->
