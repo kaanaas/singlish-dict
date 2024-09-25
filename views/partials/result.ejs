@@ -23,9 +23,9 @@
             <p class="alts-leader" id="alts-leader">also can:</p>
             <% let altsString = ""; %>
             <% for(let a = 0; a < alts.length; a++){ %>
-                <% altsString += `${alts[a]}, ` ; %>
+                <% altsString += `${alts[a]} `; %> 
             <% } %>
-            <% altsString = altsString.substring(0, altsString.length - 2); %>
+            <% altsString = altsString.substring(0, altsString.length - 1); %>
             <p class="alts-list">
                 <%= altsString %>
             </p>

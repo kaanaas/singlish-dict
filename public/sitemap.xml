@@ -217,10 +217,16 @@
 	<loc>https://singlish-dict.vercel.app/?q=aimai</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=air+abu</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=air-level</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=aircon</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=ais</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=aiseh</loc>
@@ -1369,6 +1375,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=chuan</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=chui</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=chut</loc>
 </url>
 <url>
@@ -1873,6 +1882,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=gan+mei</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=gansui</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=gao+dim</loc>
 </url>
 <url>
@@ -1997,6 +2009,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=got+standard</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=gotong+royong</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=grago</loc>
@@ -2611,19 +2626,13 @@
 	<loc>https://singlish-dict.vercel.app/?q=kan+ni+na+bu+chao+chee+bai</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kan+ni+na+chao+chee+bai</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kang+he+kia</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=khang+tao</loc>
-</url>
-<url>
 	<loc>https://singlish-dict.vercel.app/?q=kangkong</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=gansui</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=air+abu</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kap</loc>
@@ -2695,6 +2704,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=kham+gong</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=khang+tao</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=khiam+pah</loc>
 </url>
 <url>
@@ -2744,6 +2756,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=knnbccb</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=knnccb</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kns</loc>
@@ -2896,6 +2911,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=makan+ular</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=makcik</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=malu</loc>
 </url>
 <url>
@@ -3028,6 +3046,12 @@
 	<loc>https://singlish-dict.vercel.app/?q=on</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=one</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=one+come%2C+all+come</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=one+kind</loc>
 </url>
 <url>
@@ -3118,10 +3142,16 @@
 	<loc>https://singlish-dict.vercel.app/?q=oredi</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=orh</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=orh+ee+orh</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=orh+hor</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=otak-otak</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=otot</loc>
@@ -3149,6 +3179,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=ownself+check+ownself</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pah+bang</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pah+jiao</loc>
@@ -3181,7 +3214,13 @@
 	<loc>https://singlish-dict.vercel.app/?q=pak</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pak+chiu+cheng</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pak+thor</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pakcik</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=paktology</loc>
@@ -3241,13 +3280,52 @@
 	<loc>https://singlish-dict.vercel.app/?q=pattern</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pattern+more+than+badminton</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pattern+zuay+kuay+badminton</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pau</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pau+chiah</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pau+ka+liao</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pau+sua+pau+hai</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pcc</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pe</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pecah</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pecah+lobang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pei+daan</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pei+daan+chok</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pek+chek</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=peng</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pengsan</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=people+mountain+people+sea</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=petis+udang</loc>
@@ -3935,6 +4013,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=suah</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=suan</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=suan+pan+zi</loc>
