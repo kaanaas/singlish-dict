@@ -1,4 +1,5 @@
-let cats = ["cuisine",
+let cats = [
+    "cuisine",
     "sayings",
     "ns",
     "vulgar",
@@ -10,7 +11,8 @@ let cats = ["cuisine",
     "drinks",
     "insults",
     "rhyming slang",
-    "cultural"
+    "cultural",
+    "particles"
 ];
 
 cats.sort();
