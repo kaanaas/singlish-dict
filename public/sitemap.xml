@@ -2680,7 +2680,31 @@
 	<loc>https://singlish-dict.vercel.app/?q=kau+kau</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=gao+gei</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=gao+gei+choi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=gao+gei+zi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kau+lat</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kau+wei</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kaya</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kaya+toast</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kaypoh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kaypoh+chee</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kedondong</loc>
@@ -2738,6 +2762,15 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=khang+tao</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khao+peh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kp</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kpkb</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=khiam+pah</loc>
@@ -3271,6 +3304,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=pak+thor</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pakat</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pakcik</loc>
 </url>
 <url>
@@ -3307,7 +3343,13 @@
 	<loc>https://singlish-dict.vercel.app/?q=pang+sai</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pang+seh</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=panggang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pang+sak</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pantang</loc>
@@ -3350,6 +3392,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pau+sua+pau+hai</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=pau+toh</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pcc</loc>
@@ -4924,6 +4969,6 @@
 	<loc>https://singlish-dict.vercel.app/?q=pat+pat</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=ng+ng</loc>
+	<loc>https://singlish-dict.vercel.app/?q=keh</loc>
 </url>
 </urlset>
