@@ -12,7 +12,8 @@ let cats = [
     "insults",
     "rhyming slang",
     "cultural",
-    "particles"
+    "particles",
+    "childish"
 ];
 
 cats.sort();
