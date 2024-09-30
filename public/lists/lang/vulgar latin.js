@@ -1,1 +1,1 @@
-const langTerms = ["gabra like zebra","jibra"]; module.exports = langTerms;
+const langTerms = ["gabra like zebra","jibra","powderful"]; module.exports = langTerms;
