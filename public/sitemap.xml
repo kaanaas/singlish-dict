@@ -799,10 +799,16 @@
 	<loc>https://singlish-dict.vercel.app/?q=bohsia</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=bok+chui</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=boleh</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=bom+bom</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=bomoh</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=boomz</loc>
@@ -2869,22 +2875,46 @@
 	<loc>https://singlish-dict.vercel.app/?q=khiao+kha+yo+lam+pa</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=khoa</loc>
+	<loc>https://singlish-dict.vercel.app/?q=khioh+tioh</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=khoa+si+mi</loc>
+	<loc>https://singlish-dict.vercel.app/?q=khong+bak</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=khoa+si+mi+khoa</loc>
+	<loc>https://singlish-dict.vercel.app/?q=khong+bak+pau</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=khoa+si+mi+lan+jiao</loc>
+	<loc>https://singlish-dict.vercel.app/?q=khong+kha+khiao</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khua</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khua+lang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khua+midnight</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khua+si+mi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khua+si+mi+khua</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khua+si+mi+lan+jiao</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=khun</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kia</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kia+kia</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kia+lai+kia+khir</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kia+stead</loc>
@@ -2903,6 +2933,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=king+kong</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=klkk</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=knn</loc>
@@ -3400,7 +3433,7 @@
 	<loc>https://singlish-dict.vercel.app/?q=pai+kha+pai+chiu</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=pai+khoa</loc>
+	<loc>https://singlish-dict.vercel.app/?q=pai+khua</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pai+kia</loc>
@@ -3538,6 +3571,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=pau+toh</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pcb</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pcc</loc>
 </url>
 <url>
@@ -3595,6 +3631,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=photostat</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=phua+chee+bai</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pi+sai</loc>
 </url>
 <url>
@@ -3622,6 +3661,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=pinjam</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=pink+ic</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=pisang</loc>
 </url>
 <url>
@@ -3635,6 +3677,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=plaster+prata</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=play+a+fool</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=play+cheat</loc>
@@ -3653,9 +3698,6 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pok+chui</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=bok+chui</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=policemen+wear+shorts</loc>
@@ -3692,6 +3734,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=prata+bomb</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=prc</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=pregnant+duck</loc>
@@ -4675,6 +4720,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=ter+kha</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=terbaboom</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=terbalik</loc>
 </url>
 <url>
@@ -4742,6 +4790,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=ti+ko+pek</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=tiang</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=tiang+kha</loc>
@@ -4853,6 +4904,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=towkay</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=tu</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=tu+lan</loc>
@@ -5231,20 +5285,5 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=zo+pai+lang</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=bomoh</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=tu</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=terbaboom</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=tiang</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=play+a+fool</loc>
 </url>
 </urlset>
