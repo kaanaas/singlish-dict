@@ -1,1 +1,1 @@
-const langTerms = ["-cino","C","change parade","coffee shop","falali","gabra like zebra","jibra","jilo","steady steady eat vermicelli","teh-cino","toto","water parade"]; module.exports = langTerms;
+const langTerms = ["-cino","C","change parade","coffee shop","falali","gabra like zebra","jibra","jilo","open coffee shop","open kopitiam","steady steady eat vermicelli","teh-cino","toto","water parade"]; module.exports = langTerms;
