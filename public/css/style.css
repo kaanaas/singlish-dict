@@ -933,6 +933,31 @@ iframe {
     padding-top: 0;
 }
 
+.sss {
+    display: flex;
+    align-items: left;
+    gap: 1em;
+    margin-bottom: 1em;
+}
+
+.sss-head {
+    margin: 0;
+    color: var(--subh-darker);
+    font-style: italic;
+}
+
+.sss-text {
+    margin: 0;
+    font-style: normal!important;
+    font-weight: 500;
+}
+
+.sss-bkt {
+    margin: 0;
+    font-weight: bold;
+    color: var(--subh-lighter);
+}
+
 .defs {
     margin: 0;
 }

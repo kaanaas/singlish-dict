@@ -3,6 +3,8 @@
 
 <!-- details -->
 <div class="result" id="details" style=<%= showStyle %>>
+
+
     <!-- definitions -->
     <div class="defs">
         <h3 class="defs-leader" name="definitions-leader">definitions</h3>
@@ -67,7 +69,7 @@
 
     <!-- usage notes -->
     <% let nasalMsg = false; %>
-    <% if(word.word && diacriticList.some(l=> word.word.toLowerCase().includes(l))){ nasalMsg = true; } else { nasalMsg = false; } %>
+    <% if(word.sss && diacriticList.some(l=> word.sss.toLowerCase().includes(l))){ nasalMsg = true; } else { nasalMsg = false; } %>
     <% if((word.hasOwnProperty("usage") && word.usage.length > 0) || nasalMsg){ %>
     <div class="details">
         <h3>usage notes</h3>

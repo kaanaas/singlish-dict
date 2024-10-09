@@ -1,8 +1,15 @@
 <div class="result" id="result" style=<%= showStyle %>>
     <div class="word">
-        <% if(word && word.word && diacriticList.some(l => word.word.toLowerCase().includes(l))){ %>
+        <% if(word && word.sss && diacriticList.some(l=> word.sss.toLowerCase().includes(l))){ %>
             <p class="note">* The diacritic ◌̃ represents a nasalized vowel.</p>
         <% } %>
+        <% if(word.hasOwnProperty("sss") && word["sss"].length > 0){ %>
+            <div class="sss" title="Standard Singlish Spelling">
+                <h4 class="sss-head"><span class="sss-bkt">[ </span>SSS:</h4>
+                <h4 class="sss-text"><%- word.sss %><span class="sss-bkt"> ]</span></h4>
+            </div>
+        <% } %>
+
         <div class="word-box">
             <h2><%= word.word %>
                 <span class="variant-tag" id="<%= word.word %><%= variant %>"><%= variant %></span>

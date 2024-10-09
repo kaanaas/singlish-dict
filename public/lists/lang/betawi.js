@@ -1,0 +1,1 @@
+const langTerms = ["sell grapes"]; module.exports = langTerms;
