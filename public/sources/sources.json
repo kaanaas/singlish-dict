@@ -9,6 +9,11 @@
         "link": "http://en.wiktionary.org",
         "name": "Wiktionary-en"
     },
+    "newspapersg": {
+        "type": "web",
+        "link": "https://eresources.nlb.gov.sg/newspapers",
+        "name": "NLB - NewspaperSG"
+    },
     "cantodict": {
         "type": "web",
         "link": "https://www.cantonese.sheik.co.uk/dictionary/",
