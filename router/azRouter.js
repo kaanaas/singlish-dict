@@ -13,7 +13,7 @@ app.set("views", path.join(__dirname, "/views"));
 
 // Import langs lists
 router.get(`/letter/:id?`, async (req, res) => {
-    let id = req.params.id;
+    let id = req.params.id.toLowerCase();
     if (!id || id == undefined || id == "") {
         id = '0-9';
     }
