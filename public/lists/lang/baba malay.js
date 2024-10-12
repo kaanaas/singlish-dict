@@ -1,1 +1,1 @@
-const langTerms = ["Baba","Baba Nyonya","Nyonya","bakwan kepiting","bibik","bo pakeh","cherki","hati babi","itek sio","itek tim","joget","kueh pie tee","sorry no pakeh","tauyu bak"]; module.exports = langTerms;
+const langTerms = ["Baba","Baba Nyonya","Nyonya","bakwan kepiting","bibik","bo pakeh","cherki","hati babi","itek sio","itek tim","joget","kok","kueh pie tee","rempah udang","sorry no pakeh","tauyu bak"]; module.exports = langTerms;
