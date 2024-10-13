@@ -1,0 +1,1 @@
+const langTerms = ["putu bambu"]; module.exports = langTerms;

@@ -172,7 +172,7 @@
                                     
                                     <div class="lang-romz-wrapper">
                                         <p class="ortho-origin-ext small-caps"><%= langName %></p>
-                                        <% if(langName && chineseLangs.some(l => langName.includes(l)) || langName.includes("mongolian")){ %>
+                                        <% if(langName && chineseLangs.some(l => langName.includes(l)) || langName.includes("mongolian") || word.origin[i].etyScript && word.origin[i].etyScript[j] && word.origin[i].etyScript[j] != ""){ %>
                                             <% if(word.origin[i].etyScheme == false || !word.origin[i].hasOwnProperty("etyScheme") || word.origin[i].etyScheme[j] == undefined || word.origin[i].etyScheme[j] == ""){ %>
                                                 <% if(langName.includes("chinese")){ %>
                                                     <p class="romanization">(pinyin)</p>

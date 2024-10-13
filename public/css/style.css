@@ -5,8 +5,10 @@
     --bg-shadow: #40131355;
     --offwhite: #f5f5fd;
     --black: #2c0912;
+    --quote-grey: #4a505c;
     --grey: #8a767d;
-    --purp: #6b3488;
+    --purp: #51266d;
+    --quote-link: #4b3857;
     --subh: #b99725;
     --subh-lighter: #d8be8a;
     --subh-lightest: #f0daaf;
@@ -14,6 +16,7 @@
     --grey-green: #6d946d;
     --grey-red: #b46d8d;
     --grey-red-pale: #d3c2c9;
+    --grey-red-palest: #f2f0f6;
 }
 
 @font-face {
@@ -1044,6 +1047,9 @@ iframe {
     font-family: "SimSunCut", "Literata", inherit;
     font-style: italic;
     font-size: 1em;
+    color: var(--quote-grey);
+    background-color: var(--grey-red-palest);
+
     border-left: 5px solid var(--bg);
     padding-left: 1em;
     margin-top: .4em;
@@ -1053,6 +1059,9 @@ iframe {
 
 .word-example a i {
     font-family: "SimSunCut", "Literata";
+    color: var(--quote-link)!important;
+    text-decoration: underline;
+    text-decoration-color: var(--subh-lighter)!important;
 }
 
 .word-example b {
