@@ -499,6 +499,12 @@
 	<loc>https://singlish-dict.vercel.app/?q=bak+kwa</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=bak+tong+gou</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=wong+tong+gou</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=bakero</loc>
 </url>
 <url>
@@ -2470,6 +2476,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=ice+kacang</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=icebox+bergerak</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=ict</loc>
 </url>
 <url>
@@ -2549,6 +2558,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=jelak</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=jeling</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=jew</loc>
@@ -2648,6 +2660,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kaki</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kaki+bangku</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kaki+lima</loc>
@@ -2974,6 +2989,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=kicap</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kicap+manis</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kilat</loc>
 </url>
 <url>
@@ -3025,10 +3043,49 @@
 	<loc>https://singlish-dict.vercel.app/?q=koi+mooncake</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kok</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kolaveri</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kolo+mee</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=konek</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kong</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kong+jiao+wei</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=jiao+wei</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kong+lan+jiao+wei</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kong+si+mi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kong+si+mi+lan+jiao</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kong+wu+kong+bo</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kope</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kopi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kopi-o+licence</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kotek</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kp</loc>
@@ -3089,6 +3146,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=lao+peh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+ya</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=lap+sap</loc>
@@ -3220,9 +3280,6 @@
 	<loc>https://singlish-dict.vercel.app/?q=member</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=merah</loc>
-</url>
-<url>
 	<loc>https://singlish-dict.vercel.app/?q=minah</loc>
 </url>
 <url>
@@ -3268,7 +3325,49 @@
 	<loc>https://singlish-dict.vercel.app/?q=nah</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=nam+nam+ho</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nangka</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=nasi+briyani</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+campur</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+goreng</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+goreng+istimewa</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+goreng+pattaya</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+kuning</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+kunyit</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+lemak</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+minyak</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+padang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+pandan</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nasi+paprik</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=nb</loc>
@@ -3284,6 +3383,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=new+bird</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=nffffn</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=ng+ng</loc>
@@ -3853,6 +3955,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=potong+stim</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=powder+bath</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=powderful</loc>
 </url>
 <url>
@@ -3863,6 +3968,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=prata+goreng</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=prawn+mee</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=prc</loc>
@@ -3919,10 +4027,16 @@
 	<loc>https://singlish-dict.vercel.app/?q=put+aeroplane</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=putu</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=putu+mayam</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=putu+bambu</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=putu+piring</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=qing+ming</loc>
@@ -3943,10 +4057,25 @@
 	<loc>https://singlish-dict.vercel.app/?q=rabz-kebabz</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=rambai</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=rambutan</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=ramly+burger</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=range</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=recce</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=red+bean</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=red+bean+soup</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=referee+kayu</loc>
@@ -3979,7 +4108,13 @@
 	<loc>https://singlish-dict.vercel.app/?q=reservist</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=revert</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=rewang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=rice+bowl</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=rmj</loc>
@@ -5489,5 +5624,11 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=zo+pai+lang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kin</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kuchi</loc>
 </url>
 </urlset>
