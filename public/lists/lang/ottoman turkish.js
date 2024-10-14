@@ -1,1 +1,1 @@
-const langTerms = ["coffee shop","kopi","kopi cham","kopi kakis","kopi kia","kopi lui","kopi money","kopi susu","kopi-O licence","kopitiam","open coffee shop","open kopitiam"]; module.exports = langTerms;
+const langTerms = ["coffee shop","kopi","kopi cham","kopi kakis","kopi kia","kopi lui","kopi money","kopi susu","kopi-O licence","kopi-cino","kopitiam","open coffee shop","open kopitiam"]; module.exports = langTerms;

@@ -49,6 +49,10 @@
         url("https://db.onlinewebfonts.com/t/417a85ff314928adc67e51bb1b458f04.svg#SimSun-ExtB")format("svg");
 } */
 
+::selection {
+    background: var(--subh-lighter);
+}
+
 html {
     background-color: var(--bg);
 }
