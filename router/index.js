@@ -113,7 +113,7 @@ router.get("/", async (req, res) => {
             if (wotd == false || typeof (wotd) != "string") {
                 res.render("./index_blank");
             } else {
-                let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.98;     // around 2% have multiple hits
+                let progress = Object.keys(details).length / Object.keys(dict).length * 100 * 0.972;     // around 2-3% have multiple hits
                 res.render("./index_landing", {
                     wotd: wotd,
                     progress: progress

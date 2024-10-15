@@ -3121,7 +3121,13 @@
 	<loc>https://singlish-dict.vercel.app/?q=korban</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kosong</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kotek</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=koyak</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kp</loc>
@@ -3139,7 +3145,37 @@
 	<loc>https://singlish-dict.vercel.app/?q=ku+ku+jiao</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kua+chi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kuah</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kuchi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kucing+kurap</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+ambon</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=bika+ambon</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka+ambon</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+bahulu</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka+ubi+kayu</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kueh+pie+tee</loc>
@@ -4981,7 +5017,7 @@
 	<loc>https://singlish-dict.vercel.app/?q=tankie</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=tat+kiu</loc>
+	<loc>https://singlish-dict.vercel.app/?q=that+kiu</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=tau</loc>
@@ -5672,5 +5708,17 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=zo+pai+lang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=egg</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=cheese</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=cheese+prata</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+dodol</loc>
 </url>
 </urlset>

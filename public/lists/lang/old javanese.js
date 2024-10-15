@@ -1,1 +1,1 @@
-const langTerms = ["bandung","bohjan","jambu","kaya","kaya toast","santan","step jambu","yaya"]; module.exports = langTerms;
+const langTerms = ["bandung","bohjan","jambu","kaya","kaya toast","kueh dodol","santan","step jambu","yaya"]; module.exports = langTerms;

@@ -1,1 +1,1 @@
-const langTerms = ["nasi padang","perkedil","soto ayam","sup"]; module.exports = langTerms;
+const langTerms = ["bika ambon","kueh ambon","kueh bingka ambon","nasi padang","perkedil","soto ayam","sup"]; module.exports = langTerms;
