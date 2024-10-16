@@ -1,1 +1,1 @@
-const cat = ["bear bear","bird bird","friend","gai gai","gao gao","ku ku bird","ku ku jiao","ng ng","or or","orbi","orbi good","orbi quek","orh","orh hor","pat pat","pong pong","poot poot","shee shee","yucks","zhut zhut"]; module.exports = cat;
+const cat = ["bear bear","bird bird","friend","gai gai","gao gao","ku ku bird","ku ku jiao","neh nanny boo boo","neh neh","neh neh pok","ng ng","or or","orbi","orbi good","orbi quek","orh","orh hor","pat pat","pong pong","poot poot","shee shee","yucks","zhut zhut"]; module.exports = cat;
