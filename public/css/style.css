@@ -26,8 +26,9 @@
 
 @font-face {
     font-family: "Prata";
-    src: url("./fonts/Prata.ttf")format("ttf"),
+    src: url("./fonts/Prata-Regular.woff2")format("woff2"),
 }
+
 
 /* @font-face {
     font-family: "SimSun";
@@ -74,7 +75,7 @@ body {
 
 p,
 h1,
-a {
+a, i {
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -704,7 +705,7 @@ input:checked + .slider:before {
     text-align: center;
     align-self: center;
     font-size: 1.25em;
-    font-family: "Crimson Text";
+    font-family: "SimSunCut", "Crimson Text"!important;
     color: var(--bg-darken);
 }
 
