@@ -1,1 +1,1 @@
-const langTerms = ["achar","assam laksa","baju","briyani","dum briyani","nasi briyani","pasar","pasar malam","putu piring","shiok"]; module.exports = langTerms;
+const langTerms = ["achar","assam laksa","baju","briyani","dum briyani","laksa","laksa leaf","nasi briyani","pasar","pasar malam","putu piring","shiok"]; module.exports = langTerms;

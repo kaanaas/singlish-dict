@@ -649,6 +649,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=big+size</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=bika+ambon</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=bin+chao+chao</loc>
 </url>
 <url>
@@ -1129,6 +1132,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=chao+ta</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=chap</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=chap+cheng</loc>
 </url>
 <url>
@@ -1199,6 +1205,12 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=cheena</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=cheese</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=cheese+prata</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=chek+ak</loc>
@@ -1660,6 +1672,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=doll+biscuit</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=don't+come+don't+come+one+come+all+come</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=don't+have</loc>
 </url>
 <url>
@@ -1733,6 +1748,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=eeyer</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=egg</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=egg+prata</loc>
@@ -1817,6 +1835,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=feedback</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=feng</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=fennelite</loc>
@@ -3163,25 +3184,25 @@
 	<loc>https://singlish-dict.vercel.app/?q=kueh+ambon</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=bika+ambon</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka+ambon</loc>
-</url>
-<url>
 	<loc>https://singlish-dict.vercel.app/?q=kueh+bahulu</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kueh+bangkit</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka+ubi+kayu</loc>
-</url>
-<url>
 	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka+ambon</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+bingka+ubi+kayu</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=kueh+dadar</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=kueh+dodol</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=kueh+jongkong</loc>
@@ -3241,6 +3262,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=kway+teow</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=kway+teow+goreng</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=la+la</loc>
 </url>
 <url>
@@ -3248,6 +3272,21 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=la+sai</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lagi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lah</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lai</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=laksa</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=laksa+leaf</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=lam+pa</loc>
@@ -3262,13 +3301,34 @@
 	<loc>https://singlish-dict.vercel.app/?q=lan+jiao</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=lan+jiao+bin</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lan+lan+suck+thumb</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=llst</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=lan+si</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lan+lan</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=langgar</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=langsat</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=lao+bu</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+hia</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=lao+jiao</loc>
@@ -3280,7 +3340,13 @@
 	<loc>https://singlish-dict.vercel.app/?q=lao+lan</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+pee+huih</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=lao+peh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+sai</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=lao+ya</loc>
@@ -3289,28 +3355,109 @@
 	<loc>https://singlish-dict.vercel.app/?q=lap+sap</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=last+time</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=last+time+policemen+wear+shorts</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=last+warning</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=later</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=lau+khui</loc>
+	<loc>https://singlish-dict.vercel.app/?q=lao+hong</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+khui</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+peng</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+pok</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+pok+car</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lao+pok+chia</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=laugh+die+me</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=layan</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=le</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=leceh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=leh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lelong</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lemak</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lemang</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lembek</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=lend</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=leng+lui</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=leng+zai</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=lengkuas</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=lepak</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=less</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=level</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=liah+bo+kiu</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=liam+keng</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=liao</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=liddat</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lightbulb</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lim</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lim+kopi</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=lim+teh</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=limau</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=limbu</loc>
@@ -3370,6 +3517,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=maggi+goreng</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=maggi+mee</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=mai</loc>
 </url>
 <url>
@@ -3425,6 +3575,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=member</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=meow+meow</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=minah</loc>
@@ -3544,6 +3697,9 @@
 	<loc>https://singlish-dict.vercel.app/?q=nffffn</loc>
 </url>
 <url>
+	<loc>https://singlish-dict.vercel.app/?q=ng</loc>
+</url>
+<url>
 	<loc>https://singlish-dict.vercel.app/?q=ng+ng</loc>
 </url>
 <url>
@@ -3562,16 +3718,10 @@
 	<loc>https://singlish-dict.vercel.app/?q=nia</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=ng</loc>
-</url>
-<url>
 	<loc>https://singlish-dict.vercel.app/?q=nng+kha+peng</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=no+come+no+come+one+come+all+come</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=don't+come+don't+come+one+come+all+come</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=no+fish%2C+prawns+also+can</loc>
@@ -3595,10 +3745,10 @@
 	<loc>https://singlish-dict.vercel.app/?q=nua</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=nyonya</loc>
+	<loc>https://singlish-dict.vercel.app/?q=nya</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=nya</loc>
+	<loc>https://singlish-dict.vercel.app/?q=nyonya</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=o</loc>
@@ -5140,9 +5290,6 @@
 	<loc>https://singlish-dict.vercel.app/?q=tankie</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=that+kiu</loc>
-</url>
-<url>
 	<loc>https://singlish-dict.vercel.app/?q=tau</loc>
 </url>
 <url>
@@ -5291,6 +5438,9 @@
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=thank+yout</loc>
+</url>
+<url>
+	<loc>https://singlish-dict.vercel.app/?q=that+kiu</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=that's+why</loc>
@@ -5719,7 +5869,7 @@
 	<loc>https://singlish-dict.vercel.app/?q=yam+seng</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=yandao</loc>
+	<loc>https://singlish-dict.vercel.app/?q=yan+tau</loc>
 </url>
 <url>
 	<loc>https://singlish-dict.vercel.app/?q=yao+siu</loc>
@@ -5833,27 +5983,12 @@
 	<loc>https://singlish-dict.vercel.app/?q=zo+pai+lang</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=egg</loc>
+	<loc>https://singlish-dict.vercel.app/?q=kepala+otak+kau</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=cheese</loc>
+	<loc>https://singlish-dict.vercel.app/?q=or+cheh</loc>
 </url>
 <url>
-	<loc>https://singlish-dict.vercel.app/?q=cheese+prata</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=kueh+dodol</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=meow+meow</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=feng</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=kway+teow+goreng</loc>
-</url>
-<url>
-	<loc>https://singlish-dict.vercel.app/?q=maggi+mee</loc>
+	<loc>https://singlish-dict.vercel.app/?q=consperm</loc>
 </url>
 </urlset>
