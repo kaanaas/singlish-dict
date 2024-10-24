@@ -1,1 +1,1 @@
-const langTerms = ["C","DB","GEPper","ORD","OTOT","RMJ","SES","corlick","dialect","hawker centre","helication","high SES","horrigible","jangan tension","low SES","own time, own target","perkedil","pretend","terrigible","toto"]; module.exports = langTerms;
+const langTerms = ["C","DB","GEPper","NRIC","ORD","OTOT","RMJ","SES","corlick","dialect","hawker centre","helication","high SES","horrigible","jangan tension","low SES","own time, own target","perkedil","pretend","terrigible","toto"]; module.exports = langTerms;

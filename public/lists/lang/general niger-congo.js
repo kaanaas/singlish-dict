@@ -1,0 +1,1 @@
+const langTerms = ["Pepsi Cola 1, 2, 3"]; module.exports = langTerms;

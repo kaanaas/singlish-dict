@@ -1,1 +1,1 @@
-const cat = ["ah","already","anot","ba","bo","can","eh","ha","hor","isit","know","lah","le","leh","liao","liao","lo","ng","ni","nia","one","only","oredi","orh","pe","seh","si","si m si","sia","sial","siol","understand","what","wor"]; module.exports = cat;
+const cat = ["ah","already","anot","ba","bo","can","de","eh","ha","hor","isit","know","lah","le","leh","liao","liao","lo","ng","ni","nia","one","only","oredi","orh","pe","seh","si","si m si","sia","sial","siol","understand","what","wor"]; module.exports = cat;

@@ -1,1 +1,1 @@
-const langTerms = ["auntie","ni","only","saman auntie","saman uncle","ti","uncle"]; module.exports = langTerms;
+const langTerms = ["auntie","ni","no action, talk only","only","saman auntie","saman uncle","ti","uncle"]; module.exports = langTerms;

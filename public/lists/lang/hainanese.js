@@ -1,1 +1,1 @@
-const langTerms = ["art buah","bo tioh","chicken rice","chicken rice ball","ka ki nang","kaki","kopi kakis","kui png","nam nam ho","ta","tiang","tiang kha","tiang kha pager"]; module.exports = langTerms;
+const langTerms = ["art buah","bo tioh","chicken rice","chicken rice ball","ka ki nang","kaki","kopi kakis","kui png","long zong","nam nam ho","ta","tiang","tiang kha","tiang kha pager"]; module.exports = langTerms;
